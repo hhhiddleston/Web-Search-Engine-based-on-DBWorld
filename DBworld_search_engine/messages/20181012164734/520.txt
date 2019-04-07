@@ -1,0 +1,14 @@
+--------------------------------
+ACM SIGMOD Blog
+   Blog editor: Georgia Koutrika
+--------------------------------
+
+The ACM SIGMOD Second Workshop on Data Management for End-to-End Machine Learning (DEEM) was successfully held last June in Houston, TX. The goal of DEEM is to bring together researchers and practitioners at the intersection of applied machine learning (ML) and data management/systems research to discuss data management/systems issues in ML systems and applications. Arun Kuman, co-organizer of the workshop, gives an overview of DEEM'18 and a lighthearted summary of the exciting and informative panel discussion on the topic of "ML/AI Systems and Applications: Is the SIGMOD/VLDB Community Losing Relevance?".
+
+
+Read the post, share and comment here: http://wp.sigmod.org/.
+
+
+Arun Kumar is an Assistant Professor in the Department of Computer Science and Engineering at the University of California, San Diego. His primary research interests are in data management and data systems for machine learning/artificial intelligence-based data analytics. Systems and ideas based on his research have been released as part of the MADlib open-source library, shipped as part of products from EMC, Oracle, Cloudera, and IBM, and used internally by Facebook, LogicBlox, Microsoft, and other companies. He is a recipient of the ACM SIGMOD 2014 Best Paper Award, the 2016 Graduate Student Research Award for the best dissertation research in UW-Madison CS, and a 2016 Google Faculty Research Award.
+
+  

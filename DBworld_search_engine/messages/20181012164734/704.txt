@@ -1,0 +1,16 @@
+======================================================
+10th EAI International Conference on Digital Forensics & Cyber Crime
+September 10-12, 2018 - http://d-forensics.org/
+======================================================
+
+* ICDF2C 2018 TO BE HELD IN NEW ORLEANS, LOUISIANA: We are pleased to announce that ICDF2C 2018 will take place at Chateau LeMoyne – French Quarter Hotel in New Orleans, just steps away from Bourbon Street, Jackson Square, and world-class dining and music venues.
+
+* CONFERENCE REGISTRATION IS OPEN: Go to http://d-forensics.org/registration/ to register for the conference. Early bird discount will end on August 10.
+
+* FEATURED KEYNOTES: ICDF2C is pleased to announce the following keynote speakers:
+   - Dr. Deborah Frincke leads the Research Directorate of the National Security Agency/Central Security Service (NSA/CSS)—the largest “in-house” research organization in the U.S. Intelligence Community.
+   - Dr. Golden G. Richard III is a Professor of Computer Science and Engineering at the Louisiana State University (LSU) and is an Associate Director for Cybersecurity, Center for Computation and Technology (CCT).
+
+* FULL PROGRAM: The full conference program includes thirteen accepted technical peer-reviewed papers covering topics on memory forensics, android, event reconstruction, ransomware investigation, and intrusion detection system. For the complete list of papers, http://d-forensics.org/accepted-papers/  
+
+The ICDF2C Organizing Committee looks forward to meeting you at ICDF2C 2018.

@@ -1,0 +1,67 @@
+Call for papers
+************************************************* 
+International Conference on Recent Advances in Intelligent and Connected Mobility - RAICoM'2018 
+Coimbra - Portugal, November 22-24, 2018
+http://raicom-2018.smartgentpt.com/  
+Submission deadline: September 15th, 2018 (Last Extension)
+In Conjunction with the International Conference on Next Generation Logistics (NeLog'2018)
+***************************************************************************
+Dear Colleagues,
+
+We are pleased to invite submissions of original papers to the International Conference on Recent Advances in Intelligent and Connected Mobility (RAICoM'2018) which is going to take place in Coimbra, Portugal, November 22-24, 2018. 
+The conference will be a unique opportunity for researchers, experts, and practitioners from the academy, the government, and the industry to present, share, and promote their breakthroughs as well as benefit from fruitful exchanges on advances and applications in a variety of topics related to connected and intelligent mobility. These topics will mainly focus on Emergent Vehicle Technologies, Intelligent Transport Systems, Wireless Sensor Communications, Big Data, IoT. Machine Learning, Blockchain, and Digital Transformation. We are aiming to investigate the landscape of the future of transportation systems and services, towards more optimized, flexible, smart, sustainable, and personalized resource allocation and use. We are ultimately investigating the vision of a self-learning and self-organized transportation ecosystem. 
+ 
+==============
+RELATED TOPICS
+- Vehicular Wireless Medium Access Control
+- Routings & Protocols for Connected Vehicles
+- V2V, V2I and I2V Road Safety applications
+- Intelligent Transportation Systems
+- Multi-Agent Systems for connected mobility
+- Machine Learning for connected mobility
+- Collective and connected Intelligence
+- Argumentation, Collaboration, and Team Formation for Intelligent Connected Mobility
+- Next Generation Intelligent Connected Mobility
+- Weather related Safety solutions
+- Driver behavior countermeasures in connected vehicles
+- Data Trustworthiness in Connected Vehicles
+- Security & Privacy Issues in Vehicle Communication Environment
+- Safety & non-safety applications of Connected Vehicles
+- Blockchain technology in connected mobility
+- Automotive Electronics and Automatic Control in Vehicular Networks
+- Traffic & Transportation Systems in Vehicular Networks
+- Telematics and Mobile Internet
+- Vehicular Cloud Computing
+- Mobility and the Internet of Vehicles
+- IoT in connected vehicles
+- Cyber-Physical Systems for connected mobility
+- Application of remote sensing in connected mobility
+- Big Data and Vehicle Analytics
+- Energy-aware connected mobility
+- Solar and Electrical energy for connected mobility Programming language for connected mobility
+- Embedded Systems for connected mobility
+- Driver Behavior Analysis
+- Vision and Image Processing
+- Vehicle Environment Perception
+- Cognitive and Context-aware Intelligence
+- Drone-based applications for connected mobility
+- Connected mobility for Healthcare applications
+- Connected mobility for Hazard management
+- Connected mobility for Logistics applications
+- Regulations and bylaws for intelligent connected mobility
+- Crowd Computing for connected mobility
+- Nanotechnology for connected mobility
+
+================
+IMPORTANT DATES 
+- Paper Submission: September 15th, 2018 (Last Extension)
+- Acceptance Notification: 5th October, 2018
+- Final Manuscript Due: 20th October, 2018
+
+================
+Outstanding Papers
+Based on the reviewing scores as well as the presentations at the conference, the authors of outstanding papers will be invited to extend their works for a potential publication in journals special issues with high impact factors. 
+ 
+=================
+PAPERS SUBMISSION 
+Paper must be submitted electronically via easychair (https://easychair.org/conferences/?conf=raicom2018). All papers will be peer reviewed. Paper length should be maximum 8 pages including figures, tables, references, and appendices. For more information, please refer to the conference website:  http://raicom-2018.smartgentpt.com/   

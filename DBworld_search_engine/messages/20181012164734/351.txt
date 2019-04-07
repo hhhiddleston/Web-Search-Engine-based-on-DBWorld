@@ -1,0 +1,40 @@
+   PHD FELLOWSHIP ON MINING MINING STREAMING DATA IN THE FINANCIAL SECTOR 
+   AT THE NORWEGIAN UNIVERSITY OF SCIENCE AND TECHNOLOGY (NTNU)
+
+PROJECT DESCRIPTION
+
+As part of their strategic partnership, DNB (Norway's largest financial services group) and NTNU are funding 1 Postdoc and 3 PhD positions in a joint R&I project focusing on research in Big Data analytics and machine learning. With this project, the two parties will create an attractive environment for education, research and innovation, executed in close collaboration with the ongoing research and innovation efforts at the Telenor-NTNU AI-Lab.
+
+By responding to this announcement, you may become part of Norway's strongest research community within the field of Artificial Intelligence, Big Data analytics and IoT. The Project's activities will demonstrate how these technologies can be applied to solve business challenges within the banking and finance sector in particular, as well as for society in general.
+
+The project effort involves technologies and architectures for dealing with large-scale realtime data processing, as well as the use of machine learning to uncover hidden knowledge in data and build intelligent banking applications.  The intention is that the Project will increase the general capacity and quality of Big Data & Artificial Intelligence education and research in Norway and encourage the use of this technology in the banking and finance sector.
+
+PhD DESCRIPTION
+
+In the financial sector, a wide range of data sources can be used both to understand customers, as well as the financial market in general. These data sources may contain both structured data (from typical financial services), as well as textual data (from communication with users or news media). Common for much of the interesting data, is that it is in the form of data streams that needs to be processed in real-time, in order for the results to be useful. 
+
+Almost all relevant data in the domain of financial data has either an implicit or explicit time dimension, or often also a geographical aspect. The successful PhD student will develop scalable techniques for effective information analysis on financial data streams, with emphasis on techniques for retrieval and mining of temporal and spatio-temporal information. 
+
+Relevant background: A solid knowledge of database systems, algorithms or information retrieval is essential, and a research-oriented master thesis within one of these or related areas are expected. Good programming skills are required.
+
+Relevant background: A master's degree in Computer Science or
+equivalent with very good results is required. A solid knowledge of
+database systems or algorithms is essential, and a research-oriented
+master thesis within one of these or related areas is expected. Good
+programming skills are required. An ability/desire to publish in top 
+database conferences (VLDB, SIGMOD, ICDE, EDBT, CIKM) is essential. 
+
+Since Trondheim is a bilingual city where almost everybody speaks and 
+understands English fluently, candidates need not be afraid of a 
+language barrier. The working language of the research group is 
+English.
+
+For more information, please contact Prof. Kjetil Norvag (noervaag at
+ntnu.no), http://www.ntnu.edu/employees/noervaag 
+
+For detailed information about the position and application procedure, 
+please see: https://www.jobbnorge.no/ledige-stillinger/stilling/154068/phd-fellowship-on-mining-streaming-web-data-in-the-financial-sector-ie-127-2018
+
+(Short link: https://bit.ly/2sTSzzQ )
+
+Closing date:  15th of September, 2018

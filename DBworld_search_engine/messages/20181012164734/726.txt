@@ -1,0 +1,23 @@
+Assistant Professor in Computer Science (multiple positions)
+
+The Faculty of Computer Science
+National Research University Higher School of Economics
+Moscow, Russia
+
+The  Faculty of Computer Science of the Higher School of Economics in Moscow, Russia invites applications for full-time, tenure-track positions of Assistant Professor in all areas of computer science including but not limited to programming language theory, software engineering, system programming, algorithms, distributed and parallel computation, bioinformatics, artificial intelligence, and machine learning. Knowledge of Russian is not required, as teaching and research are both conducted in English.
+About HSE’s Faculty of Computer Science
+The Faculty of Computer Science is a young and fast-growing division of the National Research University Higher School of Economics. It trains software engineers, data analysis experts, and computer science researchers. Its educational programs were developed in cooperation with the Yandex School of Data Analysis, one of the strongest computer science graduate schools in Russia. The wide range of elective courses and minors allows each student to create their own individual study track, and project work drives the education process. Leading Russian research groups in information technology and computer science, including those from the Federal Research Center of Computer Science and Control, Institute for System Programming, and Institute for Information Transmission Problems of the Russian Academy of Sciences, are involved in the development and implementation of courses and projects, as well as in the supervision of student graduation papers and MSc and PhD theses.
+The Faculty is active in many research areas: theoretical computer science, algorithms for big data, machine learning, information retrieval, computer vision, software engineering, and, most recently, bioinformatics. The Faculty maintains an extensive and diverse program of scientific seminars, workshops, and summer and winter schools. More information on the Faculty is available at  http://cs.hse.ru/en/.
+
+Requirements
+Candidates must hold a recent Ph.D. in computer science, mathematics or related fields, or to be within a year of completion at the time of application. The successful candidate is expected to conduct high-quality research publishable in reputable peer-reviewed journals and conferences with research support provided by the University. The appointments will be made for three years in the first instance, starting in September 2019, with reviews of teaching and research during the third year.
+
+Benefits
+The salary is competitive on the international level, indexed to inflation annually, and subject to a 13% flat income tax. The university offers health insurance (free of charge), language assistance, and other social benefits; travel support and other research assistance are generous. Since we have heavy emphasis placed on high-quality research, the teaching load of newly hired faculty is relatively low and service is minimal. 
+
+Application and Interviews
+Please provide a  CV, a statement of research interest, a recent research paper via online application form - https://www.hse.ru/expresspolls/poll/218314872.html . 
+Please also arrange for at least 2 letters of reference to be sent directly to iri@hse.ru.
+The deadline for accepting application materials is September 1, 2018. 
+ 
+More information about the university is available at the National Research University Higher School of Economics, The Faculty of Computer Science

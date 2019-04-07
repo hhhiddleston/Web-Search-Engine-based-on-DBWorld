@@ -1,0 +1,34 @@
+CALL FOR PAPERS
+
+The Fourth International Conference on Electronics and Software Science (ICESS2018)
+
+November 5-7, 2018
+Takamatsu Sunport Hall Building 
+Takamatsu, Japan
+http://bit.do/ICESS2018
+
+Topics are not limited to:
+- Control and Robotics
+- e-Healthcare System
+- Ergonomics and Application
+- Feedback Control Systems
+- Information Systems and Network Security
+- Machine Learning
+- Mechatronics and Avionics
+- Modeling and Classification
+- Non Conventional Energy Resources
+- Affective Computing
+- Automobile Engineering
+- Computer and Intelligent Communication
+- Disaster Prevention Engineering
+- Electromagnetics and Photonics
+- Expert Systems and Artificial Intelligence
+- Techniques
+- High-Performance Computing
+- Kansei Engineering
+- Measurements and Instrumentation
+- Medical Engineering
+- Multimedia & Image Processing
+- Optical Networks & Communication
+
+Deadline of submission is on October 5, 2018.

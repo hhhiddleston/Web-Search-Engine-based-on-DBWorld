@@ -1,0 +1,153 @@
+Final Call for papers:
+       
+The 11th International conference on  Security, Privacy and Anonymity in Computation, Communication and Storage  (SpaCCS 2018), 11-13 Dec. 2018, Melbourne, Australia.
+         
+Website: http://www.swinflow.org/confs/2018/spaccs/
+        
+Key dates:
+Submission Deadline: August 31, 2018 (11:59pm UTC/GMT, firm) 
+Notification: September 30, 2018
+Final Manuscript Due: October 15, 2018
+         
+Submission site: http://www.swinflow.org/confs/2018/spaccs/submission.htm
+        
+Publication:
+Proceedings will be published by Springer LNCS.
+         
+Special issues:
+Distinguished papers will be selected for special issues in Information Sciences, Future Generation Computer Systems, Journal of Parallel and Distributed Computing, Concurrency and Computation: Practice and Experience
+      
+===========
+Introduction
+     
+The SpaCCS 2018 conference is the 11th event in the series of conferences which are devoted to security, privacy and anonymity in computation, communication and storage. SpaCCS is now recognized as the main regular event of the world that is covering many dimensions including security algorithms and architectures, privacy-aware policies, regulations and techniques, anonymous computation and communication, encompassing fundamental theoretical approaches, practical experimental projects, and commercial application systems for computation, communication and storage. As applications of computer systems and networks have permeated in every aspect of our daily life, the issues of security, privacy, and anonymity have become increasingly critical. The conference will provide a forum for the world-class researchers to gather and share their research achievements, emerging ideas and trends in the highly challenging research fields.  
+
+The conference aims at bringing together researchers and practitioners in the world working in the research fields of computation, communication and storage, with regard to security, privacy, and anonymity aspects of computer systems and networks. SpaCCS will focus on three broad areas of computation, communication, and storage, i.e. architectures, algorithms, techniques, and applications for security, privacy and anonymity. 
+   
+
+Scope and Topics
+
+Track 1: Security
+
+1.1 Computation
+          (1) Security Model and Architecture
+          (2) Software and System Security
+          (3) Secure Computing Platform
+          (4) Secure Network Computing
+          (5) Security in Cloud Computing and Pervasive/Ubiquitous Computing
+          (6) Risk Analysis and Management
+   
+1.2 Communication
+
+          (1) Network Security
+          (2) Malware and Botnets
+          (3) Intrusion Detection
+          (4) Security in Web Services
+          (5) Security in Mobile Social Networks
+          (6) Security in Mobile and Wireless Communications
+          (7) Fraud and Cyber-Crime
+   
+1.3 Storage
+          (1) Access Control
+          (2) Applied Cryptography
+          (3) Database Security
+          (4) Data Protection and Data Integrity
+          (5) Digital Content Protection and Digital Forensics
+          (6) Information Hiding
+          (7) Security in Big Data and its Applications
+   
+Track 2: Privacy
+   
+2.1 Computation
+          (1) Measuring and Quantifying Privacy
+          (2) Privacy Modelling and Analysis
+          (3) Software and System Privacy
+          (4) Privacy-preserving Computing Platform
+          (5) Privacy-enhanced Network Computing
+          (6) Obfuscation-based Privacy
+          (7) Cryptographic Tools for Privacy
+          (8) Building and Deploying Privacy-enhancing Systems
+          (9) Reliability, Robustness, and Abuse Prevention in Privacy Systems
+   
+2.2 Communication
+          (1) Privacy in Web Services
+          (2) Privacy Metrics and Policies
+          (3) Crowdsourcing for Privacy
+          (4) Location and Mobility Privacy
+          (5) Privacy in Cloud and Big Data Applications
+          (6) Privacy in Ubiquitous Computing and Mobile Devices
+          (7) Privacy in Social Networks and Microblogging Systems
+          (8) Privacy-enhanced Access Control, Authentication, and Identity Management
+   
+2.3 Storage
+          (1) Data Protection Technologies
+          (2) Differential Privacy
+          (3) Privacy in Big Data and its Applications
+          (4) Policy Languages and Tools for Privacy
+          (5) Privacy and Human Rights
+          (6) Interdisciplinary Research Connecting Privacy to Other Fields
+          (7) Privacy in Cloud Computing and Pervasive/Ubiquitous Computing
+          (8) Information Leakage, Data Correlation and Generic Attacks to Privacy
+          (9) Privacy-Preserving Data Mining, Data Release and Publishing
+   
+Track 3: Anonymity
+
+3.1 Computation
+          (1) Anonymous Data Mining and Data Sharing
+          (2) Parallelism Exploitation Techniques for Anonymity
+          (3) Anonymity in Big Data Analytics
+          (4) Anonymous Management in Trust Relationships
+          (5) Anonymous Video Analytics Technology
+          (6) Anonymity Metrics, Measures and Evaluations
+          (7) Anonymity Models, Hardware/Device of Anonymity
+   
+3.2 Communication
+          (1) Anonymity in Wireless Communication Systems
+          (2) Anonymous Communication Protocols
+          (3) Anonymity in Mobile, Ad Hoc, and Wireless Sensor Networks
+          (4) Anonymous Proxy Software
+          (5) Anonymous Communication and Internet
+          (6) Anonymous Social Networks, Structural k-Anonymity in Social Networks
+          (7) Authentication Protocol Providing User Anonymity
+   
+3.3 Storage
+          (1) Distributed Anonymous Information Storage and Management
+          (2) Private and Anonymous Data Storage
+          (3) Anonymity-Preserving Data Collection and Database
+          (4) Anonymity, Pseudonymity & Identity Management
+          (5) Anonymity in Big Data and Cloud Scenarios
+          (6) Anonymity in Health and Medical Databases
+
+         
+Submission Guidelines
+Submitted papers must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal or a conference with proceedings. Papers must be clearly presented in English, must not exceed 14 pages in Springer LNCS format (or up to 18 pages with the pages over length charge), including tables, figures, references and appendices. Papers will be selected based on their originality, significance, relevance, and clarity of presentation assessed by at least two reviewers. Submission of a paper should be regarded as a commitment that, should the paper be accepted, at least one of the authors will register and attend the conference to present the work. All accepted papers will be published by Springer LNCS (EI Indexed). Two outstanding papers will be selected to receive the Best Paper Awards.   
+
+Submit your paper(s) in PDF file at the submission site:
+
+http://www.swinflow.org/confs/2018/spaccs/submission.htm.
+
+   
+Publications
+Accepted and presented papers will be included into the symposium proceedings. Distinguished papers will be selected for special issues in Information Sciences, Future Generation Computer Systems, Journal of Parallel and Distributed Computing, Concurrency and Computation: Practice and Experience.
+       
+Honorary Chairs
+Robert Deng, Singapore Management University, Singapore
+Colin Fidge, Queensland University of Technology, Australia
+                    
+General Chairs
+Willy Susilo, University of Wollongong, Australia
+Kui Ren, State University of New York at Buffalo, USA
+   
+Program Chairs
+Hua Wang, Victoria University, Australia
+Ron Steinfeld, Monash University, Australia
+Tianqing Zhu, Deakin University, Australia
+                 
+Program Vice Chairs
+Shui Yu, Deakin University, Australia
+Zeeshan Pervez, University of the West of Scotland, UK
+Christian Esposito, University of Salerno, Italy
+   
+Workshop Chairs
+Arne Wilston, OC Tech, Australia
+Xuyun Zhang, The University of Auckland, New Zealand

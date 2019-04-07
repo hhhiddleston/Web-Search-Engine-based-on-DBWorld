@@ -1,0 +1,62 @@
+Call for Papers, Speakers, and Panelists 
+
+Data Science & Blockchain (DSBC2018) Workshop 
+
+Autonomous (and semi-autonomous) systems such as drones and driverless cars start to play more and more important roles in military and our daily lives. How to develop high quality software for (semi-) autonomous systems and prevent cyber-attacks has become a major concern of both the research community and industries. It is a consensus that high quality software and cyber defense will greatly enhance the survivability of the autonomous systems and the human operators/passengers. Many experts also claim: using decision science/AI/machine learning techniques will result in better (semi-) autonomous systems. In the same time, there is significant interest in exploring a relatively new technique -- blockchain, which may play an increasingly important role in many areas. We believe the recent R&D efforts of data science, blockchain, and DevOps techniques will significantly change the way of (semi-) autonomous system design, operation, and management. 
+ 
+The DSBC (Data Science & Blockchain) workshop will be held on October 22 - 25, 2018 in Xi¡¯an, China (co-located with ER2018 Conference). The focus of this workshop is to identify promising research directions for applying data science, blockchain, and DevOps techniques in the design and development of the preferred but not limited to (semi-) autonomous systems. The relationship between these techniques and conceptual modeling will also be explored. 
+ 
+Topics of interest include, but are not limited to: 
+? Data Science: 
+? New algorithms for extracting embedded conceptual models 
+(entities and relationships) from bigdata 
+? Data science techniques for (Semi-) Autonomous System Design 
+ 
+? Blockchain: 
+ 
+? Theories, protocols, and algorithms of blockchain 
+? Conceptual Models of Blockchain 
+? Security and privacy of Blockchain 
+? Performance evaluation/optimization of Blockchain 
+? Real-life applications of blockchain 
+ 
+? DevOps 
+? Frameworks and conceptual models of DevOps 
+? Sec DevOps 
+? DevOps for (Semi-) Autonomous Systems 
+ 
+ 
+ 
+Workshop Chairs & Program Committee   
+ 
+? Peter Chen, Carnegie Mellon University, USA,  PeterChen@cmu.edu 
+? Carson Woo, The University of British Columbia, Carson.Woo@sauder.ubc.ca 
+ 
+Program Committee Members: 
+ 
+? Arne Solvberg, NTNU, Norway 
+? Rong Chang, IBM Research 
+? Oscar Paster, Universitat Polit¨¨cnica de Val¨¨ncia, Spain 
+? Hasan Yasar, Software Engineering Institute, CMU, USA 
+? Heinrich C. Mayr, Alpen-Adria-Universit?t Klagenfurt, Austria 
+ 
+ 
+ 
+Important Dates   
+(A) paper submissions for presentation of your work at the workshop and publication in  the workshop proceedings (by Springer or another publisher) after the workshop is over, 
+Submission of abstracts: ASAP 
+? 1st Submission of full papers: August 30, 2018 
+? 2nd Submission of full papers: September 15, 2018 
+? Notification of acceptance: no later than 10 days after submission 
+? Camera-ready copies due: (after the workshop is over) 
+(B) Special Journal Issue:  Selected papers and invited talks in the DSBC workshop may be chosen for submitting an extended version for publishing in a special issue of Data & Knowledge Engineering (an Elsevier Journal). 
+ 
+Submissions Formatting Guidelines   
+ 
+Papers must be in English and submitted as Word or PDF-files. Any standard formats (such as Springer LNCS, IEEE, ACM, etc.) will be acceptable for initial evaluation for presentation at the workshop. After the workshop, selected authors will be notified to reformat the papers for publication in the workshop proceedings or the Data & Knowledge Engineering Journal. Submitted papers must be original and not submitted or accepted for publication in any other workshop, conference, or journal. 
+ 
+ 
+
+Submission Guidelines   
+ 
+Submission to DSBC 2018 will be electronically only. Submission must be done via Easychair at http://www.easychair.org/conferences/?conf=er2018 . 

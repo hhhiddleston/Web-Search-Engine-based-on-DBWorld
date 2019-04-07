@@ -1,0 +1,23 @@
+Graduate Programme IGNITE - Automotive Electronics Engineer (Germany)
+For our 24 months long European graduate programme IGNITE starting in October 2018 we are looking for a Automotive Electronics Engineer (m/f) for our office in Wegberg near Aachen.
+/ Scope of Duties /
+As Graduate Engineer in our electronics engineering team you will be involved in the development of electronics control unit for the vehicle domain powertrain and body. 
+The team is responsible for pre development up to mass production. Your main task will be the development of the design verification concepts based on the system architecture including the functional safety aspect.
+You will act as design engineer between relevant internal parties and customer. 
+In detail you will
+* Analyze customer’s requirements regarding testing and functional safety 
+* Support the manager in system design of future ECU test architecture and needed test strategy during development,
+* Be the bridging interface between Hardware and Software department
+* Specify and develop model based test software for HW testing during the development phases with tool support,
+* Working according the Denso processes and continues improve the development process from concept to production to operation.
+ / Qualifications /
+* Studies in Electronics Engineering, Embedded System Engineering or similar
+* Basic knowledge in one or more technical areas are needed: System/control theory, automotive electronics, micro controller programming in C/C++ for low level driver, model based development e.g. Matlab/Simulink (trade mark)
+* Strong analytical and problem solving skills
+* Team player, intercultural competency and good communication skills
+* Continuous improvement mindset
+* Very good command of English both written and spoken
+ / What we offer /
+We offer attractive working conditions and a team oriented working climate, that is cosmopolitan according to our global relations. Are you interested? 
+Please apply online on https://denso.loop.jobs.
+For more information please contact our recruiting partner by mail DENSO@Kornferry.com.

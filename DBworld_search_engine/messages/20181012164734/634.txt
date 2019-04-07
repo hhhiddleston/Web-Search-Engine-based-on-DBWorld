@@ -1,0 +1,48 @@
+Advances in Architectures, Big Data, and Machine Learning Techniques for Complex Internet of Things Systems
+
+CFP
+
+The Internet of Things (IoT) has made it possible for devices around the world to acquire information and store it, to be able to use it at a later stage. However, there are important limitations for a large-scale achievement in this revolution. Furthermore, IoT allows developing big data architectures based on services. IoT technologies are available and every day there are new ones that arrive. Some of them are sensors, RFID, GPS, and many other types of smart devices.
+
+However, this potential opportunity is often not exploited. There are some reasons like the excessively big interval between the data collection and the capability to process and analyze it. Another reason is the need of new models of design for suitable big data architecture. To effectively synthesize big data and communicate among devices using IoT, machine learning techniques are employed. Machine learning extracts meaning from big data using various techniques which include regression analysis, clustering, Bayesian methods, decision trees and random forests, support vector machines, reinforcement learning, ensemble learning, and deep learning. Currently, the quantitative data description of complex huge systems is no longer exclusively experimental sample data but the full overview data for the entire state. In this scenario, data analysis should endorse complex scientific intelligent analysis method for modeling and simulating. It has also to utilize and constantly optimize big data for machine learning and analyze and study the self-organizing and evolving rules of complex systems.
+
+The purpose of this special issue is to publish high-quality research papers as well as review articles addressing recent advances in modeling, formal methods, and complexity handling of architectures, big data, and machine learning techniques for complex Internet of Things systems. Theoretical studies and state-of-the-art practical applications are welcome for submission.
+
+
+Potential topics include but are not limited to the following:
+
+- Complexity modeling and formalization of architectures for big data
+- Regression, classification, and clustering for complex big data analysis
+- Deep learning and artificial neural network for optimizing big data
+- Data integration in big data environments
+- Genetic algorithm based data integration and management for Hadoop ecosystems
+- Data virtualization, ELT, or ETL for complex data integration
+- Cellular automata model of data mining over the cloud
+- Data mining with big data: new machine learning algorithms
+- MapReduce algorithms for complex IoT
+- Big data for open data and privacy protection for complex IoT
+- Complex modeling and management in IoT domains
+- Chaotic approach for stream mining in IoT
+- Cloud computing based evolutionary game for Internet of Things systems
+- Genetic algorithms analysis for Mobile Cloud Computing systems
+- Complexity modeling and decision-making methods for complex IoT applications
+- Internet of Things and complexity handling
+- Chaos theory, information theory, genetic and biologically inspired algorithms, cellular automata, neural networks, intelligent search algorithms, and evolutionary game theory in complex manufacturing applications
+- Tools and techniques for solving complex machine learning problems
+- Actual versus perceived complexity in knowledge representation of big data
+- Handling complexities with big data as the new technology
+- Development of science of complexity
+
+Authors can submit their manuscripts through the Manuscript Tracking System at https://mts.hindawi.com/submit/journals/complexity/aabms/.
+
+Submission Deadline Friday, 21 September 2018
+Publication Date February 2019
+Papers are published upon acceptance, regardless of the Special Issue publication date.
+
+Lead Guest Editor
+David Gil, University of Alicante, Alicante, Spain
+
+Guest Editors
+Magnus Johnsson, Magnus Johnsson AI Research AB, Lund, Sweden
+Higinio Mora, University of Alicante, Alicante, Spain
+Julian Szymanski, Gdansk University of Technology, Gdansk, Poland

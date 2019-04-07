@@ -1,0 +1,36 @@
+The Fourth International Conference on Electronics and Software Science (ICESS2018)
+Takamatsu Sunport Hall Building, Takamatsu, Japan
+November 5-7, 2018
+http://bit.do/ICESS2018
+
+The conference welcome papers on or before October 5, 2018 with the following research topics not limited to:
+
+- Information Systems and Network Security
+- Machine Learning
+- Mechatronics and Avionics
+- Modeling and Classification
+- Affective Computing
+- Automobile Engineering
+- Computer and Intelligent Communication
+- Disaster Prevention Engineering
+- Electromagnetics and Photonics
+- Expert Systems and Artificial Intelligence
+- Techniques
+- High-Performance Computing
+- Optical Networks & Communication
+- Power Electronics and Energy Efficient Drives
+- Remote Sensing
+- Sensor technology & Virtual Instrumentation
+- Soft Computing Techniques
+- Software for Material Science
+- Systems Science and Signal Processing
+- Power Quality Improvement
+- Techniques
+- RF and Microwave Engineering
+- Server Virtualization
+
+
+IMPORTANT DATES
+Deadline of submission is on October 5, 2018.
+Camera ready and registration dealine is on October 25, 2018.
+* Notification of acceptance is 4 weeks from date of submission.

@@ -1,0 +1,43 @@
+CALL FOR PARTICIPATION
+
+******************************************************************************
+17th International Conference on Cryptology and Network Security (CANS 2018)
+Naples, Italy -- September 30 - October 03, 2018
+http://cans2018.na.icar.cnr.it
+******************************************************************************
+
+
+We invite all students, researchers, practitioners and creative minds whose 
+interest lies in the field of computer and digital security to attend CANS 2018. 
+The International Conference on Cryptology And Network Security (CANS) is a 
+recognized annual conference, focusing on all aspects of cryptology, and of 
+data, network, and computer security, attracting cutting-edge results from 
+world-renowned scientists in the area. 
+CANS 2018 will be held in  Naples (Italy) from 30 September to 3 October 2018 
+in the beautiful Villa Doria D'Angri.
+
+The conference will feature four Keynote Talks given by Paolo Campegiani (Bit4id), 
+Pierangela Samarati (University of Milan), Abhi Shelat (Northeastern University),
+and Ivan Visconti (University of Salerno), and one Vision Speech given by Fabrizio 
+Leoni (InfoCert).
+
+The program also includes the presentations of the 25 papers appearing in the 
+proceedings of Springer and additional poster presentations by several companies 
+and professionals in the field.
+
+In addition CANS 2018 offers fantastic social events, including the welcome 
+reception, the gala dinner, the visit to the National Archeological Museum with 
+its 'Secret Erotic Cabinet', the guided walk in the historical center and a lot 
+of animation and music.
+
+The companies NuCypher (nucypher.com) and IoTex.io (https://iotex.io/careers) are 
+recruiting at CANS (others will be announced). Give a look at their websites and if 
+you are interested in working with them contact careers@nucypher.com (for Nucypher) 
+and hello@iotex.io (for IoTex.io) to request an interview and a chat at CANS.
+
+Early bird registration: September 6, 2018.
+
+We hope to see you in Naples.
+
+https://cans2018.na.icar.cnr.it
+https://www.facebook.com/CANS.conference/

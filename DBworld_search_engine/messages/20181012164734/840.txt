@@ -1,0 +1,123 @@
+(deadline extended) Call for Papers 
+
+20th IEEE International Symposium on Multimedia (ISM 2018)
+The Splendor Hotel, Taichung, Taiwan
+December 10-12, 2018
+http://www.ieee-ism.org
+
+Co-located with IEEE AIVR 2018 (http://www.ieee-aivr.org)
+
+---------------------------------------------------------------------------
+IMPORTANT DATES
+
+August 10, 2018 (extended): Paper submission deadline
+September 28, 2018: Paper acceptance notification
+October 12, 2018: Workshop submission deadline
+October 31, 2018: Camera ready and registration deadline
+December 10-12, 2018: Conference
+
+The Conference Proceedings will be published by IEEE Computer Society Press.
+---------------------------------------------------------------------------
+SCOPE AND TOPICS
+
+Research in multimedia computing is generally concerned with presentation, integration and computation of one or more media, such as text, image, graphics, audio, video, social data, and data collected from various sensors, etc., using computing techniques. The 20th IEEE International Symposium on Multimedia (ISM2018) is the flagship conference of IEEE Technical Committee on Multimedia (TCMC) and an international forum for researchers to exchange information regarding advances in the state of the art and practice of multimedia computing, as well as to identify the emerging research topics and define the future of multimedia computing.
+
+The technical program of ISM2018 will consist of invited talks, paper presentations, and panel discussions. Submissions are solicited for full papers and workshop papers. Topics for submission include but are not limited to:
+
+Systems and Architectures
+- Mobile multimedia systems and services
+- Pervasive and interactive media systems including mobile systems, pervasive gaming, and digital TV
+- Multimedia data in the Cloud
+- GPU-based multimedia architectures and systems
+- Software development framework using multimedia techniques
+
+Communications and Streaming
+- Multimedia networking and QoS
+- Mobile audio/video streaming
+- Wireless broadcasting and streaming
+- Scalable streaming
+- Peer-to-peer media systems and streaming
+- Sensor networks
+- Internet telephony technologies and systems
+- Video teleconferencing
+
+Multimedia Interfaces
+- Information visualization and interactive systems
+- Multimodal user interfaces: design, engineering, modality-abstractions, etc.
+- Tools for media authoring, analyzing, editing, browsing, and navigation
+- Intelligent agents for content creation, distribution, and analysis
+- Novel interfaces for multimedia: touch, tangible, wearable, virtual, 3D, etc.
+- User interfaces for mobile devices
+
+Media Coding, Processing, and Quality Measurement
+- Signal processing including audio, video, image processing, and coding
+- Coding standards
+- Scalable and Multi-view coding
+- Multi-resolution or super-resolution algorithms
+- Maintenance of perceptual quality with further compression
+- Developing novel quality measures
+
+Multimedia Security and Forensics
+- Data security including digital watermarks and encryption
+- Copyright issues for multimedia data
+- Surveillance and monitoring methods
+- Face detection and recognition algorithms
+- Human behavior analysis from motion images/videos
+- Multimedia-based computer forensics (e.g., crime scene investigation, user profiling)
+- Multimedia Captchas, including attacks and counter-attacks
+- On forensic use of biometrics
+- Data hiding, stenography, and steganalysis
+- Trust and privacy issues in media systems
+
+Content Understanding, Modeling, Management, and Retrieval
+- Media meta-modeling techniques
+- Storage systems, databases, and retrieval
+- Data segmentation
+- Image, audio, video, genre clustering & classification
+- Video summarization and story generation
+- Speaker identification, recognition, and location
+- Object, event, emotion, text detection and recognition
+- Mosaic, video panorama and background generation
+- Media semantics, ontologies, annotation, concept detection and learning
+- Personalization and user preferences
+- 3D and depth information
+- Viewer perception, emotion analysis and visual attention
+- Multimedia datasets and open source code for research
+- Multimedia recommender systems
+- Fake multimedia detection
+
+Mobile Media
+- Mobile and location-based media techniques
+- Mobile visual search
+- Social networks for mobile users
+- Augmented reality for mobile users
+- Content delivery in mobile networks (e.g., 3G, 4G and future 5G)
+- Mobile applications
+
+Applications
+- Big data
+- 3D data: graphics, displays, sound, broadcasting, interfaces
+- Media composition and production: capture, authoring, digital art, animations, etc.
+- Gaming
+- Virtual and augmented reality
+- Robotics
+- Media interfaces for the Web
+- Media in social network analysis
+- Rich media enabled E-commerce and E-shopping
+- Media systems for handicapped
+- Collaborative systems
+- Interdisciplinary media applications: Bioinformatics, Transportation systems, Wild-life monitoring and analysis, etc.
+- Deep learning of multimedia data
+
+---------------------------------------------------------------------------
+SUBMISSIONS
+
+ISM2018 welcomes high-quality submissions on a variety of theoretical and application research works related to multimedia technologies. Submitted papers must not have been published previously. There are three different submission categories: REGULAR, SHORT, and POSTER whose lengths are expected to be 8, 4, and 2 pages long, respectively. The decision of paper category will be made by the program committee. Please note that the main difference between the paper categories is the size but not the importance of the contributions. In other words, a paper with 8 pages will be expected to have more contribution than one with 4 pages.
+
+All manuscripts should be written in English. The templates in A4 size for manuscripts as well as camera-ready papers are available at IEEE Manuscript Templates for Conference Proceedings (https://www.ieee.org/conferences/publishing/templates.html). All paper submissions will be carefully reviewed by at least three experts and reviews will be returned to the author(s) with comments to ensure the high quality of the accepted papers. The authors of accepted papers must guarantee that their paper will be presented at the conference. Please only submit original material where copyright of all parts is owned by the authors declared and which is not currently under review elsewhere. Please see the IEEE policies (https://www.ieee.org/publications/rights/index.html) for further information.
+
+Only electronic submission will be accepted. Technical paper authors MUST submit their manuscripts in PDF through the EasyChair submission system (https://easychair.org/conferences/?conf=ism2018).
+
+---------------------------------------------------------------------------
+CONTACT
+Han C.W. Hsiao, hwhsiao@asia.edu.tw

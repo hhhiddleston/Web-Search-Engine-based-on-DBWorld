@@ -1,0 +1,60 @@
+Dear Colleague,
+
+It is a pleasure for me to invite you to participate to the Virtual Special Issue on "Bio-Inspired Optimization Techniques for BioMedical Data Analysis: Methods and Applications", Applied Soft Computing journal, Elsevier (Impact Factor:3.907) 
+
+
+====================================
+Applied Soft Computing journal (Elsevier) - IF 2018: 3.907
+Special Issue on Bio-Inspired Optimization Techniques for 
+BioMedical Data Analysis: Methods and Applications
+====================================
+
+The intertwining disciplines of bio-inspired computing (BIC), biomedical imaging and data analysis are major fields of computer science, computer engineering and electrical and electronic engineering, which have attracted the interest of many researchers. The past and on-going research covers a wide range of topics and tasks, from fundamental research to a huge number of real-world industrial applications.
+
+An exhaustive search is impractical in solving problems. Optimization provides a powerful tool for solving learning problems and data analysis. Designing and implementing optimization algorithms are based on several methods and have superior performance in many problems. However, in several applications, the search space increases exponentially with the problem size. In order to overcome the limitations and to solve efficiently larger scale of combinatorial and highly nonlinear optimization problems, sets of more flexible and adaptable algorithms are compulsory. BioMedical data analyses are driving new optimization research trends mainly based on machine learning and artificial intelligence, motivating intersections with biomedical imaging & data analysis and systems development. Bio-inspired computing is oriented toward applying outstanding information-processing aptitudes of the natural realm to the computation domain. It establishes a strong relationship with computational biology and other biology-inspired computing models due to its effectiveness and uniqueness even though it is still relatively new trend. Some meta-heuristic search algorithms with population-based framework are capable of handling optimization in high-dimensional real-world problems in several domains including engineering, medicine, industry, education, and military. The discipline of Bio-inspired optimization algorithms is a major field of computational intelligence, soft computing and optimization at large, which has attracted the interest of many researchers. These algorithms provide efficient tools to those problems, which cannot be solved using traditional and classical mathematical methods, as often the algorithms do not require any mathematical condition to be satisfied.
+
+The overall aim of this special issue is to collect state-of-the-art contributions on the latest research and development, up-to-date issues, and challenges in the fields of Bio Inspired Computing and BioMedical Data Analysis, and related applications. Proposed submissions should be original, unpublished, and present novel in-depth fundamental research contributions either from a methodological perspective or from an application point of view.
+
+The topics of interest are strictly limited to:
+
+1. New theories and methods in different BIC paradigms applied to Biomedical data analysis, such as
+
+- Ant Colony Systems 
+- Artificial Immune Systems 
+- Artificial Neural Networks 
+- Cellular Automata 
+- Cognitive Modelling 
+- DNA Computing 
+- Differential Evolution 
+- Emergent Systems 
+- Evolutionary Computations 
+- Evolutionary Strategies/Programming 
+- Genetic Algorithms/Programming 
+- Granular Computing 
+- Organic Computing 
+- Particle Swarm Optimization 
+- Swarm-based Algorithms
+
+2. Applications of BIC and BIC-related techniques to biomedical data analysis, including
+
+- Biomedical intelligent decision support system 
+- Computer aided diagnosis 
+- Parallel processing 
+- Biomedical applications 
+- Internet of Health Things 
+- Health 4.0 
+- Virtual environments and Bio-inspired robotics 
+- Automatic feature extraction and construction in complex images 
+- Medical and bio-medical data analysis 
+- eHealth, mHealth and Telemedicine
+
+IMPORTANT: Please choose VSI: BioMedical Data AnalysisÃ® when specifying the Article Type.
+
+Proposed Schedule:
+
+- Virtual Special Issue start: July 1st, 2018 
+- First Round of Review: Maximum 3 months after submission date 
+- Virtual Special Issue closing date: November 30, 2018
+
+FOR FURTHER INFORMATION:
+https://www.journals.elsevier.com/applied-soft-computing/call-for-papers/special-issue-on-bio-inspired-optimization-techniques-for-bi

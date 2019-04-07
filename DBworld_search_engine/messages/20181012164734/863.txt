@@ -1,0 +1,64 @@
+ICCC 2018
+2018 4th IEEE International Conference on Computer and Communications
+Chengdu, China
+December 7-10, 2018 
+http://www.iccc.org/
+Submission Due for Full paper/Abstract: August 15, 2018
+Notification Date: September 5, 2018
+Registration Deadline: September 25, 2018
+
+
+Call for Paper:
+Algorithms
+Computer Architecture
+Data Compression
+Image Processing
+Network Security and Cryptography
+Mobile Computing
+Parallel and Distributing Computing
+High-Performance Computing
+Autonomic and Trusted Computing
+Software Engineering and Knowledge Engineering
+Artificial Intelligence and Machine Learning
+Knowledge Discovery and Data Mining
+Virtual Reality and Visualization
+Biomedical Informatics and Computation
+Information and Its Technical Education
+Wireless and Sensor Devices
+Mobile and Ubiquitous Computing
+Crowdsourcing and Information Retrieval (Big Data)
+
+RF and Microwave Communication
+Antenna and Propagation
+Microwave Theory and Techniques
+Remote Sensing and GPS
+Integrated Optics and Electro-optics Devices
+Techniques of Laser and Applications of Electro-optics
+Signal, Image and Video Processing
+Wireless Communications
+Network Communication and many more
+RF and Microwave devices
+RF, Microwave and millimeter circuit
+Modulation, Coding, and Channel Analysis
+Electromagnetic and Photonics
+Optical Electronic Devices & Photonics
+Signal Detection and Parameter Estimation
+Speech and Audio Processing
+Communications Transmission
+
+Publication:
+Accepted papers will be published into conference proceedings by IEEE, which is the same with the last two years. The proceedings will be submitted and reviewed by the IEEE Xplore and Ei Compendex and Scopus after the conference.
+
+Venue:
+Chengdu, China
+
+
+Submission Methods:
+Please submit your papers by our online submission system: Electronic Submission System (.pdf)
+(https://easychair.org/conferences/?conf=iccc20181).
+You are also welcome to submit the full paper or abstract by email: iccc2015@vip.163.com  
+
+Contacts:
+Ms. Heleny Yi
+Tel£º+86-13086600000
+E-mail: iccc2015@vip.163.com

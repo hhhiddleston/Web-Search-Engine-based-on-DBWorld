@@ -1,0 +1,124 @@
+*** CALL FOR SHORT PAPERS, POSTERS & DEMOS ***
+
+14th International Conference on Wireless and Mobile Computing,
+Networking and Communications (WiMob 2018)
+
+St. Raphael Resort, Limassol, Cyprus, 15-17 October, 2018
+
+http://www.wimob.org/wimob2018/
+
+
+(*** Sponsorship Approved by IEEE Communication Society ***)
+
+*** Submission Deadline: September 1, 2018 ***
+
+
+WiMob is an international forum for the exchange of knowledge and
+experience among researchers, developers and practitioners of wireless and
+mobile technology. For fourteen years, the International WiMob conference
+has provided unique opportunities for researchers and developers to interact,
+share new results, show live demonstrations, and discuss emerging directions
+in a number of contemporary topics in wireless and mobile computing.
+
+WiMob 2018 is soliciting high quality technical papers addressing research
+challenges in the areas of wireless communications, wireless networking,
+mobility, nomadicity, ubiquitous computing, services and applications.
+Papers should present original work validated via analysis, simulation or
+experimentation. Practical experiences and Testbed trials also are welcome.
+
+
+TOPICS
+
+WiMob 2018 will host 5 parallel symposia on:
+
+¥ Wireless Communications
+¥ Wireless Networking, Mobility and Nomadicity
+¥ Ubiquitous Computing, Services and Applications
+¥ Green and Sustainable Communications and Network Computing
+¥ Security on Wireless and Mobile Networks
+
+A full list of topics for each symposium can be found on the conference
+web site.
+
+
+INSTRUCTIONS FOR SUBMISSION
+
+All short paper submissions should be written in English conforming to the
+IEEE standard conference format (8.5" x 11" - US letter, Two-Column) with
+a maximum paper length of 4 pages. They should be fully formatted, with
+graphs, images and other special areas arranged as intended for the final
+publication. The short papers will be included in the conference proceedings,
+published by IEEE CS Press (IEEE Xplore) and indexed by Scopus and Ei
+Compendex.
+
+Participants submitting posters or demos are required to submit a short
+paper describing the poster/demo content, the research supporting it, and
+the relevance and importance to WiMob.
+
+Accepted papers must be presented at the conference. At least one author of
+each accepted paper must register to the conference, by the early date
+indicated by the organizers, and present the paper.
+
+During the conference, posters and demos will be displayed or presented in
+specified sessions. The recommended display poster size is A1 (594mm by
+841mm, portrait). Demo submissions may include an additional 1-page
+appendix describing the specific contents of the demo that conference
+attendees would see. Any special technical requirements for the demo
+should also be described in this appendix. The contents of this appendix
+will be used to evaluate whether the demo is a good fit for WiMob 2018,
+but will not be included in the proceedings.
+
+Only timely submissions through EDAS at https://edas.info will be accepted.
+
+For more details, please visit the Facebook page for WiMob 2018:
+https://www.facebook.com/wimob2018/ as well as the conference web site.
+
+
+IMPORTANT DATES
+
+¥ Short Papers, Posters & Demos: September 1, 2018
+¥ Notification of Acceptance: September 10, 2018
+¥ Camera ready & Author Registration: September 20, 2018
+
+
+ORGANISATION
+
+Honorific Chair
+¥ Lajos Hanzo, University of Southampton, UK
+
+General Chair
+¥ Abderrahim Benslimane, University of Avignon, France
+
+Steering Committee
+¥ Abderrahim Benslimane - University of Avignon, France
+¥ Hsiao-Hwa Chen - National Cheng Kung University, Taiwan
+¥ Khaled Ben Letaief - Hong Kong University of Science and Technology, HK
+¥ Victor C. M. Leung - University of British Columbia, Canada
+¥ Samuel Pierre - Ecole Polytechnique de Montreal, Canada
+¥ Dovan Thanh - Telenor & Norwegian Univ. of Science & Technology, Norway
+
+Executive Co-Chairs
+¥ Wessam Ajib, Universite du Quebec - Montreal, Canada
+¥ George Angelos Papadopoulos, University of Cyprus, Cyprus
+
+Workshop Co-Chairs
+¥ Nirwan Ansari, New Jersey Institute of Technology, USA
+¥ Hossam Hassanein, Queen's University, Canada
+¥ Anna Maria Vegni - Roma Tre University, Italy
+
+TPC Co-Chairs
+¥ Abbas Bradai, XLIM Institute, University of Poitiers, France
+¥ Brigitte Jaumard, Concordia University, Canada
+¥ Ming Li, University of Arizona, USA 
+¥ Qi Liao, Nokia Bell Labs, Germany 
+
+Publication Co-Chairs
+¥ Abderrahim Benslimane, University of Avignon, France
+¥ Corinna Schmitt, University of Zurich, Switzerland 
+
+Publicity Co-Chairs
+¥ Abdellatif Ezzouhairi, ENSA Fez, Morocco
+¥ Chunxiao Jiang, Tsinghua University, China
+¥ Neeraj Kumar, Thapar University, India 
+¥ Cristina L—pez-Bravo, Universidade de Vigo, Spain 
+¥ Roca Vincent, INRIA Rhone-Alpes, France 

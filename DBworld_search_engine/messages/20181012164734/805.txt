@@ -1,0 +1,38 @@
+============================== 
+Call for Workshops' Papers
+==============================
+
+The 9th International Conference on Emerging Ubiquitous Systems and Pervasive Networks (EUSPN 2018) &
+The 8th International Conference on Current and Future Trends of Information and Communication Technologies in Healthcare (ICTH-2018)
+
+Date: November 5-8, 2018
+Location: Leuven, Belgium 
+EUSPN Website: http://cs-conferences.acadiau.ca/euspn-18/workshops.html 
+ICTH Website: http://cs-conferences.acadiau.ca/icth-18/#workshop_approved  
+-------------------------------------------------------
+All workshops’ accepted papers will be published by Elsevier Science in the open-access Procedia Computer Science series on-line. Procedia Computer Science is hosted by Elsevier on www.Elsevier.com and on Elsevier content platform ScienceDirect (www.sciencedirect.com), and will be freely available worldwide. All papers in Procedia will be indexed by Scopus (www.scopus.com) and by Thomson Reuters' Conference Proceeding Citation Index (http://thomsonreuters.com/conference-proceedings-citation-index/).
+All papers in Procedia will also be indexed by Scopus (www.scopus.com) and Engineering Village (Ei) (www.engineeringvillage.com). This includes EI Compendex (www.ei.org/compendex). Moreover, all accepted papers will be indexed in DBLP (http://dblp.uni-trier.de/). The papers will contain linked references, XML versions and citable DOI numbers. 
+ 
+The list of EUSPN’18 workshops is as follows:
+
+ *   BDBI : International workshop on Big Data and Business Intelligence
+ *   CIM: The 2nd International Workshop on Connected & Intelligent Mobility
+ *   CPPS: International Workshop on Cyber Physical Production Systems: Theory and Practices
+ *   EICN: The 5th International Symposium on Emerging Information, Communication and Networks
+ *   HDSP: The 2nd International Workshop on Healthcare Data Security and Privacy
+ *   IFSMS: The 5th International Workshop on Information Fusion for Smart Mobility Solutions
+ *   IoT-A: The 2nd International Workshop on Internet of Things Applications
+ *   MCS: The 4th International workshop on Mobile Computing Security
+ *   MISD: The 6th International Symposium on Mining Intelligence from Sensory Data
+ *   SPFC2: International Workshop on Security and Privacy in Fog and Cloud Computing
+ *   WoTBD: The 3rd International Symposium on Web of Things and Big Data
+ *   UWBAN: International Workshop on Underwater Sensor and Wireless Body Area Networks
+
+The list of ICTH’18 workshops is as follows:
+
+ *   AATCare : The 4th International Workshop on Ambient Assisted Technologies for HealthCare
+ *   auICTH : The 4th International Workshop on Adults Use of Information and Communication Technologies in Healthcare
+ *   EICN: The 5th International Symposium on Emerging Information, Communication and Networks
+ *   CS-HSC: The 2nd International Workshop on Cyber-Security in IoT-based Healthcare Systems & Cloud Computing
+ *   HiPIS: The 2nd International Workshop on Healthcare Interoperability and Pervasive Intelligent Systems
+ *   PSCare: The 5th International Workshop on Privacy and Security in HealthCare

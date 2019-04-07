@@ -1,0 +1,103 @@
+   4th International Conference on Artificial Intelligence and Applications (AI 2018)
+     October 27 ~ 28, 2018, Dubai, UAE
+     https://csty2018.org/ai/index.html
+
+Call for Papers
+***************
+
+4th International Conference on Artificial Intelligence and Applications (AI 2018) will provide an excellent international forum for sharing knowledge and results in theory, methodology and applications of Artificial Intelligence and its applications. The Conference looks for significant contributions to all major fields of the Artificial Intelligence, Soft Computing in theoretical and practical aspects. The aim of the Conference is to provide a platform to the researchers and practitioners from both academia as well as industry to meet and share cutting-edge development in the field.
+
+
+Authors Are Solicited To Contribute To The Conference By Submitting Articles That Illustrate Research Results, Projects, Surveying Works And Industrial Experiences That Describe Significant Advances In The Following Areas, But Are Not Limited To
+
+Topics of interest include, but are not limited to, the following
+*****************************************************************
+
+AI Algorithms
+Artificial Intelligence Tools and Applications
+Automatic Control
+Bioinformatics
+CAD Design and Testing
+Computational Theories of Learning
+Computer Vision and Speech Understanding
+Data Mining and Machine Learning Tools
+Fuzzy Logic
+Heuristic and AI Planning Strategies and Tools
+Hybrid Intelligent Systems
+Information Retrieval
+Intelligent System Architectures
+Knowledge Representation
+Natural Language Processing
+Knowledge-based Systems
+Mechatronics
+Multimedia & Cognitive Informatics
+Neural Networks
+Parallel Processing
+Pattern Recognition
+Pervasive Computing and Ambient Intelligence
+Programming Languages
+Reasoning and Evolution
+Recent Trends and Developments
+Robotics
+Semantic Web Techniques and Technologies
+Soft computing theory and Applications
+Software & Hardware Architectures
+Web Intelligence Applications & Search
+
+
+Paper Submission
+****************
+
+Authors are invited to submit papers through the conference Submission system by September 09, 2018. Submissions must be original and should not have been published previously or be under consideration for publication while being evaluated for this conference. The proceedings of the conference will be published by Computer Science Conference Proceedings in Computer Science & Information Technology (CS & IT) series (Confirmed).
+
+Selected papers from AI 2018, after further revisions, will be published as special issue in the following journals.
+
+International Journal of Artificial Intelligence & Applications (IJAIA)
+International Journal of Fuzzy Logic Systems (IJFLS)
+International Journal on Soft Computing, Artificial Intelligence and Applications (IJSCAI)
+International Journal of Computer Networks & Communications (IJCNC)) - ERA Indexed, Scopus Indexed
+International Journal of Network Security & Its Applications (IJNSA)- ERA Indexed, UGC listed
+International Journal of Computer Science & Information Technology (IJCSIT)- ERA Indexed
+International Journal of Mobile Network Communications & Telematics ( IJMNCT)- ERA Indexed
+International Journal of Ad hoc, sensor & Ubiquitous Computing (IJASUC)- ERA Indexed, UGC listed
+Information Technology in Industry (ITII)New ESCI-Thomson Reuters Indexed
+
+Imporatant Dates
+****************
+Submission Deadline:September 09, 2018
+
+Authors Notification:September 30, 2018
+
+Registration & camera - Ready Paper Due:October 08, 2018
+
+Contact Us
+**********
+aiconf@yahoo.com (or) ai_conf@csty2018.org
+
+Program Committee Members
+*************************
+
+Abdelhafid ZEROUAL, University of Artois, France
+Abdul Rauf, Al-Imam Muhammad Ibn Saud Islamic University, Saudi Arabia
+Abraham Sanchez Lopez, Autonomous University of Puebla, Mexico
+Adnan Albar, King AbdulAziz University, Saudi Arabia
+Afshari, Islamic Azad University, Iran
+Amir Masoud Rahmani, Islamic Azad University,Iran
+Ayush Singhal, Contata Solutions, USA
+Claudio Gallicchio, University of Pisa, Italy.
+Dipak Kumar Jana, Haldia Institute of Technology,West Bengal
+Dongping Tian, Baoji University of Arts and Sciences, China
+Farida Bouarab-Dahmani, Mouloud Mammeri University of Tizi-Ouzou, Algeria.
+Farzin Piltan, University of Ulsan, Korea.
+Fernando Zacarias Flores, Universidad Autonoma de Puebla, Mexico
+Irina Perfilieva, University of Ostrava,Czech Republic
+Javid Taheri, Karlstad University,Sweden
+Jiting XU, ebay, USA
+Meera Ramadas, University College of Bahrain,Kingdom of Bahrain
+Mohammad Masdari, Islamic Azad University, Iran
+Nizar Aifaoui, LGM, ENIM, Tunisia
+Peide Liu, Shandong University of Finance and Economics, China
+Samy S. Abu Naser, Al-Azhar University, Palestine
+Thanh-Phong Dao, Ton Duc Thang University,Vietnam
+Vilem Novak, University of Ostrava,Czech Republic
+Ze Tang, Jiangnan University,China

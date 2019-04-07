@@ -1,0 +1,33 @@
+Aiello, Marco
+The Web Was Done by Amateurs - A Reflection on One of the Largest Collective Systems Ever Engineered
+2018, XIII, 168p. 10 b/w illus., 24 illus. in color
+Softcover, ISBN 978-3-319-90007-0
+e-Book, ISBN 978-3-319-90008-7 
+
+
+This book stems from the desire to systematize and put down on paper essential historical facts about the Web, a system that has undoubtedly changed our lives in just a few decades. But how did it manage to become such a central pillar of modern society, such an indispensable component of our economic and social interactions? How did it evolve from its roots to today? Which competitors, if any, did it have to beat out? Who are the heroes behind its success?
+
+These are the sort of questions that the book addresses. Divided into four parts, it follows and critically reflects on the Web’s historical path. “Part I: The Origins” covers the prehistory of the Web. It examines the technology that predated the Web and fostered its birth. In turn, “Part II: The Web” describes the original Web proposal as defined in 1989 by Tim Berners-Lee and the most relevant technologies associated with it. “Part III: The Patches” combines a historical reconstruction of the Web’s evolution with a more critical analysis of its original definition and the necessary changes made to the initial design. In closing, “Part IV: System Engineering” approaches the Web as an engineered infrastructure and reflects on its technical and societal success.
+
+The book is unique in its approach, combining historical facts with the technological evolution of the Web. It was written with a technologically engaged and knowledge-thirsty readership in mind, ranging from curious daily Web users to undergraduate computer science and engineering students.
+
+Features and Benefits:
++ Presents the evolution of the Web by combining historical facts with its technical evolution
++ Addresses both technical and societal issues in connection with the Web’s development
++ Provides a novel analysis of the reasons behind the success of the Web 
++ Written for users who want to learn more about the development of the Web, from its roots to recent trends like apps and the Internet of Things
+
+Keywords:
+Internet – History of Computing – World Wide Web – Computers and Society – Web Development
+
+Read more detailed information: 
+https://www.springer.com/gp/book/9783319900070
+
+Online version available under:
+https://link.springer.com/book/10.1007%2F978-3-319-90008-7
+
+ORDER INFORMATION:
+Springer:  
+https://www.springer.com/gp/book/9783319900070
+Amazon:
+https://www.amazon.com/Web-Was-Done-Amateurs-Reflection/dp/3319900072

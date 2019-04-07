@@ -1,0 +1,21 @@
+We have a fully funded 3-year PhD scholarship available to work on an exciting project within trustworthy marketplaces working closely with an industrial parrtner. 
+
+Application Deadline: 29th July 2018.
+Eligibility: UK/EU students
+
+
+Please see more details of the project below.
+
+Funding Status:
+A scholarship opportunity jointly funded by the University of West London and MyPocketSkill.
+Entry Requirements:  Applicants should have a strong interest in pursuing research in the field of cybersecurity. Additional experience which is relevant to the area of research is also advantageous. We are looking for committed and enthusiastic applicants who want to be part of a rich and stimulating research environment where you will be encouraged to contribute to advancing the state-of-the art through publication and by participating in leading international fora. This is an exciting opportunity for an enthusiastic graduate to take on this strategic project with the support of mentors from the University of West London and MyPocketSkill. The project will develop a novel framework to facilitate trustworthy online marketplaces to facilitate safe, secure and dynamic multi-party interactions.
+
+You should have strong full-stack software development credentials for desktop and mobile applications and software product development experience, ideally through an Agile or Lean approach. You should be able to respond to deadlines and competing priorities and should be a good communicator, able to work with other insourced and outsourced specialists (product, marketing, design) and communicate the project’s vision to external audiences.
+
+The Company
+MyPocketSkill Ltd is an award winning digital technology startup that provides an online platform connecting young people to paid and voluntary work. The company launched in 2017 and, after successful pilots, is looking to launch more widely across the UK later in the year.  The company secured funding through Innovate UK to apply early-stage user-centred design in its platform, and now has established a roadmap for the next iteration of the platform.  There are now opportunities to implement a number of technology-related objectives within the business, including the application of an enhanced safety and trust framework, smarter messaging and analytics and streamlined user journeys.  
+University of West London
+
+Supervisory team:  Dr. Junaid Arshad and Prof. Jonathan Loo at the University of West London (UWL) with support from Matthew Harker and Zara Ransley from MyPocketSkill. The academic team is associated to the School of Computing and Engineering at the UWL and has strong affiliation with the Centre for cybersecurity research which engages in cutting edge research. 
+
+For informal queries about this role and to obtain more information about the project and application process, please contact Dr. Junaid Arshad at junaid.arshad@uwl.ac.uk or 0208 231 2351. 

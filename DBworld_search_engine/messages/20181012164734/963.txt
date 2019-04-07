@@ -1,0 +1,214 @@
+*** LAST CALL FOR PAPERS ***
+
+The 6th International Conference on Enterprise Systems (ES 2018)
+
+St. Raphael Resort, Limassol, Cyprus, 1-2 October, 2018
+
+http://www.cyprusconferences.org/es2018
+
+*** Submission Deadline: 31 July, 2018 ***
+
+*** Proceedings published by IEEE ***
+
+*** Special issue: Journal of Industrial Integration and Management, World Scientific ***
+
+
+
+WELCOME
+
+Welcome to the 6th International Conference on Enterprise Systems.
+Enterprise Systems (ES), also referred to as Enterprise Information Systems,
+has become increasingly popular over the last 20 years because it integrates
+and extends business processes across the boundaries of business functions
+and corporate walls, as well as country border lines. The International
+Conference on Enterprise Systems (ES) has been held every year since 2013.
+The sixth in the series will be held at St. Raphael Resort, Limassol, Cyprus,
+1-2 October, 2018. The conference is hosted by the Department of Computer
+Science, University of Cyprus.
+
+This conference series is focusing on both the technical and application
+aspects of enterprise systems, the complex and cross-disciplinary
+problems of enterprise integration, and the new technological frontiers
+such as Industrial Integration, Industrial Information Integration, and
+Industry 4.0. The objectives of the conference are to provide high quality
+research and professional interactions for the advancement of science
+and technology. The main features of the conference include Keynote
+Speeches, Regular and Special Sessions. It has been highlighted by the
+IEEE Systems, Man, and Cybernetics Society: http://ieeesmc.org/ .
+
+
+SCOPE
+
+We welcome original and survey articles about the latest advances of
+technology. The final results can be state-of-the-art, requirements,
+fundamental theories, models, frameworks, algorithms, methodologies,
+platforms, protocols, prototypes, testbeds, field trials, case
+studies/stories, field experiences, standardization efforts, regulatory
+activities, education and training innovations, etc. The application
+areas include aeronautics and astronautics, agriculture, automotive,
+building, construction, energy, finance, healthcare, logistics, manufacturing,
+process industry, power, transportation, etc.
+
+
+TOPICS
+
+The topics of interest include but are not limited to:
+
+Enterprise Systems for Industry 4.0
+¥ Business-IT Alignment and IT Agility
+¥ Enterprise Modelling and Integration
+¥ Decision Support Systems
+¥ Enterprise Knowledge Engineering and Knowledge Management
+¥ Enterprise Systems for Business Process Management
+¥ Enterprise Systems for Case Management
+¥ Information integration and interoperability
+¥ Cross-organizational collaboration and virtual enterprise
+¥ Integration of (legacy) enterprise applications and information
+¥ Information Governance
+¥ Enterprise Architecture and Engineering
+¥ Service Oriented Architecture (SOA)
+
+Cyber Physical Systems for Industry 4.0
+¥ Artificial intelligence and autonomous systems
+¥ Smart agents and systems
+¥ Cloud computing techniques for industrial systems
+¥ Cloud robotics
+¥ Cloud-based automation and control systems
+¥ Model based development for CPS
+¥ Semantic technologies for CPS
+¥ Formal methods for industrial and enterprise applications
+¥ Smart logistics for complex services
+¥ Intelligent Transportation Systems
+¥ E-Health Systems
+¥ Smart Grid Systems
+¥ Smart Homes, Buildings, Communities, and Cities
+
+Internet of Things for Industry 4.0
+¥ Internet of Things, Services, and People
+¥ Industrial internet and tactile internet
+¥ Wireless sensor and actuator network
+¥ Automation networks, field buses, and Time Sensitive Networks
+¥ Green communications and computing
+¥ Ultra-reliable and ultra-low latency networks
+¥ Super dense networks
+¥ Automotive networks and Internet-of-Vehicles
+¥ New PHY/MAC design and signal processing techniques
+¥ Next generation networks e.g. 5G for industries
+¥ IP-fication and interoperability of communication technologies
+
+Big Data for Industry 4.0
+¥ Innovative approaches for data collection (e.g., sensor-based wearable
+     devices, location-based mobile devices)
+¥ Data analysis (e.g., new econometrics, machine learning, decision science
+     models) of big data
+¥ New methods to extract business intelligence from structured and
+      unstructured business data (e.g. data in the form of text, video, audio, 
+      link structure, etc.)
+¥ New methods for the creation, sharing and reuse of big data
+¥ Tools and technologies for deploying and managing big data
+¥ Cloud-based data storage and exchange
+¥ New approaches to combine multiple methods of research on big data
+¥ New methods introduced from reference disciplines (e.g. statistics, biology,
+      medical science, computer science, physics, etc.) for the business 
+      analysis of big data
+
+Security and Privacy Protection for Industry 4.0
+¥ Security in industrial networks
+¥ Smart device information leaks
+¥ Trusted and trustworthy computing and cloud services
+¥ Security in cloud-based enterprise infrastructure
+¥ Cloud and cyber security
+¥ Privacy preservation in data release
+¥ Cryptography, key distribution, and security management
+¥ Asymmetric encryption for low capacity devices
+¥ Privacy and data governance
+
+System Engineering and Human Factors for Industry 4.0
+¥ System-of-systems methodology and practices
+¥ Social networks and social computing
+¥ Service design and engineering
+¥ Management of innovation in complex enterprise environment
+¥ Human-in-the-loop automation, control, operation, and optimization
+¥ Advanced human-machine/computer/robot/facility-interaction
+¥ Wearable technologies and human centric sensing
+¥ User centric design of industrial and enterprise systems
+¥ Collaboration between human workers and robots
+¥ Social-industry information exchange
+¥ Enablers, drivers, and use cases of the Social Sensing
+
+IoT-enabled Smart Manufacturing
+¥ Cloud based innovation of business models and manufacturing eco-systems
+¥ Cloud manufacturing, mass-customization, and flexible manufacturing
+¥ Networked manufacturing infrastructure and services
+¥ Flexible and rapid recombination and reconfiguration of workshop floors
+¥ Task modelling, decomposition, and composition
+¥ Sharing of distributed manufacturing facilities and fine grain scheduling
+¥ Holistic optimization of manufacturing efficiency
+¥ Interaction and integration of Cyber Factory and Physical Factory
+¥ Evolution and integration of Manufacturing Execution Systems
+¥ Product life cycle management
+¥ Manufacturing Facility-as-a-Service
+
+
+PAPER SUBMISSION
+
+The submitted paper should adhere to the double-blind review policy. All
+papers will be double-blind reviewed by the Program Committee on the basis
+of technical quality, relevance, originality, significance, and clarity. All paper
+submissions will be handled electronically. Papers that do not comply with
+the Submission Guidelines will be rejected without review.
+
+Paper types:
+¥ Full papers present final result. They must not exceed 8 pages.
+¥ Short papers can contain preliminary results. They must not exceed 6
+pages.
+¥ Work-in-progress papers to present valuable and latest progresses of
+ongoing projects: 4 pages.
+
+Note, all manuscripts shall be written in English, using the IEEE conference
+template (double column, size 10). Templates can be found at:
+https://www.ieee.org/conferences_events/conferences/publishing/templates.html .
+
+Please use the following submission link for Easy Chair:
+https://easychair.org/conferences/?conf=es20180 .
+
+
+PUBLICATION AND SPECIAL ISSUES
+
+Accepted papers will be submitted for inclusion into the IEEE Xplore
+Database which is indexed by EI. Furthermore, selected papers will be
+invited for a special issue by the Journal of Industrial Integration and
+Management, World Scientific, with theme "Next-Generation Enterprise
+Systems in the Industrial Integration Era". More information is available
+on the conference web site.
+
+
+IMPORTANT DATES
+
+¥ Regular Paper Submissions (al types) due: 31st July 2018
+¥ Notification of Acceptance/Rejection: 25th August 2018
+¥ Camera-Ready Versions of Accepted Papers: 6th September 2018
+¥ Author Registration: 6th September 2018
+¥ Early Non-Author Registration: 10th September 2018
+¥ Late Non-Author Registration: after 10th September 2018
+
+
+ORGANIZING COMMITTEE
+
+Honorary General Chairs
+¥ Aurona Gerber, South Africa, IEEE SMC EAE TC Chair
+¥ Alta Van der Merwe, South Africa, IEEE SMC EAE TC Chair
+¥ Li Da Xu, USA, IEEE SMC EIS TC Co-Chair
+
+Program Chair
+ ¥ George Angelos Papadopoulos, University of Cyprus, Cyprus
+
+Program Co-Chairs
+¥ Ling Xia Li, Old Dominion University, USA
+¥ Wattana Golf Viriyasitavat, Chulalongkorn University, Thailand
+¥ Yale Yu, Infosys Australia & New Zealand
+¥ Chris Zhang, University of Saskatchewan, Canada
+¥ Zhuo Zou, Fudan University, China
+
+Program Committee
+http://www.cyprusconferences.org/es2018/pages/pc.html

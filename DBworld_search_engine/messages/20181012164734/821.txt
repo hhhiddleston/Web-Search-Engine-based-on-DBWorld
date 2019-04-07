@@ -1,0 +1,74 @@
+Call for Papers: IEEE 5th Asia-Pacific World Congress on Computer Science and Engineering 2018 (APWC on CSE 2018), 10-12th Dec 2018, Fiji
+
+******************************************
+IEEE 5th Asia-Pacific World Congress on Computer Science and Engineering 2018 (APWC on CSE 2018)
+CALL FOR PAPERS
+10-12th December, 2018; Marriott Resort, Momi Bay, Fiji
+******************************************
+
+Website http://ilab-australia.org/apwconcse2018/
+
+==================
+SCOPE
+==================
+We are delighted to invite authors in the area of Computer Science and Engineering to submit their recent research paper at 5th Asia-Pacific World Congress on Computing Science 2018 (APWC on CSE 2018) in Fiji on 10-12th December 2018. APWC on CSE 2018, the International Conference on Computing Science, aims to bring researchers, academics, scientists, industry people in a common platform yearly basis for presenting and discussing new innovative technologies in the area of Computer Science and Engineering. In particular, Big Data, Biomedical Engineering, Cloud Computing, Information Systems, Multimedia, Networking & Security, Robotics, Software Engineering and Applications in Business and Social Sciences. APWC on CSE 2018 is expected to give an overview of the state of the art as well as upcoming trends, and to promote discussion about the pedagogical potential of new technologies in Computer Science and Engineering to Asia-Pacific region.
+
+==================
+CONFERENCE AREAS
+==================
+Each of these topic areas is expanded below but the sub-topics list is not exhaustive. Papers may address one or more of the listed sub-topics, although authors should not feel limited by them. Unlisted but related sub-topics are also acceptable, provided they fit in one of the following main topic areas:
+
+Track 1: Data Science
+Chair: Dr. Mahmood Rashid, The University of The South Pacific, Fiji
+Track 2: Biomedical Engineering
+Chair: Professor Alok Sharma, RIKEN, Japan
+Track 3: Cloud Computing
+Chair: Professor Eisuke Kita, Nagoya University, Japan
+Track 4: Information Systems
+Chair: Professor Shamim Khan, Columbus State University, USA
+Track 5: Multimedia
+Chair: Dr. Kevin I-Kai Wang, The University of Auckland, New Zealand
+Track 6: Networking, Security, and Internet of Things
+Chair: Dr. Rajesh Palit, North South University, Bangladesh
+Track 7: Robotics
+Chair: Dr. Nigel Yee, UniTec, New Zealand
+Track 8: Software Engineering
+Chair: Dr. Rohitash Chandra, Sydney University, Australia
+Track 9: Applications in Business and Social Sciences
+Chair: Dr. Keiji Takai, Kansai University, Japan
+
+==================
+SUBMISSION & PUBLICATION
+==================
+Paper submissions should be limited from 6 to 10 pages, and follow the IEEE format. More detailed information is available in the IEEE APWC on CSE 2018 Submission Guidelines.
+Please submit your manuscript through the IEEE APWC on CSE 2018 submission site. All accepted papers will be submitted for publication into IEEE Digital Library as well as other Abstracting and Indexing (A&I) databases. IEEE reserves the right not to publish any proceedings that do not meet these standards.
+
+==================
+IMPORTANT DATE
+==================
+Paper Submission End: August 30, 2018
+Author Notification: October 10, 2018
+Camera-ready / Registration Deadline: October 30, 2018
+Conference Date: 10-12th December, 2018 
+
+==================
+CONFERENCE CHAIRS
+==================
+Honorary General Chair:
+Professor Katsutoshi Yada, Kansai University, Japan
+General Chair:
+Professor Takashi Washio, Osaka University, Japan
+General Co-Chairs:
+Professor A B M Shawkat Ali, Fiji National University, Fiji
+Professor Jin Li, Guangzhou University, China
+Local Arrangement Chair:
+Professor M G M Khan, The University of The South Pacific, Fiji
+Publication and Publicity Chair:
+Dr Shah Miah, Victoria University, Australia
+
+==================
+CONTACT US
+==================
+Email: ieee.apwccse@gmail.com
+Tel: +679 9992866
+Web: http://ilab-australia.org/apwconcse2018/

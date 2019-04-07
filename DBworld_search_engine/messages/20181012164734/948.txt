@@ -1,0 +1,46 @@
+Call for Papers and for participation for IDEAR18: The 2018 IEEE International Workshop on Debugging and Repair
+co-located with ISSRE 2018 (IEEE Symposium on Software Reliability Engineering)
+Memphis, TN, United States, October 15-18, 2018
+
+Conference website http://paris.utdallas.edu/idear18
+Submission link https://easychair.org/conferences/?conf=idear18
+Submission deadline July 21, 2018
+
+
+List of Topics
+The workshop welcomes submissions that cover, but are not limited to, the following topics:
+* Strategies for effective and efficient program debugging and repair
+* Challenges and emerging techniques in the debugging and repair of large scale real-life software and domain-specific applications
+* Continuous integration
+* Debugging and repair of multi-{core, process, or threaded} programs
+* Open-source-based benchmarking infrastructures
+* Empirical studies, experience reports and industrial best practices
+* Impacts of software business, human factors, programming languages, and tool environments on program debugging and repair
+* Integrating debugging and repair with other software development and maintenance activities
+* Social aspects of program debugging and repair
+* Software risk analysis and cost estimation for fault localization, program repair, and related social interactions
+* Transitioning from research to practice
+* Pedagogical models for effective teaching of debugging and repair
+
+
+Submission Guidelines
+Submit original papers (not published or submitted elsewhere) with a maximum of 8 pages. Include the paper title, the name and affiliation of each author, a 150-word abstract, and up to 6 keywords. Both research papers and industry experience reports are welcome. All submissions must be written in English, following the IEEE conference proceedings format, and uploaded through the IDEAR 2018 submission site. Each submission will be reviewed by three PC members. Paper selection is based on originality, technical contribution, presentation, and relevance to IDEAR.
+
+
+Workshop Description
+Software today is larger and more complex than ever before. It is hardly surprising that debugging and repair are becoming more difficult and costly. On the other hand, this provides golden opportunities for researchers to explore how to tackle real-world problems. While manual debugging is impractical for large software, automatic fault-localization techniques have not matured to the desired level of accuracy, consistency, and usability. Developers face many obstacles in debugging and repair, such as uncertainties in the suspiciousness of program entities in the presence of multiple faults, difficulties in reliably recording and replaying failed executions, and bug fixes that may introduce even more faults. Furthermore, many existing approaches suffer from critical shortcomings that limit their applicability, including the complexity and unscalability of formal verification, the imprecision of static analysis, the low performance of dynamic techniques, and the high setup and operating costs of human-centric debugging environments. It is very common that researchers rely on simplified models that do not accurately reflect the complexity in large-scale industrial software. Practitioners question whether research proposals and results can actually benefit their work.
+The IEEE IDEAR Workshop has extended the highly successful IEEE International Workshop on Program Debugging (IWPD) to include the program repair aspects, which are of major importance to modern software development such as in continuous integration. The goal of the IDEAR Workshop is to highlight the most pressing challenges and innovative solutions associated with program debugging and repair, especially with respect to software business, methodologies, techniques, environments, and human factors. Industry experience reports and empirical studies are also welcome. We aim to bring together researchers and practitioners to discuss the latest advancements and identify further challenges that must be overcome.
+
+
+Steering committee
+W. Eric Wong (chair) - University of Texas at Dallas, USA 
+T.H. Tse (chair) - The University of Hong Kong, Hong Kong 
+Hira Agrawal - Applied Communication Sciences, USA 
+W.K. Chan - City University of Hong Kong, Hong Kong 
+James A. Jones - University of California, Irvine, USA 
+Franz Wotawa - Graz University of Technology, Austria
+Program Committee
+Artur Andrzejak (PC Chair) - Heidelberg University, Germany
+
+Venue
+IWPD 2018 will be held in conjunction with ISSRE 2018 in Memphis, TN, USA, October 15-18, 2018. Please visit the ISSRE website for further information.

@@ -1,0 +1,167 @@
+CALL FOR PAPERS
+-- The submission deadline is extended to September 24, 2018.
+
+The Semantic Web and Applications (SWA) track (http://cis.csi.cuny.edu/sac/swa2019/) 
+in ACM Symposium on Applied Computing (ACM SAC) 2019. http://cis.csi.cuny.edu/sac/swa2019/
+will be held in April 8-12, Cyprus.
+
+ACM SYMPOSIUM ON APPLIED COMPUTING
+For the past thirty one years, the ACM Symposium on Applied Computing has been a primary gathering forum 
+for applied computer scientists, computer engineers, software engineers, and application developers from around the world. 
+ACM SAC 2019 is sponsored by the ACM Special Interest Group on Applied Computing (SIGAPP) and is hosted by
+University of Cyprus, Cyprus.
+
+SEMANTIC WEB AND APPLICATIONS TRACK CALL FOR PAPERS
+http://cis.csi.cuny.edu/sac/swa2019/
+The technical track "The Semantic Web and Applications (SWA)" focuses on the topics related to 
+Semantic Web Technologies and their Applications. The techniques to realize and/or utilize 
+the Semantic Web are discussed in this track. 
+The focus of this track is to present research concerning issues such as: 1) learning/constructing ontologies 
+for Semantic Web applications; 2) utilizing ontologies for data management, integration and interoperability 
+in Semantic web applications; 3) architectures for achieving Semantic Web goals for specific application domains; 
+and 4) improving search techniques (or engines) with Semantic Web technologies. 
+This track aims to tackle research problems and practical applications for the Semantic Web. 
+Researchers and practitioners are invited to submit papers on the theoretical, technical and practical issues 
+of Semantic Web and its Applications. We are particularly interested in applying Semantic Web technologies 
+to specific application domains (e.g., e-learning, e-business, social network, geographic information system, 
+medical informatics and bioinformatics).
+
+Topics include, but are not limited to:
+
+Semantic Big Data
+Semantic interoperability
+Ontology-enabled interoperability among e-sources
+Emergent semantics
+Ontology, Taxonomy, and Folksonomy
+Schema mapping/matching and integration
+Learning structures from the Web for Semantic Web-enabled applications
+Ontology generation/learning
+Building/utilizing ontologies and knowledge bases
+Semantics and ontologies in data integration
+Ontology-enabled search (engines)
+Semantic Web-enabled search (engines)
+Semantic web-enabled question answering system
+Ontology-enabled information retrieval
+Semantic Web-enabled information retrieval
+Semantic Web-enabled Information extraction
+Full-text search in XML and/or Semantic Web documents
+Resource Description Framework (RDF)
+Data management and integration for Semantic Web-enabled applications
+Semantic annotation
+Semantic Web personalization
+Semantic Web-enabled user modeling
+Semantic Web services
+Reasoning
+Querying the Semantic Web
+Semantic Web mining
+Question Answering over the Semantic Web
+Text mining for Semantic Web-enabled application
+Natural language processing for Semantic Web-enabled application
+Semantic Social Network
+Semantic Social Informatics
+Recommendations via Semantic Technologies
+Semantic Technologies
+Semantic Knowledge Discovery
+Visual Analytics with Semantics
+Data Analytics with Semantics
+Semantic aspects in Privacy and Security of Semantic Web Applications
+Semantic aspects in Social Network
+Semantic aspects in Geographic Information System
+Geospatial semantics and the Semantic Web
+Deep Learning Application to Semantics
+Applying Semantic Web technologies to e-learning, e-business, social network, 
+geographic information system, medical informatics, bioinformatics, and legal domains
+
+SUBMISSION PROCEDURES
+Research Paper Submission site: https://www.sigapp.org/sac/sac2019/submission.html
+SRC Submission site: https://www.sigapp.org/sac/sac2019/submission_src.html
+Author Kit: https://www.sigapp.org/sac/sac2019/authorkit.html
+
+Authors are invited to submit original papers in PDF format. 
+Since the track papers will be published by ACM proceedings, 
+authors must submit manuscripts using the ACM format. 
+See ACM SAC author kit (https://www.sigapp.org/sac/sac2019/authorkit.html) for template files and details.
+
+Regular papers are limited to 8 pages, in camera-ready format, included in the registration fee. 
+Authors have the option to include up to two (2) extra pages at additional fee of US$80 per page.
+Posters are limited to 3 pages, in camera-ready format, included in the registration fee. 
+Authors have the option to include only one (1) extra page at additional fee of US$80. 
+SRC Abstracts are limited to 2 pages, in camera-ready format, included in the registration fee. No extra pages allowed. 
+The author(s) name(s) and address(es) must NOT appear in the body of the paper, and self-reference 
+should be in the third person. This is to facilitate blind review. 
+Only the title should be shown on the top of the first page without the author's information.
+A paper cannot be submitted to more than one track.
+All paper submissions MUST BE "Original, unpublished work."
+Paper registration is required, allowing the inclusion of the paper/poster in the conference proceedings. 
+An author or a proxy attending SAC MUST present the paper. This is a requirement for the paper/poster 
+to be included in the ACM/IEEE digital library. No-show of scheduled papers and posters will result in 
+excluding them from the ACM/IEEE digital library.
+
+STUDENT RESEARCH COMPETITION 
+As before, SAC 2019 organizes a Student Research Competition (SRC) Program to provide graduate students 
+the opportunity to meet and exchange ideas with researchers and practitioners in their areas of interest. 
+Submission to the SRC program should be in electronic form via The Student Research Abstract SUBMISSION page 
+(https://www.sigapp.org/sac/sac2019/submission_src.html) in the conference web site as a PDF file.
+
+IMPORTANT DUE DATES
+September 24, 2018: Submission of regular papers and SRC research abstracts
+November 24, 2018: Notification Paper acceptance/rejection and SRC Acceptance
+December 10, 2018: Camera-ready copies of accepted papers/SRC
+December 10, 2018: Author registration due date
+December 20, 2018: Submission of STAP (Student Travel Award Program) application
+Jan 20, 2019:  Notification of STAP Awardee
+Tue Apr 9, 2019: SRC Posters Exhibit
+Wed Apr 10, 2019: Non-SRC Posters Program
+
+PROGRAM CHAIRS
+Hyoil Han, Illinois State University, USA 
+Soon Ae Chun, City University of New York, USA 
+Sangsoo Sung, Google Inc., USA
+
+PROGRAM COMMITTEE
+
+To be confirmed: 
+
+Idir Amine Amarouche, USTHB/Bab Ezzouar, Algeria
+Sofia Athenikos, Bank of America Merrill Lynch, USA 
+Carlos Bobed Lisbona, University of Rennes 1, France
+Heitor Barros, Federal University of Alagoas, Brazil
+Ioan Marius Bilasco, UniversitÃ© Lille 1, France
+Loris Bozzato, Fondazione Bruno Kessler, Italy
+Abir Boujelben, University of Sfax, Tunisia 
+Paolo Cappellari, CUNY College of Staten Island, USA
+Long Cheng, Eindhoven University of Technology, the Netherlands 
+Soon Ae Chun, City University of New York, USA
+Roberto De Virgilio, UniversitÃ  Roma Tre, Italy
+Samhaa El-Beltagy, Cairo University, Egypt
+Ricardo de Almeida Falbo, Brazil
+Said Fathalla, University of Bonn, Germany 
+Flavius Frasincar, Erasmus University Rotterdam, the Netherlands
+James Geller, New Jersey Institute of Technology, USA
+Sven Groppe, IFIS University of Lubeck, Germany
+Hyoil Han, Illinois State University, USA
+Ramon Hermoso, University of Zaragoza, Spain
+Xiang Ji, New Jersey Institute of Technology, USA 
+Selma Khouri, LISI/ENSMA Poitiers University, France 
+Petr K?emen, Czech Technical University in Prague, Czech Republic 
+SangKeun Lee, Korea University, Korea
+Yugyung Lee, University of Missouri at Kansas City, USA
+SeungJin Lim, Merrimack College, USA 
+Miguel A. MartÃ­nez-Prieto, University of Valladolid, Spain
+Bruno Martins, Instituto Superior TÃ©cnico, INESC-ID, Portugal
+Viviana Mascardi, University of Genoa, Italy
+Fabio Mercorio, University of Milan - Bicocca 
+Pasquale Minervini, University College London, England
+Jun Miyazaki, Tokyo Institute of Technology, Japan 
+Nandana Mihindukulasooriya, Ontology Engineering Group, UPM, Spain 
+Monalessa Perini Barcellos, Federal University of EspÃ­to Santo (UFES), Brazil 
+Giuseppe Rizzo, UniversitÃ egli Studi di Bari Aldo Moro, Bari, Italy
+Tarmo Robal, Tallinn University of Technology, Estonia
+Sana Sellami, LSIS laboratory in Marseilles, France
+Marlos Silva, Instituto Federal de Alagoas 
+Sangsoo Sung, Google, USA 
+Fu Zhang, Northeastern University, China
+
+CONTACT
+For further information on this track, please contact the SWA program chairs:
+hyoil.han@acm.org, soon.chun@csi.cuny.edu, or sangsoos@google.com.

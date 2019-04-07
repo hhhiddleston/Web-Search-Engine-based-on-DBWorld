@@ -1,0 +1,55 @@
+The KDD 2018 Workshop on Big Scholarly Data (BigScholar 2018)
+http://thealphalab.org/bigscholar/
+
+Date: Monday, August 20, 2018
+Time: 8:00 AM - 5:00 PM
+Location: ICC Capital Suite Room 15, ExCeL, London, UK
+
+Chairs: 
+Feng Xia, Dalian University of Technology
+Huan Liu, Arizona State University
+Irwin King, The Chinese University of Hong Kong
+Kuansan Wang, Microsoft Research
+
+KEYNOTE SPEAKERS:
+Maarten de Rijke, University of Amsterdam
+Dashun Wang, Northwestern University
+Roberta Sinatra, Central European University
+Francesco Osborne, The Open University
+
+PROGRAM
+
+8:00 - 8:05 Welcome and opening remarks
+
+8:05 - 9:30 Keynotes 1&2
+ Personalized Ranking of Paper Recommendations; Maarten de Rijke
+ Interdisciplinarity, scientific careers and the Nobel Prize; Roberta Sinatra
+
+9:30 - 10:00 Coffee Break
+
+10:00 - 12:00 Technical Session 1
+ Is together better? Examining scientific collaborations across multiple authors, institutions, and departments; Lovenoor Aulck, Kishore Vasan and Jevin West
+ Random Walk based Smart Guide for Personalized PageRank to Recommend Interdisciplinary Research Collaboration; Won Kyung Lee and So Young Sohn
+ Central Figure Identification; Sean Yang, Poshen Lee, Abhishek Joshi, Lia Kazakova, Bum Mook Oh, Jevin West and Bill Howe
+ Developing a Temporal Bibliographic Dataset for Entity Resolution; Yichen Hu, Qing Wang and Peter Christen
+ Career Transitions and Trajectories: A Case Study in Computing; Tara Safavi, Maryam Davoodi and Danai Koutra
+
+12:00 - 13:00 Lunch
+
+13:00 - 14:30 Keynotes 3&4
+ Analysing Large-scale Research Data with Semantic Technologies; Francesco Osborne
+ The Nature of Failure; Dashun Wang
+
+14:30 - 15:00 Coffee Break
+
+15:00 - 16:50 Technical Session 2
+ ParaPlagDet: The system of paraphrased plagiarism detection; Rita Kuznetsova, Oleg Bakhteev, Andrey Khazov, Alexander Ogaltsov and Kamil Safin
+ ScholarSpace: Academic Search in China; Xiaofeng Meng, Zehui Hao, Yi Zhang, Jin Li, Shuo Wang, Yujie Shao and Xin Yang
+ Shifu: Advisor-advisee Relationship Mining in Scholarly Big Data; Wei Wang, Jiaying Liu, Feng Xia, Irwin King and Hanghang Tong
+ Additional reviewer assignment by means of weighted association rules; Luca Cagliero, Paolo Garza, Andrea Pasini and Elena Baralis
+ A Research Graph dataset for connecting research data repositories using RD-Switchboard; Amir Aryani, Marta Poblet, Kathryn Unsworth, Jingbo Wang, Ben Evans, Anusuriya Devaraju, Brigitte Hausstein, Claus-Peter Klas, Benjamin Zapilko, and Samuele Kapluns
+
+16:50 - 17:00 Closing
+
+Contact Info:
+Email: bigscholar@googlegroups.com

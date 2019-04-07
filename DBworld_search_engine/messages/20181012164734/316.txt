@@ -1,0 +1,44 @@
+Early registration deadline: October 8, 2018,
+http://sigspatial2018.sigspatial.org/registration/
+
+**********************************************************************
+The 26th ACM SIGSPATIAL International Conference on
+Advances in Geographic Information Systems
+(ACM SIGSPATIAL GIS 2018)
+
+Tuesday November 6 - Friday November 9, 2018
+Seattle, Washington, USA
+
+http://sigspatial2018.sigspatial.org/
+**********************************************************************
+
+The ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems 2018 (ACM SIGSPATIAL 2018) is the twenty-sixth event in a series of symposia and workshops that began in 1993 with the aim of bringing together researchers, developers, users, and practitioners in relation to novel systems based on geo-spatial data and knowledge, and fostering interdisciplinary discussions and research in all aspects of geographic information systems. The conference provides a forum for original research contributions covering all conceptual, design, and implementation aspects of geospatial data ranging from applications, user interfaces, and visualization to data storage and query processing and indexing. The conference is the premier annual event of the ACM Special Interest Group on Spatial Information (ACM SIGSPATIAL). Researchers and practitioners are invited to participate in ACM SIGSPATIAL 2018.
+
+
+Accepted Papers: http://sigspatial2018.sigspatial.org/accepted-papers/
+Registration:  http://sigspatial2018.sigspatial.org/registration/
+Student Travel Awards: http://sigspatial2018.sigspatial.org/travel-grants/
+Venue and Accommodations:  http://sigspatial2018.sigspatial.org/venue-and-accommodations/
+Affiliated Workshops:  http://sigspatial2018.sigspatial.org/workshops/
+
+
+
+General Chairs
+Farnoush Banaei-Kashani, University of Colorado, Denver, USA 
+Email: farnoush.banaei-kashani@ucdenver.edu
+
+Erik Hoel, Esri, USA 
+Email: ehoel@esri.com
+
+Program Committee Chairs
+Ralf Hartmut GÃ¼ting, FernUniversitÃ¤t in Hagen, Germany 
+Roberto Tamassia, Brown University, USA 
+Li Xiong, Emory University, USA
+
+
+-----------------------------------------------------------------------------------------------
+Follow ACMGIS @
+LinkedIn: https://www.linkedin.com/groups?home=&gid=4162155
+Facebook: https://www.facebook.com/groups/1450681355222657/
+Twitter: https://twitter.com/sigspatial_gis
+_______________________________________________

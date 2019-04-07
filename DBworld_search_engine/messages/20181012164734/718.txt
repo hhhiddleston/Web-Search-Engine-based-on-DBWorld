@@ -1,0 +1,23 @@
+!!! CALL FOR PAPERS !!!
+The 14th International Conference on SIGNAL IMAGE TECHNOLOGY & INTERNET BASED SYSTEMS - SITIS 2018 (www.sitis-conf.org) will be held 26-29 November 2018, in Las Palmas de Gran Canaria, Spain.
+
+The Technical Program of SITIS 2018 will include 
+- three keynote lectures by Dr Andrea Cavallaro, Dr Marco Gori and DR Ernestina Menasalvas (http://www.sitis-conf.org/en/keynotes.php)
+- contributed papers submitted to three tracks (http://www.sitis-conf.org/en/tracks.php) 
+a) "Signal Image & Vision Technologies” (SIVT), 
+b) “Intelligent Web Computing and Applications” (I-WeCA)
+c) "Large, Heterogeneous Networks and their Applications” (LHNA)
+
+- contributed papers submitted to several colocated workshops:
+Please check (http://www.sitis-conf.org/en/workshops.php) for the complete list of colocated workshops. 
+
+All papers accepted for presentation at the main tracks and workshops will be included in the conference proceedings, which will be published by IEEE Computer
+Society and referenced in IEEE Xplore Digital Library, DBLP and major indexes.
+
+Important dates: 
+- Paper Submission Deadline: September 3, 2018 
+- Acceptance Notification: October 19, 2018 
+- Camera Ready and Author Registration: October 26, 2018
+
+For additional information please check the conference web site at 
+www.sitis-conf.org

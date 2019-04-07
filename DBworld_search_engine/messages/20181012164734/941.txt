@@ -1,0 +1,76 @@
+[Apologies for cross-posting]
+
+*** Due to several requests, the submission deadline has been extended to July 25th. ***
+
+Call for Papers
+-----------------------
+1st International Workshop on EntitY REtrieval (EYRE '18)
+co-located with CIKM 2018
+
+https://sites.google.com/view/eyre18
+Lingotto, Turin, Italy, 22 October 2018
+
+OBJECTIVES
+----------------------
+Previous analysis of real query logs shows that the intention of more than half of Web queries is to find a particular entity, find entities of a particular type, or find values of a particular attribute of an entity. This problem of entity retrieval, or more generally, semantic search, has received increasing research attention from the Information Retrieval (IR) and Semantic Web communities, using text (e.g., webpages) and structured data (e.g., RDF, Wikidata), respectively. This hybrid of unstructured and structured retrieval is appealing to researchers and practitioners in the areas of IR, Database, Semantic Web, and Artificial Intelligence (AI). This workshop series is a venue to bridge different communities and develop a renewed interest. It provides a platform where interdisciplinary studies of entity retrieval and semantic search can be presented, and focused discussions can take place.
+
+We also organize two shared tasks related to entity retrieval, in order to assess strengths and weaknesses of existing systems, compare performance of techniques, and enhance communication among researchers and developers.
+
+THEME AND TOPICS
+---------------------------------
+We welcome contributions related to any aspect of entity retrieval and semantic search, including theories, algorithms, experiments, and applications. Relevant topics include but are not limited to the following:
+
+* Retrieval models and ranking
+ - Models for entity retrieval and semantic search
+ - Entity and fact ranking
+ - Entity filtering and recommendation
+ - Context-based ranking and filtering of entities and facts
+ - Indexing entity-centered semantic data
+* Retrieval at the Web and big data scale
+ - Entity discovery and Web data crawling
+ - Entity linking and information extraction
+ - Entity matching and data integration
+ - Semantic search engines
+* Queries and query analysis
+ - Entity-related query understanding
+ - Entity-related query reformulation
+ - Entity-related query suggestion
+ - Entity-related query log analysis
+* User behavior and interfaces (proactive or reactive presentations)
+ - User models for entity retrieval and semantic search
+ - Interactive and personalized semantic search
+ - Entity summarization and information/knowledge cards
+ - Visualization of semantic data
+ - Knowledge exploration applications
+* Domain-specific applications
+ - Local, mobile, and enterprise semantic search
+ - Social networks in semantic search
+ - Multimedia semantic search
+ - Semantic search for domains and applications
+
+SUBMISSION GUIDELINES
+------------------------------------------
+Manuscripts should be submitted electronically, as PDF formatted using the ACM camera-ready templates; please use sample-sigconf.tex as the template. Submissions are reviewed in a single-blind manner. Papers should be submitted through the EYRE '18 online submission system: https://easychair.org/conferences/?conf=eyre18
+
+* Full research, empirical-study, industry papers: 6-8 pages
+* Short, position, case-study, demo papers: 2-4 pages
+
+The CIKM 2018 workshops proceedings will be published all together in the CEUR workshop series. At least one author of each accepted paper is expected to attend the workshop and present.
+
+IMPORTANT DATES
+-------------------------------
+
+* Submission: 25 July 2018 (Anywhere on Earth)
+* Notification: 13 August 2018
+* Camera-ready: 27 August 2018
+* Workshop day: 22 October 2018
+
+SHARED TASKS
+---------------------------
+We also organize two shared tasks: entity summarization and entity search. Accepted system papers will also be included in the workshop proceedings. Details: https://sites.google.com/view/eyre18/sharedtasks
+
+ORGANIZERS
+-----------------------
+* Gong Cheng, Nanjing University, China
+* Kalpa Gunaratna, Samsung Research America, USA
+* Jun Wang, University College London, UK

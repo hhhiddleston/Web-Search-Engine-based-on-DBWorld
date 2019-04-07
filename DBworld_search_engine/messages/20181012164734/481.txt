@@ -1,0 +1,72 @@
+ The deadline for submission of Technical Papers & Thesis Proposal Summaries  to be extended  until 2nd September 2018.
+
+
+http://2018.ieeeccem.org    OR     http://conferences.computer.org/ccem
+The Oterra, 43, Electronics City Phase 1, Hosur Road, Bengaluru 560100
+
+IEEE CCEM 2018
+
+Call for Papers & Proposals
+
+
+Overview
+The seventh edition of the IEEE International Conference on Cloud Computing for Emerging Markets (CCEM) offers an ideal forum for innovators, researchers and students on Cloud computing and its applications - these have emerged as a dominant and transformational paradigm in ICT affecting a multitude of institutions and industry sectors such as health, government, finance, telecommunications, education, retail, energy, utilities, and transportation.  Innovations in this spans several areas including virtualization, networking, storage, security, management of cloud services – hybrid & on-premise, efficient interoperable cloud architectures, as well as design of cloud applications and services. This transformation has great implications for emerging markets & Nations, in their adoption of cloud computing, combine cloud computing, social media and mobile technologies to introduce unique services that can transform the lives of billions, drive a much larger scale of adoption and challenge existing price points, while presenting unique challenges in areas such as security, data privacy and user interfaces to cloud computing.
+
+ Program Highlights
+        Keynotes and Invited Talks by Eminent Technologists
+•        Paper Presentations – Full reviewed as well as work-in-progress posters
+•        Technology Innovations and Start-up Showcase Demos from Start-ups, Industries, and Students
+•        Masters and PhD Thesis synopsis presentations
+•        Tutorials on some latest technologically relevant topics of interest.
+
+We invite technical paper, tutorials, technology innovations demo submissions on all relevant topics, including:
+•        Design of Cloud Computing services, especially for emerging markets – infrastructure, platform, database, software, network, storage, e-governance, and business process
+•        Utilizing/enhancing the Cloud for Big data & Predictive analytics
+•        Social & Mobile computing advances leveraging the Cloud
+•        Internet of Things enabled by Cloud, Big Data & AI
+•        Big Data Analytics & AI driven predictive computing
+•        Intersection of Cloud with Cognitive Computing and Artificial Intelligence
+•        Deep Learning in Cloud Environments
+•        Conversational AI & Multimodal Interactions 
+•        AI Infused Automation
+•        Advances in virtualization of hardware & software services, Cloud Networking
+•        Security, privacy, governance, and compliance management in cloud
+•        DevOps, Monitoring, management, & maintenance in Cloud Computing environments
+•        Performance optimization in Hybrid Cloud Environments
+•        Cloud Computing Solutions for different Industries & verticals
+•        Legal Aspects & Service Level Agreements in Cloud Computing & Data Privacy
+
+Call for Technical Papers:
+We invite technical papers on all topics relevant to Cloud Computing in Emerging Markets as listed above. Papers should typically include a clear description of the problem being addressed, overview of and comparison to related work, the theoretical framework/model proposed by the authors, experimental results, and conclusions. Papers will be reviewed by an international program committee which will ensure that only high-quality papers with originality and novelty are accepted for presentation in the conference.
+Please submit your technical papers by 23 August 2018, for more details pl visit: http://conferences.computer.org/ccem/submissions.html#callForPapers
+
+Call for Technology Showcase Proposals: 
+The technology showcase session at CCEM enables start-up companies, established companies, students, and faculty to demonstrate cutting edge new capabilities and ideas in the field of cloud computing. Accepted technology showcase proposals will have a dedicated space for technology demos throughout the duration of the conference. CCEM has showcased innovative technologies in previous years as well and these sessions have been very interactive with the conference audience that has also included reputed venture capitalists.
+Technology showcase proposals should typically include an overview of the technology, details on the innovations that will be showcased, top use cases for the innovation, comparison to competing technologies and alternatives, and preferably links to the relevant website and link to a three minute or less video demo.
+Please submit your technology showcase proposal by 23rd September 2018, for more details  pl visit:  http://conferences.computer.org/ccem/submissions.html#callForTechShowcase
+
+Call for Research Students Thesis Proposals Symposium:
+We invite masters and Ph.D. students to submit a summary of their thesis proposals in Cloud Computing to CCEM 2018. The Thesis Symposium session will give selected masters’ and Doctoral students an opportunity to present the gist of their thesis proposal and obtain constructive feedback from experts in the field. Submit your thesis proposal summary by 23rd August 2018, for more details pl visit:
+ http://conferences.computer.org/ccem/submissions.html#callForThesisProposal
+
+Call for Tutorials:
+We are delighted to announce that CCEM '18 will host selected one-hour tutorials on interesting topics in the areas of Cloud Computing, BigData Analytics & Machine Learning. The tutorials will be part of the main conference technical program and are free of charge to the attendees of the conference.  Please submit your tutorial proposal summary by 23rd September 2018, for more details pl visit: http://conferences.computer.org/ccem/submissions.html#callForTutorial
+
+Call for Student Proof of Concept Competition: 
+IEEE Cloud Computing for Emerging Markets (CCEM) Conference will host a student proof-of concept competition. This contest offers an opportunity for under-graduate and graduate
+students to analyse how cloud computing can be leveraged to assuage problems afflicting
+emerging markets. The top ideas will be short-listed and given the opportunity to be showcased at IEEE CCEM 2018. Please submit your tutorial proposal summary by 23rd September 2018, for more details pl visit: http://conferences.computer.org/ccem/submissions.html#callForStudentPoC
+
+Important Dates
+23 August 2018:              Deadline for submission: Technical Papers, Thesis Proposal summaries,
+23 September 2018:                    Deadline for submission: Tech Showcase, Student PoC & Tutorial Proposals
+1 October 2018:                Announcement of Acceptances of Papers/Proposals etc
+15 October 2018:                    Early registration deadline
+23 October 2018:                Deadline for Submission: Camera Ready Copy for Accepted Papers
+23 -24 November 2018:        CCEM Main Conference
+
+Please refer to conference website http://2018.ieeeccem.orgfor the latest updates.
+
+IEEE CCEM 2018 Steering Committee:        Dr. Gopal Pingali, Dr. T.S. Mohan, Prof D Janakiram, Dr. Rong Chang & Prof. Rajkumar Buyya.
+IEEE CCEM 2018 General Chairs:          Sreekrishnan Venkiteswaran & Dr. Raj Tumuluri.
+Technical Program Committee Chairs:         Prof. Sanjay Chitnis, Prof. Radhakrishna Pisipati & Geetika Goel.

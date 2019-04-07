@@ -1,0 +1,36 @@
+Call for Papers
+
+29th Australasian Conference on Information Systems
+3-5 December 2018, UTS, Sydney, Australia
+
+http://www.acis2018.org/
+
+Deadline: 6 August 2018
+http://www.acis2018.org/submission-guidelines/
+
+Emerging Technologies and the IoT Track
+
+The Internet of Things (IoT) is an emerging and promising area that proposes to turn every tangible entity into a node on the Internet. IoT is widely regarded as the leading technology that will change our world in the next decade. With a network of cheap sensors and interconnected things, the information we collect about our world will be generated at a much higher granularity from IoT devices. IoT will play a critical role to i) improve productivity, operational effectiveness, decision making, and to ii) identify new business models for social and economic opportunities. Successful deployment of IoT solutions will allow for safer roads, better use of public transport and cities, effective and cheaper aged care and healthcare, better use of our energy resources, to name a few.
+
+While IoT-based digital strategies and innovations provide industries across the spectrum with exciting capabilities to create a competitive edge and build more value into their services, as what the Internet has done in the past 25 years, there are still significant gaps in making IoT a reality. Existing Internet protocols, tools, and service-oriented standards are not designed to deal with things in IoT, many of which are resource constrained. Specifically, the IoT environment is a federated environment where things and their data, cloud services, and IT services (for example, for data analysis and visualization) are often provided by independent providers with diverse interfaces, as well as business, cost, and QoS models. To provide new Internet-scale services, the IoT must (re)use IoT things deployed by others and data collected by others for their own purpose.
+
+In this track, we will explore how information systems can contribute to addressing IoT challenges. Suggested topics include but are not limited to:
+
+- IoT-based business process management 
+- IoT and big data
+- Next generation infrastructure for IoT
+- IoT and blockchain
+- Cloud computing and IoT
+- IoT and security, privacy and trust
+- IoT and standards
+- Edge computing and IoT
+- IoT and e-health
+- IoT platforms, tools, and applications
+- Reference architectures for IoT
+- Articifical Intelligence for IoT
+- IoT-enabled smart homes and smart cities
+- IoT and Web of Things
+
+Track Chairs
+Michael Sheng, Macquarie University, Australia
+Fethi Rabhi, UNSW, Australia

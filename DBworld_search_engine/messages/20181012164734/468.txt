@@ -1,0 +1,223 @@
+Call for Posters, Demos and Short Papers
+Deadline 31 August 2018.
+
+The 10th IEEE International Conference on Cloud Computing
+Technology and Science (CloudCom 2018)
+
+Hilton Cyprus, Nicosia, Cyprus, 10-13 December, 2018
+
+http://cyprusconferences.org/cloudcom2018/
+
+
+CloudCom is the premier conference on Cloud Computing worldwide,
+attracting researchers, developers, users, students and practitioners from
+the fields of big data, systems architecture, services research, virtualization,
+security and privacy, high performance computing, always with an emphasis
+on how to build cloud computing platforms with real impact. The conference
+is co-sponsored by the Institute of Electrical and Electronics Engineers (IEEE),
+is steered by the Cloud Computing Association, and draws on the excellence
+of its world-class Program Committee and its participants. CloudCom 2018
+will be held in Nicosia, Cyprus between 10-13 December, 2018.
+
+
+TOPICS OF INTEREST
+
+Topics of interest of CloudCom 2018 are grouped into four tracks:
+
+Â¥ Architecture, Storage and Virtualization
+Â¥ Cloud Services and Applications
+Â¥ Security, Privacy and Trust
+Â¥ Edge Computing and Distributed Cloud
+
+The (non-exhaustive) list of topics for each track is as follows:
+
+Track 1: Architecture, Storage and Virtualization
+Chairs: Luiz F. Bittencourt, University of Campinas (UNICAMP), Brazil,
+Ivona Brandic, TU-Wien, Austria
+
+Â¥ Intercloud architecture models
+Â¥ Virtual Machines (VMs), containers, unikernels and microservices
+Â¥ Cloud services delivery models, campus integration & â€œlast mileâ€ issues
+Â¥ Virtualization technology and enablers (network virtualization,
+software-defined networking)
+Â¥ Networking technologies
+Â¥ Cloud system design with FPGAs, GPUs, APUs
+Â¥ Storage & file systems
+Â¥ Scalability & performance
+Â¥ Resource provisioning, monitoring, management & maintenance
+Â¥ Operational, economic & business models
+Â¥ Green data centers
+Â¥ Computational resources, storage & network virtualization
+Â¥ Resource monitoring
+Â¥ Virtual desktops
+Â¥ Resilience, fault tolerance, disaster recovery
+Â¥ Modeling & performance evaluation
+Â¥ Disaster recovery
+Â¥ Energy efficiency
+
+Track 2: Cloud Services and Applications
+Chairs: Laura Ricci, University of Pisa, Italy,
+Beniamino Di Martino, Seconda Universitaâ€™ di Napoli, Italy
+
+Â¥ XaaS (everything as a service including IaaS, PaaS, and SaaS)
+Â¥ Cloud services models & frameworks
+Â¥ Service deployment and orchestration in the Cloud
+Â¥ Cloud service management
+Â¥ Cloud workflow management
+Â¥ Cloud services reference models & standardization
+Â¥ Cloud-powered services design
+Â¥ Cloud elasticity
+Â¥ Machine learning and systems interactions
+Â¥ Data management applications & services
+Â¥ Service for computing-intensive applications
+Â¥ Mining and analytics
+Â¥ Data-provisioning services
+Â¥ Cloud programming models, benchmarks, and tools
+Â¥ Cloud-based services & protocols
+Â¥ Fault-tolerance & availability of cloud services and applications
+Â¥ Application development and debugging tools
+Â¥ Business models & economics of cloud services
+
+Track 3: Security, Privacy and Trust
+Chairs: Martin Gilje Jaatun, University of Stavanger, Norway,
+Barbara Carminati, Insubria, Italy
+
+Â¥ Accountability & audit
+Â¥ Authentication & authorization
+Â¥ Cloud integrity
+Â¥ Blockchain Cloud services
+Â¥ Cryptography in the Cloud
+Â¥ Hypervisor security
+Â¥ Identity management & security as a service
+Â¥ Prevention of data loss or leakage
+Â¥ Secure, interoperable identity management
+Â¥ Trust & credential management
+Â¥ Trust models for cloud services
+Â¥ Usable security Risk management in cloud computing environments
+Â¥ Privacy policy framework for clouds
+Â¥ Privacy-preserving data mining for clouds
+Â¥ Information sharing and data protection in the cloud
+Â¥ Cryptographic protocols against internal attacks in clouds
+Â¥ Privacy protection in cloud platforms
+Â¥ Energy/cost/efficiency of security in clouds
+
+Track 4: Edge Computing and Distributed Cloud
+Chairs: Antonio Fernandez Anta, IMDEA, Spain,
+Sarunas Girdzijauskas, KTH, Sweden
+
+Â¥ Cloudlet-enabled applications
+Â¥ Distributed Cloud Infrastructure
+Â¥ Foundations and principles of distributed cloud computing
+Â¥ Architectural models, prototype implementations and applications
+Â¥ Cloud brokers and coordination across multiple resource managers
+Â¥ Interoperability and mobility
+Â¥ Software infrastructure for cloudlets
+Â¥ Dynamic resource, service and context management on edge computing
+Â¥ Fog Computing
+Â¥ IoT cloud architectures & models
+Â¥ Cloud-based context-aware IoT
+Â¥ Economics and pricing
+Â¥ Experience with and performance evaluation of existing deployments and
+measurements (public, private, hybrid, federated environments)
+
+
+PAPER SUBMISSION GUIDELINES
+
+Submitted papers must not substantially overlap papers that have been
+published or that are simultaneously submitted to a journal or a conference
+with proceedings. Authors must submit their papers by the deadline indicated
+below, using the EasyChair submission system:
+https://easychair.org/conferences/?conf=cloudcom2018 .
+
+Only PDF files will be accepted. Manuscripts need to be prepared according to
+the IEEE CS format (https://www.ieee.org/conferences_events/conferences/publishing/templates.html).
+All regular paper submissions should be written in English with a maximum
+paper length of 8 pages. All submitted papers will be reviewed by at least
+three experts.
+
+Accepted papers must be presented at the conference. At least one author of
+each accepted paper must register to the conference, by the early date
+indicated by the organizers, and present the paper.
+
+The conference proceedings of CloudCom 2018 will be published by IEEE
+Conference Publishing Service with ISBN and ISSN, and submitted to IEEE
+Xplore and indexing services such as Ei Compendex. Distinguished papers
+will be recommended for fast-track publication in the IEEE Transactions on
+Cloud Computing or invited to be included within a number of special issues
+in prestigious international journals.
+
+
+CALL FOR TUTORIAL AND WORKSHOP PROPOSALS
+
+IEEE CloudCom 2018 is soliciting proposals for full-day / half-day workshops
+and Tutorials to be held in conjunction with IEEE CloudCom 2018. For more
+information on the tutorials and workshops and for the complete Call for
+Tutorial and Workshop Proposals, please see the conference website.
+
+
+CALL FOR POSTERS, DEMOS & SHORT PAPERS (Late-breaking Results)
+
+Authors are invited to submit their research work as a poster, demo or short
+paper (late-breaking results) to the CloudCom 2018 conference. For the
+complete Call for Call for Posters, Demos & Short Papers (Late-breaking
+Results) please see the conference website.
+
+
+CALL FOR PH.D. CONSORTIUM
+
+A Ph.D. consortium will be held in conjunction with IEEE CloudCom 2018 in
+Nicosia, Cyprus. For the complete Call for Ph.D. consortium, please see the
+conference website.
+
+
+IMPORTANT DATES
+
+Â¥ Tutorial Proposals Due: 30 June 2018
+Â¥ Regular Papers Due: 15 June 2018
+Â¥ Ph.D. Consortium Papers Due: 31 August 2018
+Â¥ Short Papers, Posters and Demos Due: 31 August 2018
+Â¥ Notification of Paper Acceptance: 14 September 2018
+Â¥ Camera Ready: 08 October 2018
+Â¥ Author Registration: 15 October 2018
+
+
+ORGANIZING COMMITTEE
+
+GENERAL CHAIR
+Â¥ George Angelos Papadopoulos, University of Cyprus, Cyprus
+
+PROGRAM CHAIRS
+Â¥ George Pallis, University of Cyprus, Cyprus
+Â¥ Sebastien Varrette, University of Luxembourg, Luxembourg
+
+PROGRAM TRACK CHAIRS
+Â¥ Antonio Fernandez Anta, IMDEA, Spain
+Â¥ Luiz F. Bittencourt, University of Campinas (UNICAMP), Brazil
+Â¥ Ivona Brandic, TU-Wien, Austria
+Â¥ Barbara Carminati, Insubria, Italy
+Â¥ Martin Gilje Jaatun, University of Stavanger, Norway
+Â¥ Sarunas Girdzijauskas, KTH, Sweden
+Â¥ Beniamino Di Martino, Seconda Universitaâ€™ di Napoli, Italy
+Â¥ Laura Ricci, University of Pisa, Italy
+
+WORKSHOPS & TUTORIALS CO-CHAIRS
+
+Â¥ Domenico Talia, University of Calabria, Italy
+Â¥ Dimitrios Tsoumakos, Ionian University, Greece
+
+PH.D. COMSORTIUM CHAIR
+Â¥ Achilleas Achilleos, University of Cyprus, Cyprus
+
+SHORT PAPERS, POSTERS & DEMO CHAIR
+Â¥ Ioannis Konstantinou, NTUA, Greece
+
+PUBLICITY CHAIR
+Â¥ Achilleas Achilleos, University of Cyprus, Cyprus
+
+-- 
+Dr. Ioannis Konstantinou
+Senior Researcher
+CSLAB-NTUA
++30 2107721544(int 421)
++30 6945992906
+http://www.cslab.ntua.gr/~ikons

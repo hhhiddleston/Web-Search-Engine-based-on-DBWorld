@@ -1,0 +1,145 @@
+FIRST ANNOUNCEMENT AND CALL FOR PAPERS
+
+Parallel Computational Technologies (PCT’2019),
+13th International Scientific Conference, April 1-5, 2019, Kaliningrad, Russia
+http://agora.guru.ru/pavt/eng
+https://link.springer.com/conference/pct
+
+Conference founders:
+Russian Academy of Sciences (http://www.ras.ru)
+HPC Consortium of Russian Universities (http://hpc-russia.ru)
+
+Sponsored by
+Russian Foundation for Basic Research (http://www.rfbr.ru/rffi/eng)
+
+
+WELCOME
+
+Russian Academy of Sciences, High-Performance Computing Consortium of Russian Universities, Moscow State University, Baltic Federal University, and South Ural State University are jointly organizing the 13th International Scientific Conference on Parallel Computational Technologies (PCT’2019) to be held in Kaliningrad, Russia, April 1-5, 2019.
+
+The main purpose of the PCT’2019 conference is to provide an opportunity to discuss the future of parallel computing as well as to report the results achieved by leading research groups in solving science and equipment issues using supercomputer technologies.
+
+The scope of the conference includes all aspects of high performance computing in science and technology such as applications, hardware and software, programming languages, etc.
+
+The 30th edition of Top50 of the CIS's most powerful computers will be announced on the first day of the conference.
+
+On working days of the conference, a supercomputer exhibition will be organized, where leading manufacturers of hardware and software present their latest products in the field of high performance computing.
+
+LANGUAGE
+The official languages of the Conference are Russian and English.
+
+SCOPE
+The scope of the conference includes, but not limited to, the following topics:
+* Parallel and distributed computing technologies
+* Cloud computing
+* Prospective multiprocessor architectures
+* Parallel and distributed database systems
+* High performance data mining
+* Artificial neural networks and deep learning
+* Management, administration, monitoring and testing of multiprocessor systems
+* Computational Mathematics
+* Computational Physics
+* Computational Chemistry
+* Gas hydrodynamics and heat transfer
+* High nonlinear and rapid processes in mechanics
+* Bioinformatics and medicine
+* Nanotechnology
+* Geoinformatics
+* Cryptography
+* Image processing and visualization
+* Computer algebra
+* Supercomputer education.
+
+CALL FOR PAPERS
+PCT’2019 admits papers presenting original contribution that have not been previously published and are not being submitted to another conference or journal.
+
+There are three categories of submissions:
+* Full paper describes the results of completed scientific research (12 to 15 pages in the LNCS one-column page format).
+* Short paper reports preliminary results of uncompleted scientific research (up to 12 pages in the LNCS one-column page format).
+* Abstract of the poster contains information about plans and initial results of recently started scientific research (one standard A4 page).
+
+Papers may be prepared in LaTeX or MS Word according to the LNCS one-column page format (cf. guidelines at the conference website http://agora.guru.ru/pavt2019/, "For Authors" section). Papers should be submitted electronically in PDF format through EasyChair system https://easychair.org/conferences/?conf=pct2019 by December 1, 2018. 
+
+Each paper will be reviewed by three Program Committee members and/or invited experts to ensure high quality and relevance to the conference.
+
+At least one author of the accepted paper must attend the conference and present the paper.
+
+PROCEEDINGS
+All accepted full papers will be published in Springer’s Communications in Computer and Information Science series (https://link.springer.com/conference/pct, indexed in Web of Science and Scopus), final approval pending. All accepted short papers and posters will be published electronically and indexed in Russian Science Index.
+The best short papers in English will be recommended for publication in Supercomputing Frontiers and Innovations (http://superfri.org, indexed in Scopus, Q2).
+The best short papers in Russian will be published (after further revision) in Computational Mathematics and Software Engineering series of the Bulletin of the South Ural State University (http://vestnikvmi.susu.ru/).
+
+IMPORTANT DATES
+* Submission of abstracts: November 1, 2018
+* Submission of the papers: December 1, 2018
+* Notification of acceptance: January 15, 2019
+* Camera-ready version: February 15, 2019
+* Registration for participation in supercomputer exhibition: February 25, 2019
+* Registration of participants (non-speakers): March 25, 2019
+* Conference: April 1-5, 2019
+ April 1: arrival date
+ April 2-4: conference work dates
+ April 5: departure date
+
+CONTACT INFORMATION
+
+WEB PAGES
+Conference web site: http://agora.guru.ru/pavt/eng
+Submission web site: https://easychair.org/conferences/?conf=pct2019.
+
+Leonid Sokolinsky, DSc., Prof. (SUSU, Chelyabinsk)
+Co-chair of the PCT Program Committee
+E-mail: Leonid.Sokolinsky@susu.ru
+Tel.: (+7-351) 272 35 00
+
+Mikhail Zymbler, CSc., Assoc. Prof. (SUSU, Chelyabinsk)
+Academic secretary of the PCT Program Committee
+E-mail: mzym@susu.ru 
+Tel.: (+7-351) 267 90 06, ext. 112
+
+PROGRAM COMMITTEE
+
+Chairman of the Program Committee:
+Viktor Sadovnichiy, academician of RAS, Moscow State University (Russia)
+
+Co-chairs of the Program Committee:
+Jack Dongarra, University of Tennessee (USA)
+Leonid Sokolinsky, South Ural State University (Russia)
+Vladimir Voevodin, corresponding member of RAS, Moscow State University (Russia)
+
+Academic secretary of the Program Committee:
+Mikhail Zymbler, South Ural State University (Russia)
+
+Members of the Program Committee:
+S.V. Ablameyko, Belarusian State University (Republic of Belarus)
+A.P. Afanasiev, Institute for Systems Analysis RAS (Russia)
+E.N. Akimova, Institute of Mathematics and Mechanics UrB RAS (Russia)
+A. Andrzejak, Heidelberg University (Germany)
+P. Balaji, Argonne National Laboratory (USA)
+Y.Ya. Boldyrev, Saint-Petersburg Polytechnic University (Russia)
+J. Carretero, Carlos III University of Madrid (Spain)
+R.K. Gazizov, Ufa State Aviation Technical University (Russia)
+V.P. Gergel, State University of Nizhny Novgorod (Russia)
+B.M. Glinsky, Institute of Computational Mathematics and Mathematical Geophysics SB RAS (Russia)
+V.D. Goryachev, Tver State Technical University (Russia)
+V.P. Il'in, Institute of Computational Mathematics and Mathematical Geophysics SB RAS (Russia)
+H. Kobayashi, Tohoku University (Japan)
+J. Kunkel, University of Hamburg (Germany)
+J. Labarta, Barcelona Supercomputing Center (Spain)
+A. Lastovetsky, University College Dublin (Ireland)
+T. Ludwig, German Climate Computing Center (Germany)
+V.N. Lykosov, Institute of Numerical Mathematics RAS (Russia)
+D. Mallmann, Julich Supercomputing Centre (Germany)
+M. Michalewicz, A*STAR Computational Resource Centre (Singapore)
+V.E. Malyshkin, Institute of Computational Mathematics and Mathematical Geophysics SB RAS (Russia)
+V.Ya. Modorsky, Perm Polytechnic University (Russia)
+A.V. Shamakina, High Performance Computing Center in Stuttgart (Germany)
+P. Shumyatsky, University of Brasilia (Brazil)
+H. Sithole, Centre for High Performance Computing (Republic of South Africa)
+A.V. Starchenko, Tomsk State University (Russia)
+T. Sterling, Indiana University (USA)
+M. Taufer, University of Delaware (USA)
+V.E. Turlapov, State University of Nizhny Novgorod (Russia)
+R. Wyrzykowski, Czestochowa University of Technology (Poland)
+M.V. Yakobovsky, Institute for Mathematical Modelling RAS (Russia)
+Y. Yamazaki, Federal University of Pelotas (Brazil)

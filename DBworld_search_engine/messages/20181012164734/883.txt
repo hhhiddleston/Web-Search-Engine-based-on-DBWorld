@@ -1,0 +1,134 @@
+Call for papers:
+       
+The 17th IEEE International Conference Ubiquitous Computing and Communication (IUCC 2018), 11-13 Dec. 2018, Melbourne, Australia.
+         
+Website: http://www.swinflow.org/confs/2018/iucc/
+        
+Key dates:
+Submission Deadline: August 31, 2018 (11:59pm UTC/GMT, firm) 
+Notification: September 30, 2018
+Final Manuscript Due: October 15, 2018
+         
+Submission site:http://www.swinflow.org/confs/2018/iucc/submission.htm
+        
+Publication:
+Proceedings will be published by IEEE CS Press.
+         
+Special issues:
+Distinguished papers will be selected for special issues in Information Sciences, Future Generation Computer Systems, Journal of Parallel and Distributed Computing, Concurrency and Computation: Practice and Experience
+      
+===========
+Introduction
+     
+The technologies of computing and communications have undergone a series of evolutionary innovation over the past decades and improved the quality of human life significantly. Computing and communications in the 21st century faces an ever-increasing number of great challenges and revolutionary developments. Ubiquitous Computing and Communications is a revolutionary paradigm that aims to provide pervasive and reliable computing solutions and communication services anytime and anywhere. This emerging technology is built upon the rapid research and development advances in a wide range of key areas including wireless and sensor networks, mobile and distributed computing, embedded systems, agent technologies, autonomic communication, and information security. Ubiquitous Computing and Communications has drawn significant interests from both academia and industry and continues to attract tremendous research efforts due to its promising new business opportunity in information technology and engineering.
+   
+
+The conference offers an important international platform and brings together the scientists, engineers, researchers, and students from academy and industry all over the world to share their latest work, exchange experiences and discuss the state-of-the-art challenges of ubiquitous computing and communications. IUCC 2018 is soliciting original and previously unpublished papers addressing research challenges and advances towards the design, implementation and evaluation of ubiquitous computing and communications technologies, systems and applications.
+
+
+   
+Scope and Topics
+
+Track 1: Ubiquitous Computing
+          (1) Autonomic Computing
+          (2) Utility Computing
+          (3) Cloud Computing
+          (4) Mobile Computing
+          (5) Real-Time Computing
+          (6) Grid and Peer-to-Peer Computing
+          (7) Energy-Efficient Ubiquitous Computing
+          (8) Wearable Computers
+          (9) Embedded Computing
+          (10) Parallel and Distributed Computing
+          (11) Information Visualization
+          (12) Modelling and Analysis of Ubiquitous Computing Systems
+          (13) Internet Computing
+          (14) Ambient Intelligence
+          (15) Middleware and Agent Technologies
+          (16) Reliable and Trusted Computing
+          (17) Numerical Algorithms and Analysis
+          (18) Computational Simulation and Analysis
+          (19) Computational Science
+
+
+Track 2: Ubiquitous Communications
+          (1) Autonomic Communications
+          (2) Computer Networking
+          (3) Communication Theory and Protocols
+          (4) Wireless Networks
+          (5) Cognitive Radio
+          (6) Pervasive Embedded Networks
+          (7) Ad Hoc and Sensor Networks
+          (8) RFID
+          (9) Network Middleware
+          (10) Enabling Technologies (e.g., Wireless PANs, LANs, Bluetooth)
+          (11) Location Systems and Technology
+          (12) Multimedia Communication Systems
+          (13) Human-Computer Interaction
+          (14) Mobility Management
+          (15) Future Networks and Protocols
+          (16) Web of Things
+          (17) Big Data
+          (18) Signal Processing for Communications and Networking
+          (19) Design and Implementation of Signal Processing Systems
+          (20) Multimedia Signal Processing
+   
+Track 3: Ubiquitous System, Services and Applications
+          (1) Context-Aware Applications
+          (2) Resource Management
+          (3) Programming Paradigms for Ubiquitous Computing Applications
+          (4) Smart Home
+          (5) Pervasive Health
+          (6) Ubiquitous Platforms
+          (7) Embedded Systems
+          (8) E-Commerce and E-Learning
+          (9) Multimedia Applications
+          (10) Quality-of-Service
+          (11) Information Security and Privacy
+          (12) Security Issues and Protocols
+          (13) Key Management, Authentication and Authorization
+          (14) Multimedia Information Security
+          (15) Forensics and Image Watermarking
+          (16) Distributed Sensing, Monitoring and Management Systems
+          (17) Wireless Emergency and Security Systems
+          (18) Wireless E-healthcare
+          (19) Software Engineering
+          (20) Biometrics and Human Computer Interaction
+          (21) Multidisciplinary Artificial Intelligence
+   
+Track 4: Ubiquitous Media and Signal Processing
+          (1) Ubiquitous Media Infrastructure
+          (2) Ubiquitous Sensor Networks / RFID
+          (3) 3G and Advanced Communication Techniques
+          (4) Ubiquitous Applications
+          (5) Ubiquitous Middleware
+          (6) Semantic Web and Knowledge Grid
+          (7) Signal Processing Theory and Methods
+          (8) Signal Processing for Communications and Networking
+          (9) Design and Implementation of Signal Processing Systems
+          (10) Sensor Array and Multichannel Signal Processing
+          (11) Signal Processing Education
+          (12) Audio Signal Processing
+          (13) Speech and Spoken Language Signal Processing
+          (14) Image, Video and Multidimensional Signal Processing
+
+Submission Guidelines
+Submissions must include an abstract, keywords, the e-mail address of the corresponding author and should not exceed 8 pages for main conference, including tables and figures in IEEE CS format. The template files for LATEX or WORD can be downloaded here. All paper submissions must represent original and unpublished work. Each submission will be peer reviewed by at least three program committee members. Submission of a paper should be regarded as an undertaking that, should the paper be accepted, at least one of the authors will register for the conference and present the work. Submit your paper(s) in PDF file at the submission site: http://www.swinflow.org/confs/2018/iucc/submission.htm. 
+        
+Publications
+Accepted and presented papers will be included into the IEEE Conference Proceedings published by IEEE CS Press. Authors of accepted papers, or at least one of them, are requested to register and present their work at the conference, otherwise their papers may be removed from the digital libraries of IEEE CS and EI after the conference.
+         
+Distinguished papers will be selected for special issues in Information Sciences, Future Generation Computer Systems, Journal of Parallel and Distributed Computing, Concurrency and Computation: Practice and Experience.
+        
+General Chairs
+Jes¨²s Carretero, Universidad Carlos III de Madrid, Spain
+Shonali Krishnaswamy, Swinburne University of Technology, Australia
+  
+Program Chairs
+Peter Mueller, IBM Zurich Research Laboratory, Switzerland
+Qun Jin, Waseda University, Japan
+Indrajit Ray, Colorado State University, USA
+   
+Workshop Chairs
+Xiaolong Jin, Chinese Academy of Sciences, China
+Gregorio Martinez, University of Murcia, Spain

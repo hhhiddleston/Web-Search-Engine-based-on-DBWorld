@@ -1,0 +1,34 @@
+Eotvos Lorand University,
+Faculty of Informatics,
+T-Labs Department of Data Science and Engineering,
+Budapest, Hungary
+
+The Department of Data Science and Engineering (T-Labs) at Faculty of Informatics (FI) of Eotvos Lorand University (ELTE) is seeking for a post-doctoral position in the area of Machine Learning with special focus on Text Mining.
+
+The department was launched in September 2016 as the first step in the EU Labs program of T-Labs, Deutsche Telekomâ€™s research and development arm, in collaboration with the Technical University of Berlin. The department is T-Labsâ€™ first joint applied research Lab in Hungary (http://t-labs.elte.hu).
+
+FI of ELTE is one of the top ranked faculties in computer science in Hungary, having an international standing and strong focus on R&D&I activities. EIT Digital Budapest Group initiated by FI of ELTE is a full Node of the EIT Digital network (www.inf.elte.hu, www.eitdigital.eu).
+
+Functions to be carried out:
+- Demonstration of an internationally relevant and competitive research;
+- Contributing to the department's general research activities;
+- Planning and preparing significant research funding proposals;
+- Providing help in teaching and supervision in data science related topics and research projects.
+
+Requirements:
+- PhD degree in data science related fields;
+- Distinguished research profile proven by peer-reviewed international publications or by results applied in industry.
+
+The position is offered for one year with possible extension in case of outstanding results achieved.
+Starting date for the position is as soon as possible.
+
+The salary of employee will be significantly higher than average salary in Hungary at similar positions.
+
+To apply, please submit the complete application as a ZIP archive to both tomas[dot]horvath[at]inf[dot]elte[dot]hu and horvatha[at]inf[dot]elte[dot]hu.
+The application should include
+- Cover letter;
+- CV;
+- Full list of publications (if possible, links to applicant's profiles in citation databases such that Google Scholar, DBLP, Scopus, etc.);
+- Scanned copies of your certificates and documentation of additional relevant qualifications.
+
+Applications received before 27th of August 2018 will be considered with preference.

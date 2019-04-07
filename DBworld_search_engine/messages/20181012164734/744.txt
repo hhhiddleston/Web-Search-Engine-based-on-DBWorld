@@ -1,0 +1,78 @@
+********************************************************************************************************************
+We apologize if you receive multiple copies of this BigTrust 2018 (IEEE MASS' 2018 Workshop) CFP.
+We appreciate your great help if you forward this BigTrust 2018 (IEEE MASS' 2018 Workshop) CFP to your colleagues and friends.
+
+********************************************************************************************************************
+
+BigTrust 2018 CFP: IEEE MASS' 2018 Workshop on Trust, Security and Privacy for Big Data
+ 
+Venue & Dates: 
+Chengdu, China, October 9-12, 2018
+Conference Website:
+http://res.hnu.edu.cn/hbs/Bigtrust2018/
+
+Introduction
+Big Data has the potential for enabling new insights to change science, engineering, medicine, healthcare, finance, 
+business, and ultimately society itself. Current work on Big Data focuses on information processing such as data 
+mining and analysis. However, trust, security and privacy of Big Data are vital concerns that have received less 
+research focus. Regarding the above context, this workshop proposal is aimed at bringing together people from both 
+academia and industry to present their most recent work related to trust, security and privacy issues in Big Data, 
+and exchange ideas and thoughts in order to identify emerging research topics and define the future of Big Data.
+BigTrust 2018 is a part of MASS 2018, the 15th IEEE International Conference on Mobile Ad-hoc and Sensor Systems.  
+The scope and interests for the special issue include but are not limited to the following list:
+
+Big Data Science, Foundations, and applications
+           Novel Theoretical Models for Big Data.
+           New Computational Models for Big Data.
+           Data and Information Quality for Big Data.
+           High Performance/Parallel Computing Platforms for Big Data .
+           Energy-efficient Computing for Big Data.
+           Big Data Search Architectures, Scalability and Efficiency.
+           Visualization Analytics for Big Data.
+           Data Acquisition, Integration, Cleaning, and Best Practices .
+ 
+Trust in Big Data
+           Trust semantics, metrics, and models for Big Data.
+           Trust management and evaluation for Big Data.
+           Trusted systems, software, and applications for Big Data.
+           Trusted platform implementation technologies for Big Data.
+           Information quality/trustworthiness for Big Data.
+           Provenance of content for Big Data.
+           Trustworthiness of ratings/recommender systems for Big Data.
+ 
+Security & Privacy in Big Data
+           Security model and architecture for Big Data.
+           Software and system security for Big Data.
+           Cryptography in Big Data.
+           Big Data privacy policies and standards.
+           Anonymization techniques for big data.
+           Security and Privacy in Big Data sharing and visualization.
+           Security and Privacy in Big Data access control mechanisms.
+           Security and Privacy in Big Data mining and analytics
+ 
+Submission and Publication Information
+All BigTrust 2018 presented papers will b published in the conference proceedings and submitted to IEEE Xplore. 
+Submitted papers should be written in the English language, with a maximum page limit of 6 printed pages, including 
+all the figures, references and appendices, and not published or under review elsewhere. Papers longer than 6 pages 
+will not be reviewed. 
+
+Use the standard IEEE Conference templates for Microsoft Word or LaTeX formats found at:  
+https://www.ieee.org/conferences/publishing/templates.html. Please submit your paper at 
+https://easychair.org/conferences/?conf=BigTrust2018.
+ 
+Important Dates
+(1)  Paper Submission Deadline:         July 30, 2018  
+(2)  Author Notification:                         August 15, 2018
+(3)  Camera-ready Papers Due:           September  15, 2018
+(4)  Conference Dates:                         October 9th-12th, 2018
+ 
+
+ 
+General Co-Chairs
+Qin Liu && Wenjun Jiang, Hunan University, China
+MD Zakirul Alam,  Fordham University, USA
+Ling You, National Key Laboratory of Science and Technology on Blind Signal Processing, China 
+Mingjun Xiao, University of Science and Technology of China, China
+ 
+Please email inquiries concerning BigTrust 2018 to:
+Qin Liu: gracelq628@hnu.edu.cn; gracelq628@126.com

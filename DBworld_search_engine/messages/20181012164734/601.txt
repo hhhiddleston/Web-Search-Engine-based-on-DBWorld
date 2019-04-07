@@ -1,0 +1,83 @@
+CALL FOR PAPERS
+======================================================
+Special session "Security, Privacy and Trust in the Internet of Things"
+Global Information Infrastructure and Networking Symposium (GIIS 2018)
+ 
+October 23-25, Thessaloniki, Greece
+
+Special session web page: http://giis-2018.org/wp-content/uploads/2018/07/GIIS-2018_SS3-Call_for_Papers.pdf
+Conference web page: http://giis-2018.org/
+ 
+======================================================
+ 
+ 
+Aims and Scope
+---------------
+ 
+The technological and industrial revolution brought by the Internet of Things
+(IoT) comes with new forms of threats and attacks that exploit the inherent
+complexity and heterogeneity of IoT networks. There are many recent examples
+of attacks that exploit IoT devices to perform large-scale distributed denial of
+service attacks, to spy on people, and to hijack communication links, therefore
+delivering full control of anything that is remotely accessible to an attacker. The
+special session focuses on both the theoretical & practical aspects of the
+security, privacy, and trust of IoT networks, devices, applications, and services as
+well as novel ways of dealing with their vulnerabilities and mitigating
+sophisticated cyber-attacks.
+
+Topics of interest
+-------------------
+Topics of interest include but are not limited to:
+* Blockchain applications in IoT
+* Cyber-threat intelligence
+* Game-theoretic security for IoT
+* Identity management and access control for IoT
+* IoT and cloud forensics
+* Lightweight cryptography for IoT
+* Malware detection and mitigation
+* Network intrusion detection/mitigation
+* Privacy and data protection in IoT
+* Security in mobile applications
+* System and data integrity
+* Trust management for IoT
+
+ 
+Important Dates
+---------------
+Paper submission: Initially set to July 30 2018 will be extended to August 19 2018
+Acceptance notification: September 1, 2018
+Camera-ready copies: September 15, 2018
+
+ 
+Submission Guidelines
+---------------------
+Prospective authors are invited to submit high-quality original technical papers. The manuscripts must be
+prepared in English, following IEEE two-column Manuscript Templates for Conference Proceedings
+(http://www.ieee.org/conferences_events/conferences/publishing/templates.html) with a maximum length of five
+(5) printed pages without incurring additional page charges (maximum 2 additional pages are allowed with
+over length page charge of 100â‚¬ for each page). Papers must be submited via EDAS using
+https://www.edas.info/newPaper.php?c=24414&track=92778
+
+Please note that every accepted paper must be accompanied by at least one FULL registration and must be
+presented in order to be published in the GIIS 2018 conference proceedings and IEEEXplore.
+
+Special session organizers
+-----------
+ 
+Costas Vassilakis, Department of Informatics and Telecommunications
+University of Peloponnese, Greece
+Email: costas@uop.gr
+Web: https://www.uop.gr/~costas
+
+
+Nicholas Kolokotronis
+Department of Informatics and Telecommunications
+University of Peloponnese, Greece
+Email: nkolok@uop.gr 
+Web: https://www.uop.gr/~nkolok
+
+Stavros Shiaeles, Lecturer
+Centre for Security, Communications and Network Research
+University of Plymouth,  United Kingdom
+Email: stavros.shiaeles@plymouth.ac.uk
+Web: https://www.plymouth.ac.uk/staff/stavros-shiaeles

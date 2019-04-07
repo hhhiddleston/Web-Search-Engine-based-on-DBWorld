@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/w3.css') }}">
+
+<style>
+
+  b {
+    color: red;
+  }
+
+  div.myimg img {
+    height: 200px;
+    border: 1px solid #ccc;
+    margin: 10px;
+  }
+
+  div.queryBox input {
+    font-size: 20px;
+  }
+
+  ul.pagination {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+  }
+
+  ul.pagination li {display: inline;}
+
+  ul.pagination li a {
+      color: black;
+      float: left;
+      padding: 8px 16px;
+      text-decoration: none;
+  }
+
+  ul.pagination li a.active {
+    background-color: #4CAF50;
+    color: white;
+    border: 1px solid #4CAF50;
+  }
+
+</style>
+
+<title>DBWorld Demo</title>
+</head>
+<body>
+  <br />
+  <form method="POST">
+    <div class="queryBox">
+      <a href="/">
+        <img src="{{ url_for('static', filename='dbworld-logo.png') }}" height="60" style="vertical-align:middle" />
+      </a>
+      <select style="font-size:20px" name="field">
+        <option value="0"> keyword </option>
+        <option value="1"> author </option>
+        <option value="2"> conference </option>
+        <option value="0"> location </option>
+        <option value="0"> subject </option>
+        <option value="3"> sent date</option>
+        <option value="4"> deadline </option>
+
+      </select>
+    <input type="text" name="query" size="20" value="{{ query }}">
+    <input type="submit" value="search">
+    </div>
+
+  </form>
+
+  <br/>
+  <p>{{ msg[0] }} results retrieved in {{ msg[1] }}s.</p>
+
+  {% if results %}
+		{% for (sent,author,subject,deadline,content, href, webpage, doctype) in results[(page-1)*10 : page*10] %}
+      <ul class="w3-ul w3-card-4">
+        <li>
+          <h2 class="w3-light-gray w3-text-blue-gray"> [{{ doctype }}] <span class="w3-text-black"> {{ subject|safe }} </span> </h2>
+          <h5 class="w3-text-teal"> {{ sent }} [release] <span class="w3-text-black"> ---- </span>
+            {% if deadline %}
+              <span class="w3-text-deep-orange"> {{ deadline }} [ddl] </span>
+            {% else %}
+              <span class="w3-text-deep-orange"> TBD [ddl] </span>
+            {% endif %}
+            <span class="w3-text-black"> By {{ author }} </span> </h5>
+        </li>
+        <li > DBWorld Message : <a href="{{ href }}" > {{ href }} </a> </li>
+        {% if webpage %}
+          <li> Webpage : <a href="{{ webpage }}" > {{ webpage }} </a> </li>
+        {% endif %}
+        <li> {{ content|safe }} </li>
+      </ul>
+      <br>
+		{% endfor %}
+    <!-- text pagination -->
+    <ul class="pagination">
+      <li><a href="{{ url_for('search', q=query, p=1) }}"> << </a></li>
+    {% if page<6 %}
+      {% for p_idx in range(1, page) %}
+        <li><a href="{{ url_for('search', q=query, p=p_idx) }}">{{ p_idx }}</a></li>
+      {% endfor %}
+    {% else %}
+      {% for p_idx in range(page-5, page) %}
+        <li><a href="{{ url_for('search', q=query, p=p_idx) }}">{{ p_idx }}</a></li>
+      {% endfor %}
+    {% endif %}
+      <li><a class="active" href="{{ url_for('search', q=query, p=page) }}">{{ page }}</a></li>
+    {% if (msg[0]//10) < page+5 %}
+      {% for p_idx in range(page+1, msg[0]//10 + 1) %}
+        <li><a href="{{ url_for('search', q=query, p=p_idx) }}">{{ p_idx }}</a></li>
+      {% endfor %}
+    {% else %}
+      {% for p_idx in range(page+1, page+6) %}
+        <li><a href="{{ url_for('search', q=query, p=p_idx) }}">{{ p_idx }}</a></li>
+      {% endfor %}
+    {% endif %}
+      <li><a href="{{ url_for('search', q=query, p=(msg[0]//10)) }}"> >> </a></li>
+    </ul>
+  {% endif %}
+
+</body>
+</html>

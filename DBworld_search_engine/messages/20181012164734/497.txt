@@ -1,0 +1,23 @@
+A post-doctoral researcher position is available at University of Namur (Belgium) 
+Faculty of Computer Science - PReCISE research center - Namur Digital Institute.
+
+The position will be fixed-term for 2 years, with possibility of extension.
+
+The prestigious 4-year Belgian Excellence of Science research project SECO-ASSIST is a joint project between software engineering labs in 4 universities in Belgium (UMONS, UAntwerpen, UNamur and VUB), financed by the FWO and FNRS funding agencies. Belgium is centrally located in Europe, and the labs are well-connected to other research teams worldwide. A research position in our groups is an ideal stepping stone for an independent research career in academia or industry. Our teams host researchers of various nationalities, hence the working language will be English.
+
+SECO-ASSIST (Automated Assistance for Developing Software in Ecosystems of the Future)  will focus on fundamental research on recommendation techniques for software ecosystems, in collaboration with 4 principal investigators: Tom Mens (UMONS), Serge Demeyer (UAntwerpen), Anthony Cleve (UNamur) and Coen De Roover (VUB). 
+
+This announcement invites interested applicants to join the database engineering and evolution team at University of Namur as post-doctoral researcher, and contribute to the work package dedicated to improving  database manipulation in software ecosystems. Indeed, improper use of database technologies is a considerable bottleneck in data-intensive software systems. Recommendation techniques should improve database manipulation by analysing good and bad database usage in comparable systems within the same ecosystem. 
+
+You will have a PhD in a technological / engineering area relevant to software enginering or data management. You will need to have strong presentation, writing and development skills as well as experience with one or more of the following:  data analysis techniques, relational/non-relational data persistence and querying technologies, object-oriented programming, static and dynamic program analysis techniques, and language engineering/meta-programming frameworks, empirical studies. You will have experience or a good potential to mentor PhD students working in the SECO-ASSIST project.
+
+Official applications should be submitted at your earliest convenience to anthony.cleve@unamur.be and should include:
+- A short motivation letter. 
+- Earliest available starting date. The starting date is negotiable, no later than January 1, 2019.
+- Curriculum vitae with a list of publications and previous positions held. We prefer terse CVs that focus on quality rather than quantity.
+- A digital copy of one to three (co-)authored publications demonstrating some of the expected expertise.
+
+Deadline for submissions: September 21, 2018.
+Submissions received  after that date are welcome and will be considered as long as the position remains available.
+
+We encourage applicants to reach out to us before applying.

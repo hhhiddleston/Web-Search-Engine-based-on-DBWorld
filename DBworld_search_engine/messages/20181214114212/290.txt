@@ -1,0 +1,124 @@
+    Job Vacancy at Shenzhen Institute of Computing Sciences (SICS)
+
+
+Shenzhen Institute of Computing Sciences (SICS) is recruiting 3 research
+fellows, 2 research scientists and 1 senior research scientist. 
+
+Grade:
+ - Research fellow: SICS06 (600,000 -- 790,000 CNY)
+ - Research Scientist: SICS07 (800,000 -- 990,000 CNY)
+ - Senior Research Scientist: SICS 08 (1M -- 1.2M CNY)
+
+Shenzhen Institute of Computing Sciences (SICS) is a newly established
+research institute, funded by the municipal government of Shenzhen, China. 
+The institute has committed to promoting and advancing fundamental
+research in China, and taking global lead in research areas in connection
+with big data analytics. It currently hosts two Academicians of Chinese
+Academy of Sciences, a Fellow of the Royal Society (FRS), and a dozen
+visiting world-leading researchers from Europe and the US each year.
+Its current research covers a wide range of areas including, but not only,
+the following topics:
+
+ - Big data analytics under constrained resources
+ - Explainable AI by combining statistical and logical methods
+ - Parallel complexity 
+ - Parallel computation models
+ - Incremental computation theory
+ - Approximation theory and practice
+ - Data pricing, sharing and marketing
+ - Data quality
+ - Distributed graph systems
+ - SQL-over-NoSQL systems
+ - Social media marketing
+ - Fraud detection
+
+While the positions are primarily open to data management researchers
+with a promising publication record, all applicants who have, or expect
+to have, a PhD in computer science will be considered. Skills in logic,
+complexity, approximation theory, parallel computation, incremental
+computation, data quality, database systems, distributed systems, and
+systems building experience are particularly valuable.
+
+SICS offers the following unique opportunities to its researchers.
+
+- To work along with world-leading researchers, who are committed to
+  recommending bright young researchers to top universities in China
+  and abroad, at the levels of Associate Professor and Full Professor,
+
+- To build your own startup. SICS is committed to supporting and funding
+  commercialization of research outcomes with a high potential practical
+  impact.
+
+- To affiliate with Shenzhen University and Peking University Shenzhen
+  Graduate School. SICS researchers can teach and supervise graduate
+  students at the universities, either as faculty or adjunct.
+
+- To collaborate with industry in China. SICS has forged collaborations with
+  industry in China, including Huawei Technologies and Alibaba Group, and
+  encourages technology transfer. 
+
+- To work and live in a most  "livable" city in China. SICS is based in Shenzhen, a
+  modern and attractive city right next to Hong Kong. It is the fastest developing city
+  of great expectation, or "city of ambition".
+
+- To work in a friendly and pleasant environment. SICS is seriously committed to
+  providing its researchers with a culture and workplace to focus on
+  research and research along, free of office politics and funding pressure.
+  
+- Salary competitive to industry. SICS offers a package of salary, compensation,
+  reward, bonus and housing benefits comparable to (and better than to some
+  extent) what you can get from industry.
+
+Potential applicants are invited to send your CV statement of research interests to sics-hr@qq.com
+  
+We invite outstanding and motivated researchers to join forces with us,
+to make a history of fundamental research in China!
+
+                       
+                       
+                       ÉîÛÚ¼ÆËã¿ÆÑ§ÑÐ¾¿ÔºÓ¢ÐÛÌû
+
+ÉîÛÚ¼ÆËã¿ÆÑ§ÑÐ¾¿Ôº£¨SICS£©ÏÖÕý»ðÈÈÕÐÆ¸ÈçÏÂ¸ÚÎ»£º
+
+ - ÑÐ¾¿Ô±         3Ãû
+ - ÑÐ¾¿¿ÆÑ§¼Ò     2Ãû
+ - ¸ß¼¶ÑÐ¾¿¿ÆÑ§¼Ò 1Ãû
+
+ÎÒÃÇ½«Îª²»Í¬¶¨¼¶µÄÑÐ¾¿Ô±¼°¿ÆÑ§¼ÒÌá¹©¸»ÓÐ¾ºÕùÁ¦Ð½³ê´ýÓö£º
+
+ - ÑÐ¾¿Ô±£¨SICS06£©         ÄêÐ½     600,000 - 790,000 CNY
+ - ÑÐ¾¿¿ÆÑ§¼Ò£¨SICS07£©     ÄêÐ½     800,000 - 990,000 CNY
+ - ¸ß¼¶ÑÐ¾¿¿ÆÑ§¼Ò£¨SICS08£© ÄêÐ½ 1,000,000 - 1,200,000 CNY
+
+ÉîÛÚ¼ÆËã¿ÆÑ§ÑÐ¾¿Ôº£¨SICS£©ÊÇÓÉÉîÛÚÊÐÕþ¸®Åú×¼³ÉÁ¢µÄÐÂÉè»ù´¡ÑÐ¾¿»ú¹¹¡£ÑÐ¾¿ÔºÖÂÁ¦ÓÚ´Ù½øºÍÍÆ¶¯ÖÐ¹ú¼ÆËã¿ÆÑ§ÁìÓòµÄ»ù´¡ÑÐ¾¿£¬²¢ÔÚÈ«Çò´óÊý¾Ý·ÖÎöÑÐ¾¿ÁìÓò·¢»ÓÒýÁì×÷ÓÃ¡£ÑÐ¾¿ÔºÏÖÓÐÁ½ÃûÖÐ¹ú¿ÆÑ§ÔºÔºÊ¿¡¢Ò»ÃûÓ¢¹ú»Ê¼ÒÑ§»áÔºÊ¿£¨FRS£©¡¢ÒÔ¼°Ã¿ÄêÊ®ÓàÃûÀ´×ÔÅ·ÖÞºÍÃÀ¹úµÈµÄÊÀ½ç¶¥¼â·ÃÎÊÑÐ¾¿ÈËÔ±¡£
+ÑÐ¾¿ÔºÑÐ¾¿ÁìÓò¹ã·º£¬°üÀ¨µ«²»½öÏÞÓÚÒÔÏÂ·½Ïò£º
+
+ - ×ÊÔ´ÊÜÏÞµÄ´óÊý¾Ý·ÖÎö
+ - »ùÓÚÍ³¼ÆºÍÂß¼­·½·¨µÄÈË¹¤ÖÇÄÜ¿É½âÊÍÐÔ
+ - ²¢ÐÐ¸´ÔÓÐÔ
+ - ²¢ÐÐ¼ÆËãÄ£ÐÍ
+ - ÔöÁ¿¼ÆËãÀíÂÛ
+ - ½üËÆ¼ÆËãÀíÂÛÓëÏµÍ³
+ - Êý¾Ý¶¨¼Û¡¢¹²ÏíºÍ½»Ò×
+ - Êý¾ÝÖÊÁ¿
+ - ·Ö²¼Ê½Í¼¼ÆËãÏµÍ³
+ - SQL-over-NoSQLÏµÍ³
+ - Éç½»ÍøÂç¾«×¼ÓªÏú
+ - ·´½ðÈÚÆÛÕ©
+
+Ö°Î»ÃæÏò¶ÔÏóÓ¦ÊÇÊý¾ÝÑÐ¾¿ÁìÓòµÄÑÐ¾¿ÈËÔ±£¬ÓÐÁ¼ºÃµÄÂÛÎÄ·¢±í¾­Àú£¬Ó¦¾ßÓÐ»ò¼´½«»ñµÃ¼ÆËã»ú¿ÆÑ§Ïà¹Ø×¨ÒµµÄ²©Ê¿Ñ§Î»¡£¾ß±¸ÈçÏÂÁìÓòµÄ»ù´¡½«±»ÓÅÏÈ¿¼ÂÇ£ºÂß¼­£¬¸´ÔÓÐÔ£¬½üËÆ¼ÆËãÀíÂÛ£¬²¢ÐÐ¼ÆËã£¬ÔöÁ¿¼ÆËã£¬Êý¾ÝÖÊÁ¿£¬Êý¾Ý¿â£¬·Ö²¼Ê½ÏµÍ³£¬ÒÔ¼°ÏµÍ³¼¶¿ª·¢¾­Àú¡£
+
+
+¼ÓÈëSICS£¬Äã½«»ñµÃÒÔÏÂµÃÌì¶ÀºñµÄ×ÊÔ´Ìõ¼þ£º
+
+ - ÓëÊÀ½ç¶¥¼âÑÐ¾¿ÈËÔ±¹²ÊÂµÄ»ú»á£¬ÇÒÓÐ»ú»á±»ÍÆ¼öÖÁÖÐ¹ú¼°ÊÀ½ç¶¥¼âÑ§¸®µÄ¸±½ÌÊÚ¡¢½ÌÊÚÖ°Î»¡£
+ - SICS½«²»ÒÅÓàÁ¦µØÖ§³ÖºÍ×ÊÖúÓÐÇ±Á¦µÄ¼¼ÊõÏîÄ¿Í¶ÈëÊÐ³¡ºÍÉÌÒµ»¯¡£
+ - SICSÓëÉîÛÚ´óÑ§ºÍ±±¾©´óÑ§ÉîÛÚÑÐ¾¿ÉúÔºÁªÏµÃÜÇÐ£¬SICS¿ÆÑÐÈËÔ±¿ÉÔÚÏà¹Ø¸ßÐ£µ£ÈÎ½ÌÊÚ¡¢¿Í×ù½ÌÊÚ¸ÚÎ»²¢Ö¸µ¼ÑÐ¾¿Éú¡£
+ - SICS¾ÛºÏ°üÀ¨»ªÎª¡¢°¢Àï°Í°Í¼¯ÍÅµÈÖÐ¹úITÐÐÒµÓÅÖÊ×ÊÔ´£¬ÊµÏÖÑÐ¾¿³É¹ûÉÌÒµ»¯¡£
+ - ÊæÊÊµÄÉú»î»·¾³£ºSICS×Ü²¿Î»ÓÚÉîÛÚÊÐºËÐÄÇøÓò¡£ÉîÛÚÓÖ³Æ¡°Åô³Ç¡±£¬ÅþÁÚÏã¸Û£¬ÊÇ³äÂú»îÁ¦µÄÏÖ´ú»¯¶¼ÊÐ¡¢¹ú¼Ê¿Æ¼¼²úÒµ´´ÐÂÖÐÐÄ¡¢¹ú¼ÊÐÔ×ÛºÏ½»Í¨ÊàÅ¦£¬Ò²ÊÇÖÐ¹ú×î¡°ÒË¾Ó¡±µÄ³ÇÊÐÖ®Ò»¡£
+ - ÊæÐÄµÄ¹¤×÷»·¾³£ºSICS½«ÖÂÁ¦ÎªÑÐ¾¿ÈËÔ±´òÔìÀíÏëµÄÎÄ»¯·ÕÎ§ºÍ¹¤×÷³¡Ëù£¬ÑÐ¾¿ÈËÔ±¿ÉÒÔÈ«ÐÄ¿ÆÑÐ£¬¾­·Ñ³ä×ã£¬ÃâÊÜÐÐÕþËöÊÂ·³ÈÅ¡£
+ - ¿ÉÓë¹¤Òµ½çæÇÃÀµÄÐ½³ê¡¢½±½ð¼°ÈË²Å°²¾Ó·¿µÈÒ»ÕûÌ×Íê±¸µÄ¸£ÀûÌåÏµ¡£
+
+ÎÞÏÞ¹ãÄÉÓ¢²Å£¬»¶Ó­ÇóÖ°Õß·¢ËÍ¼òÀú¼°¿ÆÑÐ¹¹ÏëÖÁ£ºsics-hr@qq.com £¬»¶Ó­´¹Ñ¯¡£
+
+SICSµÄÄ¿±êÊÇ½¨ÉèÊÀ½çµÄ¼ÆËãÑÐ¾¿Ôº£¬ÖÐ¹úµÄ±´¶ûÊµÑéÊÒ¡£³ÏÑû½Ü³öµÄÄãÓëÎÒÃÇ¹²Í¬¿ª´´ÖÐ¹ú¼ÆËã¿ÆÑ§ÑÐ¾¿µÄÎ°´óÆªÕÂ£¡

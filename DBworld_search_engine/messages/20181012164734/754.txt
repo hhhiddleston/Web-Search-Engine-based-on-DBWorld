@@ -1,0 +1,155 @@
+                         CALL FOR PAPERS
+
+                           TurkMIA 2018
+
+       11th Congress of Turkish Medical Informatics Association
+                   (http://www.turkmia.org/kongre2018)
+
+11th Annual Congress of Turkish Medical Informatics Association (TurkMIA2018) 
+offers an opportunity to present and discuss both theoretical and empirical 
+researches about Medical Informatics. 
+
+This year main theme was chosen as "Imaging Informatics", which is also known 
+as radiology informatics or medical imaging informatics, is a subspecialty 
+of biomedical informatics that aims to improve the efficiency, accuracy, usability  and reliability of medical imaging services within the healthcare
+enterprise. It is  devoted to the study of how information about and 
+contained within medical images is retrieved, analyzed, enhanced, and 
+exchanged throughout the medical  enterprise. 
+
+We invite researcher and practitioners to submit their recent and unpublished 
+works related with medical informatics methods as well as systems and 
+applications are both welcome. Relevant topics include, but are not restricted to, the following topics:
+
+* Medical Imaging
+* Knowledge Management
+* Decision Support Systems
+* Data Mining
+* Telemedicine
+* Confidentiality and Data Security
+* Databases and Datawarehousing
+* Cognitive Informatics
+* Mobile Technologies for Healthcare Applications
+* Evaluation and Use of Healthcare IT
+* Healthcare Management Systems
+* Electronic Health Records and Standards
+* Software Systems in Medicine
+* Pervasive Health Systems and Services
+* Wearable Health Informatics
+* Data Visualization
+* Pattern recognition and Machine Learning
+* Human-Machine Interfaces
+* Nursing Informatics
+* Home Monitoring and Assistive Technologies
+* e-Health Applications
+* Application of Health Informatics in Clinical Cases
+* Interoperability and data integration
+* Wellbeing Informatics
+* Big data in Healthcare
+
+Submission
+==========
+Submissions must satisfy the guidelines set by Springer in the LNCS series 
+(see the Website for details). Submissions will be peer reviewed and accepted
+papers will be selected for oral or poster presentation. All accepted papers
+will be published electronically by CEUR-WS on-line proceedings series 
+(Application pending), which is indexed by DBLP and Scopus. Authors of 
+accepted papers can choose not to have their papers published in the CEUR-WS collection. 
+
+Official languages of congress are English and Turkish. However, English 
+title and abstract must be provided for submissions written in Turkish.  
+
+Authors are invited to submit one of the following types of contributions:
+
+* Full original papers (up to 12 pages);
+* Short papers, descriptions of ongoing projects or preliminary
+ results (up to 4 pages).
+
+Submission page: https://easychair.org/conferences/?conf=turkmia2018
+
+Important Dates
+===============
+Paper Submission due 14 September 2018 
+Notification of acceptance 12 October 2018 
+Camera-ready Submission 26 October 2018 
+Congress takes place  16-17 November 2018
+Registration
+Registration to congress is 100 euro, including lunches and coffee breaks. 
+
+Venue 
+=====
+Hacettepe University Kultur Merkezi 
+Sihhiye, Ankara,  
+Turkey 
+
+Contacts 
+========
+Gokhan Karakulah, Congress Secretary 
+gokhan.karakulah@deu.edu.tr
+
+
+
+COMMITTEES
+
+Conference Chair
+================
+Oguz Dicle, Dokuz Eylül University, Turkey
+
+Local Organizing Committee
+==========================
+Adil Alpkocak, Dokuz Eylul University, Turkey 
+Gökhan Karakulah, Dokuz Eylul University, Turkey 
+Mustafa Ozmen, Hacettepe University, Turkey 
+Nese Zayim, Akdeniz University, Turkey 
+Oguz Dicle, Dokuz Eylul University, Turkey 
+Utku Senol, Akdeniz University, Turkey 
+Yesim Aydin Son, METU, Turkey
+
+Program Committee Chair
+=======================
+Adil Alpkocak, Dokuz Eylul University, Turkey
+
+Program Committee
+=================
+Adil Alpkocak, Dokuz Eylul University, Turkey 
+Ahmet Yardimci, Akdeniz University, Turkey 
+Alejandro, Rodriguez, Universidad PolitŽcnica de Madrid, Spain 
+Alessio Bottrighi, Universitˆ del Piemonte Orientale, Italy 
+Angelo Gargantini, University of Bergamo, Italy 
+Christoph M. Friedrich, Univ. of Applied Science and Arts Dortmund, Germany 
+Cristina Drugan, Iuliu Hatieganu Univ. of Medicine and Pharmacy, Romania 
+Eleni Kaldoudi, Democritus University of Thrace, Greece 
+George Drosatos, Democritus University of Thrace, Greece 
+George Sakellaropoulos, University of Patras, Greece 
+Guilherme Campos, University of Aveiro, Portugal 
+Hammadi Nait Charif, Bournemouth University, England 
+Janusz Wojtusiak, George Mason University, USA 
+Jose Luis Oliveira, University of Aveiro, Portugal 
+Juan Miguel G—mez-Berb’s, Universidad Carlos III de Madrid, Spain 
+Kemal Turhan, Karadeniz Technical University, Turkey 
+Kemal Hakan GŸlkesen, Akdeniz University, Turkey 
+Liliana Dobrica, University Politehnica of Bucharest, Romania 
+Marc Cavazza, University of Greenwich, England 
+Marcos Rodrigues,Sheffield Hallam University, England 
+Mihail Cocosila, Athabasca University, Canada 
+Nese Zayim, Akdeniz University, Turkey 
+Oguz Dicle, Dokuz Eylul University, Turkey 
+Omar Badreddin, University of Texas, El Paso, USA 
+Osman Saka, Near East University, Cyprus 
+Ozgur Tosun, Near East University, Cyprus 
+Payam Behzadi,  Islamic Azad University, Iran 
+Selen Bozkurt, Akdeniz University, Turkey 
+Tahir Hameed, SolBridge International School of Business, South Korea 
+Ugur Bilge,Akdeniz University, Turkey 
+Utku Senol,Akdeniz University, Turkey 
+Vimla Patel,The New York Academy of Medicine, USA 
+Yesim Aydin Son, Middle East Technical University, Turkey 
+Yilmaz Kemal Yuce, Alanya Alaattin Keykubat University, Turkey
+
+
+
+
+
+
+
+
+ 

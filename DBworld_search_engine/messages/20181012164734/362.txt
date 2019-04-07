@@ -1,0 +1,53 @@
+============================
+Open Computer Science (www.degruyter.com/view/j/comp)
+Topical Issue on Intelligent Methods for Textual Information Retrieval
+============================
+Call for Papers: www.degruyter.com/page/1831
+Submission deadline: 20th February 2019
+============================
+EDITED BY
+Guest Editors:
+Adrian-Gabriel Chifu, Aix-Marseille UniversitÃ©, France
+SÃ©bastien Fournier, Aix-Marseille UniversitÃ©, France
+Advisory Editor:
+Patrice Bellot, Aix-Marseille UniversitÃ© / CNRS, France 
+============================
+DESCRIPTION
+Machine learning approaches for intelligent text mining and retrieval are actively studied by researchers in natural language processing, information retrieval and other related fields. While supervised methods usually attain much better performance than unsupervised methods, they also require annotated data which is not always available or easy to obtain. Hence, we encourage the submission of supervised, unsupervised or hybrid methods for intelligent text retrieval tasks. Methods studying alternative learning paradigms, e.g. semi-supervised learning, weakly-supervised learning, zero-shot learning, but also transfer learning, are very welcome as well.
+This thematic special issue covers three research areas: natural language processing, computational linguistics and information retrieval. The submissions may address, but are not limited to, the following topics:
+â€“ information retrieval
+â€“ information extraction
+â€“ query processing
+â€“  word sense disambiguation/discrimination
+â€“  machine learning in NLP
+â€“  sentiment analysis and opinion mining
+â€“  contradiction and controversy detection
+â€“  social media
+â€“  summarization
+â€“  text mining
+â€“  text categorization and clustering 
+The submitted papers will undergo peer review process before they can be accepted. Notification of acceptance will be communicated as we progress with the review process.
+============================
+HOW TO SUBMIT
+Before submission authors should carefully read the Instruction for Authors:
+www.degruyter.com/view/supplement/s22991093_Instruction_for_Authors.pdf 
+Manuscripts can be written in TeX, LaTeX (strongly recommended) - the journalâ€™s LATEX template. Please note that we do not accept papers in Plain TEX format. Text files can be also submitted as standard DOCUMENT (.DOC) which is acceptable if the submission in LATEX is not possible. For an initial submission, the authors are strongly advised to upload their entire manuscript, including tables and figures, as a single PDF file.
+
+All submissions to the Topical Issue must be made electronically via online submission system Editorial Manager: 
+www.editorialmanager.com/opencs/
+All manuscripts will undergo the standard peer-review procedure (single blind, at least two independent reviews). When entering your submission via online submission system please choose the article type â€œTI on Information Retrievalâ€.
+
+The deadline for submission is 20th February 2019, but individual papers will be reviewed and published online on an ongoing basis.
+
+Contributors to the Topical Issue will benefit from:
+â€“ NO submission and publication FEES
+â€“  indexation by Clarivate Analytics - Web of Science (ESCI) and SCOPUS
+â€“  fair and constructive peer review provided by experts in the field
+â€“  no space constraints
+â€“  convenient, web-based paper submission and tracking system â€“ Editorial Manager
+â€“  free language assistance for authors from non-English speaking regions
+â€“  fast online publication upon completing the publishing process
+â€“  better visibility due to Open Access
+â€“  long-term preservation of the content (articles archived in Portico)
+â€“  extensive post-publication promotion for selected papers
+In case of any questions please contact Dr. Justyna Å»uk, Managing Editor, Justyna.Zuk@degruyteropen.com.We are looking forward to your submission.

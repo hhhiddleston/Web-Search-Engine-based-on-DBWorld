@@ -1,0 +1,94 @@
+Call For Papers
+
+Seventh International Conference on Future Generation Communication Technologies (FGCT 2018)
+Xi’an Jiaotong-Liverpool University, Suzhou, Jiangsu, China
+November 19-21, 2018
+http://www.socio.org.uk/fgct
+
+In the last decade, a number of newer communication technologies have been evolved, which have a significant impact on the technology, as a whole. The impact ranges from incremental applications to dramatical breakthrough in the society. Users rely heavily on broadcast technology, social media, mobile devices, video games and other innovations to enrich the learning and adoption process.
+
+The Seventh International Conference on Future Generation Communication Technologies (FGCT 2018) conference is designed for teachers, administrators, practitioners, researchers and scientists in the development arenas. It aims to provide discussions and simulations in the communication technology at the broad level and broadcasting technology and related technologies at the micro level. Through a set of research papers, using innovative and interactive approach, participants can expect to share a set of research that will prepare them to apply new technologies to their work in teaching, research and educational development amid this rapidly evolving landscape.
+
+Topics discussed in this platform are not limited to-
+
+ Emerging cellular and new network architectures for 5G
+ New antenna and RF technology for 5G wireless
+ Modulation algorithms
+ Circuits, software and systems for 5G
+ Convergence of multi-modes, multi-bands, multi-standards and multi- applications in 5G systems
+ Cognitive radio and collaborative transmissions in 5G
+ Computing and processing platform for 5G
+ Programming models and development tools to enable 5G systems
+ Small cells and heterogeneous networks
+ Metrics and Evaluation of 5G systems
+ Standardization of 5G
+ Deployment options such as small cells, eICIC, MIMO and CoMP
+ LTE/WiFi interworking, carrier aggregation, dual connectivity
+ C-RAN, D-RAN, mmWave, Massive MIMO and ultra-low latency
+ Higher protocol layers
+ Latency and traffic scheduling
+ Broadcast technology
+ Future Internet and networking architectures
+ Future mobile communications
+ Mobile Web Technology
+ Mobile TV and multimedia phones
+ Communication Security, Trust, Protocols and Applications
+ Communication Interfaces
+ Communication Modelling
+ Satellite and space communications
+ Communication software
+ Future Generation Communication Networks
+ Communication Network Security
+ Communication Data Grids
+ Collaborative Communication Technology
+ Intelligence for future communication systems
+ Forthcoming optical communication systems
+ Communication Technology for Elearning, Egovernment, Ebusiness
+ Games and games designing
+ Social technology devises, tools and applications
+ Crowdsourcing and Human Computation
+ Human-computer communication
+ Pervasive Computing
+ Grid, crowd sourcing and cloud computing
+ Hypermedia systems
+ Software and technologies for E-communication
+ Intelligent Systems for E-communication
+ Future Cloud for Communication
+ Future warehousing
+ Future communication for healthcare and medical devices applications
+ Future communication for Mechatronic applications
+
+All presented papers in the conference will be published in the proceedings of the conference and submitted to the IEEE Xplore Digital Library.
+
+The selected papers after extension and modification will be published in many peer reviewed and indexed journals.
+
+International Journal of Computational Science and Engineering (Scopus and EI Indexed) 
+Technologies (Scopus/EI) 
+Australian Journal of Telecommunications and the Digital Economy (Scopus/EI)
+Journal of Digital Information Management  
+
+Important Dates
+
+Submission of Papers: September 25, 2018
+Notification of Acceptance: October 20, 2018
+Camera Ready: November 10, 2018
+Registration: November 10, 2018
+Conference Dates: November 19-21, 2018
+
+Programme Committee
+
+General Chair
+Ezendu Ariwa, UK IEEE Chair for TEMS, UK
+
+Programme Chairs
+Yong Yue, Xi’an Jiaotong-Liverpool University (XJTLU), China
+Adrian FLOREA, Lucian Blaga” University of Sibiu, Romania
+
+Programme Co-Chairs
+Ali Aloa, UK IEEE Secretary for TEMS, UK UK
+Pavel Loskot, University of Swansea, UK
+
+Submissions at-http://www.socio.org.uk/fgct/paper-submission/
+
+contact: fgct@socio.org.uk
+---------------------------------

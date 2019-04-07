@@ -1,0 +1,81 @@
+ï»¿Submission Deadline Extended to:
+Monday, 20 August 2018
+
+========================================================================
+CALL FOR PAPER
+
+The 8th International Workshop on Context-Aware and IoT Services (CIoTS 2018)
+In conjunction with The 16th International Conference on Service Oriented Computing
+https://ciots2018.aut.ac.nz/
+November 12, 2018, Hangzhou, China
+
+New Paper submission:  20 August, 2018
+Author notification:    14 September, 2018 
+Camera-ready full papers:   1 October, 2018  
+========================================================================
+PAPER PUBLICATION
+
+All accepted papers will be published in Springer LNCS series, which is indexed by EI, ISI Conference Proceedings Citation Index (CPCI-S), Scopus etc.
+http://www.springer.com/computer/lncs?SGWID=0-164-6-1068921-0
+
+We are organising a special issue with a SCI-Indexed Journal in 2019. 
+Authors of high-quality submissions will be invited.
+========================================================================
+
+We are pleased to invite you once again to participate in the premier annual event of 8th International Workshop on Context-Aware and IoT Services (CIoTS 2018).
+Context-awareness, the capability of a system to sense and react based on its environment, is an intrinsic feature for Internet of Things (IoT) applications and services in which digital and physical things or objects such as sensors, smart devices, and vehicles connect and communicate. Context-aware IoT services is one of the most exciting trends in computing today that holds the potential to make our daily life more productive, convenient and enjoyable.
+With a special attention to the modern IoT systems, the topics of this workshop cover all the aspects of context-aware processes, services and data in the service-oriented computing field ranging from its theoretical foundations, support infrastructures and middleware, engineering approaches, to their applications and case studies.
+Building on the previous success, CIoTS 2018 provides a forum for researchers and practitioners to exchange new ideas, developments, and experiences in the context-aware and IoT services field. We welcome technical manuscripts about recent developments in the general areas of service-oriented computing, internet and web of things, cloud computing, ubiquitous computing, and complex networks.
+This year the workshop is co-located with the 16th International Conference on Service Oriented Computing (ICSOC 2018) is the top international forum for academics, industry researchers, developers, and practitioners to report and share ground-breaking research work in service-oriented computing. fosters cross-community scientific excellence by gathering experts from various disciplines, such as business-process management, distributed systems, computer networks, wireless and mobile computing, cloud computing, cyber-physical systems, networking, scientific workflows, services science, data science, management science, and software engineering.
+========================================================================
+TOPICS OF INTEREST
+
+Topics of interests include, but are not limited to:
+
+â€¢ IoT services
+â€¢ Context-aware IoT middleware
+â€¢ Real-time context-aware services
+â€¢ Smart decision-making based on IoT information
+â€¢ Ambient intelligence and smart sensor networks for personalized services
+â€¢ Complex service social networks
+â€¢ Context-aware service discovery in large-scale IoT environment
+â€¢ Context modelling languages
+â€¢ Context provisioning
+â€¢ Context-awareness and big data
+â€¢ Social context acquisition, modelling and integration
+â€¢ Context-aware IoT processes modelling and execution
+â€¢ Visualization of context
+â€¢ Context-aware recommendation
+â€¢ Software agents and context-aware services
+â€¢ Context-aware mobile computing and applications
+â€¢ Security and privacy for context-aware services
+â€¢ Context awareness and IoT services standards
+â€¢ Pilots and real-world applications
+â€¢ User experience of context-aware personalized services
+â€¢ User behaviour analysis and modelling
+â€¢ Localization and Tracking
+
+========================================================================
+PAPER FORMAT & SUBMISSION
+
+Unpublished papers reporting original research results and experience are solicited. Each paper, written in English, should be between 8 and 12 Springer's LNCS pages long (Springer LNCS format, http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0), including references and Illustrations. Electronic submissions in PDF format are strongly recommended. Submission of a paper should be regarded as an undertaking that, should the paper be accepted, at least one of the authors will attend the workshop to present the paper. 
+
+To submit your paper, please log into the submission website at
+
+https://easychair.org/conferences/?conf=ciots2018
+
+========================================================================
+General Chairs
+ Yanbo Han, North China University of Technology, China
+ Liang Zhang, Fudan University, China
+Programme Chairs
+Jian Yu, Auckland University of Technology, New Zealand
+Guiling Wang, North China University of Technology, China
+Sira Yongchareon, Auckland University of Technology, New Zealand
+
+========================================================================
+CONTACT
+
+Jian Yu 
+Guiling Wang  
+Sira Yongchareon 

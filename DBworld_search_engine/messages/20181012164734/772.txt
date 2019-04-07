@@ -1,0 +1,50 @@
+             4th International Conference on Software Engineering and Applications (SOFEA-2018)
+                              https://csen2018.org/sofea/index.html
+                                  August 25-26, 2018 Dubai, UAE
+
+Call for Papers
+***************
+
+4th International Conference on Software Engineering and Applications (SOFEA-2018) is a forum for presenting new advances and research results in the fields of Software Engineering and Applications. The conference will bring together leading researchers, engineers and scientists in the domain of interest from around the world in these areas.
+Authors are solicited to contribute to the conference by submitting articles that illustrate research results, projects, surveying works and industrial experiences that describe significant advances in the areas of Software Engineering and Applications.
+
+Topics of Interest
+**********************
+** Advances in Software Engineering
+** Knowledge-based Systems and Formal Methods
+** Languages and Formal Methods
+** Managing Software Projects
+** Multimedia and Visual Software Engineering
+** Quality Management
+** Search Engines and Information Retrieval
+** Software Engineering Decision Making
+** Software Engineering Practice
+** Software Maintenance and Testing
+** Software Process
+** Web Engineering
+** Web-based Education Systems and Learning Applications
+
+Paper submission
+********************
+Authors are invited to submit papers through the conference Submission system by July 29, 2018. Submissions must be original and should not have been published previously or be under consideration for publication while being evaluated for this conference. The proceedings of the conference will be published by Computer Science Conference Proceedings in Computer Science & Information Technology (CS & IT) series (Confirmed).
+
+Selected papers from SOFEA 2018, after further revisions, will be published in the special issues of the following journals.
+
+**International Journal of Software Engineering & Applications (IJSEA)
+**Computer Science & Engineering: An International Journal (CSEIJ)
+**International Journal of Security, Privacy and Trust Management (IJSPTM)
+
+Submission Link: https://csen2018.org/submission/index.php
+
+Webpage URL :https://csen2018.org/sofea/index.html
+
+Important Dates
+***************
+
+** Submission Deadline :July 29, 2018
+** Authors Notification : August 05, 2018
+** Camera-Ready Paper Due : August 15, 2018
+
+Contact Us:
+**************
+Here’s where you can reach us: sofeaconf@yahoo.com (or) sofea@csen2018.org

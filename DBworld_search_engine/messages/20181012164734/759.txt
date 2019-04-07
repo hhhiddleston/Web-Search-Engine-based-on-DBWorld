@@ -1,0 +1,34 @@
+**********************************************************************
+Information journal (ISSN 2078-2489)
+Special Issue on "Advanced Learning Methods for Complex Data"
+http://swlab.unica.it/special_issue/advanced_learning_methods_for_complex_data
+Deadline for manuscript submissions: 15 SEPTEMBER 2018
+
+Indexed on: Scopus, Web of Science, DBLP, Scholar and many other index databases (see https://goo.gl/1NqW5q)
+**********************************************************************
+
+Since the introduction of process modeling for knowledge discovery, the importance of data mining methods has increased dramatically, making this research area relevant and challenging to extract actionable knowledge from complex data. In recent years, new algorithms and machine learning methods have been experimented with to deal with domains that present multiple challenges including high-dimensionality, heterogeneity of features, and complex relationships between data objects.
+
+Emerging approaches are showing the enormous benefits of learning from complex data, including text, video, audio and the large amount of information related to new research domains, such as big data, the Internet of things, cloud computing, etc., often available on the web according to multiple modalities, multiple resources and multiple formats. Many efforts in the machine learning community have been focused on these specialized types of data.
+
+This Special Issue welcomes papers covering a wide range of topics in the area of learning from complex data, including the following areas of interest:
+
+-  Algorithms for advanced data analysis
+-  Data mining and knowledge discovery over complex data
+-  Platforms and data mining applications in all domains including social, web, bioinformatics and finance
+-  Text mining and natural language processing
+-  Machine learning and statistical methods for multimedia and graph data
+-  Learning methods for data streams and the Internet of things
+-  Big data analytics
+
+We accept both research papers and case studies based on robust and strict methodology with a substantial proportion of original (not published elsewhere) content.
+
+Author guidelines and submission information can be found at http://swlab.unica.it/special_issue/advanced_learning_methods_for_complex_data
+
+GUEST EDITORS
+
+Maurizio Atzori, University of Cagliari, Italy
+atzori@unica.it
+
+Barbara Pes, University of Cagliari, Italy
+pes@unica.it

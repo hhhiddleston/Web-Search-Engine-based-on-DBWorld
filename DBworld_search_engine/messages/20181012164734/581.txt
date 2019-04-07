@@ -1,0 +1,97 @@
+===============================================================================================================
+                                              CALL FOR PAPERS
+===============================================================================================================
+The journal Semantic Web â€“ Interoperability, Usability, Applicability (published and printed by IOS Press, ISSN: 1570-0844), in short Semantic Web journal, brings together researchers from various fields which share the vision and need for more effective and meaningful ways to share information across agents and services on the future internet and elsewhere.
+
+
+In this Special issue we invite submissions that illustrate the use and impact of Semantic Web technologies in industry. A large number of companies are intently focused on embedding intelligence into all aspects of their business, from the consumer products and services on offer to their own internal processes and logistic operations. The technological challenges and solutions required to realize this goal are vast and varied, but those related to the following areas are of particular interest for this Special Issue:
+
+    Autonomous Systems - systems that have a high level of self-governance with respect to sensing, perception, reasoning, learning, decision-making and action.
+    Connected Systems - systems and technologies that lay the foundations of an Internet of Things
+    Human-machine Interaction - multimodal interfaces between users and computer systems
+    User-centric Computing - intuitive, interactive and intelligent user-centric systems that enable a seamless user-experience for products and services.
+
+In particular, we are interested in use cases focusing on cyber-physical systems that utilize and combine semantic technologies with the Internet of Things (IoT), cloud computing, cognitive computing, robotics, etc. in order to drive the digital transformation of industry and industrial applications.
+If data exchange and interoperability have always played an important role in industrial information management, their criticality has become even more prominent in Industry 4.0: in fact, cyber-physical systems require distributed processing and ubiquitous computing, and ensuring consistency and coherence in the information workflow, up to the service level, is of paramount importance for industrial applications.
+
+Semantic data modeling, with its different methodologies and tools, represents in and of itself a core application of Semantic Web technologies in industry, and itâ€™s also important for the functionalities it enables, i.e. automatic reasoning and validation: these functionalities, in combination with machine learning algorithms and deep network infrastructures, are transforming the value chain further, by introducing AI-based analytics into the industrial ecosystem.
+
+In addition to success stories, this Special Issue also welcomes papers that justifiably demonstrate and expose the current deficiencies (or failures) of Semantic Web technologies in relation to the above stated challenges.
+
+Topics include, but are not limited to:
+
+===========================
+Topics of Interest
+===========================
+
+
+    Knowledge Graphs
+        Creation and maintenance
+        Cross domain integration
+        Deployment and utilization of knowledge graphs
+    Standard ontologies and vocabularies for industry
+    Ontology Management tools at scale
+    Semantic Web Services
+    Inference and Reasoning
+    Ontology-based Data Access
+    Knowledge-based Artificial Intelligence: integration between machine learning algorithms and semantic web technologies
+    Obstacles and challenges related to large-scale adoption of semantic technologies in Industry.
+    Impact of semantic technologies in addressing business problems
+    Deficiencies of Semantic Web technologies for industrial applications
+    Use of semantic technologies for question answering and digital assistance/virtual assistants
+    Challenges associated with monetization and commercialization of Semantic technologies.
+    Success stories and challenges associated with use of SPARQL querying systems within Industrial settings
+    Integration of heterogeneous datasets within Industrial settings using Semantic Web technologies
+    Linked data reuse and consumption within Industrial settings
+
+
+===========================
+Important Dates
+===========================
+Submission deadline: 30 September 2018.
+
+Papers submitted before the deadline will be reviewed upon receipt.
+
+
+===========================
+Submission
+===========================
+Submissions shall be made through the Semantic Web journal website at http://www.semantic-web-journal.net. Prospective authors must take notice of the submission guidelines posted at http://www.semantic-web-journal.net/authors.
+
+We welcome four main types of submissions: (i) full research papers, (ii) reports on tools and systems, (iii) application reports, and (iv) survey articles. The description of the submission types is posted at http://www.semantic-web-journal.net/authors#types. While there is no upper limit, paper length must be justified by content.
+
+Note that you need to request an account on the website for submitting a paper. When submitting, please indicate in the cover letter that it is for the Special Issue on Industrial Applications and the chosen submission type. All manuscripts will be reviewed based on the SWJ open and transparent review policy and will be made available online during the review process.
+Guest Editors
+
+The guest editors can be reached at swj-industrial-issue@googlegroups.com
+
+
+
+=================
+Guest Editors:
+=================
+Alessandro Oltramari, Bosch Research and Technology Center, Pittsburgh (USA)
+Cory Henson, Bosch Research and Technology Center, Pittsburgh (USA)
+Prateek Jain, AppZen, San Jose (USA)
+
+
+
+=================
+Guest Editorial Board
+=================
+
+William Jarrold, Nuance Communications
+Mariana Damova, Mozaika
+Steven Gustafson, Maana
+Peter Z. Yeh, Nuance Communications
+Charles Ortiz, Nuance Communications
+Vijayaraghava Mutharaju, GE Global Research
+Stefan Schmid, Bosch Research
+Sarasi Lalithsena, IBM Research
+Varish Mulwad, GE Global Research
+Stefano Borgo, ISTC-CNR
+John Hodges Jr, Siemens
+Peter Haase, Metaphacts
+Anna Tordai, Elsevier
+Andreas Thalhammer, Roche
+(to be completed)

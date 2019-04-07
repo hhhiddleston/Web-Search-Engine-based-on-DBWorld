@@ -1,0 +1,55 @@
+Huawei Munich Research Center 
+Riesstrasse 25 
+80992 Munich 
+
+
+PhD Student: Field Planet-scale Cloud Computing 
+============================================== 
+We are looking for researchers interested in doing research in the field of Cloud Computing. 
+
+RESEARCH TOPICS 
+=============== 
+Research areas include but are not limited to: 
+(1) planet-scale distributed systems monitoring. 
+(2) distributed and real-time tracing. 
+(2) cloud operations using analytics. 
+(3) large-scale software predictive maintenance. 
+(4) site reliability engineering. 
+
+QUALIFICATIONS 
+============== 
+As a successful candidate you should hold a MSc degree in Computer Science, or related area, and knowledge in one or more of the following areas: 
+* Distributed systems. 
+* Cloud computing. 
+* Machine learning. 
+* Software engineering. 
+* Big Data. 
+* Very good programming skills (C/C++, Java, Python). 
+
+You should be interested in solving challenging scientific problems, motivated for independent and goal-oriented research, and have a good level of written and spoken English. 
+
+APPLICATIONS 
+============ 
+If you are interested, please send an e-mail to Prof. Jorge Cardoso with: 
+1. CV listing education background 
+2. List of publications. 
+
+Contact: http://jorge-cardoso.github.io/
+E-mail: firstname.lastname at huawei.com 
+
+CLOSING DATE 
+============ 
+The position will remain open until filled 
+
+LOCATION 
+======== 
+Huawei Munich Research Center (MRC) 
+80992 Munich 
+Germany 
+
+ABOUT THE ADVISOR 
+================= 
+Prof. Jorge Cardoso obtained his PhD degree in Computer Science from the University of Georgia (US) in 2002. 
+He is Chief Architect for Cloud Operations and Analytics at Huawei GRC in Munich, Germany, and Professor at the University of Coimbra, Portugal. 
+He frequently publishes papers in first-tier conferences such as ICWS, CAISE, and ESWC, and first-tier journals such as IEEE TSC and Journal of Web Semantics. 
+He has published several books distributed systems, process management systems, and service systems. 

@@ -1,0 +1,60 @@
+ 
+Due to numerous requests the submission deadline has been extended to **September 15, 2018**.
+
+
+-------------------------------
+
+Call for Papers
+
+Special Issue "Big Data Exploration, Visualization and Analytics"
+Big Data Research Journal, Elsevier
+  https://goo.gl/CJ9BJ5
+
+
+One the major challenges of the Big Data era is that it has realized the availability of a great amount and variety of massive datasets for analysis by non-corporate data analysts, such as research scientists, data journalists, policy makers, SMEs and individuals. A major characteristic of these datasets is that they are: accessible in a raw format that are not being loaded or indexed in a database (e.g., plain text, json, rdf), dynamic, dirty and heterogeneous in nature. The level of difficulty in transforming a data-curious user into someone who can access and analyze that data is even more burdensome now for a great number of users with little or no support and expertise on the data processing part. The purpose of visual data exploration is to facilitate information perception and manipulation, knowledge extraction and inference by non-expert users. The visualization techniques, used in a variety of modern systems, provide users with intuitive means to interactively explore the content of the data, identify interesting patterns, infer correlations and causalities, and supports sense-making activities that are not always possible with traditional data traditional data analysis techniques.
+
+In the Big Data era, several challenges arise in the field of data visualization and analytics. First, the modern exploration and visualization systems should offer scalable data management techniques in order to efficiently handle billion objects datasets, limiting the system response in a few milliseconds. Besides, nowadays systems must address the challenge of on-the-fly scalable visualizations over large and dynamic sets of volatile raw data, offering efficient interactive exploration techniques, as well as mechanisms for information abstraction, sampling and summarization for addressing problems related to visual information overplotting. Further, they must encourage user comprehension offering customization capabilities to different user-defined exploration scenarios and preferences according to the analysis needs. Overall, the challenge is to enable users to gain value and insights out of the data as rapidly as possible, minimizing the role of IT-expert in the loop.
+
+This special issue aims to publish work on multidisciplinary research areas spanning from Data Management and Mining to Information Visualization and Human-Computer Interaction.
+
+
+
+Topics for the Special Issue
+-------------------------------
+Topics of interest include, but are not limited to:
+ - Visualization and exploration techniques for various Big Data types (e.g., stream, spatial, high-dimensional, graph)
+ - Human-centered database techniques
+ - Indexes and data structures for data visualization
+ - Raw data visual exploration and analytics
+ - Incremental and adaptive processing
+ - Interactive caching and prefetching
+ - Scalable visual operations (e.g., zooming, panning, linking, brushing)
+ - Big Data visual representation techniques (e.g., aggregation, sampling, multi-level, filtering)
+ - Setting-oriented visualization (e.g., display resolution/size, smart phones, pixel-oriented, visualization over networks)
+ - User-oriented visualization (e.g., assistance, personalization, recommendation)
+ - Visual analytics (e.g., pattern matching, timeseries analytics, prediction analysis, outlier detection, OLAP)
+ - Visual and interactive data mining
+ - Models of human-in-the-loop data analysis
+ - High performance/Parallel techniques
+ - Visualization hardware and acceleration techniques
+ - Linked Data and ontologies visualization
+ - Case and user studies
+ - Systems and tools
+
+
+
+ Important Dates
+-------------------------------
+  Submission Deadline: September 15, 2018   **extended**
+  Author Notification: November 1, 2018
+  Revised Manuscript Due: January 10, 2019
+  Notification of Acceptance: February 10, 2019
+  Final Manuscript Due: February 25, 2019
+  Tentative Publication Date: May, 2019
+
+
+Guest Editors
+-------------------------------
+  Nikos Bikakis, ATHENA Research Center, Greece
+  George Papastefanatos, ATHENA Research Center, Greece
+  Olga Papaemmanouil, Brandeis University, USA

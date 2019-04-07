@@ -1,0 +1,73 @@
+============================================
+2018 IEEE International Conference on Data Science and Advanced
+Analytics (DSAA'2018) 1-4 October 2018, Turin, Italy
+============================================
+https://dsaa2018.isi.it/
+
+--------------------------------
+Highlights:
+--------------------------------
+* 5 Keynote Speakers:
+        - Christopher Bishop (Microsoft Research)
+        - Francesca Dominici (Harvard University)
+        - Deirdre Mulligan (UC Berkeley)
+        - Claudia Perlich (NYU and TwoSigma)
+        - Alessandro Vespignani (Northeastern University)
+
+* One full-day Industrial Forum with only keynotes and invited industrial speakers.
+https://dsaa2018.isi.it/program/industrial-forum
+
+Preliminary list of speakers includes:
+        - Ricardo Baeza-Yates (NTENT)
+        - V R Ferose (SAP)
+        - Margaret Mitchell (Google)
+        - Foster Provost (NYU and Detectica)
+        - Mario Rasetti (ISI Foundation)
+        - more to be announced
+
+* 5 thematic Special Sessions: (https://dsaa2018.isi.it/program/special-sessions)
+        - Data Science for Social Good
+        - Data Science in Computational Psychiatry and Psychiatric Research
+        - EnGeoData'2018: Environmental and Geo-spatial Data Analytics
+        - Opportunities and Risks for Data Science in Organizations: Banking, Finance, and Policy
+        - SeCredISData ¨C Sentiment, Emotion, and Credibility of Information in Social Data
+
+* Keynotes of the Special Sessions, including:
+        - Z?ivko Krstic? (Crossing technologies)
+        - Fionn Murtagh (University of Huddersfield)
+        - Paolo Rosso (Universitat Polit¨¨cnica de Val¨¨ncia)
+        - Marcel Salath¨¦ (EPFL)
+
+* 7 Tutorials:
+- Project Management for Data Science
+- Deep Learning for Computer Vision: A practitioner¡¯s viewpoint
+- Data Science Workflows Using R and Spark
+- Kernel Methods for Machine Learning and Data Science
+- NDlib:  Modelling and Analyzing DiffusionProcesses over Complex Networks
+- Reproducible research using lessons learnt from software development
+- Data Sources and Techniques to Mine Human Mobility Patterns
+
+* Data Science Contest (https://dsaa2018.isi.it/program/data-science-contest)
+
+* Research and Applications tracks (https://dsaa2018.isi.it/calls/call-for-papers)
+
+--------------------------------
+Available Calls:
+--------------------------------
+Call for Sponsors:
+https://dsaa2018.isi.it/_assets/site/resources/DSAA2018_sponsorship_programs.pdf
+
+Call for Next Generation Data Scientist Award:
+http://203.170.84.89/~idawis33/dsaa/?page_id=1357
+
+Travel Awards for Female Students:
+https://dsaa2018.isi.it/calls/travel-awards-female-students
+
+More travel awards sponsored by IEEE CIS will be announced soon.
+
+--------------------------------
+What is IEEE DSAA
+--------------------------------
+The IEEE International Conference on Data Science and Advanced Analytics (DSAA) aims to be the flagship annual meeting spanning the interdisciplinary field of Data Science. DSAA focuses on the science of data science, as well as the implications of the science for applications to industry, government, and society. From the science side, DSAA spans all of the component fields of data science, including statistics, probabilistic and mathematical modeling, machine learning, data mining and knowledge discovery, complexity science, network science, business analytics, data management, infrastructure and storage, retrieval and search, security, privacy and ethics. From the applications side, DSAA aims both to show researchers important problems and issues that are revealed by real applications, and to show practitioners and users how the science can be applied to realize value. DSAA is intended to reflect the interdisciplinary nature of data science and analytics, as an alternative to the highly specialized disciplinary conferences.
+
+DSAA 2018 in Turin, Italy, is the 5th annual installment of the conference. This year brings the collaboration of the American Statistical Association, to complement the IEEE Computational Intelligence Society and the ACM SIGKDD. This year DSAA also adds the support of the ISI Foundation, which has worked for 35 years to break down traditional silos in the sciences of complexity and data.

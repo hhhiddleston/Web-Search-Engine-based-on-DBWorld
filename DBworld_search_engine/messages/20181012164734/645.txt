@@ -1,0 +1,55 @@
+==============================================================================
+ESORICS 2018:   CALL FOR PARTICIPATION
+23rd European Symposium on Research in Computer Security
+Barcelona, Spain â€” September  3-7, 2018
+==============================================================================
+
+WWW: https://esorics2018.upc.edu/
+
+Overview
+------------------------------------
+ESORICS is the annual European research event in Computer Security. The Symposium started in 1990 and has been held in several European countries, attracting a wide international audience from both the academic and industrial communities. The 23rd European Symposium on Research in Computer Security (ESORICS 2018) will be held in Barcelona, Spain.
+
+
+ESORICS 2018 spans a total of 3 days, featuring:
+ * 3 keynote speeches
+   (Kenny Paterson, Robert Deng, Gene Tsudik)
+ * 56 paper presentations in 3 days (Sep 3-5)
+ * 10 workshops (Sept 6-7)
+
+
+Registration
+------------------------------------
+Registration rates:
+https://esorics2018.upc.edu/registration.do
+
+If an invitation letter is needed (e.g. for visa application), the letter will be provided after the registration. To do this, it is necessary to send an email to the organizing committee: mailto:esorics2018@entel.upc.edu
+
+Venue page:
+https://esorics2018.upc.edu/venue.do
+
+Accommodation page:
+https://esorics2018.upc.edu/hotels.do
+
+We hope to see you in Barcelona, Spain!
+
+
+Conference Program
+------------------------------------
+The papers of ESORICS 2018 are grouped as **16 sessions** in **two parallel tracks**.
+
+The complete program for presentations for the main ESORICS conference is available at 
+https://esorics2018.upc.edu/program.do
+
+For the workshop programs, please consult their corresponding websites:
+
+CBT 2018: http://deic.uab.cat/conferences/cbt/cbt2018/
+CSITS 2018: https://cyber.bgu.ac.il/esorics_csits2018/
+CyberICPS 2018: https://www.ds.unipi.gr/cybericps2018/
+DPM 2018: http://deic.uab.cat/conferences/dpm/dpm2018/
+ETAA 2018: https://www.iit.cnr.it/etaa2018/
+ISSA 2018: https://www.irit.fr/issa/
+PADG 2018: https://dais-ita.org/padg2018
+SECPRE 2018: http://samosweb.aegean.gr/secpre2018/
+SIoT 2018: http://siot-workshop.org
+STM 2018: https://www.nics.uma.es/pub/stm18/

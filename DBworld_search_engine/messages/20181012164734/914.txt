@@ -1,0 +1,113 @@
+=====================================================================================
+                             CALL FOR PAPERS
+=====================================================================================
+
+           Integrating Process Management Technology with Sensor Data
+
+    http://www.mdpi.com/journal/sensors/special_issues/Integrating_Sensor_Data
+
+    Impact Factor: 2.475
+
+=====================================================================================
+   Deadline for manuscript submissions: 
+   30 January 2019
+=====================================================================================
+
+Process management technology has contributed to the advancement of process-aware enterprise 
+information systems (PAIS) for more than a decade. Modern companies have adopted research 
+results from the business process management (BPM) field to keep pace with the challenges 
+emerging due to increasing customer demands. Meanwhile, Millennials have fanned the use of 
+mobile technology in everyday life, as well as for many businesses. Consequently, enterprises 
+need to enhance their process-aware information systems to properly integrate smart mobile 
+devices in a flexible and cost-effective way. Along this trend, the sensor capabilities of 
+mobile devices have increased by magnitude of orders enabling an advanced support of business 
+processes and their activities. In the era of the Internet of Things, in addition, numerous 
+sensors emerged that are used ubiquitously in everyday business on a cheap and effective basis. 
+Especially in the light of Industry 4.0 and cyber-physical systems, manufacturers crave for the 
+integration of sensor technology and sensor data with their process-aware information systems. As 
+the latter provide a well-defined context, the context-aware integration of sensors and sensor 
+data becomes powerfully possible.
+
+The aim of this Special Issue is to investigate upcoming challenges, research opportunities, and 
+technologies emerging along the described trends. In particular, the Special Issue shall investigate:
+
+-The impact of considering sensor data on the various stages of the business process lifecycle, i.e., 
+ modeling, implementation and configuration, deployment, enactment, monitoring, dynamic adaptation, mining 
+ and evolution of business processes.
+-The impact of considering business processes on the way sensors systems and networks are built or 
+ reorganized.
+
+This Special Issue aims to provide a comprehensive overview of state-of-the-art sensor technology in the light 
+of business process management. We invite research articles that will consolidate the understanding of the 
+state-of-the-art in this area. The Special Issue will publish full research, review, and highly rated 
+manuscripts on the integration of process technology with sensor data, addressing—amongst others—one of 
+the following topics:
+
+* Sensor-enriched process tasks
+* Sensor data processing and event management
+* System architectures
+* Wearables and mobile sensors
+* Sensor categories and their relevance for business process support
+* Resource tracking and management (e.g., humans vs. robots)
+* Sensor- and context-driven processes
+* Virtual and augmented reality support for business processes / tasks
+* Aligning digital processes with processes from the physical world
+* Predictive processes based on sensor data
+* Sensor-based detection of discrepancies between digital and real process
+* Business process support in the era of the Internet/Web of Things
+* Industry 4.0 and Industrial Internet of Things
+* Sensor-based exception discovery and handling
+* Equipping process resources (incl. humans) with sensors
+* Combining process mining with sensor data support
+
+=====================================================================================
+About MDPI Sensors
+=====================================================================================
+Sensors (ISSN 1424-8220) provides an advanced forum for the science and technology of 
+sensors and biosensors. It publishes reviews (including comprehensive reviews on the 
+complete sensors products), regular research papers and short notes. Our aim is to encourage 
+scientists to publish their experimental and theoretical results in as much detail as 
+possible. There is no restriction on the length of the papers. The full experimental 
+details must be provided so that the results can be reproduced. 
+
+=====================================================================================
+Important Dates
+=====================================================================================
+
+Deadline for manuscript submissions: 
+30 January 2019
+
+=====================================================================================
+Submission Guidelines
+=====================================================================================
+
+Manuscripts should be submitted online at www.mdpi.com by registering and 
+logging in to this website. Once you are registered, click here to go to the 
+submission form. Manuscripts can be submitted until the deadline. All papers 
+will be peer-reviewed. Accepted papers will be published continuously in the 
+journal (as soon as accepted) and will be listed together on the special issue 
+website. Research articles, review articles as well as short communications are 
+invited. For planned papers, a title and short abstract (about 100 words) can 
+be sent to the Editorial Office for announcement on this website.
+
+Submitted manuscripts should not have been published previously, nor be under 
+consideration for publication elsewhere (except conference proceedings papers). 
+All manuscripts are thoroughly refereed through a single-blind peer-review 
+process. A guide for authors and other relevant information for submission 
+of manuscripts is available on the Instructions for Authors page. Sensors is an 
+international peer-reviewed open access monthly journal published by MDPI.
+
+Please visit the Instructions for Authors page before submitting a manuscript. 
+The Article Processing Charge (APC) for publication in this open access journal 
+is 1800 CHF (Swiss Francs). Submitted papers should be well formatted and use good 
+English. Authors may use MDPI's English editing service prior to publication or 
+during author revisions. 
+
+=====================================================================================
+Guest Associate Editors
+=====================================================================================
+
+*Rüdiger Pryss, Ulm University, Germany
+*Massimo Mecella, Sapienza Università di Roma, Italy
+*Samir Tata, Institut Mines-Télécom, France
+*Manfred Reichert, Ulm University, Germany

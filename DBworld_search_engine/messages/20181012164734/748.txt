@@ -1,0 +1,47 @@
+[apologies for cross-posting]
+
+*********************************************************************
+
+Submit your posters to cbt2018@easychair.org
+
+*********************************************************************
+
+                         CALL FOR POSTERS
+
+*********************************************************************
+
+                     International Workshop on
+          Cryptocurrencies and Blockchain Technology - CBT'18
+
+                 In conjunction with ESORICS 2018
+
+                   http://www.cbtworkshop.org/
+
+                 Barcelona, September 6-7, 2018
+*********************************************************************
+
+
+We welcome poster abstracts describing works in progress, or
+innovative ideas not mature enough to be presented as a full
+paper. The poster track will provide an opportunity to present
+early-stage work and receive feedback from the community,
+especially on thought-provoking or controversial work,
+approaches, or ideas from students.
+
+Posters are submitted for review in the form of an extended
+abstract that has to be formatted in LNCS-style and not exceed 1
+page in length, with a PDF draft of the proposed poster included
+as page 2 of the submission (A0 size in portrait mode, W 841mm x
+H 1189 mm, with all fonts embedded in the PDF file). In addition,
+poster titles should always start with the phrase 'Poster
+Abstract:'. Accepted posters will be presented at the symposium
+in a separate session. Authors of accepted full papers are also
+encouraged to submit and present posters of their paper in the
+poster session. If the poster submission is for an accepted
+paper, add the following keywords to your submission: 'Poster for
+Accepted Paper: '.
+
+Note that the poster abstracts have a separate deadline from the
+full papers and will not be included in the proceedings.
+
+Please contact cbt2018@easychair.org in case of doubts and questions.

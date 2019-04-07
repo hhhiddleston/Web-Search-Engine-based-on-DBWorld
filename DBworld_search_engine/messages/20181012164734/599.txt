@@ -1,0 +1,226 @@
+CUTE 2018 Call for Papers (Short Version)
+==========================================================================================
+                            The 13th KIPS International Conference on
+               Ubiquitous Information Technologies and Applications (CUTE 2018)
+
+                            Kuala Lumpur, Malaysia, Dec. 17 - 19, 2018
+
+                         Springer-LNEE (indexed by SCOPUS and EI)
+
+                                http://www.cute-conference.org/2018
+
+                                      Organized by KIPS
+                    Publication: Springer-LNEE (indexed by SCOPUS and EI)
+                       Intl' Journal Recommendation indexed by SCI/SCOPUS
+
+**************************************************************************************************
+
+The 13th KIPS International Conference on Ubiquitous Information Technologies and Applications (CUTE 2018) will be held on Dec. 17 - 19, 2018, Kuala Lumpur, Malaysia.
+ The purpose of the CUTE 2018 is to promote discussion and interaction among
+academics, researchers and professionals in the field of ubiquitous computing
+technologies. Ubiquitous computing will require a new approach to fitting
+technology to our lives. The advent of new computing devices, and the seamless
+connectivity between these devices, thanks to diverse wired and wireless
+networks, are enabling new opportunities for a user to perform his/her operation
+all the time and everywhere. These seamlessly connected devices are ranging from
+mobile handset to wearable computers. Also, it is expected that these devices
+will become so pervasive that they will be embedded in the surrounding physical
+environment, and transparent and invisible to a user. Such devices, whether
+carried on by people or embedded into other systems, will constitute a global
+internet working infrastructure and likely to provide a new level of openness and
+dynamics. Ubiquitous computing has as its goal the enhancing computer use by
+pushing computational services out of conventional desktop interfaces into
+physical environments, but effectively making them transparent forms and calm
+mode of interactivity. Recent advances in electronic and computer technologies
+have paved the way for the proliferation of ubiquitous computing and innovative
+applications that incorporate these technologies.
+  This conference provides an international forum for the presentation and
+showcase of recent advances on various aspects of ubiquitous computing. It will
+reflect the state-of-the-art of the computational methods, involving theory,
+algorithm, numerical simulation, error and uncertainty analysis and/or novel
+application of new processing techniques in engineering, science, and other
+disciplines related to ubiquitous computing. In this conference, several topics
+on the specific themes for intensive discussions are also planned according to
+the areas of interest.
+
+
+----------
+ Topics
+----------
+We are inviting new and unpublished papers on, but not
+limited to, the following topics:
+
+
+Track 1. Ubiquitous Communication and Networking
+--------------------------------------------------
+- Ubiquitous wired and wireless networks
+- Ad-hoc networking
+- Intelligent sensor network/RFID
+- Ubiquitous/pervasive platform and middleware
+- Automated, adapted and situated service
+- Open service architecture
+- Intelligent web service
+- Mobile and ubiquitous multicasting
+- Next-generation Internet & IPv6
+- Mobile network (NGN/BcN)
+- Wireless communication technology
+- Optical networks
+- Home networks
+- Future Internet
+
+
+Track 2. Ubiquitous Software Technology
+-----------------------------------------
+- Context-aware acquisition and representation
+- Context-aware media processing
+- Context database/management
+- Context framework and middleware
+- Context analysis and utilization
+- Context/Location-aware application
+- Energy-aware system
+- Resource-aware computation
+- Self-aware computers and systems
+
+
+Track 3. Ubiquitous Systems and Applications
+---------------------------------------------
+- Distributed ubiquitous middleware
+- Ubiquitous intelligent applications
+- Ubiquitous intelligent systems
+- Intelligence grid platform and service
+- U-Health care system
+- Smart appliances and wearable devices
+- Haptic interfaces and interactions
+- Design principles for multimodal systems
+- Auditory and haptic displays
+- Multimodal gaming and entertainment
+- Novel systems and interactions using other modalities (e.g. taste, smell)
+- Computer imaging and graphics
+- Ubiquitous learning
+
+
+Track 4. Ubiquitous Security, Privacy and Trust
+------------------------------------------------
+- Information security and cryptography
+- Security services/mechanisms/protocols in network/system levels
+- Access control in network/system levels
+- Identity, privacy, and trust issues in ubiquitous society
+- Risk estimation and management
+- Formal verification for security services & mechanisms/protocols
+- Performance analysis for security services & mechanisms/protocols
+
+
+Track 5. IT Convergence Services
+
+
+---------------------------------
+Organizing & Program Committee
+---------------------------------
+
+Honorary Chairs
+Seok-Woo Nam, KIPS President / Comtec Systems Co. Ltd., Korea
+
+Steering Committee
+James J. Park, SeoulTech, Korea (Leading Chair)
+Doo-Soon Park, Soonchunhyang University, Korea (Co-Chair)
+Young-Sik Jeong, Dongguk University, Korea (Co-Chair)
+Hsiao-Hsi Wang, Providence University, Taiwan
+Laurence T. Yang, St.Francis Xavier University, Canada
+Hai Jin, Huangzhong University of Science and Technology, China
+Chan-Hyun Youn, KAIST, Korea
+Jianhua Ma, Hosei University, Japan
+Mingyi Guo, Shanghai Jiao Tong University, China
+Weijia Jia, City University of Hong Kong, Hong Kong
+
+General Chairs
+Yi Pan, Georgia State University, USA
+Sanghoon Kim, Hankyong National University, Korea
+Luis Javier Garcia Villalba, Universidad Complutense de Madrid, Spain
+
+Program Chairs
+Muhammad Khurram Khan, King Saud University, Kingdom of Saudi Arabia
+Neil Y. Yen, The University of Aizu, Japan
+Yunsick Sung, Dongguk University, Korea
+
+International Advisory Committee
+Witold Pedrycz , University of Alberta, Canada
+Seok Cheon Park, Gachon University, Korea
+C.S. Raghavendra, University of Southern California, USA
+Im-Yeong Lee, SoonChunHyang University, Korea
+HeonChang Yu, Korea University, Korea
+Hai Jin, Huazhong University of Science and Technology, China
+Nammee Moon, Hoseo University, Korea
+Byeong-Seok Shin, Inha, Korea
+Dong-Ho Kim, Soongsil, Korea
+Shu-Ching Chen, Florida International University, USA
+Keun Ho Ryu, Chungbuk National University, Korea
+JaeKwang Lee, Hannam University, Korea
+Victor Leung, University of British Columbia, Canada
+Yoo-jae Won, Chungnam National University, Korea
+Yang Xiao, University of Alabama, USA
+
+Publicity Chairs
+Byoungwook Kim, Dongguk University, Korea
+Jin Wang, Yangzhou University, China
+Deok Gyu Lee, Seowon University, Korea
+Hyun-Woo Kim, Dongguk University, Korea
+Seokhong Min, MINDATA Ltd., Korea
+Joon-Min Gil, Catholic University of Daegu, Korea
+Sung Chul Yu, LG Hitachi Co. Ltd., Korea
+Yu-Wei Chan, Providence University, Taiwan
+Jaehwa Chung, Korea National Open University, Korea
+Jinho Park, Soongsil University, Korea
+Hang-Bae Chang, Chung-Ang University, Korea
+
+-----------------
+Important Dates
+-----------------
+Paper Submission Due: Aug. 30, 2018 (Final Extension!!!)
+Author Notification: Sep. 3, 2018
+Registration Due: Sep. 7, 2018
+Camera Ready Due: Sep. 14, 2018
+Conference Dates: Dec. 17-19, 2018
+
+-----------------------------------
+Paper Submission and Publication
+-----------------------------------
+There will be a combination of presentations including scientific papers. Prospective authors are invited, in the first instance, to submit papers for oral presentations in any of the areas of interest for this conference.
+Authors should submit a paper based on page limitation including all figures, tables, and references. If you want to submit more than page limitation, you can add up to 2 extra pages with the appropriate fee payment.
+
+
+All accepted papers will be included in the conference proceedings published by Lecture Notes in Electrical Engineering (LNEE) - Springer (indexed by EI and SCOPUS).
+
+
+Authors should submit a paper with 5~6 pages in length, including all figures, tables, and references. If you want to submit more than page limitation, you can add up to 2 extra pages (total MAX. 8 pages) with the extra page charges (100 USD per page).
+Papers exceeding the page limits will be rejected without review.
+
+Instructions for papers in the Springer's LNEE (Note that the paper format of LNEE is the same as that of LNCS)
+- Prepare your paper in the exact format as the sample paper for LNEE. Failure to do so may result in the exclusion of your paper from the proceedings. Please read the authors' instructions carefully before preparing your papers.
+- Springer accepts both Microsoft Word and LaTex format in the Lecture Note Series. However, FTRA does not accept the use of LaTex. Therefore, you should use the Microsoft Word instead of using LaTex (The paper will be excluded from the proceeding if you use LaTex). Springer provides the relevant templates and sample files for both PC (sv-lncs.dot) and Mac (sv-lncs) environments.
+- Please download word.zip (http://www.springer.com/cda/content/document/cda_downloaddocument/word.zip?SGWID=0-0-45-72919-0). If you need more help on preparing your papers, please visit Springer's LNCS web page (http://www.springer.com/computer/lncs?SGWID=0-164-2-72376-0).
+
+
+----------------------------
+Special Issues
+----------------------------
+The Distinguished selected papers accepted and presented in CUTE 2018, after further revisions,
+will be recommended to the special issues of the following international journals:
+- The Journal of Supercomputing - Springer (SCI) 
+- Journal of Ambient Intelligence and Humanized Computing (AIHC) - Springer (SCIE) 
+- Human-centric Computing and Information Sciences (HCIS) - Springer (SCIE) 
+- Journal of Information Processing Systems (JIPS) - KIPS (SCOPUS)
+- Symmetry - MDPI (SCIE)
+- Sensors - MDPI (SCIE)
+- Sustainability - MDPI (SCIE & SSCI)
+
+--------------------
+Contact Information
+--------------------
+Conference Community: 
+  cute2018.conf@gmail.com
+
+KIPS office
+ Mr. YM. Song, KIPS Senior secretary, min@kips.or.kr
+
+
+- The End -

@@ -1,0 +1,127 @@
+---------------------------------------------------------------------------------
+                                   Call For Papers
+--------------------------------------------------------------------------------
+             9th International Workshop on Accelerating Analytics and Data
+  Management Systems Using Modern Processor and Storage Architectures (ADMS 2018)
+                               http://www.adms-conf.org/
+
+      In conjunction with VLDB 2018 Monday, 27 August 2018, Rio De Janeiro, Brazil
+
+
+ *********    Advanced Program available from www.adms-conf.org   **********
+
+---------------------------------------------------------------------------------
+                                 Workshop Overview
+---------------------------------------------------------------------------------
+
+The objective of this one-day workshop is to investigate opportunities
+in accelerating analytics and data management workloads (which include
+traditional OLTP, data warehousing/OLAP, ETL, Streaming/Real-time,
+Business Analytics, and XML/RDF Processing) using processors (e.g.,
+commodity and specialized Multi-core, GPUs, FPGAs, and ASICs), storage
+systems (e.g., Storage-class Memories like SSDs and Phase-change
+Memory), programming models like MapReduce, Spark, CUDA, OpenCL,
+and OpenACC, and operating environments such as cloud.
+
+The current data management scenario is characterized by the following
+trends: traditional OLTP and OLAP/data warehousing systems are being
+used for increasing complex workloads (e.g., Petabyte of data, complex
+queries under real-time constraints, etc.); applications are becoming
+far more distributed, often consisting of different data processing
+components; non-traditional domains such as bio-informatics, social
+networking, mobile computing, sensor applications, gaming are
+generating growing quantities of data of different types; economical
+and energy constraints are leading to greater consolidation and
+virtualization of resources; and analyzing vast quantities of complex
+data is becoming more important than traditional transactional
+processing. 
+
+At the same time, there have been tremendous improvements in the CPU
+and memory technologies. Newer processors are more capable in the CPU
+and memory capabilities and are optimized for multiple application
+domains. Commodity systems are increasingly using multi-core
+processors with more than 6 cores per chip and enterprise-class
+systems are using processors with 8 cores per chip, where each core
+can execute upto 4 simultaneous threads. Specialized multi-core
+processors such as the GPUs have brought the computational
+capabilities of supercomputers to cheaper commodity machines. On the
+storage front, FLASH-based solid state devices (SSDs) are becoming
+smaller in size, cheaper in price, and larger in capacity. Exotic
+technologies like Phase-change memory are on the near-term horizon and
+can be game-changers in the way data is stored and processed. 
+
+In spite of the trends, currently there is limited usage of these
+technologies in data management domain. Naive usage of multi-core
+processors or SSDs often leads to unbalanced system. It is therefore
+important to evaluate applications in a holistic manner to ensure
+effective utilization of CPU and memory resources. This workshop aims
+to understand impact of modern hardware technologies on accelerating
+core components of data management workloads. Specifically, the
+workshop hopes to explore the interplay between overall system design,
+core algorithms, query optimization strategies, programming
+approaches, performance modelling and evaluation, etc., from the
+perspective of data management applications. 
+
+
+---------------------------------------------------------------------------------
+                             Topics of Interest
+---------------------------------------------------------------------------------
+
+The suggested topics of interest include, but are not restricted to:
+
+* Hardware and System Issues in Domain-specific Accelerators
+* New Programming Methodologies for Data Management Problems on Modern Hardware
+* Query Processing for Hybrid Architectures
+* Large-scale I/O-intensive (Big Data) Applications
+* Parallelizing/Accelerating Analytical (e.g., Data Mining) Workloads
+* Autonomic Tuning for Data Management Workloads on Hybrid Architectures
+* Algorithms for Accelerating Multi-modal Multi-tiered Systems
+* Energy Efficient Software-Hardware Co-design for Data Management Workloads
+* Parallelizing non-traditional (e.g., graph mining) workloads
+* Algorithms and Performance Models for modern Storage Sub-systems
+* Exploitation of specialized ASICs
+* Novel Applications of Low-Power Processors and FPGAs
+* Exploitation of Transactional Memory for Database Workloads
+* Exploitation of Active Technologies (e.g., Active Memory, Active Storage, and Networking)
+* New Benchmarking Methodologies for Storage-class Memories
+* Applications of HPC Techniques for Data Management Workloads
+* Acceleration in the Cloud Environments
+
+---------------------------------------------------------------------------------
+                            Workshop Co-Chairs
+---------------------------------------------------------------------------------
+
+* Rajesh Bordawekar, IBM T.J. Watson Research Center
+* Tirthankar Lahiri, Oracle 
+
+---------------------------------------------------------------------------------
+                               Program Committee
+---------------------------------------------------------------------------------
+
+* Raja Appuswamy, EPFL
+* Shashank Chavan, Oracle
+* Carlos Costas, IBM Research
+* Christoph Dubach, University of Edinburgh
+* Nadathur Satish, Intel
+* Markus Dreseler, HPI
+* Stefan Manegold, CWI
+* Bingsheng He, NUS
+* Diego Arroyuelo, University of Chile
+* Nikolay Sakharnykh, Nvidia
+* Carsten Binnig, TU Darmstadt
+* Kajan Kanagaratnam, IBM Analytics
+* Bill Howe, University of Washington
+* Wellington Martins, INF/UFG
+* Arun Raghavan, Oracle Labs
+* Ken Salem, University of Waterloo
+* Rajkumar Sen, Striim Inc.
+* Man Lung Yiu, Hongkong Polytechnic University
+
+---------------------------------------------------------------------------------
+                                Important Dates
+---------------------------------------------------------------------------------
+
+ * Paper Submission: Monday, June 11, 2018, 
+ * Notification of Acceptance: Friday, June 29, 2018
+ * Camera-ready Submission: Friday, July 20, 2018
+ * Workshop Date: Monday, 27 August 2018

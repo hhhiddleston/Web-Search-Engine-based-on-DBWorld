@@ -1,0 +1,85 @@
+Call for Paper
+
+------------------------------------------------------------------------
+Special Session
+
+WELL-BEING FOR FRAGILE PEOPLE (WHELP 2018)
+
+at GOODTECHS 2018 - 4th EAI International Conference on Smart Objects
+and Technologies for Social Good
+
+November 28-30, 2018   -  Bologna, Italy
+
+http://goodtechs.eu/well-fragile-people-methods-instruments-increasing-preserving-measuring-frail-people-well-whelp-2018/
+
+------------------------------------------------------------------------
+
+Scope
+The relationship between people affected by any type of difficulty,
+both physical and cognitive, and their families or institutional caregivers
+is a topic of great importance in the sphere of autonomous and 
+independent living.
+The request of services to support autonomy is pressing today more than 
+ever
+and it will increase with the constant change in the structure of the 
+population.
+The quality of life in the community where the person lives is a 
+fundamental
+requirement: safety, happiness, affection are just three of the points that
+characterize the state of the person.
+
+The purpose of this session is to assess the state of the tools and 
+methods to
+identify, evaluate, preserve or increase the well-being of the person, 
+referred to
+as an overall state of physical, emotional, cognitive and social well-being.
+
+Topics
+Authors are solicited to submit original, previously unpublished papers
+in the following, but not limited to, topic areas:
+
+â€¢ Methodological approaches and tools for assessing well-being of frail 
+people
+â€¢ Interventions techniques
+â€¢ Tools to promote social/emotional/physical well-being
+â€¢ Well-being of aging people
+â€¢ Wellbeing of caregivers
+â€¢ Smart homes/environments
+
+We welcome both theoretical and empirical studies, as well as contributions
+from industry/organizations dealing with the special session topic.
+
+Publication
+Accepted papers will be included in the Conference Proceedings.
+Proceedings will be submitted for inclusion in leading indexing services,
+Ei Compendex, ISI Web of Science, Scopus, CrossRef, Google Scholar, DBLP,
+as well as EAIâ€™s own EU Digital Library (EUDL).
+
+Authors of selected best accepted and presented papers of the whole 
+conference
+will be invited to submit an extended version to:
+
+Mobile Networks and Applications (MONET) Journal (IF: 3.259)
+Multimedia Tools and Applications (MTAP) Journal
+EAI Endorsed Transactions on Cloud Systems
+EAI Endorsed Transactions on Serious Games
+
+Paper submission
+Papers should be submitted through EAI â€˜Confyâ€˜ system, and have to comply
+with the ACM format. See conference web site.
+
+Chairs
+Fabio Salice, Politecnico di Milano
+Sara Comai, Politecnico di Milano
+
+Important dates
+Full Paper Submission deadline: September 14, 2018
+Notification deadline: October 5, 2018
+Camera-ready deadline: November 1, 2018
+Conference: November 28-30, 2018
+
+We will be grateful to you for advertising this special session, for 
+contributing
+and for inviting your colleagues and/or research students to submit 
+their work.
+We hope to meet you in Bologna in November.

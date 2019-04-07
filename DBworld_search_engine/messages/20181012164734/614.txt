@@ -1,0 +1,99 @@
+Please accept our apologies if you receive multiple copies of this CFP
+
+************************************************************************
+
+                           4th IEEE Workshop on 
+        Orchestration for Software-Defined Infrastructures (O4SDI)
+                       http://o4sdi.unibo.it/o4sdi4
+       To be held in conjunction with the 4th IEEE Conference on 
+   Network Function Virtualization and Software Defined Networks (NFV-SDN 2018)
+    November 27-29, 2018, Verona, Italy
+
+************************************************************************ 
+
+The current industry trend of convergence between computing and networking
+eco-systems clearly shows that software will play an unprecedented dominant role
+also in future communication environments. Computing, storage, and connectivity
+services, as well as any other present and future application instances, will be
+deployed in the form of virtualized assets within a software-defined
+infrastructure running on top of general-purpose processing and communication
+hardware, all managed and made available under the cloud â€œAs A Serviceâ€
+paradigm. This technological convergence and infrastructure sharing between the
+computing and communication systems portend a scenario with a â€œfogâ€ of
+micro-clouds composed of generalized virtual functions providing both
+applications and network services that supplement those deployed in traditional
+cloud datacenters.
+
+The Fourth IEEE Workshop on Orchestration for Software-Defined Infrastructures
+(O4SDI) addresses the challenges that will facilitate orchestration and
+programmability of generalized virtual functions in Software Defined
+Infrastructures (SDI), enabling cloud and network providers to deploy integrated
+services across different resource domains. Orchestration mechanisms will
+facilitate the live deployment and lifecycle management of these virtual
+elements, at the application level, the server level, and the network level
+within a single domain and across multiple domains. Without such orchestration
+it will not be possible to enable dynamic establishment of generalized virtual
+functions chains, according to service requirements.
+
+These challenges of orchestration are many-fold, with many open questions that
+need to be addressed in the areas of:
+
+â— network â€œsoftwarization,â€ which requires unified management of computing,
+storage, and network resources for the effective deployment, lifecycle
+management, and run-time configuration of generalized virtual functions;
+
+â— abstraction models and open standard interfaces, needed for assuring vendor
+interoperability;
+
+â— adaptation and optimization mechanisms, which must be enforced at global
+and/or local level for coping with user demand, application requirements,
+resource unavailability, etc.
+
+O4SDI aims at providing an international forum for researchers and practitioners
+from academia, industry, network operators, and service providers to discuss and
+address the challenges deriving from such emerging scenario where systems,
+processes, and workflows used in both computing and communications domains are
+converging. The workshop welcomes contributions from both computing and
+network-oriented research communities, with the aim of facilitating discussion,
+cross-fertilization and exchange of ideas and practices, and successfully
+promote innovative solutions toward a real programmatic use of software-defined
+infrastructures as a whole. Contributions that discuss lessons learnt and best
+practices, describe practical deployment and implementation experiences, and
+demonstrate innovative use-cases are especially encouraged for presentation and
+publication.
+
+We are particularly interested in papers that cover, but are not
+limited to, the following topics: 
+ 
+â— single domain and cross domain orchestration issues
+â— orchestration of distributed clouds (including fog/edge computing environments)
+â— integrated network and computing resource control and management
+â— description, specification, and abstraction languages for orchestration and
+  context-awareness
+â— control and abstraction of heterogeneous networks
+â— orchestration in SDN/NFV
+â— run-time orchestration
+â— QoS/QoE in software-defined infrastructures
+â— orchestration for high-availability and resilience in software-defined
+  infrastructures
+â— orchestration of network slices and data center slices
+â— software engineering and operating systems techniques applied to orchestration
+â— optimal orchestration algorithms
+â— AI techniques for network orchestration and automation
+â— context-aware orchestration
+â— functional architectures of orchestrating elements
+â— testbed experiments on orchestrations
+â— performance evaluation of orchestration elements
+â— standardization issues in orchestration
+â— network programmability for service chaining
+â— dynamic service composition and delivery
+
+
+Important Dates
+Paper Submission deadline:       August 28, 2018
+Notification of Acceptance:      September 20, 2018
+Camera-ready Submission:         October 7, 2018
+
+
+
+More details here:  http://o4sdi.unibo.it/o4sdi4

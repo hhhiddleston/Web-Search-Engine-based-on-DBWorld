@@ -1,0 +1,11 @@
+The International Winter school in Machine and Deep Learning for neurological diseases is organized by University of Pavia in collaboration with the Neurological National institute Mondino Foundation.
+
+The school will take place from 3rd to 7th December 2018 in Pavia, Italy.
+
+The school aims to bring together experts in computational mathematics and statistics and experts in neuroscience creating a synergy between them.
+All the provided courses and practical session have the scope to introduce experts in medicine to statistical data analysis techniques and machine learning experts to the application of quantitative techniques to neurological data.
+The school is intended for PHD and Master students, Postdocs, academics, members of public institutions in the field of neuroscience, mathematics, statistics and machine learning.
+
+First registration deadline 30th September 2018.
+
+Fees details and Registration form available at: http://www.mondino.it/international-winter-school/

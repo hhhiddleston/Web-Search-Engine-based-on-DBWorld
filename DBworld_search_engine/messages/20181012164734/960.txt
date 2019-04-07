@@ -1,0 +1,73 @@
+The Fifth International Conference on Social Networks Analysis, Management and Security 
+=====================================================================
+SNAMS-2018
+Valencia, Spain. October 15-18, 2018.
+http://emergingtechnet.org/SNAMS2018/ 
+=====================================================================
+Call for Papers 
+ 
+We are pleased to invite you to submit original contributions to SNAMS 2018 via the official submission system at https://easychair.org/conferences/?conf=snams2018. This can include, technical and experimental, theoretical, conceptual, or a survey. All submissions will be peer-reviewed on the basis of relevance, originality, importance and clarity. 
+ 
+Conference Topics:
+ 
+SYSTEMS & INFRASTRUCTURE
+Systems and algorithms for social search
+Infrastructure support for social networks and systems
+Dynamics and evolution patterns of large and complex networks
+Social properties in systems design
+Learnings from operational social networks
+Data Collection
+Big Data and Social Paradigms
+ 
+ALGORITHMS AND MODELS
+Deep Learning and Knowledge Discovery.
+Measurement and analysis of social and crowdsourcing systems
+Benchmarking, modeling, performance and workload characterization
+Modeling Social Networks and behavior
+Management of social network data
+Streaming algorithms for social data
+Knowledge and innovation networks
+Methods for social and media analysis
+Models for network data
+Network analysis in human and social sciences
+Information propagation and assimilation in social networks
+Data mining and machine learning in social systems
+ 
+PRIVACY & SECURITY
+Privacy and security in social systems
+Trust and reputations in social systems
+Detection, analysis, prevention of spam, phishing, and misbehavior in social systems
+ 
+APPLICATIONS
+Novel social applications and systems
+Transient OSNs (e.g. Snapchat)
+Special purpose OSNs (e.g., Instagram, Vine)
+Communities in social networks
+Collaboration networks
+New models of advertising and monetization in social networks
+Mobile advertising on OSNs
+Network visualization
+Social networks and online education
+Sentiment analysis on OSNs
+Multilingual social networks
+Social networks as agents of societal change
+
+
+Submissions Guidelines and Proceedings:
+Manuscripts should be prepared in 10-point font using the IEEE 8.5" x 11" two-column format (IEEE Templates). All papers should be in PDF format, and submitted electronically at Paper Submission Link. A full paper must not exceed the stated length (including all figures, tables and references). Submitted papers must present original unpublished research that is not currently under review for any other conference or journal. Papers not following these guidelines may be rejected without review. Also submissions received after the due date, exceeding length limit, or not appropriately structured may also not be considered. Authors may contact the Program Chair for further information or clarification. 
+
+All submissions are peer-reviewed by at least three reviewers. Accepted papers will appear in the SNAMS Proceedings, and be submitted to IEEE for inclusion.
+ 
+Accepted types of submissions are including:
+-Full papers ( up to 8 Pages),
+-Short papers (up to  6 Pages),
+-Posters ( up to 4 Pages).  
+
+ 
+Important Dates:
+Submission Date: 5 July 2018 
+Notification to Authors: 20 August 2018
+Camera Ready Submission: 5 September 2018
+ 
+Submission System
+https://easychair.org/conferences/?conf=snams2018 

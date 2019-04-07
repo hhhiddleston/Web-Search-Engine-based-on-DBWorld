@@ -1,0 +1,28 @@
+2018 IEEE ICDM Research Contributions and Outstanding Service Awards
+
+The IEEE ICDM Research Contributions Award recognizes influential research contributions to the field of data mining. TheÿOutstandingÿServiceÿAwardÿis for majorÿserviceÿcontributions that have promoted data mining as a field andÿICDMÿas the world premier research conference in data mining. The IEEEÿICDMÿResearch ContributionsÿAwardÿis given to one individual or one group who has made influential research contributions to the field of data mining.
+
+The IEEE ICDM Outstanding Service Award is given to one individual or one group who has made majorÿserviceÿcontributions that have promoted data mining as a field andÿICDMÿas the world?s premier research conference in data mining.
+
+For the Research ContributionsÿAward, each nomination should consist of the following pieces of information: (a) up to 3 significant publications, (b) how these publications are relevant to the data mining community in general and toÿICDMÿin particular, and (c) the broader impacts of these publications, in terms of citations and practical applications.
+
+For theÿOutstandingÿServiceÿAward, each nomination should include the following pieces of information: (a) up to 3 significantÿserviceÿactivities (such as running conferences and journals and facilitating data mining research, development, and applications), and (b) how these activities have promoted data mining as a field andÿICDMÿas the world?s premier research conference in data mining.
+
+A nominator can be any researcher in any country, with a possible list of endorsers. The nominator should let the nominee know before a nomination is forwarded to the nomination committee chair. A nominee can be an individual or a group of researchers who have performed the research orÿserviceÿactivities together. A nomination for eitherÿawardÿis valid for 3 years. An unsuccessful nomination for one year will be automatically forwarded to the following two years? nomination pools, whether or not the nominator adds new information in the following years.
+
+The recipients of both awards from the last three years form the nomination committee, with the previousÿOutstandingÿService Awardÿrecipient as the nomination committee chair.
+
+
+2018 IEEEÿICDMÿAwards Nomination Committee
+-------------------------------------------
+Hui Xiong (Chair), Rutgers University, USA ( hxiong@rutgers.edu ) 
+Charu Aggarwal, IBM TJ Watson Research Center, USA
+Jian Pei, Simon Fraser University, Canada
+Diane Cook, Washington State University, USA
+Rao Kotagiri, University of Melbourne, Australia
+
+
+Key Dates
+-------------------------------------------
+All deadlines are at 11:59PM Pacific Daylight Time.
+Nominations due August 20, 2018 (via email to Nomination Chair).

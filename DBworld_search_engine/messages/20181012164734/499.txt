@@ -1,0 +1,196 @@
+===============================================================================
+                              2nd CALL FOR PAPERS
+
+  1st International Conference on Big Scientific Data Management (BigSDM2018)
+
+                         http://bigsdm2018.csdata.org
+                    Nov. 30 - Dec. 1, 2018, Beijing, China
+             Submission Deadline: September 15th, 2018 (Abstract)
+===============================================================================
+
+The 1st International Conference on Big Scientific Data Management (BigSDM
+2018) will be held in Beijing, China from Nov. 30th to Dec 1st, 2018. The
+Conference is jointly organized by Chinese Academy of Sciences (CAS), Peking
+University, Tsinghua University, Renmin University of China, CWI and MonetDB
+Solutions.
+
+The theme of BigSDM 2018 is data-driven scientific discovery. The conference
+aims at bring together international experts from natural and computer sciences
+to explore the life-cycle management of Big Scientific Data, to discuss major
+methodologies and key technologies in Big Data-driven discovery making, to
+exchange experience and knowledge about Big Scientific Data across various
+fields through specific cases, and to identify the challenges and opportunities
+in scientific discovery acceleration. We hope to, through the conference,
+gather ideas for fostering new ways of scientific thinking, and promote big
+data sciences at large.
+
+The program of BigSDM 2018 features several keynote talks by famous experts in
+the important areas of big data sciences. We have invited Barry C. Barish, the
+winner of 2017 Nobel Prize in Physics, Huadong Guo who is an Academician of
+Chinese Academy of Sciences, and Alexander S. Szalay, the bloomberg
+distinguished professor from the Johns Hopkins University to share their
+cutting edge technology and views about the big scientific data management. In
+the meantime, we are about to invite the principal researchers from major
+scientific experiments, such as the Five- hundred-meter Aperture Spherical
+radio Telescope (FAST), and major data projects, such as 'CASEarth' in China to
+share their experiences in data-driven scientific discovery. 'CASEarth' is a
+CAS Strategic Pioneering Research and Development Programme, focusing on
+building a global big data network to study Earth and support research on
+climate change, as well as to predict and mitigate natural disasters. The other
+events include topic-specific forums and lightning talks.
+
+BigSDM 2018 welcomes researchers, professionals, practitioners, and officers
+worldwide in related areas to submit papers and attend the conference.
+
+
+==================
+TOPICS OF INTEREST
+==================
+
+The two-day conference provides an open forum to discuss the opportunities and
+challenges of a big scientific data ecosystem, and to explore best practices,
+standards, architectures and data infrastructures for fostering
+cross-disciplinary discovery and innovation.
+
+Topics of interest include, but are not limited to:
+
+* Paradigms for enhancing scientific discovery through big data
+* Framework for helping the science and AI communities to work together
+* Data cleansing and quality assurance of science data
+* Data sharing and preservation policy
+* Data management challenges posed by big scientific data
+
+* Machine learning methods to facilitate/accelerate scientific discovery
+* Streaming data, sensor networks and complex event processing
+* Scientific workflow management
+* Science platforms: (hardware/software) tools for data discovery and analysis
+  from different angles
+* Storage system for large scale scientific applications
+* Cloud technology for big scientific applications
+* Scientific data visualisation
+
+
+================
+PAPER SUBMISSION
+================
+
+The online submission system is:
+https://easychair.org/conferences/?conf=bigsdm2018. Authors may submit to
+either the full paper or short paper track. Full papers should be between 10 to
+12 pages in length, and short papers between 6 to 8 pages. All submissions must
+be written in English and conform to the Springer LNCS proceedings
+format(http://www.springer.com/cn/computer-science/lncs/conference-
+proceedings-guidelines). Accepted papers will be published in LNCS proceeding.
+
+
+===============
+IMPORTANT DATES
+===============
+All deadlines are at 11:59PM Pacific Time.
+
+Abstract submission: Sept. 15, 2018
+Full paper submission: Sept. 22, 2018
+Notification to authors: Oct. 20, 2018
+Camera-ready deadline: Nov. 2, 2018
+
+
+============
+ORGANIZATION
+============
+
+General co-chair
+----------------
+
+Xiaofeng Meng, Renmin University, China
+Martin L. Kersten, CWI, Netherlands
+Xuebin Chi, Computer Network Information Center, CAS, China 
+
+Program co-chairs
+-----------------
+
+Jianhui Li, Computer Network Information Center, CAS, China
+Ying Zhang, MonetDB Solutions, Netherlands
+Bill Howe, University of Washington, USA 
+
+Program committee
+-----------------
+
+Boyan Kolev, INRIA, France
+Chenzhou Cui, National Astronomical Observatories, CAS, China
+Gang Chen, Institute of High Energy Physics, CAS, China
+Georgios Goumas, National Technical University of Athens, Greece
+Guoqing Li, Institute of Remote Sensing and Digital Earth, CAS, China
+Holger Pirk, Imperial College London, United Kingdom
+Hu Zhan, National Astronomical Observatories, CAS, China
+Jianfeng Zhan, Institute of Computing Technology, CAS, China
+Jianyan Wei, National Astronomical Observatories, CAS, China
+JosÃ© Orlando Pereira, University of Minho, Portugal
+Juanle Wang, Institute of Geographic Sciences and Natural Resources Research,
+    CAS, China
+Juncai Ma, Institute of Microbiology, CAS, China
+Lei Liu, Fudan University, China
+Lei Shi, National Science and Technology Infrastructure Center, China
+Lianglin Hu, Computer Network Information Center, CAS, China
+Lizhe Wang, China University of Geosciences, China 
+Manolis Marazakis, Foundation for Research and Technology-Hellas(FORTH), Greece
+Marta PatiÃ±o, Technical University of Madrid, Spain
+Mingqi Chen, Administrative Office, CAS, China
+Mourad Khayati, University of Fribourg, Switzerland
+Nan Tang, Qatar Computing Research Institute, Qatar
+Shaowen Wang, University of Illinois Urbana-Champaign, US
+Simon Hodson, CODATA
+    (Committee on Data of the International Council for Science)
+Stefan Manegold, Leiden University and CWI, Netherlands
+Vasileios Karakostas, National Technical University of Athens, Greece
+Xin Li, Institute of Tibetan Plateau Research, CAS, China
+Yangyong Zhu, Fudan University, China
+Yong Qi, Xi'an Jiaotong University, China
+Yuanchun Zhou, Computer Network Information Center, CAS, China
+Ziming Zou, National Space Science Center, CAS, China
+Zhihong Shen, Computer Network Information Center, CAS, China
+Zhihui Du, Tsinghua University, China
+
+
+Publicity co-chairs
+-------------------
+
+Xin Chen, Computer Network Information Center, CAS, China
+Yang Zhang, Computer Network Information Center, CAS, China
+
+Local organization co-chairs
+----------------------------
+
+Zhihong Shen, Computer Network Information Center, CAS, China
+Hui Zhang, Computer Network Information Center, CAS, China
+
+Publication co-chairs
+---------------------
+
+Lei Zou, Peking University, China
+Wenjuan Cui, Computer Network Information Center, CAS, China
+
+Organizers
+----------
+
+Computer Network Information Center, CAS
+Renmin University of China
+Tsinghua University
+Peking University
+Centrum Wiskunde & Informatica
+MonetDB Solutions
+
+Supporters
+----------
+
+Institute of Computing Technology, CAS, China
+Institute of Microbiology, CAS, China
+The Institute of High Energy Physics, CAS, China
+National Astronomical Observatories, CAS, China
+Xi'an Jiaotong University, China
+
+Sponsors
+--------
+
+Chinese Academy of Sciences (CAS)
+National Natural Science Foundation of China (NSFC)
+Ministry of Science and Technology of People's Republic of China

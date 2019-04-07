@@ -1,0 +1,61 @@
+-------------------------
+Call for Papers
+-------------------------
+9th ACM SIGSPATIAL International Workshop onIndoor Spatial Awareness (ISA) 2018 in conjunction with ACM SIGSPATIAL Conference 2018
+https://sites.google.com/site/indoorspatialawareness2018/
+
+November 06, 2018 - Seattle, Washington, USA
+
+This workshop calls for regular research papers, industry papers, work-in-progress papers, as well as system demonstrations. The themes of this workshop include (but are not limited to) the following topics:
+
+=========================================================================================
+
+--2D and 3D indoor spaces
+--Applications and services for indoor space
+--Construction of indoor spatial databases
+--Context awareness in indoor space
+--Emerging applications and services for indoor spaces
+--Games representation in indoor space
+--Indexing and query processing of indoor spatial databases
+--Indoor space analysis
+--Indoor spatial data models
+--Interoperability and standards for indoor space
+--Management of moving objects in indoor space
+--Positioning, tracking and navigation in indoor space
+--Ontology for indoor space
+
+=========================================================================================
+
+
+Authors of accepted regular papers will be given the opportunity to also demonstrate their prototype systems at the workshop if they have such systems. Therefore they do not need to also submit corresponding demo papers.
+
+The proceedings of the workshop will appear in the ACM Digital Library. One author per accepted workshop contribution is required to register for the workshop and the conference, as well as attend the workshop to present the accepted submission. Otherwise, the accepted submission will not be included in the workshop proceedings.
+
+
+
+-----------------------------
+Contribution Types
+-----------------------------
+Research and Industry Full Papers (8 pages)
+
+Demonstration Papers (4 pages)
+
+
+
+-----------------------------
+Important-Dates
+-----------------------------
+
+Submission Deadline: 20 Aug
+
+Notification: 23 Sept
+
+Camera Ready: 28 Sept
+
+
+-----------------------------
+Instructions
+-----------------------------
+Submissions must be original and must not be under consideration for publication elsewhere. Papers must be formatted using the ACM camera-ready templates available at http://www.acm.org/publications/proceedings-template. All papers must be submitted via the EasyChair system, at https://easychair.org/conferences/?conf=isa2018.
+
+Submitted files must be in PDF, where the following page limits apply: research paper (8 pages), industry paper (8 pages), demonstration paper (4 pages). Acceptance will be based on relevance to the workshop, technical quality, originality, and potential impact, as well as clarity of presentation. All submitted papers will be reviewed by at least 3 referees.

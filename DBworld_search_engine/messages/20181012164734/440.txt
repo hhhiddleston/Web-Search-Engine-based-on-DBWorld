@@ -1,0 +1,76 @@
+Informations générales
+
+Entité de rattachement
+Établissement public au service de l'innovation dans le bâtiment, le CSTB, Centre Scientifique et Technique du Bâtiment, exerce cinq activités clés : la recherche et expertise, l'évaluation, les essais, la certification et la diffusion des connaissances, organisées pour répondre aux enjeux des transitions énergétique et numérique dans le monde de la construction. Son champ de compétence couvre les produits de construction, les bâtiments et leur intégration dans les quartiers et les villes. 
+
+Avec plus de 900 collaborateurs, ses filiales et ses réseaux de partenaires nationaux, européens et internationaux, le groupe CSTB est au service de l'ensemble des acteurs de la construction pour faire progresser la qualité et la sécurité des bâtiments. 
+
+Le CSTB conduit une politique active en faveur de l'égalité professionnelle et l'intégration des travailleurs handicapés.  
+Référence
+2018-688  
+Description du poste
+Métiers et Emplois
+Fonctions scientifiques et techniques - CHERCHEUR
+
+Intitulé du poste
+CHERCHEUR F/H
+
+Durée du contrat
+3 ans
+
+Contrat
+Thésard
+
+Temps de travail
+Temps complet
+
+Fourchette de salaire
+Non commmuniqué
+
+Descriptif des principales missions
+Contexte :
+
+La modélisation numérique des bâtiments et des espaces urbains tend à se généraliser autour des standards de format de données internationaux. Concernant la règlementation il s’agit encore de textes techniques et règlementaires que les professionnels du bâtiment doivent cibler, interpréter et mettre en œuvre par eux-mêmes. Il s’agit ici d’automatiser la vérification des modèles de bâtiments. Cet objectif passe notamment par la formalisation d’un ensemble de connaissances de schéma de modèles et contraintes.
+
+Cette thèse s’inscrit dans le domaine de la modélisation sémantique des données et des contraintes. Elle sera dirigée en coordination avec le projet « Numérisation des règles » du « Plan de Transition Numérique du Bâtiment » (PTNB). Elle aura pour cadre le programme de recherche numérique 2018 du CSTB.
+
+ 
+
+Objectif :
+
+Cette thèse vise à proposer un modèle d’information permettant de fédérer des sources de données hétérogènes décrivant une zone urbaine et ses bâtiments. L’objectif est de favoriser l’interrogation et la vérification des données au regard de différentes exigences règlementaires (PLU, règlementation incendie, règlementation accessibilité…).
+
+Le travail consiste à proposer une nouvelle approche de fédération et de requêtage de données sémantiques, basée sur une architecture de représentation de connaissances pouvant être enrichie par des contraintes. Elle devra être extensible pour faciliter l’ajout de nouvelles contraintes ou de nouvelles sources d’information. L’architecture de cet ensemble sera principalement basée sur l’utilisation des technologies du web sémantique et devra s’insérer dans l’architecture de la plateforme SaaS du PTNB. Les interfaces sous-jacentes devront être intuitives. Le traitement des requêtes devra être optimisé afin d’assurer la réactivité du système définition et respect de contraintes de temps de réponse)
+ 
+
+Résultats attendus :
+
+Il s’agit d’un nouveau service en ligne, intégré à la plateforme existante du CSTB. Ce service doit permettre a) d’agréger un ensemble de données multi-échelle, à la fois sémantiques et spatiales, et caractérisant le bâtiment et son environnement, et, b) d’interroger et de vérifier la base ainsi constituée au regard de la règlementation. La réglementation sera traduite en contraintes logiques. Celles-ci seront appliquées sur la base de connaissances constituée afin de vérifier le respect ou non de la réglementation associée.
+
+Profil (formations, compétences, expériences…)
+Pour préparer cette thèse, vous devrez avoir des bases solides en ingénierie des connaissances (langages RDFS/OWL) et/ou raisonnement à base de règles, données liées, fédération de données, langage de requêtes SPARQL, langages pour la définition de règles logiques (e.g. SWRL, RIF, SHACL)
+
+Des compétences en développement Java et web et/ou en norme Industrie Fondation Classes (IFC).
+
+Vous montrez un fort intérêt pour le domaine du BIM (Building Information Modeling), et son implémentation en France à travers par exemple des actions du PTNB (Plan Transition Numérique Bâtiment)
+
+Un bon niveau en communication anglaise serait un plus.
+
+Vous aimez le travail d'équipe, vous avez de la rigueur, de l'organisation et vous êtes force de proposition.
+
+Localisation du poste
+Lieu de travail
+Sophia-Antipolis (06)
+
+Géolocalisation par zone
+Non
+
+Critères candidat
+Niveau d'études min. requis
+Supérieur à Bac + 5
+
+Niveau d'expérience min. requis
+Inférieure ou égale à 2 ans
+
+Niveau d'anglais
+Intermédiaire

@@ -1,0 +1,9 @@
+We have openings for Postdoc Research Fellows in the School of Biomedical Informatics, University of Texas Health Science Center in Houston. The GRA will receive training in clinical informatics and big data analysis.
+We are seeking a candidate with Informatics background and programming experience. The ideal candidate should have solid Java programming skills and data analysis skills (SQL, SPARQL, statistical analysis, machine learning, etc). The Candidate should have a degree in Computer Science, Information Technology, or Biomedical Informatics.
+Research activities and successful findings will be translated into development activities for existing research projects, peer-reviewed publications, and extramurally funded research programs.
+Contact:
+Â 
+Cui Tao, Ph.D.
+School of Biomedical Informatics
+University of Texas Health Science Center Houston
+Email:Â cui.tao@uth.tmc.edu

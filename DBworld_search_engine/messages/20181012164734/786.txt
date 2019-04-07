@@ -1,0 +1,18 @@
+The IDSE research centre at the Faculty of Computer Science of the Free University of Bozen-Bolzano has an open research position in the area of processing time series data, to be filled at the level of PhD or Postdoc.
+
+More specifically, the research concentrates on:
+- analyzing/mining time series data for monitoring and predicitive analytics;
+- providing support for time series in database systems.
+
+The research is in close collaboration with Oracle Research and a local company, with the possibility of an internship at Oracle Research.
+
+We are seeking highly motivated candidates with a good background in databases and a deep interest to work on algorithmic aspects of processing and analyzing time series data.  In addition, good language skills in English are expected.
+
+The position shall be filled asap, with a duration of up to 4 years for a PhD and 2 years for a PostDoc.
+
+If you are interested or need more information, please contact Johann Gamper at gamper@inf.unibz.it.
+
+For the formal application, please follow the instructions at
+https://www.unibz.it/de/home/position-calls/positions-for-academic-staff/3541-informatik-prof-gamper?group=18
+
+Deadline: 10.08.2018

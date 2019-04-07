@@ -1,0 +1,132 @@
+=====================================================================================
+                             CALL FOR PAPERS
+=====================================================================================
+
+      Intersession Management and Remote Therapeutic Intervention Support
+
+    http://www.mdpi.com/journal/J/special_issues/remote_therapeutic_intervention
+
+=====================================================================================
+                 Deadline for manuscript submissions: 
+   25 February 2019
+=====================================================================================
+
+Many studies have confirmed that therapeutic interventions constitute a 
+fundamental part of most therapies as they increase their efficacy. The 
+variety of therapeutic interventions, in turn, ranges from simple medication 
+intakes up to complex behavioral therapies including homework, which is 
+assigned by a therapist to the patient. In particular, homework supports 
+therapeutic progress and helps to transfer therapeutic achievements from 
+the clinical setting to the real-life situation of the patient at home. 
+Taking this diversity into account, many therapists crave for a more 
+sophisticated IT support. In line with this trend, recent studies revealed 
+that (1) utilizing smart mobile devices are demanded by therapists and (2) 
+that they can be used to obtain new insights in clinical research. However, 
+existing approaches still come with several drawbacks. First, they mainly 
+provide specifically tailored applications and often do not cope with the 
+diversity of therapeutic interventions. Second, they neither consider the 
+execution context of homework properly nor the provision of feedback. Third, 
+existing solutions focus on the therapist-patient relationship and, therefore, 
+neglect emerging opportunities (e.g., context-sensitive data) in this context.  
+Fourth, features provided by current smart mobile devices (e.g., sensors) have 
+seldomly been used for therapeutic interventions. More generally, the development 
+of information systems, which support homework in the context of therapeutic 
+interventions and intersession management has not been sufficiently addressed 
+so far. When realizing information systems that integrate, for example, smart 
+mobile devices, the common procedure of therapeutic interventions in general 
+and homework in particular must be carefully captured by the system. Therefore, 
+relevant requirements must be elicited in real-world projects. Based on such 
+requirements, new IT platform approaches enabling therapists to manage therapeutic 
+interventions remotely can be designed and realized. Using such platforms, 
+homework can be created, for example, with a web-based component and be performed 
+by patients with the help of, for example, smart mobile devices. Moreover, beyond 
+the technical issues when capturing remote therapeutic interventions and intersession 
+management digitally, many interdisciplinary questions arise, which need to be 
+addressed. For example, what about ethical aspects, privacy issues, or evolving 
+demands of therapists.  Therefore, the aim of this special issue is the investigation 
+of challenges, opportunities, and new questions when addressing intersession management 
+and remote therapeutic interventions by adding IT-support to these environments. To 
+be more precise, the following research questions, inter alia, shall be addressed by 
+this Special Issue:
+
+-What are the drawbacks and limitations of IT-supported therapeutic interventions?
+-What means sensor usage in this context?
+-Can we derive new insights into the performance of intersession management and remote therapeutic interventions?
+-What are the general risks of IT-support in this context?
+-What means context-awareness in this environment?
+-What constitutes a suitable IT-support in this context?
+-Which new medical issues arise?
+-Which new psychological issues arise?
+-What are the demands of therapists?
+-What are the demands of patients?
+-What about legal and ethical aspects in this context?
+-What means feedback in this context?
+-What means data quality in this context?
+-What are the core features of a comprehensive IT-supported intersession management?
+
+This Special Issue aims to provide a comprehensive overview of new approaches and disruptive 
+ideas for an IT-Support of intersession management and remote therapeutic interventions. We 
+invite research articles that will consolidate our understanding of the state-of-the-art in 
+this area. The Special Issue will publish full research, review, and highly rated manuscripts 
+addressing the above issues, including any of the topics mentioned in the keywords listed here:
+http://www.mdpi.com/journal/J/special_issues/remote_therapeutic_intervention
+
+=====================================================================================
+About MDPI J
+=====================================================================================
+J (ISSN 2571-8800) is an international, peer-reviewed, multidisciplinary, open access 
+journal, which provides an advanced forum for high-quality original research across the 
+entire range of natural, applied, social, and formal sciences. J is dedicated to publishing 
+all types of research outputs, including negative and confirmatory results in all disciplines 
+and to make these results available to the relevant scientific communities shortly after 
+peer-review. Our goal is to improve fast dissemination of new research results and ideas, 
+and to allow research groups to build new studies, innovations and knowledge without delay. 
+Manuscripts submitted to J will undergo basic editorial checks (including for plagiarism) 
+by an in-house editor before being sent for peer-review. Reviewers will be asked to 
+evaluate only the soundness of the research approach, to detect the presence of any major 
+flaws, and to make a recommendation regarding publication. They can choose between 
+acceptance, minor revision or rejection, but only according to the validity of the 
+scientific content. The significance of the contributions will be assessed by the 
+appropriate scientific community at large, not by the two reviewers or the academic 
+editor. We encourage scientists to publish their experimental and theoretical results 
+in as much detail as possible so there is no restriction on the length of the papers. 
+The full experimental details must be provided so that the results can be reproduced. 
+Electronic files and software providing supportive details of calculations or experimental 
+procedures can also be deposited as supplementary electronic material.
+
+=====================================================================================
+Important Dates
+=====================================================================================
+
+Deadline for manuscript submissions: 
+25 February 2019
+
+=====================================================================================
+Submission Guidelines
+=====================================================================================
+
+Manuscripts should be submitted online at www.mdpi.com by registering and 
+logging in to this website. Once you are registered, click here to go to the 
+submission form. Manuscripts can be submitted until the deadline. All papers 
+will be peer-reviewed. Accepted papers will be published continuously in the 
+journal (as soon as accepted) and will be listed together on the special issue 
+website. Research articles, review articles as well as short communications are 
+invited. For planned papers, a title and short abstract (about 100 words) can 
+be sent to the Editorial Office for announcement on this website.
+
+Submitted manuscripts should not have been published previously, nor be under 
+consideration for publication elsewhere (except conference proceedings papers). 
+All manuscripts are thoroughly refereed through a single-blind peer-review 
+process. A guide for authors and other relevant information for submission 
+of manuscripts is available on the Instructions for Authors page. J is an 
+international peer-reviewed open access quarterly journal published by MDPI.
+
+=====================================================================================
+Guest Associate Editors
+=====================================================================================
+
+*Rüdiger Pryss, Ulm University, Germany
+*Winfried Schlee, University Hospital of Regensburg, Germany
+*Harald Baumeister, Ulm University, Germany
+*Patrick Neff, University Hospital of Regensburg, Germany
+*Thomas Probst, Danube University Krems, Austria

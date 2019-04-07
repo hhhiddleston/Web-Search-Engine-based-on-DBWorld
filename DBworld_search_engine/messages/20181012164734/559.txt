@@ -1,0 +1,69 @@
+======================== AWC2019 ==========================
+
+The 5th Australasian Web Conference
+
+29 ¨C 31 January 2019, Sydney, Australia
+
+https://sites.google.com/view/awc2019/index
+
+====================== IMPORTANT DATES ======================
+
+Sunday, 9 September 2018: submissions close
+Monday, 15 October 2018: Author notifications distributed
+Monday, 29 October 2018: CORE student travel award applications close
+Friday, 9 November 2018: Camera-ready copy due
+Friday, 30 November 2018: Early bird registration closes
+Tuesday, 29 January 2019 ¨C Thursday 31 January 2019: Conferences dates
+
+======================= ABOUT AWC2019 =======================
+
+The relentless growth in Internet functionality and broadband access has enabled a new wave of innovations that are transforming the way people and organisations interact, communicate, and collaborate. The 5th Australasian Web Conference (AWC) focuses on presenting original contributions on research, development, and applications, related to all fields of Web research.
+
+AWC is part of the Australasian Computer Science Week (ACSW). Registration to the Australasian Computer Science Conference enables delegates to attend sessions in any conference participating in ACSW. The proceedings will be included in the ACM Digital Library and indexed on Scopus and DBLP.
+
+The World Wide Web continues to play a transformative role in all walks of life. It also provides a platform for exciting and innovative research on a wide range of themes. AWC 2019 aims to bring together researchers and PhD students who work on topics related to the Web in an effort to highlight the state-of-the-art, to discuss critical issues and opportunities, and to explore new research directions.
+
+===================== TOPICS OF INTEREST ======================
+
+Topics include, but are not limited to:
+
+Semantic Web 
+Linked open data 
+Crowdsourcing 
+Web mining 
+Deep Web 
+Emerging Web techniques 
+Information retrieval 
+Interfaces and accessibility 
+Interoperability and heterogeneous systems 
+Mobile Web 
+Performance, scalability, and availability 
+Personalisation and recommender systems 
+Security and privacy 
+Social networks and communities 
+Social Web and analytics 
+Mashups 
+Web of things 
+Web search 
+Service Web, Web services, and service-oriented computing 
+XML and semi-structured data management
+
+==================== SUBMISSION GUIDELINES ====================
+
+Accepted papers of AWC will be in the ACSW Proceedings and published by ACM this year. Papers should be formatted according to ACM conference paper formatting guidelines ACM SIG Proceedings Templates. Submissions must be in English. A paper must clearly state the problem being addressed, the goal of the work, the results achieved, and the relation to other work.
+
+Papers should be submitted electronically in PDF format via the ACSW EasyChair submission site, https://easychair.org/conferences/?conf=acsw2019. Once you log in EasyChair system, click on the "new submission" button, then all the satellite conferences and workshops are on the following page. The authors have to choose appropriate satellite conferences or workshops for your papers.
+
+Submissions must not exceed 10 pages for full papers and 4 pages for short papers. Submissions must be original contributions that have not been published previously, nor already submitted to other conferences or journals in parallel with this conference. Each submission will be peer-reviewed by at least three program committee members.
+
+========================= COMMITTEES ========================
+
+General Chair
+
+Yan Wang, Macquarie University 
+
+Programme Chairs 
+
+Qiang He, Swinburne University of Technology 
+Guanfeng Liu, Macquarie University
+Shuiguang Deng, Zhejiang University

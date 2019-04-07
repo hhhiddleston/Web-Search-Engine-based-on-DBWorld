@@ -1,0 +1,59 @@
+Apologies for cross-postings. Please send it to interested colleagues and students. Many Thanks!
+
+
+
+Call For Papers
+
+Special Issues on “Deep Learning, Ubiquitous, and Service-Oriented Data” 
+=============================================================================================
+The Journal of the Chinese Institute of Engineers (JCIE)
+
+Journal URL: http://jcie.ntust.edu.tw/www/index.php/JCIE
+Publisher URL: https://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=tcie20
+
+ 
+The mobile and ubiquitous nature of digital technologies as witnessed in industry, services and everyday life has given rise to an emergent, data-focused economy stemming from many aspects of human individual and ubiquitous applications. In many cases, these data are presented in a service-oriented computing platform. The richness and vastness of these service-oriented data are creating unprecedented research opportunities in several fields including urbanism, geography, economics, finance, entertainment, social science, physics, biology and genetics, public health and many other fields. In addition to data and text mining research, business and policymakers have seized on deep learning technologies to support their decisions by service-oriented data and proper growing service-oriented application needs. As businesses build out emerging hardware and software infrastructure, it becomes increasingly important to anticipate technical and practical challenges and to identify best practices learned through experience in this research area. Deep learning employs software tools from advanced analytics disciplines such as data mining, predictive analytics, text mining and machine learning based on a set of algorithms that attempt to model high-level abstractions in data by using multiple processing layers with complex structures or non-linear transformations. However, the processing and analysis of deep learning applications present methodological and technological challenges. Further deep learning applications are advantaged by a rise in sensing technologies as witnessed in both the number and rich diversity of sensors ranging from smartphones, personal computers, and health tracking appliances to the Internet of Things (IoT) technologies. These technologies are designed to give contextual, semantic data to entities in a ubiquitous environment that could apply intelligence to decide. Recently, deep learning technologies have been applied to service-oriented computing. We invite research and industry papers related to these specific challenges and others that are driving innovation in deep learning, ubiquitous and service-oriented data together.
+
+The goal of this special issue is to present both novel and industrial solutions to challenging technical issues as well as compelling service-oriented data use cases. This special issue will share related practical experiences to benefit the reader and will provide clear proof that deep learning technologies are playing an ever-increasing important and critical role in supporting service-oriented computing applications - a new cross-discipline research topic in computer science, decision science and information systems. With a general focus on deep learning, ubiquitous and service-oriented computing, this special issue covers related topics such as:
+
+* Data modeling and implementation
+* Analytics and algorithms
+* Business models
+* Delivery, deployment, and maintenance
+* Real-time processing technologies and online transactions
+* Conceptual and technical architecture
+* Visualization technologies
+* Modeling and implementation
+* Security, privacy, and trust
+* Industry standards and solution stacks
+* Provenance tracking frameworks and tools
+* Software repositories
+* Organizations best practices
+* Case studies (e.g., smart toys, healthcare, financial, aviation, etc.)
+
+
+Deadline for authors to submit papers: *** September 18, 2018 (11:59 PM, EST – Eastern Standard Time) ***
+
+Submission link: https://mc.manuscriptcentral.com/tcie
+ 
+Guest Editors:
+ 
+Patrick C. K. Hung
+Faculty of Business and Information Technology
+University of Ontario Institute of Technology, Canada
+
+Hamad Binsalleeh
+Computer and Information Sciences College
+Al-Imam Muhammad Ibn Saud Islamic University, Saudi Arabia
+
+Young Yoon
+Department of Computer Engineering
+Hongik University, Korea
+
+Uwe Breitenbücher
+Institute of Architecture of Application Systems
+University of Stuttgart, Germany
+
+Bhekisipho Twala
+Department of Electrical and Mining Engineering
+University of South Africa, South Africa

@@ -1,0 +1,42 @@
+9 PhD Grants in Computer Science and Maths at the University of Cagliari, Italy
+
+9 PhD grants and 2 additional PhD positions without grant are offered by the Department of Math/Computer Science of the University of Cagliari in Italy for its 3-year PhD programme. Each grant amounts to about 50,000 Euros for 3 years; for research visits abroad the grant increases up to 50%. 
+3 grants will be funded under the Industrial PhD program framework, involving applied research and experiences in ICT companies. Substantial extra funding is available for participation to international conferences, schools, workshops, and research visits. The language of the PhD program is English.
+
+Students will have the opportunity to work in different research areas, including:
+
+  *  Machine Learning
+  *  AI, NLP and Natural Language Understanding
+  *  Computer Vision
+  *  Semantic Web
+  *  Complex networks
+  *  Computational geometry
+  *  Blockchain
+  *  Sensors and Pervasive Computing 
+  *  Architectures and Portable computing
+  *  Data science 
+  *  Operations research and Maths
+
+The call for PhD grants in Computer Science and Maths has been published and available here:
+https://unica.it/unica/protected/124399/0/def/ref/AVS123062/
+
+More info can be found here:
+https://unica.it/unica/it/studenti_s01_ss05.page
+
+Please note the approaching Application deadline: August 27th, 2018, 12.00pm (noon) CEST TIME
+
+Should you have any question regarding the application, the official email contact is: dottoratiemaster@unica.it
+
+
+Our Department is looking for very committed candidates interested to work in any topic regarding Computer Science or Mathematics.
+
+I lead a team working on Natural Language Processing (NLP), Graph Databases and Big Data, and Machine Learning/AI with international collaborations and awards. You can find more info about me at my website: http://git.io/atzori
+
+If you are interested in NLP/machine learning/AI or other related topics and willing to work under my supervision, feel free to contact me at atzori@unica.it for further information and help. For any other topic or inquiry regarding the application, please contact the PhD offices directly at: dottoratiemaster@unica.it
+
+
+Location: Cagliari is located on the southern coast of Sardinia, the
+second largest island in the Mediterranean famous for its white-sand beaches and clean waters.  Cagliari international airport is connected with ~70 direct flights (including many low-cost flights) to Italy and Europe. The climate is Mediterranean, with mild winters and many sunny days. The main beach, Poetto, is only 10' from the city center reachable by urban buses. 
+The Department of Mathematics and Computer Science is hosted in the Palazzo delle Scienze (Science Palace), located on top of a hill nearby the historical area of Castello.
+
+More info on Cagliari: https://www.sardegnaturismo.it/en/places/south/cagliari

@@ -1,0 +1,66 @@
+2018 IEEE International Conference on Big Data (IEEE Big Data 2018) 
+(http://cci.drexel.edu/bigdata/bigdata2018/index.html)
+
+ Dec 10-13, 2018
+ Seattle, WA, USA
+
+The 2018 IEEE International Conference on Big Data (IEEE Big Data 2018) will be held in Seattle, WA, Dec 10-13, 2018  
+(http://cci.drexel.edu/bigdata/bigdata2018/index.html ), we would like to invite you to join this exciting event. 
+We will have a very high  quality program. The highlights of the IEEE Big Data 2018 program are summarized as below 
+
+(1)  High quality technical program:  99 regular papers selected from 518 full paper submissions 
+from 1933 authors and co-authors at 49 countries.  (IEEE Big Data is a top-tier conference, 
+regular paper acceptance rate has been less than 20% since its inception). 
+
+http://cci.drexel.edu/bigdata/bigdata2018/files/BigData2018_Program.pdf
+
+(2)  5 confirmed keynote speeches by leading expertshttp://cci.drexel.edu/bigdata/bigdata2018/KeynoteSpeech.html
+
+Â·       Dr. Blaise Aguera y Arcas: Decentralized Machine Learning
+
+Â·       Dr. Xuedong Huang: Big Data for Speech and Language Processing
+
+Â·       Prof. Masaru Kitsuregawa: Transformational Role of Big Data in Society 5.0
+
+Â·      Prof. Bin Yu:Three principles of data science: predictability, computability, and stability (PCS)
+
+Â·      Prof. Aidong Zhang: On Metric Learning for Complex Data Analysis
+
+(3)  IEEE Big Data 2018 Industry and Government program. 7 full session presentations,   
+all the talks and discussions reflect perspectives from industry on how to address challenging 
+big data issues relevant to industrial settings. 
+
+(4)  BigData Cup Challenges
+
+Â·      Road Damage Detection and Classification Challenges
+
+Â·      FEMH Voice Data Challenge
+
+http://cci.drexel.edu/bigdata/bigdata2018/BigDataCupChallenges.html
+
+(5)  40workshops cover many emerging new research directions in big data  
+http://cci.drexel.edu/bigdata/bigdata2018/Workshops.html
+
+(6)   9 Tutorials, poster program etc.
+
+Tutorial 1: Large-Scale Multi-view Data Analysis
+Tutorial 2: Analysis of Complex Rare Categories
+Tutorial 3: High-Performance SVD for big data
+Tutorial 4: Recent Progress in Zeroth Order Optimization and Its Applications to Adversarial Robustness in Deep Learning
+Tutorial 5: Big Data Analytics for Societal Event Forecasting
+Tutorial 6: Anomaly Detection in Cyber Physical Systems
+Tutorial 7: Creating Reproducible Bioinformatics Workflows Using BioDepot-workflow- Builder (BwB)
+Tutorial 8: Managing Big Structured Data for Unsupervised Feature Representation Learning
+Tutorial 9: Big Data for everyone: Modeling of Data Processing Pipelines for the Industrial Internet of Things
+ 
+ 
+                      http://cci.drexel.edu/bigdata/bigdata2018/Tutorials.html
+
+Please register at
+
+http://cci.drexel.edu/bigdata/bigdata2018/Registration.html
+
+The regular registration package includes three lunches, one banquet, coffee breaks, 
+the conference proceedings and all the technical presentations 
+(keynote, paper presentations , tutorials, posters, workshops). 
+We also offer one-day registration too. 

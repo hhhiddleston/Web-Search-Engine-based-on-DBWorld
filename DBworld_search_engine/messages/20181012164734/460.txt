@@ -1,0 +1,98 @@
+The 17th IEEE International Conference on Machine Learning and Applications
+(ICMLA-2018)
+Special Session: Machine Learning for Predictive Models in Engineering Applications
+(MLPMEA 2018) http://www.icmla-conference.org/icmla18/predictivemodels.pdf
+December 17-20, 2018, Orlando, Florida, USA
+www.icmla-conference.org/icmla18
+
+
+Aim
+ The MLPMEA 2018 special session provides an excellent international forum for sharing
+knowledge and results in theory, methodology and applications of Machine Learning for
+developing predictive models for different engineering applications. Machine Learning models
+are efficient for handing complex prediction models due to their outstanding performance in
+handling large scale datasets with uniform characteristics and noisy data. Examples of
+MLPMEA 2018 topics of interest include building predictive models using Machine Learning to
+solve specific engineering problems such as regression and classification problems.
+Scope
+
+ The aim of this special session is to obtain a good perspective into the current state of
+practice of Machine Learning to address various predictive problems. Some topics relevant to
+this session include, but are not limited to:
+
+? Biomedical image analysis/processing
+? Clustering
+? Decision Support
+? Support Vector Machine
+? Time Series
+? Decision Trees
+? Fuzzy Logic & Systems
+? Probabilistic Reasoning
+? Lazy Learning
+? Classification
+? Recommender Systems
+? Expert Systems
+? Artificial Neural Networks
+? Evolutionary Algorithms
+? Ranking Algorithms
+? Cognitive Processes
+? Evolutionary Computing
+? Swarm Intelligence
+? Artificial Immune Systems
+? Markov Model
+? Chaos Theory
+? Multi-Valued Logic
+? Ensemble Techniques
+? Hybrid Intelligent Models
+? Reasoning Models
+ Applied to
+? Nuclear Engineering
+? Sustainable and Renewable Energy
+? Software Engineering
+? Biomedical Engineering
+? Mechanical Engineering
+? Civil Engineering
+? Electrical Engineering
+? Computer Engineering
+? Chemical Engineering
+? Industrial Engineering
+? Environmental Engineering
+
+Submission Guidelines and Instructions
+
+Papers submitted for reviewing should conform to IEEE specifications. Manuscript templates
+can be downloaded from IEEE website. The maximum length of papers is 8 pages. All the
+papers will go through double-blind peer review process. Authors’ names and affiliations should
+not appear in the submitted paper. Authors’ prior work should be cited in the third person.
+Authors should also avoid revealing their identities and/or institutions in the text, figures, links,
+etc.
+Papers must be submitted via the CTM System by selecting the track “Special Session on
+Machine Learning for Predictive Models in Engineering Applications”. All accepted papers must
+be presented by one of the authors, who must register. Detailed instructions for submitting
+papers can be found at How to Submit.
+
+Paper Publication:
+Accepted papers will be published in the ICMLA 2018 conference proceedings (published by
+IEEE). A selected number of accepted papers will be invited for possible inclusion, in an
+expanded and revised form, in some journal special issues.
+
+Important Dates:
+Submission Deadline: September 7, 2018
+Notification of Acceptance: October 7, 2018
+Camera-ready papers & Pre-Registration: October 17, 2018
+
+Special Session Organizers:
+Ali Bou Nassif
+Department of Electrical and Computer Engineering
+University of Sharjah
+anassif@sharjah.ac.ae
+
+Mohammad Azzeh
+Department of Software Engineering
+Applied Science University, Jordan
+m.y.azzeh@asu.edu.jo
+
+Shadi Banitaan
+Department of Electrical and Computer Engineering
+University of Detroit Mercy, USA
+banitash@udmercy.edu

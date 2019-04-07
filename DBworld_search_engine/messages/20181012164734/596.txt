@@ -1,0 +1,42 @@
+SIGMOD 2019 Call For Workshop Proposals
+
+We invite proposals for workshops to be collocated with the SIGMOD/PODS 2019 conference. Workshops will run on June 29 and July 6, and can last for half a day or full day.
+
+Logistics and Organizational Support:
+-------------------------------------
+
+The organizers of accepted workshops are required to announce the workshop and call for papers, solicit submissions, conduct the reviewing process, and decide upon the final workshop program that must be published at least two weeks before the early registration deadline. In addition, each workshop must prepare its own proceedings. The publishing company is at the discretion of the workshop chairs, but all proceedings must be submitted for inclusion in the ACM Digital Library. Publication of calls for papers and participation as well as eventual workshop reports in SIGMOD Record are encouraged.
+
+The logistics of the workshops will be handled by the SIGMOD 2019 organization. Specifically, the SIGMOD 2019 local organization chairs will work with workshop chairs individually to take care of facilities, catering, and registration for all workshops. To enable this, breaks will be coordinated.
+
+Each workshop receives two free registrations, which are typically used for keynote or invited speakers; the recipients of the free registrations are at the discretion of the workshop chairs, who are requested to send the recipients' names and contact information to the SIGMOD 2019 local organization and registration chairs.
+
+Submission Guidelines:
+-----------------------
+
+The following link details the contents expected of a proposal: http://sigmod.org/about-sigmod/sponsorship/conferences-symposia-and-workshops-held-in-cooperation-with-sigmod/
+
+In addition, the workshop proposals must include:
+1- Statistics for the 2016, 2017 and 2018 editions of the workshop (as applicable) and the expected statistics for 2019:
+  a- number of submissions
+ b- number of accepted papers
+ c- number of registered delegates
+
+2- Detailed information about handling of Conflicts of Interest. More specifically, this information should include but not be limited to: double-blind reviewing or not; whether the workshop accepts submissions by the chairs and their colleagues; how these submissions will be handled; how any other types of COIs are handled (e.g., in the case of single-blind reviewing).
+
+3- Rationale about recruiting the PC of the workshop, for example diversity considerations (academia/industry, geography, gender, seniority, etc).
+
+4- Publicity and sponsorship plans.
+Proposal evaluation criteria include the following: relevance to SIGMOD, scientific quality, perceived interest (e.g., previous submission counts), past performance (e.g., publication of the proceedings in the ACM DL), and overlap with other proposals. Workshop proposals and further inquiries should be sent to the SIGMOD 2019 Workshop chairs:
+
+Angela Bonifati (angela.bonifati [at] univ-lyon1.fr)
+Ihab Ilyas (ilyas [at] uwaterloo.ca)
+Benny Kimelfeld (bennyk [at] cs.technion.ac.il)
+
+
+
+Important Dates:
+
+Workshop proposal submission: Monday, September 21, 2018.
+Workshop proposal notification: Monday, October 19, 2018.
+All deadlines are at 11:59pm Eastern Daylight Time.

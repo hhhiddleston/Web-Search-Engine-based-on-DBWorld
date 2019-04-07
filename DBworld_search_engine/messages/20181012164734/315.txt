@@ -1,0 +1,16 @@
+*Call For Workshops*
+
+The organizers of the 19th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGridÕ19) call for proposals for workshops to be co-located with CCGridÕ19. Workshops should provide forums for discussion among researchers and practitioners on focused topics or emerging research areas relevant to the community. Organizers may structure workshops as they see fit, including invited talks, panel discussions, presentations of work in progress, fully peer-reviewed papers, or some combination of the above. Workshops could be scheduled for half a day or a full day, depending on interest, space constraints, and organizer preference. Organizers should design workshops for approximately 20-40 participants, to balance impact and effective discussion.
+
+The peer-reviewed accepted papers of organized workshops will be published in the CCGrid proceedings. Each paper must have at least two reviews for being eligible for publication.
+
+**Important Dates**
+Deadline for Workshop Proposals September 30, 2018
+Notification of Acceptance October 15, 2018
+
+**Chairs**
+¥ Adel Nadjaran Toosi, Monash University, Australia
+¥ Borja Sotomayor, University of Chicago, USA
+
+**Submission Requirements**
+http://ccgrid2019.ucy.ac.cy/pages/cfw.html

@@ -1,0 +1,21 @@
+I am pleased to announce the latest title in Morgan & Claypool’s series on Computer Science:
+
+Analytical Performance Modeling for Computer Systems, Third Edition
+Y.C. Tay, National University of Singapore
+Paperback ISBN: 9781681733890
+eBook ISBN: 9781681733906
+Hardcover ISBN: 9781681733913
+July 2018, 171 pages
+http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1279
+
+Abstract:
+This book is an introduction to analytical performance modeling for computer systems, i.e., writing equations to describe their performance behavior. It is accessible to readers who have taken college-level courses in calculus and probability, networking and operating systems. This is not a training manual for becoming an expert performance analyst. Rather, the objective is to help the reader construct simple models for analyzing and understanding the systems that they are interested in.
+
+Describing a complicated system abstractly with mathematical equations requires a careful choice of assumptions and approximations. They make the model tractable, but they must not remove essential characteristics of the system, nor introduce spurious properties.
+
+To help the reader understand the choices and their implications, this book discusses the analytical models for 30 research papers. These papers cover a broad range of topics: processors and disks, routers and crawling, databases and multimedia, worms and wireless, multicore and cloud, etc. An appendix provides many questions for readers to exercise their understanding of the models in these papers.
+
+Table of Contents: Preface / Preliminaries / Concepts and Little's Law / Single Queues / Open Systems / Markov Chains / Closed Systems / Bottlenecks and Flow Equivalence / Deterministic Approximations / Transient Analysis / Experimental Validation and Analysis / Analysis with an Analytical Model / Bibliography / Author's Biography
+
+Series: Synthesis Lectures on Computer Science
+http://www.morganclaypoolpublishers.com/catalog_Orig/index.php?cPath=22&sort=2d&series=14

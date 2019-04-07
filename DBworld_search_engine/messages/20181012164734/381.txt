@@ -1,0 +1,21 @@
+I am pleased to announce the latest title in Morgan & Claypool’s series on Data Management:
+
+Query Processing over Incomplete Databases
+Yunjun Gao, Zhejiang University, China
+Xiaoye Miao, City University of Hong Kong, China
+Paperback ISBN: 9781681734200
+eBook ISBN: 9781681734217
+Hardcover ISBN: 9781681734224
+August 2018, 122 pages
+http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1292
+
+Abstract:
+Incomplete data is part of life and almost all areas of scientific studies. Users tend to skip certain fields when they fill out online forms; participants choose to ignore sensitive questions on surveys; sensors fail, resulting in the loss of certain readings; publicly viewable satellite map services have missing data in many mobile applications; and in privacy-preserving applications, the data is incomplete deliberately in order to preserve the sensitivity of some attribute values.
+
+Query processing is a fundamental problem in computer science, and is useful in a variety of applications. In this book, we mostly focus on the query processing over incomplete databases, which involves finding a set of qualified objects from a specified incomplete dataset in order to support a wide spectrum of real-life applications. We first elaborate the three general kinds of methods of handling incomplete data, including (i) discarding the data with missing values, (ii) imputation for the missing values, and (iii) just depending on the observed data values. For the third method type, we introduce the semantics of k-nearest neighbor (kNN) search, skyline query, and top-k dominating query on incomplete data, respectively. In terms of the three representative queries over incomplete data, we investigate some advanced techniques to process incomplete data queries, including indexing, pruning as well as crowdsourcing techniques.
+
+Table of Contents: Preface / Acknowledgments / Introduction / Handling Incomplete Data Methods / Query Semantics on Incomplete Data / Advanced Techniques / Conclusions / Bibliography / Authors' Biographies
+
+Series: Synthesis Lectures on Data Management
+Editors: H. V. Jagadish, University of Michigan
+http://www.morganclaypoolpublishers.com/catalog_Orig/index.php?cPath=22&sort=2d&series=17

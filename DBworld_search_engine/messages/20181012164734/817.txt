@@ -1,0 +1,82 @@
+*** CALL FOR WORKSHOP PAPERS ***
+
+2018 European Conference on Ambient Intelligence (AmI 2018)
+
+Golden Bay Beach Hotel, Larnaca, Cyprus, 12-14 November, 2018
+
+http://www.cyprusconferences.org/ami2018
+
+ *** Submission Deadline: 10th August 2018 ***
+
+
+Ambient intelligence refers to normal working and living environments being 
+surrounded by embedded devices that can merge unobtrusively and in
+natural ways using information and intelligence hidden in the network
+connecting these devices (e.g. The Internet of Things). Such devices, each
+specialised in one or more capabilities, are intended to work together based
+on an infrastructure of intelligent systems, to provide a variety of services
+improving safety, security and the quality of life in ordinary living, travelling
+and working environments.
+
+Accompanying the main conference, the following two workshops will be
+organized:
+
+WS-AFFIN 
+2nd Workshop On Affective Interaction With Avatars and Robots
+http://ws-sime.com/ws-affin
+
+BRAINS
+Behavioral Change and Ambient Intelligence for Sustainability
+https://sites.google.com/diag.uniroma1.it/brains18
+
+
+SUBMISSION AND PROCEEDINGS
+
+Both workshops invite full-papers, work-in progress and position papers
+that address one or more of the topics of interest.
+
+All submitted papers will be peer-reviewed by at least three Program
+Committee members from the corresponding workshop.
+
+All accepted full papers and posters will appear in the conference
+proceedings published by Elsevier under the ENTCS Journal series. Papers
+must be submitted in PDF format adhering to the ELSEVIER Journal format
+and should follow the publication policies of ENTCS. 
+
+The macros can be obtained on the ENTCS Macro Web Site
+http://www.entcs.org along with detailed instructions about preparing the
+papers for the series.
+
+
+IMPORTANT DATES
+
+¥ Paper Submissions Due: 10 August, 2018
+¥ Notification of Acceptance/Rejection: 10 September, 2018
+¥ Camera Ready Versions Due: 25 September, 2018
+¥ Author (of workshop papers) Registration: 25 September, 2018
+
+
+JOURNAL SPECIAL ISSUE
+
+A few papers from each workshop will be selected by the workshop chairs
+and invited for submission to a special issue of MDPI Applied Sciences
+(http://www.mdpi.com/journal/applsci/special_issues/intelligent_environments).
+The final paper should have at least 30% extra material and will be reviewed
+as any MDPI submission.
+
+
+ORGANIZING COMMITTEE
+
+General Chair
+¥ George Roussos, Birkbeck, University of London, UK
+
+Program Chairs
+¥ Achilleas D. Kameas, Hellenic Open University, Greece
+¥ Kostas Stathis, Royal Holloway, University of London, UK
+
+Workshops Chairs
+¥ Ioannis Chatzigiannakis, University of Rome, Italy
+¥ Fariba Sadri, Imperial College, UK
+
+Local Organization Chair
+¥ George Angelos Papadopoulos, University of Cyprus, Cyprus

@@ -1,0 +1,55 @@
+At Faculty 3 - Mathematics/Computer Science the following open
+position is available. The vacancy will be filled - conditional 
+to the release of budgetary funds - as soon as possible:
+
+One postdoc position
+Computer Science - Salary Scale TV-L 13 (100%)
+
+in the ERC-funded project â€œCustom-Made Ontology-Based Data Accessâ€,
+please see
+
+  http://www.informatik.uni-bremen.de/~clu/coda/
+
+The position is available from October 1st, 2018 until July 31, 2020.
+
+The project addresses ontology-based data access (OBDA) with
+description logics and other decidable fragments of first-order logic
+such as the guarded fragment. It brings together research in
+logic-based knowledge representation, database theory, and constraint
+satisfaction problems. We are interested both in candidates with a pure
+theory background and in candidates that are interested in system building.
+
+The appointed candidate will carry out research in the described
+project. There are no teaching duties associated with the positions.
+
+The positions require a PhD in computer science, logic, or mathematics
+or a comparable qualification. Good knowledge of at least one of the
+involved areas is mandatory. The successful candidate will work in the
+group â€œTheory of Artificial Intelligenceâ€ led by Carsten Lutz.
+
+The University of Bremen aims to increase the proportion of female
+employees in science. Therefore women are particularly encouraged to
+apply.  Priority will be given to disabled persons in case of equal
+professional and personal qualification.  Applicants with a migration
+background are welcome.
+
+Please send your application by August 19, 2018, quoting the vacancy
+IDA188/18, to
+
+Prof. Dr. Carsten Lutz
+Fachbereich 3 
+UniversitÃ¤t Bremen
+Postfach 33 04 40 
+28334 Bremen
+Germany
+
+or (preferred) in electronic form to
+
+hederich@informatik.uni-bremen.de
+
+Applications will be considered until the position is filled. We
+kindly ask you to send us only copies of your application documents
+(no folders) because they will not be returned for economic reasons.
+
+For further information, please contact Carsten Lutz, +49 (0)421
+218-64431, clu@cs.uni-bremen.de.

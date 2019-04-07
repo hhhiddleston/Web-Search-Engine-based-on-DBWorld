@@ -1,0 +1,26 @@
+We are pleased to invite you to INCISCOS 2018 - 3rd International Conference on Information Systems and Computer Science - Mechatronics Chapter 
+which will be held in Quito - Ecuador from November 14 to November 16, 2018. 
+
+INCISCOS 2018 is a conference for Engineering, Education and Technology, aimed to the national and international community 
+in the area of information technology and related sciences. 
+
+
+Topics : 
+Mechatronics Design. 
+Embedded systems (E.S) design. 
+Robotics, automations and intelligent systems. 
+Biomechatronics. 
+Control systems design and optimal control. 
+Smart grids and energy management 
+Formal methods, computational logic and theory of computation. 
+Software Engineering. 
+Architecture and Information Systems. 
+Human - computer interaction (HCI). 
+Cloud Computing (CC). 
+Big Data and Predictive Applications (BD). 
+Educational informatics. 
+High Performance and Parallel Computing. 
+Information security. 
+
+All accepted papers will be published in the conference proceedings through IEEE Computer Society Conference Publishing Services, will have an 
+ISBN reference, a Digital Object Identification Number (DOI) and will be submitted for indexation by IEEE Xplore®.

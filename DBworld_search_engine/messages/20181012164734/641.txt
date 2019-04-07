@@ -1,0 +1,33 @@
+17th International Semantic Web Conference (ISWC 2018)
+Monterey, California (USA), October 8-12, 2018
+
+Website: http://iswc2018.semanticweb.org  
+Facebook: https://www.facebook.com/groups/InternationalSemanticWebConference
+Twitter: @iswc2018 (https://twitter.com/iswc2018)
+Important dates: http://iswc2018.semanticweb.org/important-dates/ 
+
+
+==== ISWC 2018 STUDENT TRAVEL GRANTS ===
+Submission deadline (NEW!): August 15th, 2018
+Notifications (NEW!): August 31st, 2018
+
+If you are a student interested in attending ISWC 2018, you may be eligible to apply for travel grants to support the costs of travel and lodging. This year, travel grants are funded by the Semantic Web Science Association (SWSA) and the U.S. National Science Foundation (NSF).
+
+Applying for a Student Travel Award 
+====================================
+Please make sure that you have submitted your application and that your supervisor has sent us a confirmation email by *August 15th, 2018* (new deadline!).
+
+To apply for a grant please follow the steps described at: http://iswc2018.semanticweb.org/student-travel-grants/
+
+Questions
+=========
+If you have any questions or would like to discuss your specific requirements please do not hesitate to contact iswc.travel.awards@gmail.com.
+
+
+The ISWC Organising Committee 
+(http://iswc2018.semanticweb.org/organization/)
+
+ISWC 2018 is sponsored by Franz Inc., Elsevier, IBM Research, iNovex, Ontotext, Oracle, data.world, metaphacts, videolectures.net, and Thomson Reuters.  
+
+
+ 

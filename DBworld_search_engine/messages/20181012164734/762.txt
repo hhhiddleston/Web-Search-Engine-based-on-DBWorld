@@ -1,0 +1,33 @@
+**********************************************************
+Call for Participation: 12th European Conference on Software Architecture (ECSA 2018)
+Early registration deadline: August 23, 2018.
+24-28 September 2018, Madrid, Spain
+**********************************************************
+Web: http://eventos.upm.es/go/ecsa2018
+Tweeter: @ECSACONF2018
+
+Come and join us in Madrid, Spain for the 12th European Conference on Software Architecture on 24-28 September 2018!!!
+
+The European Conference on Software Architecture (ECSA) is the premier European Software Architecture Conference, providing researchers, practitioners and educators with a platform to present and discuss the most recent, innovative and significant findings and experiences in the field of software architecture research and practice.
+You will enjoy three top-level keynotes about different bleeding-edge topics:
+- Prof. Rick Kazman, Carnegie Mellon University & University of Hawaii, USA: Measuring and Managing Architecture Debt: Tales from the Trenches
+- Prof. Siobhán Clarke, Trinity College Dublin, Ireland, Exploring different architecture styles for Adaptive Systems
+- Michael Keeling, IBM, USA, Finding our way in the software wilderness
+Around 40 contributions that have been selected as research and industrial papers as well as posters and interesting tracks as diversity and PhD Symposiums. You may already have a look at the program:
+https://eventos.upm.es/12427/programme/european-conference-on-software-architectures-2018-ecsa18.html
+And 8 Workshops focusing on new trends in the area:
+- 1st International Workshop on Architectural Knowledge for Self-adaptive Systems (AKSAS). Website: https://seeds-lnu.github.io/aksas2018/
+- 12th Workshop on Distributed Software Development, Software Ecosystems and Systems-of-Systems (WDES). Website: http://wdes2018.icmc.usp.br
+-  1st Software Architecture Challenges in Big Data (BDVA SACBD). Website: http://bdva.eu/?q=node/1017
+-  2nd Formal Approaches for Advanced Computing Systems (FAACS). Website: http://fmse.di.unimi.it/faacs2018
+-  2nd Context-aware, Autonomous and Smart Architectures International Workshop (CASA). Website: https://casaecsa.github.io/casa2018
+-  4th Sustainable Architecture: Global Collaboration, Requirements, Analysis (SAGRA). Website: https://sagra2018.wordpress.com
+- 1st Innovator Bootcamp (IB). http://merlin-ict.eu/conference-workshops/ecsa-2018/
+- 5th International Workshop on Measurability of Security in Software Architectures (MeSSA). Website: http://www.vttresearch.com/media/events/messa-2018
+- 5th Workshop on Software Architecture Erosion and Architectural Consistency (SAEroCon). Website: https://saerocon.wordpress.com
+
+Online registration is open here:
+https://eventos.upm.es/12427/tickets/european-conference-on-software-architectures-2018-ecsa18.html
+Early registration deadline is August 23, 2018.
+
+We look forward to seeing you in Madrid!

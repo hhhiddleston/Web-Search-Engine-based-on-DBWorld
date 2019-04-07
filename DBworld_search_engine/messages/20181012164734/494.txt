@@ -1,0 +1,191 @@
+                            Call for Papers
+                Mobile Computing and Applications Track
+          The 34th ACM/SIGAPP Symposium on Applied Computing
+                               SAC 2019
+                          April 8 - 12, 2019
+                           Limassol, Cyprus
+
+                http://www.comp.polyu.edu.hk/~sac19mca/
+
+            http://www.sigapp.org/conferences/sac/sac2019/
+
+  Sponsored by ACM Special Interest Group on Applied Computing (SIGAPP)
+               Hosted by University of Cyprus, Cyprus
+         The SRC Program is sponsored by Microsoft Research
+
+
+Important Notice - SAC No-Show Policy
+
+Paper registration is required, allowing the inclusion of the
+paper/poster in the conference proceedings. An author or a proxy
+attending SAC MUST present the paper. This is a requirement for all
+accepted papers, posters, and invited SRC submissions to be included in
+the ACM/IEEE digital library. No-show of scheduled papers and posters
+will result in excluding them from the ACM/IEEE digital library.
+
+
+The Mobile Computing and Applications Track
+
+For the past thirty three years, the ACM Symposium on Applied Computing
+has been a primary gathering forum for applied computer scientists,
+computer engineers, software engineers, and application developers from
+around the world. SAC 2019 is sponsored by the ACM Special Interest
+Group on Applied Computing (SIGAPP), and is hosted by University of
+Cyprus, Cyprus.
+
+The area of mobile computing has gained tremendous momentum following
+the widespread drive towards wireless sensor networks, Internet of
+Things and location tracking technologies and their applications.
+Various mobile gadgets, generally embedded within small ubiquitous
+devices, notably in myriads of intelligent smart phones and devices,
+have paved the way for wearable computers and found their applications
+in various industries, such as transportation and health-care, just to
+name a few. The availability of high bandwidth LTE and the upcoming 5G
+communication infrastructures and the pervasive deployment of low cost
+WiFi access points have accelerated the development of mobile computing
+to provide ubiquitous computing. This is made possible through the use
+of increasingly powerful handheld devices, many of which now come with
+built-in Bluetooth, WiFi and NFC interfaces. Emergence and acceptance of
+programming standards like HTML5, AJAX, SOAP/.NET, web services, and
+different software applications have paved the way for seamless
+communications across devices. Innovative and useful applications are
+built on the rising mobile and ubiquitous services provided over the
+cloud, in the realization of the Internet of Things. More recently,
+mobile devices are often personalized and virtualized as an extension of
+oneself, where sensors embedded in these devices can monitor the human
+activities accurately, forming the body area networks. The sensor-acquired
+data is used by intelligent apps for better user experience. They are
+contributing towards availability of big data for analysis and various
+advanced applications. The unique characteristics and issues present
+in a mobile computing environment have motivated diverse research and
+application areas, spanning from protocols for mobile computing to
+middleware services to facilitate better integration of mobile and
+location-based services to existing network infrastructure, as well as
+effective information processing involving Internet of things, sensor
+networks, in various application domains such as m-commerce, m-health.
+
+The Mobile Computing and Applications track is dedicated to this
+exciting and ever evolving area of mobile computing to continually draw
+upon research efforts and expertise from different areas of researches
+for better synergy. We would like to bring forth not only the core
+technologies that drive state-of-the-art research, but also important
+applied research and applications to realize the benefits of anywhere,
+any place and anytime computing.
+
+Papers are solicited for the following representative topic areas (but
+not restricted to):
+
+- adaptive computing
+- apps on smart phones
+- big data applications on ubiquitous sensory data
+- body area networks
+- cloud-based mobile services
+- context-aware mobile computing
+- internet of things
+- L-commerce and M-commerce
+- location-aware applications
+- M-health
+- mobile agents
+- mobile device programming and applications
+- mobile middleware services
+- mobile privacy and security
+- mobile web access
+- NFC and RFID applications
+- sensor networks
+- software engineering for mobile applications and systems
+- spatiotemporal data representation and processing
+- visualization on handheld devices
+- wearable computers
+- wireless communication and networking
+- wireless multimedia
+
+
+Submission Guidelines
+
+Authors are invited to submit original papers in all areas of experimental
+computing and application development for the technical program via the
+various tracks hosted by SAC 2019. Submissions fall into the following
+categories:
+
+  * Original and unpublished research work
+  * Reports of innovative computing applications in the arts, sciences,
+    engineering, and business areas
+  * Reports of successful technology transfer to new problem domains
+  * Reports of industrial experience and demos of new innovative systems
+
+The length of an accepted regular paper is up to eight pages. Authors
+could pay for two additional pages at a charge, making it a maximum of
+ten pages. Each accepted poster paper is up to three pages. Authors
+could pay for one additional page at a charge for a total of four pages.
+
+Program Committee members from renowned universities with strong expertise
+in the track focus area will blindly review submissions to our track.
+Accepted papers will be published in the annual proceedings and ACM
+digital library. Submission of the same paper to multiple tracks is
+not allowed. Prospective papers should be submitted via the automated
+START submission system under SAC 2019 web page. For more information
+please visit the SAC 2019 Website at
+http://www.sigapp.org/conferences/sac/sac2019/.
+
+Authors are invited to submit their papers (in postscript or pdf format)
+by September 10, 2018. The papers must be original work, not previously
+published, and currently not submitted elsewhere. The author(s) name(s)
+and address(es) must NOT appear in the body of the paper, and self-reference
+should be in the third person. This is to facilitate blind review. Only the
+title should be shown at the first page without the authors' information.
+One of the authors must be designated as the primary contact point to
+receive the notification at the time of the paper submission. Each paper
+will undergo a formal peer review process on the basis of technical
+quality, originality, clarity, and relevance to the track topics above.
+If you have any inquiry about the track, please contact
+sac19mca@comp.polyu.edu.hk with the Track Chairs.
+
+Submission must be received by Monday, September 10, 2018.
+
+
+Student Research Competition Program
+Sponsored by Microsoft Research
+
+The Student Research Competition (SRC) program, sponsored by Microsoft
+Research, was added to the ACM SIGAPP Symposium on Applied Computing
+(SAC) in 2013. SAC 2019 SRC program provides graduate students the
+opportunity to meet and exchange ideas with researchers and practitioners
+in their areas of interest. Active graduate students seeking feedback
+from the scientific community on their research ideas are invited to
+submit abstracts of their original unpublished and in-progress research
+work in areas of experimental computing and application development
+related to SAC 2019 Tracks. Each accepted SRC paper is of a length of
+up to four pages and there is no allowance for more pages.
+
+If you encounter any problems with your submission, please contact the
+SRC Program Chair:
+SAC 2019 SRC Program Chair
+Armin R. Mikler
+University of North Texas
+Denton, Texas, USA
+email: mikler@unt.edu
+
+
+Track Officials
+
+Track Co-chairs
+Hong Va Leong
+Department of Computing
+The Hong Kong Polytechnic University
+Hung Hom
+Hong Kong
+email: cshleong@comp.polyu.edu.hk
+URL: http://www.comp.polyu.edu.hk/~cshleong
+
+Sheikh Iqbal Ahamed
+Department of Mathematics, Statistics and Computer Science
+Marquette University, USA
+email: sheikh.ahamed@mu.edu
+URL: http://www.mscs.mu.edu/~iq/
+
+
+IMPORTANT DATES
+September 10, 2018 Paper Submission Deadline
+November 10, 2018  Paper Author Notification
+November 25, 2018  Camera-Ready Copy Due
+December 10, 2018  Author Registration

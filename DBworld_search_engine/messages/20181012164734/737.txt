@@ -1,0 +1,73 @@
+______________________________________________________________________
+
+CALL FOR PARTICIPATION
+
+IEEE/ACM SAO 2018
+The First ASONAM Workshop on Social Human Behaviour Analysis
+through Online Social Networks and Media
+
+co-located with
+The IEEE/ACM ASONAM 2018
+
+31 August 2018, Barcelona, Spain
+http://cnd.iit.cnr.it/sao2018/
+
+____________________________________________________________________
+
+
+Featuring:
+
+1 Keynote talk
+  Andreas Kaltenbrunner
+    Director, Data Analytics, NTENT
+    Lecturer, Data Driven Social Analytics, UPF, Barcelona, Spain
+
+5 technical papers
+
+
+Details at http://cnd.iit.cnr.it/sao2018/, as well as below.
+
+========================================================================
+TECHNICAL PROGRAM
+========================================================================
+09:30 â€“ 10:30 Session One
+
+------------------------------------------------------------------------
+09:30 â€“ 10:10 Keynote Talk
+
+  Andreas Kaltenbrunner
+    Director, Data Analytics, NTENT
+    Lecturer, Data Driven Social Analytics, UPF, Barcelona, Spain
+    
+    Two aspects of measuring human behavior through social media:
+    possibilities and limits
+
+------------------------------------------------------------------------
+
+10:10 â€“ 10:35
+Ema Kusen, Mark Strembeck
+  On the Temporal Emergence of Message Exchange Motifs for Human-Bot
+  Interaction  in Multilayer Networks During Riot Events
+
+
+10:30 â€“ 11:00 Coffee Break
+
+
+11:00 â€“ 12:40 Session Two
+------------------------------------------------------------------------
+Christian Quadri, Matteo Zignani, Sabrina Gaito and Gian Paolo Rossi
+  Feature-rich Ego-network Circles in Mobile Phone Graphs:
+  Tie Multiplexity and the Role of Alters
+
+Anjali Verma, Ashima Wadhwa, Navya Singh, Shivangi Beniwal, Rishabh Kaushal
+and Ponnurangam Kumaraguru
+  Followee Management: Helping users follow the right users on
+  Online Social Media
+
+Adam Reed, John Piorkowski, Ian McCulloh
+  Correlating NBA team network centrality measures with game performance
+
+(short paper)
+Faisal Ghaffar, Teodora Sandra Buda, and Haytham Assem,
+Armita Afsharinejad, Neil Hurley
+  SCCD: Social Capital-Driven Career Development Framework

@@ -1,0 +1,74 @@
+CALL FOR PAPERS
+
+The 16th IEEE International Conference on Intelligence and Security Informatics (ISI)
+November 9-11, 2018, Miami, Florida, USA
+
+EXTENDED  DEADLINE: AUGUST 17, 2018
+http://isi18.azurewebsites.net/
+
+Intelligence and Security Informatics (ISI) research is an interdisciplinary research field involving academic researchers in information technologies, computer science, public policy, bioinformatics, computational social science, social computing, medical informatics, and social and behavioural studies as well as local, state, and federal law enforcement and intelligence experts, and information technology industry consultants and practitioners to support counterterrorism and homeland securityÕs missions of anticipation, interdiction, prevention, preparedness and response to terrorist acts.
+The annual IEEE International Conference on ISI (IEEE ISI) was started in 2003 in Tucson, Arizona. Since then, the conference has been hosted in Atlanta, San Diego, New Brunswick, Taipei, Dallas, Vancouver, Beijing, Seattle, Washington DC, the Hague, Baltimore, Tucson, and Beijing. Over the past 15 years, the IEEE ISI Conference has evolved from its traditional orientation of intelligence and security domain towards a more integrated alignment of multiple domains, including technology, humans, organization, and security. The scientific community has increasingly recognized the need to address intelligence and security threats by understanding the interrelationships between these different components, and by integrating recent advances from different domains. This year, the IEEE ISI conference will be held in Miami, Florida, USA.
+CONFERENCE TOPICS
+We invite academic researchers in the field of Intelligence and Security Informatics and related areas as well as law enforcement and intelligence experts, and industryÊconsultants and practitioners in the field to submit papers and workshop proposals.
+
+ISI 2018 Submissions may include systems,Êmethodology, test-bed, modelling, evaluation, and policy papers.Ê Research should be relevant to informatics, organization, public policy, or human behaviour in applications of counter-terrorism or protection of local/ national/ international security in the physical world and/or cyberspace.Ê 
+?ISI 2018 TOPICS INCLUDE BUT ARE NOT LIMITED TO:
+
+Security Analytics and Threat Intelligence
+* Threat pattern models and modelling tools
+* Real-time situational awareness
+* Intrusion and cybersecurity threat detection and analysis
+* Cyber-physical-socialÊ system security and incident management
+* Computing and networking infrastructure protection
+* Crime analysis and prevention
+* Forecasting threats and measuring the impact of threats
+* Surveillance and intelligence through unconventional means
+* Information security management standards
+* Information systems security policies
+* Mobile and cloud computing security
+* Big data analytics for cybersecurity
+* Machine learning for cybersecurity 
+* Artificial Intelligence for cybersecurity 
+* Resilient cyber infrastructure design and protection
+
+Data Science and Analytics in Security Informatics
+* Data representation and fusion for security informatics
+* Criminal/intelligence information extraction
+* Data sharing and information visualization for security informatics
+* Web-based intelligence monitoring and analysis
+* Spatial-temporal data analysis for crime analysis and security informatics
+* Criminal/intelligence machine learning and data mining
+* Bio-terrorism tracking, alerting, and analysis
+* Digital forensics and computational criminology
+* Financial and accountingÊ fraud analysis
+* Consumer-generated content and security-related social media analytics
+* Security-related social network analysis (radicalization, fund-raising, recruitment, conductingÊ operations)
+* Authorship analysis and identification
+* Terrorism related analytical methodologies and software tools
+Human Behaviour and Factors in Security Applications
+* Behaviour issues in information systems security
+* HCI and user interfaces of relevance to intelligence and security
+* Social impacts of crime and terrorism
+* Board activism and influence
+* Measuring the effectiveness of counter-terrorism campaigns
+* Citizen education and training
+* Understanding user behaviour in that has potential security risks
+* Security risks about user behaviour in information systems
+* Human behaviour modelling, representation and prediction for security applications
+Organizational, National, and International Issues in Counter-terrorism and other Security Applications
+* Best practices in counter-terrorism or security protection
+* Information sharing policy and governance
+* Privacy, security, and civil liberties issues
+* Emergency response and management
+* Disaster prevention, detection, and management
+* Protection ofÊ transportation and communications infrastructure
+* Communication and decision support for research and rescue
+* Assisting citizens' responses to terrorism and catastrophic events
+* Border security
+* Accounting and IT auditing
+* Corporate governance and monitoring
+* Election fraud and political use and abuse
+SUBMISSION FORMAT AND PUBLICATION
+We accept three types ofÊpaper submissions on the topics of the proposed tracks and related topics: long paper (max. 6 pages), short paper (max. 3 pages), and poster (1 page). Submission format is PDF.Ê Consult the IEEE publications page at http://www.ieee.org/conferences_events/conferences/publishing/templates.html for information on formatting. Papers will be submitted through the EasyChair portal and review system. The submission Web page for IEEE ISI 2018: https://easychair.org/conferences/?conf=isi2018
+
+The accepted papersÊfrom ISI 2018 and its affiliated workshops will be published by the IEEE Press in formal Proceedings. IEEE ISI Proceedings are EI-indexed.

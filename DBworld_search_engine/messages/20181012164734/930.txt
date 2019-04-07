@@ -1,0 +1,49 @@
+Call for Papers: JIST 2018 Special Session on Resource-aware Semantic Technologies
+
+INTRODUCTION
+
+Joint International Semantic Technology Conference (JIST 2018) < http://jist2018.knowledge-graph.jp/pages/calls/resource-aware_semantic_technologies.html >
+
+As Semantic Technologies gain momentum, their impact on resources and society increases. At the same time application developers would like to employ semantic technologies on devices that are heavily resource constrained such as mobile devices. So far the efficiency of semantic technologies is still mainly assessed by running times. Its vertical scalability (scale-up) has been investigated for a while now. So far adaptive horizontal scalability (scale-out) of semantic technologies and systems is hardly investigated. Here the challenge is to utilize resources opportunistically and efficiently, based on availability and the application requirements. This is significant and challenging in semantic-enabled contexts -- especially in those with dynamic networks of independent devices, such as multi-agent systems and IoT.
+
+While computational and cognitive complexity of semantic technologies are being investigated, work on their resource consumption, e.g. in terms of energy or storage, is still in its infancy. However, assessing, managing and predicting the resource consumption is a vital prerequisite for the wider usefulness of semantic technologies.
+
+The special session calls for contributions regarding, but not limited to the following topics:
+
+    resource-adaptive semantic technologies
+    reasoning algorithms for resource-bound hardware
+    measurement frameworks for energy-consumption of semantic technologies
+    ontologies for energy management
+    prediction methods for resource consumption
+    application of semantic technologies for resource management
+
+IMPORTANT DATES:
+
+    Abstract submission: 23:59 (Hawaii Time), 3 August, 2018
+    Full paper submission: 23:59 (Hawaii Time), 10 August, 2018
+    Notification of Acceptance: 14 September, 2018
+    Camera-ready Deadline: 28 September, 2018
+    Conference: 26-28 November, 2018
+
+SUBMISSION
+
+The papers submitted to special sessions are handled as regular or short papers, which should not be longer than 16 or 8 pages including references, respectively.
+
+Papers can be submitted electronically via EasyChair. Please select the "Resource-aware Semantic Technologies" when you submit your paper(s).
+
+CHAIRS:
+
+    Fernando Bobillo, University of Zaragoza, Spain
+    Anni-Yasmin Turhan, Technische UniversitÃ¤t Dresden, Germany
+
+PROGRAM COMMITTEE
+
+    Carlos Bobed, UniversitÃ© of Rennes 1, France
+    Fernando Bobillo, University of Zaragoza, Spain
+    Martin J. Kollingbaum, University of Aberdeen, UK
+    Eduardo Mena, University of Zaragoza, Spain
+    Jeff Z. Pan, University of Aberdeen, UK
+    Michele Ruta, Polytechnic University of Bari, Italy
+    Floriano Scioscia, Polytechnic University of Bari, Italy
+    Anni-Yasmin Turhan, Technische UniversitÃ¤t Dresden, Germany
+    William van Woensel, Dalhousie University, Canada

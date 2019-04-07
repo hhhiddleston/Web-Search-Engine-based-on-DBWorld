@@ -1,0 +1,68 @@
+---------------------------------------------------------------------
+
+                            Call for Papers 
+
+
+               6th International Conference on Mining Intelligence
+              and Knowledge Exploration (MIKE 2018)         
+ 
+
+             December 20 - 22, 2018  -  Cluj-Napoca, Romania
+
+                      http://www.mike.org.in/2018/ 
+
+---------------------------------------------------------------------
+
+
+The MIKE 2018 Program Committee invites submissions of original theoretical research, applied research and deployed application papers on all aspects of data mining, learning theory and knowledge discovery. Technical tracks include, but are not limited to: 
+- evolutionary computation;
+- knowledge exploration in Internet of Things;
+- artificial intelligence;
+- machine learning;
+- data mining and information retrieval;
+- image analysis, pattern recognition and computer vision;
+- speech/signal processing;
+- text mining and natural language processing;
+- intelligent intelligent security systems;
+- intelligent systems. 
+
+Accepted papers will be published by Springer in LCNS/LNAI series.
+Authors of accepted papers are expected to present their work at the conference.
+
+SUBMISSION AND FORMATTING
+We will adopt a double-blind review process, where the names of authors and their affiliations are unknown to reviewers until the end of the review process and are not mentioned in the paper. 
+
+Submitted papers must contain 6 pages (short papers) and 10 pages (long papers), including text, figures and references. We require that submissions conform to the Springer LCNS format (www.springer.com/lcns).
+
+
+IMPORTANT DATES
+Paper submission deadline:        Friday, September 7, 2018
+Notification to authors:          Tuesday, October 2, 2018 
+Camera-ready submission deadline: Sunday, October 10, 2018
+
+
+ORGANIZERS
+TPC Co-chairs:
+  Adrian Groza (Technical University of Cluj-Napoca, Romania)
+  Rajendra Prasath (Indian Institute of Information Technology, Sri City, India) 
+Track Chairs:
+  Camelia Chira (Babes-Bolyai University, Cluj-Napoca, Romania)
+  Radu Danescu (Technical University of Cluj-Napoca, Romania)
+  Mircea Giurgiu (Technical University of Cluj-Napoca, Romania)
+  Anca Hangan (Technical University of Cluj-Napoca, Romania)
+  Camelia Lemnaru (Technical University of Cluj-Napoca, Romania)
+  Ramona Marfievici (Nimbus Research Centre, Ireland)
+  Vlad Muresan (Technical University of Cluj-Napoca, Romania)
+  Ciprian Oprisa (Technical University of Cluj-Napoca, Romania)
+  Radu Razvan Slavescu (Technical University of Cluj-Napoca, Romania)
+  Jose Villa (University of Oviedo, Spain)
+Local Arrangements: 
+Anca Hangan (Technical University of Cluj-Napoca, Romania)
+Bogdan Iancu (Technical University of Cluj-Napoca, Romania)
+Camelia Lemnaru (Technical University of Cluj-Napoca, Romania)
+
+---------------------------------------------------------------------
+
+     Our apologies if you receive multiple copies of this call
+
+---------------------------------------------------------------------

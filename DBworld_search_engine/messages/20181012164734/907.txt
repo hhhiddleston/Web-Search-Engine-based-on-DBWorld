@@ -1,0 +1,89 @@
+                         Call for Papers
+                    *** EXTENDED DEADLINE ***
+
+CloudWays2018: 4th International Workshop on Cloud Migration and Architecture 2018
+
+Como, Italy, September 12, 2018
+
+Conference website https://sites.google.com/site/cloudwaysws18/
+
+Submission link https://easychair.org/conferences/?conf=cloudways2018
+
+Submission deadline July 28, 2018
+
+The 4th International Workshop on Cloud Migration and Architecture (CloudWays 2018) aims to bring together cloud migration experts and cloud-native application DevOps experts from academia and industry from different IT communities, e.g., cloud computing, software engineering, services computing, big data, information systems, etc. Its main goals is to promote discussions and collaboration among participants, to help disseminate novel cloud migration practices and solutions, and to identify future cloud migration and cloud-native application engineering challenges and dimensions. To this end, the workshop will foster a more interactive participation model, in which authors, invited speakers and attendees will be encouraged to socially engage beyond the planned workshop activities.
+
+CloudWays 2018 will be co-located with the 7th European Conference on Service-Oriented and Cloud Computing (ESOCC 2018). 
+
+Submission Guidelines
+
+All papers must be original and not simultaneously submitted to another journal or conference. The following paper categories are welcome:
+
+- Full papers (maximum 12 pages) should describe original research, empirical studies or experience reports on cloud architectures, adoption and migration.
+- Short papers (maximum 8 pages) should describe on-going research or early empirical results.
+
+All papers must be written in English and follow Springer's LNCS formatting instructions.  Papers must be submitted in PDF using the EasyChair online submission system.
+
+The workshop proceedings are planned as post-proceedings in the Springer CCIS Series covering all ESOCC satellite events.
+
+List of Topics
+
+We solicit original high quality papers focused on different areas of research and practices on cloud adoption and migration based on (but not limited to) the following topics:
+
+Cloud-native architectures
+
+- Cloud-native architecture evolution, adaption and transformation
+- Cloud application maturity levels (cloud ready, friendly, resilient, native)
+- Quality considerations for cloud-native architectures
+- Scalability considerations for cloud-native architectures
+- Hybrid and multi-cloud architectures
+- Microservices
+- Serverless Architectures
+- Cloud architecture reference models
+
+Cloud migration
+
+- Cloud migration strategies and processes
+- Cloud migration patterns, styles and tactics
+- Cloud migration reference models and best practices
+- Migration to XaaS (e.g., SaaS, PaaS, IaaS) delivery models
+- Data migration strategies in cloud
+- Effort and cost estimation in cloud migration
+
+Cloud-native SW engineering
+
+- DevOps
+- Cloud patterns, styles and tactics
+- Migration to Cloud-native architectures
+- Model-driven approaches for cloud-native SW engineering
+- Programming support for cloud-native architectures
+- Tool support for cloud-native architectures
+- Project management and planning for a cloud-native SW engineering context
+
+(Container) Platforms:
+
+- Self-contained deployment units (containers, unikernels, etc.)
+- Elastic platforms for self-contained deployment units
+- Functions-as-a-Service platforms
+- Performance and operation considerations for cloud platforms
+- Auto-scalable cloud platforms
+
+Use cases/empirical studies:
+
+-  Empirical studies, secondary studies or surveys on one of the above mentioned topics
+- Lessons learned on one of the above mentioned topics
+- Cloud platform benchmarking studies
+- Scalability benchmarking studies
+- Industrial case studies or experience reports on one of the above mentioned topics
+
+Organizing committee
+
+Vasilios Andrikopoulos, University of Groningen, the Netherlands,
+Nane Kratzke, University of Applied Science LÃ¼beck, Germany 
+Claus Pahl, Free University of Bozen-Bolzano, Italy
+
+Contact
+
+For further information, please email the workshop contact chair:
+Claus Pahl, Free University of Bozen-Bolzano, Italy
+Email: claus.pahl@unibz.it

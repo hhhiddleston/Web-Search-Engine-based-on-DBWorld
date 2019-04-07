@@ -1,0 +1,34 @@
+http://jist2018.knowledge-graph.jp/pages/calls/regular_technical_papers.html
+
+The mission of the Joint International Semantic Technology Conference (JIST) is to bring together researchers in the Semantic Technology research community and other areas of semantic-related technologies to present their innovative research results or novel applications of semantic technologies.
+
+There are two tracks in JIST 2018.
+
+Research Track
+JIST 2018 research track solicits submissions of original research work on semantic technologies. Topics of interest include, but are not limited to:
+
+Ontology and reasoning
+Knowledge graph
+Linked Data
+Big Data and semantics, exchange and integration
+Data streams and the Internet of Things
+Machine learning and information extraction on the Semantic Web
+Semantic Web services and processes
+Trust, privacy, and security on the Semantic Web
+Social Semantic Web
+Natural language processing and semantics
+Semantic multimedia
+Novel applications of semantic technologies
+Special Session Track
+JIST 2018 special session track to discover and implement special topics that researchers in Semantic Technology are particularly interested in. We also intend to facilitate participation of potentially-related researchers in the JIST conference. Topics of special sessions are as follows:
+
+Special Session on Government Open Data
+Special Session on Question Answering and ChatBots
+Special Session on Resource-aware Semantic Technologies
+Special Session on Semantic Web for Life Sciences
+Important Dates
+Abstract submission: 23:59 (Hawaii Time), 3 August, 2018
+Full paper submission: 23:59 (Hawaii Time), 10 August, 2018
+Notification of Acceptance: 14 September, 2018
+Camera-ready Deadline: 24 September, 2018
+Conference: 26-28 November, 2018

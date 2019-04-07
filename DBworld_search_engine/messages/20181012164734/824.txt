@@ -1,0 +1,122 @@
+ 13th International Conference on Risks and Security of Internet and Systems : CRiSIS 2018
+ 16th-18st October 2018, Arcachon, France
+ http://crisis2018.labri.fr
+
+
+ Call for Papers
+
+ The International Conference on Risks and Security of Internet and Systems 2018 will be the 13th in a series dedicated to security issues in Internet-related applications, networks and systems. Internet has become essential for the exchange of information between user groups and organizations from different backgrounds and with different needs and objectives. These users are exposed to increasing risks regarding security and privacy, due to the development of more and more sophisticated online attacks, the growth of Cyber Crime, etc. Attackers nowadays do not lack motivation and they are more and more experienced. To make matters worse, for performing attacks have become easily accessible. Moreover, the increasing complexity as well as the immaturity of new technologies such as pervasive, mobile and wireless devices and networks, raise new security challenges.
+ In this context, new security mechanisms and techniques should be deployed to achieve an assurance level acceptable for critical domains such as energy, transportation, health, defence, banking, critical infrastructures, embedded systems and networks, avionics systems, etc. The CRiSIS conference offers a remarkable forum for computer and network security actors from industry, academia and government to meet, exchange ideas and present recent advances on Internet-related security threats and vulnerabilities, and on the solutions that are needed to counter them.
+
+ Topics
+
+ The topics addressed by CRiSIS range from the analysis of risks, attacks to networks and system survivability, to security models, security mechanisms and privacy enhancing technologies. The authors are invited to submit research results as well as practical experiment or deployment reports. Industrial papers about applications or case studies are also welcomed in different domains (e.g., telemedicine, banking, e-government, e-learning, e-commerce, critical infrastructures, mobile networks, embedded applications, etc.). The list of topics includes but is not limited to:
+
+ - Analysis and management of risk
+ -  Attacks and defenses
+ - Attack data acquisition and network monitoring
+ - Cryptography, biometrics, watermarking
+ - Dependability and fault tolerance of Internet applications
+ - Distributed systems security and safety
+ - Embedded system security and safety
+ - Empirical methods for security and risk evaluation
+ - Hardware-based security and physical security
+ - Intrusion detection and prevention systems
+ - Organizational, ethical and legal issues
+ - Privacy protection and anonymization
+ - Risk-aware access and usage control
+ - Security and risk assessment
+ - Security and risks metrics
+ - Security and dependability of operating systems
+ - Security and safety of critical infrastructures
+ - Security and privacy of peer-to-peer system
+ - Security and privacy of wireless networks
+ - Security models and security policies
+ - Security of new generation networks, security of VoIP and multimedia
+ - Security of e-commerce, electronic voting and database systems
+ - Security of social networks
+ - Security of industrial control systems
+ - Smartphone security and privacy
+ - Traceability, metrology and forensics
+ - Trust management
+ - Use of smart cards and personal devices for Internet applications
+ - Web and cloud security
+
+ Paper submission
+
+ Submitted papers must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal or a conference with proceedings. Papers must be written in English and must be submitted electronically in PDF format. 
+
+ The papers that will be selected for presentation at the conference will be included in post-proceedings published by Springer in the Lecture Notes in Computer Science (LNCS) series (prior to publication the papers should be revised according to the review comments). Pre-proceedings will appear at the time of the conference. 
+
+ Maximum paper length will be 16 printed pages for full papers or 6 pages for short papers, in LNCS style (http://www.springer.de/comp/lncs/authors.html).  Authors of accepted papers must guarantee that their papers will be presented at the conference. All paper submissions will be handled through the Easy Chair  conference management system: https://easychair.org/conferences/?conf=crisis2018.
+
+
+ IMPORTANT DATES:
+  * Submission deadline: EXTENDED (FIRM): July 27, 2018
+  * Notification to authors: August 17th, 2018
+  * Camera-ready versions: September 7th, 2018
+  * Conference dates: October 16th-18th, 2018
+
+
+ General Chairs
+
+ - Jean Louis Lanet, LHS Rennes, France
+ - Mohamed Mosbah, LaBRI, Bordeaux INP, France
+
+ PC Chairs
+
+ - Nora Cuppens, IMT Atlantique, France
+ - Akka Zemmari, LaBRI , Univ. Bordeaux, France
+
+ Publicity Chairs 
+
+ - Mohamed Mosbah, Bordeaux INP, France
+ - Reda Yaich, IMT Atlantique, France
+
+ Sponsor and Publication Chairs
+
+ - FrÃ©dÃ©ric Cuppens, IMT Atlantique, France
+ - Axel Legay, INRIA, France
+
+ Local Organization
+
+ - Auriane DANTES, LaBRI, France
+ - Mohamed Mosbah, LaBRI, France (co-chair)
+ - Sofian Maabout, LaBRI, France
+ - Akka Zemmari, LaBRI, France (co-chair)
+ - Nadia Chaabouni, LaBRI, France
+ - Charazed Ksouri, LaBRI, France
+ - Ghislaine Le Gall, IMT Atlantique, France
+
+ Program Committee 
+
+ - Esma Aimer, University of Montreal
+ - Luca Allodi ,University of Torento
+ - Jocelyn Aubert, Luxembourg Institute of Science and Technology
+ - Fabrizio Biondi, IRISA/INRIA Rennes
+ - Anis Bkakria, IMT Atlantique
+ - Yu Chen, State University of New York Binghamton
+ - Nora Cuppens-Boulahia,IMT Atlantique, France (Co-chair)
+ - FrÃ©dÃ©ric Cuppens,  IMT Atlantique, France
+ - Imen Jemili, FacultÃ© des Sciences, Bizerte, Tunisia
+ - Jose M. Fernandez, Ecole Polytechnique de Montreal
+ - Manoj Singh Gaur, IIT Jammu, India
+ - Bogdan Groza, Politehnica University of Timisoara
+ - Ruan He, Orange
+ - Christos Kalloniatis, University of the Aegean
+ - Sokratis Katsikas, Center for Cyber and Information Security, NTNU
+ - Nizar Kheir, Thales Group
+ - Igor Kotenko, St. Petersburg Institute for Informatics and Automation of the Russian Academy of Sciences (SPIIRA)
+ - Marc Lacoste, Orange
+ - Kostas Lambrinoudakis, University of Piraeus
+ - Jean-Louis Lanet, LHS Rennes, France
+ - Mohamed Mosbah, LaBRI, Bordeaux INP, France
+ - Raja Natarajan, TIFR, India
+ - Stephen Neville, University of Victoria
+ - Roberto Di Pietro, Bell Labs
+ - Kai Rannenberg, Goethe University Frankfurt 
+ - Michael Rusinowitch, LORIA INRIA Nancy
+ - Ketil Stoelen, SINTEF
+ - Nadia Tawbi, UniversitÃ© de Laval
+ - Akka Zemmari, LaBRI - UniversitÃ© de Bordeaux (Co-chair)
+ - Lingyu Wang, Concordia University

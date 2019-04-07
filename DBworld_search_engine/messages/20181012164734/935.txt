@@ -1,0 +1,148 @@
+IOV 2018, The 5th International Conference on Internet of Vehicles
+Paris, France, November 19 - 22, 2018
+https://lipn.univ-paris13.fr/~cerin/sc2iovsoca2018.html
+
+Dear Colleagues:
+
+We cordially invite you to share your latest research results at the 2018 Internet of Vehicles (IOV) conference.
+
+*** Best Paper Award(s), Best Student Paper Award(s) and Best Poster(s) will be granted at IOV 2018.
+
+---------------------------
+CALL FOR PAPERS
+---------------------------
+Internet of Vehicles (IOV) as an important part of the wisdom city is a complex integrated network system, which connects different people within automotives, different automotives and different environment entries in cities. IOV is different from Telematics, Vehicle Ad hoc Networks, and Intelligent Transportation, in which vehicles like phones can run within the whole network, and obtain various services by swarm intelligent computing with people, vehicles, and environments.
+
+IOV 2018 is to establish an international forum for engineers and scientists to present their excellent ideas, latest innovations and experiences on Internet of Vehicles. We welcomes paper submissions on innovative work from researchers in academia, industry and government describing original research work, sharing the experience and insights, forecast the trends and opportunities, and discuss the policy, economics and social implications.
+
+IOV 2018 will be held on November 6 - 9, 2018, in Paris, France. 
+Topics of interest include, but are not limited to:
+
+ - Vehicle Behavior Model and Environment Awareness
+ - Cooperative Driving, Intelligent and Autonomous Vehicles
+ - Telematics, Wireless Communication Networks for IOV
+ - Services and applications of IOV
+ - Complex systems and systems-of-systems for IOV
+ - Theory, technology, methodology, tools and applications for IOV
+ - Wireless Communications and Vehicular Networking
+ - Vision-based driver assistance
+ - Computer vision for autonomous vehicles
+ - Mobile Internet, Mobility Internet and Internet of Things
+ - Transportation and Connected Vehicles
+ - Geographic, Spatial and Social Information Systems
+ - Practices, Recommendations and Standards in Connected Vehicles
+ - Policy, Economics and Social Implications
+ - Cooperative Driving, Intelligent and Autonomous Vehicles
+ - Automotive Electronics and Automatic Control
+ - Computational modeling and methodology for Intelligent Mobility Cases/Studies
+ - Network Architecture for IOV
+ - Automotive Electronics and Automatic Control for IOV
+ - Swarm Intelligent Computing in IOV.
+ - Network and Information Services in IOV.
+ - Social Economics for Vehicle Platforms.
+ - IOV for Intelligent Transportation and Wisdom City
+ - Social Network for IOV
+ - Modeling and Simulation for IOV
+ - Cloud computing for IOV
+ - Big Data for IOV
+ - Applications and Standards of IOV
+
+
+---------------------------------------
+PUBLICATION HIGHLIGHTS
+---------------------------------------
+Springer LNCS proceedings, indexed by 
+ - ISI Conference Proceedings Citation Index - Science (CPCI-S), included in ISI Web of Science
+ - Scopus
+ - EI Engineering Index
+ - ACM Digital Library
+ - dblp
+ - Google Scholar
+
+Extended version of the selected papers will be invited for publication in prestigious international journals.
+
+-Cluster Computing (Springer)
+-Journal of Foundations of Computing and Decision Sciences
+-International Journal of Applied Mathematics and Computer Science
+-Future Generation Computer Systems (Elsevier)
+-International Journal of Grid and High Performance Computing (ESCI, EI, Scopus)
+-International Journal of Big Data Intelligence
+-Journal of Supercomputing (Springer)
+-Sustainability
+
+------------------------ 
+IMPORTANT DATES
+------------------------
+Workshop/Special Session Proposal
+Paper Submission Deadline  July 31, 2018
+Acceptance Notification  September 7, 2018
+Registration Deadline   October 6, 2018
+Camera-Ready Submission  October 6, 2018
+
+---------------------------------------------
+SUBMISSION and PUBLICATION
+---------------------------------------------
+Authors are invited to submit their original research work that has
+not previously been submitted or published in any other venue. Papers
+should be prepared in LNCS format and submitted via the IOV 2018
+submission page:
+
+https://easychair.org/conferences/?conf=iov2018
+
+LNCS formatting information:
+http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0 
+
+Proposals for organizing tutorials, workshops and Special sessions
+need to be submitted to the Tutorials, Workshops and Special Sessions
+Chair. A proposal should include title, theme, scope and main
+presenters/organizers.
+
+Research paper (14 pages) should explore a specific technology problem
+and propose a complete solution to it, with experimental
+results. Works-in-Progress (WIP) (12 pages) papers are expected to
+present either work currently in progress or less developed but highly
+innovative ideas. Demo/Poster papers (10 pages) must describe working
+systems and be related to IOV. These systems may be innovative
+prototype implementations or mature systems that use related
+technology. Papers/proposals need to be submitted to the Demo/Poster
+track.
+
+----------------------------------
+ORGANIZING COMMITTEES
+----------------------------------
+GENERAL CHAIRS
+Mohamed-Cherif Rahal, VeDeCom, France
+
+GENERAL EXECUTIVE CHAIR
+Christophe CÃ©rin, UniversitÃ© Paris 13, France
+
+PROGRAM CHAIRS
+Zhengguo Sheng, University of Sussex, UK
+Andrzej M.J. Skulimowski, AGH University of Science and Technology, Poland
+
+PUBLICATION CHAIR
+Sondes Khemiri-Kallel, UniversitÃ© de Versailles St Quentin
+
+PUBLICITY CHAIR
+Naercio Magaia, University of Sussex, UK
+
+STEERING COMMITTEE
+Mohammed Atiquzzama, Univ. of Oklahoma, USA
+Jiannong Cao, Poly U., HK
+Robert Hsu, Chung Hua University, Taiwan
+Victor C. Leung, The U. of British Columbia, Canada
+Shangguang Wang, BUPT, China
+
+LOCAL ORGANIZING COMMITTEE
+Christophe CÃ©rin, UniversitÃ© Paris 13
+Hanene Azzag, UniversitÃ© Paris 13
+Leila Abidi, UniversitÃ© Paris 13
+Jonathan Lejeune, Sorbonne UniversitÃ©
+Mustapha Lebbah UniversitÃ© Paris 13
+Arnaud Kaiser, IRT SystemX
+Kais Klay, UniversitÃ© Paris 13
+Tarek Menouer, UniversitÃ© Paris 13
+Sondes Khemiri-Kallel, UniversitÃ© Versailles St Quentin
+Walid Gaaloul, TÃ©lÃ©com Sudparis, Evry
+Khaled Boussetta, UniversitÃ© Paris 13
+Nadjib Achir, UniversitÃ© Paris 13

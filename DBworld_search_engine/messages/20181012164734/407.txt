@@ -1,0 +1,78 @@
+Dear colleague,
+Please note the new deadlines for CITIMA 2018.
+Best regards
+ 
+Important dates
+* Paper Submission: September 22, 2018
+* Acceptance/Reject notification: October 21, 2018
+* Camera ready: October 28, 2018
+* Author registration: October 30, 2018
+
+** Apologies if you receive multiple copies of this message **
+*************************************************************************
+CITIMA2018
+International Workshop on Computational Intelligence Techniques for Industrial and Medical Applications
+
+Collocated with:
+SITIS 2018 - The 14h International Conference on Signal Image Technology & Internet based Systems
+26-29 November 2018 - Las Palmas de Gran Canaria, Spain
+http://www.sitis-conf.org/en/citima-2018.php
+*************************************************************************
+
+Scope of the Workshop
+Computational Intelligence techniques are adopted in many industrial applications, like visual based quality control, image enhancement in consumer electronics, image quality enhancement, video based recognition of identity or behaviors, audio based speech recognition for enhanced human like interaction with machines etc. It also has a strong impact in medical applications, like medical image enhancement, semi-automatic detection of pathologies, pre-filtering and reconstruction of volumes from medical scans etc. Despite this growing diffusion, there are still many possible areas where computational intelligence application is partial or could be extended and improved, due to the actual limitations in terms of computational power or strict requirements in terms of assurance of the results. 
+This workshop aims to investigate the impact of the adoption of advanced and innovative Computational Intelligence techniques in industrial and medical applications including the ones that takes advantage of recent Big Data Architectures. This edition of the workshop is focused primarily on signal processing for industrial and medical applications with special emphasis to stream processing and Big Data platforms. The workshop will bring together researchers on different disciplines from academia and industry with a common objective: go beyond the frontiers of today industrial applications of Computational Intelligence techniques. 
+
+Topics for the workshop include, but are not limited to:
+- Imaging for Industrial applications
+- Computational Intelligence approaches in Biomedical Signal Processing 
+- Computational Intelligence approaches in Consumer Electronics
+- Real-time Multimedia Signal Processing
+- Intelligent User Interfaces
+- Virtual-augmented reality for Healthcare
+- Demosaicking and denoising in digital image acquisition pipeline
+- Spatial and temporal estimation and protection of media streams
+- Learning systems for signal and information processing and evidential reasoning for recognition
+- Soft computing approaches for embedded multimedia systems
+- Real time signal processing & vision 
+- Big Data architectures for Computational Intelligence 
+- Big Data processing for industrial and medical applications
+
+Submission
+Each submission should be at most 8 pages in total including bibliography and well-marked appendices, and must follow the IEEE double columns publication format available at:
+- Microsoft Word DOC
+- LaTex Formatting Macros
+Paper submission will only be online via: Easy Chair.
+Only pdf files will be accepted. Submissions not meeting these guidelines risk rejection without consideration of their merits. All submitted papers will be carefully evaluated based on originality, significance, technical soundness, and clarity of expression by at least two reviewers. The organizers will examine the reviews and make final paper selections.
+
+Publication
+All the papers accepted for the workshop will be included in the conference proceedings. The proceedings will be published by IEEE Computer Society. Content will be submitted to the indexing companies for possible indexing. They will be available at the conference. 
+
+Registration
+At least one author of each accepted paper must register for the workshop. Workshop registration fee is determined by SITIS. A single registration for the workshop or the conference allows attending both events.
+Workshop Co-Chairs (we strongly encourage international teams of organizers from different institutions)
+
+- M. Anisetti, Università degli studi di Milano, Italy
+- V. Bellandi, Università degli Studi di Milano, Italy
+- G. Jeon, Incheon National University, Korea
+- R. Sassi, Università degli Studi di Milano, Italy 
+
+Program Committee
+- Kitsuchart Pasupa, King Mongkut's Institute of Technology Ladkrabang, Thailand
+- Xiangdong Chen, Nanjing University of Posts and Communications, China
+- Xiaomin Yang, Sichuan University, China
+- Wang Lei, University of Jinan, China
+- Anand Paul, Kyungpook National University, South Korea
+- Wei Wu, Sichuan University, China 
+- Chehri Abdellah, University of Ottawa, Canada 
+- Yong Fang, Northwest A&F University, China 
+- Jiaji Wu, Xidian University, China 
+- Fulvio Frati, Università degli Studi di Milano, Italy 
+- Luigi Arnone, STMicroelectronics, Italy
+- Marco Sacco, ITIA-CNR, Italy 
+
+Contact
+marco.anisetti@unimi.it
+valerio.bellandi@unimi.it
+gjeon@inu.ac.kr
+roberto.sassi@unimi.it

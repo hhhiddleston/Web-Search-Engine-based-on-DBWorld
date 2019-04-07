@@ -1,0 +1,30 @@
+Call for papers: 
+SmartNets 2018
+--For Future Smart Connected Life and Business
+
+
+The main goal of SmartNets 2018 conference is to gather experts and researchers working on the topic to present and debate next challenges and new solutions that will make possible the development of a framework connecting everything.
+
+SmartNets 2018 will be held in the beautiful city of Hammamet-Tunisia, from 15-17 November 2018.
+
+It covers theoretical and practical aspects related to the Future of the Internet, the Internet of Things, Smart Cities and Smart Factories. This year, the multi-thematic program focuses on the major future scientific issues for the following scientific topics, divided into the following main tracks:
+
+- Smart Cities and Internet of Everything
+- Smart Healthcare Systems
+- Big Data Analytics and Machine Learning
+- Cloud Computing for Internet of Things
+- Industry 4.0 & The connected Factory
+- Satellite IoT and M2M Networks
+- Next Generation Networks and CPS
+- Security and Privacy for Smart IoT and CPS
+
+SmartNets 2018 is technically sponsored by IEEE. Accepted and presented papers will be published in the conference proceedings and will be submitted for inclusion in IEEEXplore, dblp and web of science.
+
+
+Exciting Keynote Speeches will be given by
+_Pr. Fumiyuki Adashi, Tohoku University, Japan
+_Fawzi Behmann, Telnet managment Consulting, In., USA
+_Javier Gabas, Libelium, Spain 
+
+Important Dates
+Full Paper Submission Deadline (extended): August 31, 2018

@@ -1,0 +1,15 @@
+The Data Management group led by Dr. Da Yan at the CS department of UAB is looking for PhD students to pursue research in (D1) scalable data analytics (using database techniques and/or HPC), and (D2) machine learning applications (esp. deep learning). Students will be fully supported as Research Assistant. Working in this group trains you to work at the forefront of Data Science research and to pursue a fruitful academic career. If you are interested, please contact Dr. Da Yan at yanda@uab.edu for a Skype interview.
+
+The requirements for (D1):
+- familiar with C/C++ and or Java programming;
+- familiar with common data structures and algorithms, as well as their libraries (STL and java.util package);
+- familiar with database and data mining basics.
+- knowledge about parallel / distributed programming is a plus (e.g., MPI, Pthreads, C++11 multithreading)
+- knowledge about Hadoop Ecosystem is a plus (e.g., HDFS, MapReduce, Spark)
+- experience in research preferred (e.g., top conference/journal publications, not 3rd-tier ones...)
+
+The requirements for (D2):
+- familiar with Python / Matlab / R programming;
+- familiar with common data mining and machine learning tools and libraries (e.g., scikit-learn, TensorFlow, MXNet, D3.js)
+- experience in projects applying machine learning techniques is a plus
+- experience in research preferred (e.g., top conference/journal publications, not 3rd-tier ones...)

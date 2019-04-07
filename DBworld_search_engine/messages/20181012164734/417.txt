@@ -1,0 +1,58 @@
+      *************************************************************************** 
+              We apologize if you receive multiple copies of this CFP
+      *************************************************************************** 
+
+
+
+                            C  A  L  L     F O R       P A P E R S
+
+                      iiWAS/MoMM Emerging Research Projects and Show Cases 
+                                            (SHOW2018)
+
+                                       19 - 21 November 2018
+                                        Yogyakarta, Indonesia
+
+                         http://www.iiwas.org/conferences/iiwas2018/
+                         http://www.iiwas.org/conferences/momm2018/
+                                email: iiwas2018@iiwas.org
+                 Paper submission: https://www.easychair.org/conferences/?conf=iiwas2018
+
+
+
+**** Important Dates *****
+15 September 2018: Symposium papers submission
+1 October 2018: Acceptance notification
+10 October, 2018: Camera-ready papers
+19-21 November 2018: Conference dates
+
+***** Publication *****
+Accepted Show2018 papers will be published by ACM International Conference Proceedings and included in the proceedings of iiWAS2018 and MoMM2018. Authors of outstanding papers will be invited to submit an extended versions of their papers to distinguished journals.
+
+**** Scope *****
+
+iiWAS2018 and MoMM2018 invite early-stage to advanced-stage researchers to present, discuss and defend their work-in-progress or projects preliminary results in front of an international and renowned audience of researchers and developers attending IIWAS and MoMM conferences. 
+The symposium will be organised in parallel to iiWAS2018 and MoMM2018 conferences, which are going to take place on 19-21 November 2018 in Yogyakarta Indonesia.
+
+Researchers are invited to submit a position paper. The paper should not exceed 5 pages length excluding references, and should contain a problem statement, an overview of related work in the area, research methodology, current stage of the project and the expected contribution to the topics of interest supported by iiWAS2018 (http://www.iiwas.org/conferences/iiwas2018/) and MoMM2018 (http://www.iiwas.org/conferences/momm2018/).
+Authors can choose multiple categories for presenting their work during the conference including:
+- Posters
+- Demos
+- Videos
+- Oral presentations
+
+**** Review Process ****
+
+Submitted papers will be carefully evaluated by the respective program chairs based on originality, significance, technical soundness, and clarity of exposition.
+
+**** Submission Guidelines ****
+
+- Submissions must be entered into the Submission System (https://www.easychair.org/conferences/?conf=iiwas2018)
+
+
+*** Contact ***** 
+Ismail Khalil 
+iiWAS2018/MoMM2018 Steering committee co-chair
+Institute of Telecooperation - Johannes Kepler University Linz
+Altenberger Strasse 69,A-4040 Linz, Austria
+Email: ismail@iiwas.org
+****************************************************************************

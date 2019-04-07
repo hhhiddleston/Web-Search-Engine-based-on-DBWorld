@@ -1,0 +1,8 @@
+PhD Opening (Fall, 2019)
+
+Prof. Yuzhe (Richard) Tang's group (http://ecs.syr.edu/faculty/yuzhe) in the EECS department of
+Syracuse University has two PhD openings in 2019. The positions will be fully supported by
+Research Assistantships (RA) starting in Fall 2019. Prof. Tangâ€™s research
+is cybersecurity and distributed systems. Students who are selfmotivated in research and have
+strong systems/programming skills are encouraged to apply. If you are interested, send an
+email to Dr. Tang (ytang100@syr.edu) including your C.V. and transcript.

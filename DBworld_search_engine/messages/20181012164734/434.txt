@@ -1,0 +1,12 @@
+We are looking for prospective PhD candidates to work on various topics of Process Automation and Process Data Analytics (Process Mining) within the Business Process Management Discipline (https://www.qut.edu.au/science-engineering/our-schools/school-of-information-systems/business-process-management) at the Queensland University of Technology (QUT), Brisbane, Australia.
+Full three-year scholarships (including fees and living allowance) are available to suitable PhD candidates. Interested candidates with strong Information Technology, Computer Science or Mathematics backgrounds are encouraged to apply. 
+
+Please get in touch with us by sending your CV (plus evidence of English Proficiency where applicable) to Associate Professor Moe Thandar Wynn (m.wynn@qut.edu.au) and Dr Sander Leemans (s.leemans@qut.edu.au).  Further information about the BPM discipline at QUT and our research strengths is available below. Please indicate the research area that you would like to pursue in your application. 
+
+You may then be asked to undertake an entry test and an interview.  We will then support you to apply for entry to PhD studies and the scholarship through QUT Annual Round (closing date: Sep 2018). 
+
+About the BPM Discipline at QUT
+=========================
+QUTâ€™s BPM discipline is regarded as one of the leading BPM research groups in the world and is known for conducting rigorous and relevant research applicable to and tested in the real world.  Our research is grounded in real-world problems and requirements as a direct result of strong collaborations with a well-established network of Australian organisations. 
+We cover both technical and business aspects of BPM using conceptual-analytical and empirical research. We're known for our involvement in workflow patterns research and the open source workflow environment YAWL. 
+In the area of big process data, we are working on process mining in areas like insurance claims processing and patient flow analysis, where event logs are analysed for evidence-based process improvement. This requires sophisticated real-time analysis techniques for process data provenance, predictive monitoring combined with interactive, insightful visualisations. We have engaged with Australian organisations on process-mining projects in the insurance, health, retail, transport and mining sectors.

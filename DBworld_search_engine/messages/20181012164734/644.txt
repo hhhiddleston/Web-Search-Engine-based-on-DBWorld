@@ -1,0 +1,25 @@
+Hi All,
+
+We have a PostDoc position available in Computer Science at the University of California, Riverside. The duration is up to 3 years, starting with a 1-year contract.
+
+We are looking for someone with strong systems building and software engineering skills. We are  building scalable  cloud-based applications. Knowledge of Databases and Data Mining are important. Further, good knowledge of the following technologies is a plus: AWS, scalable Web applications, Javascript.
+
+Some of the projects going on in our lab are:
+- scalable machine learning (e.g, chatbot) platforms
+- optimize storage in NoSQL databases
+- analysis of big social network data
+
+You can start as soon as possible.
+
+Please email your resume to me with subject "PostDoc application"
+
+thanks,
+vagelis
+--
+Vagelis Hristidis
+Professor
+Computer Science & Engineering
+University of California, Riverside
+vagelis@cs.ucr.edu
+http://www.cs.ucr.edu/~vagelis
+tel: (951) 827-2478

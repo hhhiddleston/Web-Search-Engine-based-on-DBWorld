@@ -1,0 +1,74 @@
+-----------------------------------------------------------------------
+
+                         CALL FOR PAPERS
+
+           34rd Annual ACM Symposium on Applied Computing
+
+    Track KomIS - Knowledge Discovery Meets Information Systems (4th edition):
+      Application of AI and Big Data Analytics
+
+                  8-12 April 2019, Limassol, Cyprus
+
+                 http://www.crisp-org.it/komis/
+
+-----------------------------------------------------------------------
+
+
+KomIS at a Glance
+==================
+Today huge masses of data are available, thanks to the wide diffusion of Information Systems, which represent the backbone of an increasing number of services and applications. Actually, Enterprises and PAs executives recognise that a timely, accurate and significant knowledge derived from these data represents a value to deeply understand social, economic, and business phenomena, and to improve competitiveness in a dynamic business environment. Here, leveraging Knowledge Discovery techniques to such Information Systems can play a key role - especially in Big Data applications - in combining and analysing very large volumes of data to obtain meaningful and useful information for business and decision purposes.
+
+
+Aim and Goal
+==================
+The goal of this track is to foster a cross-fertilisation among researchers working on Knowledge Discovery and Information Systems (KomIS). Starting from the results of the past three editions (held in conjunction with DATA Conference), the KomIS track would deepen the debate on application-relevant aspects of Applications of AI and Big Data Analytics, with the aim of reporting and discussing experiences relating to deploying these systems in real-life contexts, that usually involve computer scientists, mathematicians, and statisticians working in close cooperation with application domain-experts.
+
+Topic Areas of Interest
+================================
+Starting from the results of the previous editions, KomIS'19 would deepen the debate on application-relevant aspects of Applications of AI and Big Data Analytics, with the aim of reporting and discussing experiences relating to deploying these systems. Topics of interest include, but are not limited to:
+-- Application of Big Data Analytics
+-- Application of AI algorithms to Decision Making
+-- Putting AI into Business
+-- Applications of NoSQL data stores
+-- Data integration, heterogeneous and federated DBMS
+-- Data Preprocessing and Transformation at scale
+-- (Big) Data Cleaning
+-- Data Privacy and GDPR
+-- Exploiting off-the-shelf Machine Learning algorithms and tools
+-- Structured and weakly-structured data Management
+-- Content-based and Context-aware mining
+-- Automation of data extraction
+-- Domain-driven data mining
+-- Automated information extraction
+-- Automated retrieval of multimedia streams
+-- Automated retrieval from multimedia archives
+-- Semantic processing of multimedia information
+-- Recognition from multimedia data (video, images and texts)
+
+Paper Submission
+================
+Authors submit full papers in PDF format using the submission link on the SAC web page. Authors are invited to submit original work not previously published, nor currently submitted elsewhere. Submission of the same paper to multiple tracks is prohibited. Submissions fall into the following categories, and different length requirements apply:
+
+-- Research work (limited to 8 pages in camera-ready format).
+-- Reports of innovative computing applications in the arts, sciences, engineering, and business areas; Reports of successful technology transfer to new problem domains; Reports of industrial experience, demos and lessons learned developing new innovative systems (limited to 8 pages).
+-- Poster submission with short papers (limited to 3 pages in camera-ready format).
+-- Student research abstracts (limited to 4 pages in camera-ready format, included in the registration fee. No extra pages allowed) are submitted in PDF format using the separate SRC submission link - for details please refer to the Student Research Competition (SRC) Program on the SAC web page.
+
+Papers undergo a double-blind review. The author(s) name(s) and address(es) must NOT appear in the paper, and self-reference should be in the third person. This is to facilitate blind review. Only the title should be shown at the first page without the author's information.
+
+Relevant Dates
+==============
+-- Sept 10, 2018: Paper submission and SRC research abstracts deadline
+-- Nov 10, 2018: Author notification
+-- Nov 25, 2018: Camera-ready copies due
+-- Dec 10, 2018: Authors registration due
+
+Proceedings and Post-Proceedings
+================================
+Accepted papers will be published in the annual conference proceedings and will be included in the ACM digital library. Paper registration is required, allowing the inclusion of the paper, poster, or SRC abstract in the conference proceedings. An author or a proxy attending SAC MUST present the paper. This is a requirement for including the work in the ACM/IEEE digital library. No-show of registered papers, posters, and SRC abstracts will result in excluding them from the ACM/IEEE digital library.
+
+Track chairs and contacts
+=========================
+-- Fabio Mercorio - University of Milano-Bicocca, Italy - fabio [dot] mercorio [at] unimib [dot] it 
+-- Mario Mezzanzanica - University of Milano-Bicocca, Italy - mario [dot] mezzanzanica [at] unimib [dot] it 
+-- Antonio Picariello - University of Naples "Federico II", Italy - picus [at] unina [dot] it 

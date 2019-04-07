@@ -1,0 +1,84 @@
+International Workshop on Emergency Response Technologies and Services (EmeRTeS 2019)
+                                                                 
+in conjunction with ICDCN 2019, Indian Institute of Science, Bangalore, India, January 7, 2019
+
+
+
+
+About the Workshop
+
+The goal of the International Workshop on Emergency Response Technologies and Services (EmeRTeS) 2019 is to explore the application of new and innovative technology research towards improving emergency response and management. The focus is to provide an inter-disciplinary platform for researchers to exchange ideas, present results, share experience, stimulate new research, and foster collaborations among computer scientists, engineers, social scientists, representatives from government and non-governmental organizations and disaster science experts to develop recommendations for effective emergency response.
+
+
+
+Call for Papers
+
+Papers describing original research work and practical experiences/experimental results are solicited on topics that tentatively include, but are not limited to:
+
+* Emergency communication infrastructures, technologies and services
+* Peer-to-peer networks based emergency communication systems and protocols
+* Modeling and simulation tools for emergency situations
+* Crowd sourcing, remote sensing, cyber-physical systems for emergency response
+* Coordination, collaboration and decision support systems
+* Logistics and supply chain management in emergency response
+* IoT based solutions for emergency response
+* Querying and filtering of heterogeneous, multi-source and multi-modal situational data
+* Post disaster damage and loss assessment
+* Planning, foresight and risk analysis
+* Security and privacy issues in situational information sharing
+* Social media and networks for emergency response and management
+* Web mapping and Geographic Information Systems (GIS) for emergency response
+* Emergency management information systems and applications
+* Community participation in emergency management
+
+
+
+Paper Submission Guidelines
+
+Authors are welcome to submit regular papers (6 pages, PDF format) describing original ideas written in English. The accepted papers will be indexed by the ACM Digital Library. Authors are also welcome submit work-in-progress papers (2 pages, PDF format). In this case, final papers will be available to participants electronically, but to facilitate resubmission to more formal venues, no archival proceedings will be published, and papers will not be sent to the ACM Digital Library. At least one author of each accepted paper (regular or work-in-progress) must register for the conference and present the paper. In case of no-shows of accepted papers at the workshop will result in those papers NOT being included in the proceedings and will also not be made electronically available. Submissions should follow the ACM proceedings formatting style. Papers must be submitted electronically in printable PDF form via the HotCRP submission management system. 
+
+
+
+Important Dates
+
+Paper Submission:
+September 30, 2018
+
+Notifications:
+October 30, 2018
+
+Camera Ready:
+November 15, 2018
+
+Workshop Date:
+January 07, 2019
+
+
+
+Organizers
+
+Workshop Chairs
+
+• Somprakash Bandyopadhyay, Indian Institute of Management Calcutta, India
+
+• Sajal Das, Missouri University of Science and Technology, USA
+
+• Sipra Das Bit, Indian Institute of Engineering Science and Technology, Shibpur, India
+
+TPC Co-Chairs
+
+• Simone Silvestri, University of Kentucky, USA
+
+• Siuli Roy, Heritage Institute of Technology, Kolkata, India
+
+Organizing Co-Chairs
+
+ • Souvik Basu, Heritage Institute of Technology, Kolkata, India
+
+ • Subrata Nandi, NIT Durgapur, India
+
+
+
+Contact Details: For any further query mail to souvik.basu@heritageit.edu
+
+Workshop Website: https://sites.google.com/view/emertes2019

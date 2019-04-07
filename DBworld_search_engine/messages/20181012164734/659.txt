@@ -1,0 +1,27 @@
+11 PhD Scholarships are available at the Department of Mathematics and Computer Science of the University of Cagliari (Italy).
+
+The Department of Mathematics and Computer Science of the University of Cagliari is offering eleven fully funded PhD scholarships open to foreign students (https://www.unica.it/unica/it/studenti_s01_ss05.page), starting in October 2018. The department is active in several reasearch areas, including ubiquitous and pervasive computing, big data, artificial intelligence, internet of things. Candidates willing to work on the topic "Multimodal human activity recognition" should contact Prof. Daniele Riboni, as explained below. The purpose of the study is to propose innovative AI techniques to recognize human activities based on different kinds of data sources (sensors, wearables, Web...) and data acquisition modalities. The study will leverage advanced and innovative artificial intelligence methods. 
+
+The scholarships are funded for the whole PhD period, which is fixed to 3 years in Italy. Each grant amounts to 50,000 euros totally, and it can be increased 50% during research visits abroad. The language of the PhD program is English.
+
+Qualifications and Requirements for the topic "Multimodal human activity recognition":
+* A Master degree in a relevant field (Computer Science, Information Science, Mathematics and related fields).
+* Proficiency in spoken and written English. Proficiency in Italian is a plus.
+* Good proficiency in programming languages (Java, Python).
+* Familiarity with Artificial Intelligence, Machine Learning, Formal Ontologies, Pervasive Computing Technologies, Big Data Management, Human-Computer Interaction is an asset.
+
+How to apply for the topic "Multimodal human activity recognition":
+
+Please send asap to Prof. Daniele Riboni (riboni@unica.it):
+* your CV;
+* a one/two-pages motivational statement describing your research interests and achievements;
+* (possibly) the name, institutional email and affiliation of two references willing to write recommendations letters.
+
+The official deadline for the PhD application is August 27, 12.00 (GMT+2). The application can be done online: https://www.unica.it/unica/it/news_avvisi_s1.page?contentId=AVS123111
+
+Prof. Daniele Riboni
+University of Cagliari
+Dept. of Mathematics and Computer Science
+via Ospedale 72
+09124 Cagliari, Italy
+http://people.unica.it/danieleriboni/

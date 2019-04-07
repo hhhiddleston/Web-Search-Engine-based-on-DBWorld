@@ -1,0 +1,79 @@
+Visiting Associate Professor position in Software/Systems Engineering
+Knowledge Reuse Research Group
+Department of Computer Science and Engineering
+Carlos III University of Madrid, Spain
+
+Please see the link below for details:
+
+http://www.kr.inf.uc3m.es/work-with-us/
+
+
+SUMMARY:
+---------------------------------------------------------------
+
+-Location: LeganÃ©s, Madrid, Spain
+-Contract: Full Time
+-Duration: 1 year + optional 3 to 5 year extension
+-Applications deadline: September 30 th , 2018
+-Starting date: January 21 st -25 th , 2019
+
+
+DESCRIPTION
+---------------------------------------------------------------
+
+The Department of Computer Science and Engineering invites applications for a Visiting Associate Professor position. This position will start on January 21st-25th, 2019. Applicants must have completed a PhD in Software Engineering, Systems Engineering, Computer Science, Information Technology or a closely related field by the application closing date.
+
+Candidates must show a promising record in both research and teaching areas. The target areas of interest to be covered in this position include (but are not limited to):
+
+-Software Engineering / Systems Engineering
+-Model-based Software Development
+-Requirements Engineering
+-Knowledge-based Systems
+-Analytical Modeling and Simulation (Modelica, FMI/FMU, etc.)
+-Descriptive Modeling and Simulation (UML/SysML, etc.)
+-Information and Knowledge Retrieval and Reuse
+
+The candidate is expected to work with researchers from both similar and different disciplines across different universities & industrial partners around the world. 
+
+The candidate shall have a strong record in relevant fields of Software and/or Systems Engineering. Furthermore, a substantial external reputation shall be demonstrated with special emphasis in academic potential through high-quality research publications and participation in competitive research projects at international level.
+
+The expected candidate must have a good qualification (C1 level or equivalent) to write and read English (if not native) in order to prepare and teach courses. Knowledge of the Spanish language is not necessary.
+
+ABOUT the KNOWLEDGE REUSE research group
+---------------------------------------------------------------
+
+The Knowledge Reuse research group is a multidisciplinary research group, lead by Prof. Dr. Juan Llorens (http://www.linkedin.com/in/llorensjuan), with members belonging to the Department of Computer Science and Engineering (http://www.inf.uc3m.es/en) and the Department of Library and Information Sciences.
+
+KRâ€™s mission is to promote software and systems reuse within organizations, focusing on:
+
+-Providing research in software and systems engineering processes and methods.
+-Applying semantic-based technologies to Systems Engineering practice.
+-Addressing the new-technology opportunities.
+-Disseminating knowledge to the scientific and industrial communities.
+
+KR brings together these activities to enable and support people, organizations and systems to collaborate and interoperate in the new global context. Our research lines focus on software and systems engineering applied to reuse, quality, traceability, interoperability and reasoning, with focus on:
+
+-Software representation. Different means to understand, transform, retrieve and reuse software at any level.
+-Systems Engineering. Exploiting knowledge-based techniques to effectively improve the communication among traditional systems
+engineering practices and enable better solutions to the development of complex systems.
+-Ontology engineering, mainly applied to systems engineering.
+
+The following list summarizes some on-going projects in which the group is currently involved:
+
+-AMASS (https://www.amass-ecsel.eu/). Architecture-driven, Multi-concern and Seamless Assurance and Certification of Cyber-Physical Systems.
+-IoD (https://www.celticplus.eu/project-iod/). Internet of DevOps.
+-IMOLA ( https://www.elra.eu/imola-ii/ ). Interoperability using Knowledge Management among Land Registry domain in Europe.
+
+
+ABOUT the CARLOS III UNIVERSITY OF MADRID
+---------------------------------------------------------------
+
+Learn more in the following link: https://www.uc3m.es/About_UC3M 
+
+
+CONTACT PERSON
+---------------------------------------------------------------
+
+Prof. Dra. Anabel Fraga (afraga@kr.inf.uc3m.es)
+
+For any further information about the position or the process, please contact us in the following e-mail address: jobs@kr.inf.uc3m.es

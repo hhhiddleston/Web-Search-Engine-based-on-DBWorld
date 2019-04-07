@@ -1,0 +1,45 @@
+Fully funded PhD Position in NLP, Machine Learning, Semantic Technologies 
+
+Prof. Dr. Harald Sack, Information Service Engineering, FIZ Karlsruhe &  KIT Karlsruhe
+
+FIZ Karlsruhe – Leibniz Institute for Information Infrastructure is an internationally leading provider of scientific information and services. FIZ Karlsruhe is a non-profit GmbH and one of the largest information infrastructure institutions in Germany with approximately 320 employees at three locations in Germany and at one subsidiary in the US. We provide patent data, scientific information, and services for research and industry. In addition, we develop and operate innovative information services and e-research solutions for a precise research and intelligent analysis of these data, e. g. for confidential data management. For this purpose we conduct applied research on data management, information mining and information retrieval in close collaboration with academic institutions and research organizations. Our customers comprise international market leaders from the pharmaceutical and chemical industries as well as large patent offices and research institutions.
+
+We are recruiting for the position of a PhD  (f/m) in the fields of
+- NLP
+- Knowledge Discovery & Knowledge Mining
+- Semantic Web technologies and Linked Data
+- Machine Learning
+starting at July/August 2018 or later.
+
+Job Description:
+The offered position will be in the research team “Information Service Engineering”
+The doctorate will be supervised by Prof. Dr. Harald Sack (FIZ Karlsruhe & Karlsruhe Institute of Technology, KIT, Institute of Applied Informatics and Formal Description Methods)
+Teaching (at KIT) is not mandatory, but welcome on a volunteer basis
+Work will be focused on challenging third party funded international research projects (public and industry) related to the PhD topic
+
+Qualifications and Skills:
+- An outstanding master’s degree (or an equivalent university degree) in computer science or another discipline relevant for semantic technologies (as e.g. mathematics, computational linguistics, information sciences, computer engineering, etc.) and will target a Ph.D. degree
+- Eagerness to participate in team work
+- Outstanding analytical competence
+- Strong interest in interdisciplinary research
+- Excellent programming and communication skills
+- Fluency in spoken and written English is required; language skills in German are highly welcome. If necessary applicants are expected to improve their language skills through intensive language classes
+
+Qualified candidates who are about to complete their master degree are also encouraged to apply
+
+We offer:
+A creative, active, internationally renowned research group, support for publication at leading international conferences, excellent supervision in our Ph.D. program, and an outstanding working environment in a new, technically excellent campus. We offer you the chance to shape future-oriented information services in an innovative scientific and technological environment.
+
+Work contract with a salary based on the collective agreement for public sector employees (German Tarifvertrag öffentlicher Dienst (TVöD)), which depends on the candidate’s profile. The position is limited to 2 years with an optional 2 year extension.
+
+How to apply: 
+Excellent candidates are invited to apply with:
+- Detailed curriculum vitae and copies of degree certificates/transcripts
+- Publication record and writing samples/copies of relevant scientific papers (e.g. thesis, etc.)
+- Letters of recommendation (preferably at least two)
+- A statement of interest/letter of motivation covering your research goals and how you are going to connect to our research topics
+- FIZ Karlsruhe is committed to promoting the careers of women and therefore looks forward to receiving applications by female candidates. We are also committed to work-life balance and equal opportunity (https://www.fiz-karlsruhe.de/en/karriere.html). FIZ Karlsruhe positively welcomes applications from suitably qualified disabled people.
+
+For questions, please contact Prof. Dr. Harald Sack (harald.sack@fiz-karlsruhe.de).
+
+Please send your complete application documents by regular mail or by e-mail, quoting the reference number 14/2018, to Mr. Rainer Kurz: bewerbung@fiz-karlsruhe.de

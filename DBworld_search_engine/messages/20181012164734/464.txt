@@ -1,0 +1,38 @@
+Open Position
+
+OSM Routing Services & Algorithms
+Heidelberg Institute for Geoinformation Technology (HeiGIT)
+
+You genuinely enjoy developing open source Geoinformation Services used by thousands on a daily
+basis? You are a highly motivated Java backend developer and algorithm designer? And you love
+using and enhancing OpenStreetMap for high-performance GI services for global coverage? Then we
+actually might have a suitable and interesting job for you.
+In order to promote technology transfer and applied research in the area of Geoinformatics, the
+Heidelberg Institute for Geoinformation Technology (HeiGIT http://www.heigit.org) is currently being
+established with the support of the Klaus-Tschira Foundation. In the future, this endeavor is to be
+continued in the future as an independent institute. To this end, we are looking for a motivated
+Software Engineer in the field of OSM Routing Services (Java Backend). Depending on your
+experience the tasks are related to at least one of the following areas:
+
+Route Planning, Smart Mobility and Navigation Intelligence
+
+â€¢ Development and design of innovative routing services, algorithms and extensions for the wellknown
+open source project http://go.openrouteservice.org (Java).
+â€¢ Extension of the global services infrastructure of various location-based services (LBS) using OSM.
+â€¢ Development of highly performant algorithms, methods and GI web services, especially for the
+analysis and data enrichment of heterogeneous global geodata sets e.g. from the Social Web,
+OpenStreetMap, etc., especially in the domain of routing, traffic and navigation etc.
+
+We offer an attractive position in an interdisciplinary team in a highly dynamic and growing market.
+HeiGIT is and will be related closely to the Department of Geoinformatics, which is member of the
+Interdisciplinary Center for Scientific Computing (IWR) and the Heidelberg Center for the
+Environment (HCE). We offer a stimulating interdisciplinary research environment with many
+personal development opportunities.
+
+We expect a highly-motivated backend developer with solid experience in Java or C++ and an above average
+university degree in one of the subjects such as Geoinformatics, Computer Science,
+Geography or similar.
+
+The position is to be filled as soon as possible and for administrative reasons initially limited to two
+years - with the option of sustainable extension. Please send application documents (CV, certificates,
+references, etc.) as soon as possible to zipf@uni-heidelberg.de.

@@ -1,0 +1,100 @@
+===============================================================================================================
+                                              CALL FOR PAPERS
+===============================================================================================================
+
+                         Smart Mobile Data Collection in the Context of Neuroscience
+
+https://www.frontiersin.org/research-topics/7916/smart-mobile-data-collection-in-the-context-of-neuroscience
+
+                                               IF: 3.877
+
+===============================================================================================================
+
+                 Submission Deadlines
+
+   15 September 2018  Manuscript
+
+===============================================================================================================
+
+Chronic disorders and the research field of neuroscience are two sides of the same coin. 
+However, the assessment of many chronic disorders is still a challenging issue for 
+researchers, medical doctors, and healthcare professionals. While researchers mainly 
+focus how to reveal valuable data sources, medical doctors crave for new therapies in 
+their daily clinical practice. In line with these drawbacks, the ongoing proliferation 
+of mobile devices may constitute a development that can be utilized in this context. In 
+particular, mobile devices may constitute a shift in the way how patient data is collected. 
+Moreover, the collection procedure can be accomplished in everyday life. The latter, in turn, 
+offers dramatically new opportunities. For example, for many individuals suffering from a 
+chronic disorder, their symptoms vary over time. However, established assessment methods 
+neither systematically assess this moment-to-moment variability nor environmental factors 
+having an effect on many chronic disorders. However, information of individual fluctuations 
+and the effect of environmental factors might represent important information for new research 
+insights or be the basis for a more individualized treatment. In this context, new technical 
+solutions emerged that cope with the aforementioned assessment demands. One promising approach 
+for collecting ecological valid longitudinal datasets at rather low costs constitutes mobile 
+crowdsensing. Interestingly, projects like TrackYourTinnitus were already able to reveal new 
+medical insights. For example, results on prospective reports vs. retrospective ratings of 
+tinnitus variability and tinnitus-stress associations were reported. In general, only little 
+is known to what degree such retrospective reports reflect the actual experiences made in 
+everyday life. In general, technical solutions like the mentioned crowdsensing platform may 
+be a valuable target to help the patients to demystify their chronic disorder and to get 
+better control of it. Moreover, researchers in the context of neuroscience and chronic 
+disorders can be provided with more valuable data sources. However, when using this new 
+way of data collection in the context of neuroscience and chronic disorders, research 
+questions emerge that must be carefully taken into account, e.g.:
+
+- What are the drawbacks and limitations of such data sets?
+- What means data quality in this context?
+- Can we derive guidelines to establish standardized mobile data collection procedures?
+- Can we actually derive new insights in the context of the moment-to-moment variability of patients?
+- Can we derive adjustment factors to this new kind of data?
+- Is this kind of data only new wine into old wineskins or constitutes mobile data collection a 
+  disruptive innovation in the context of neuroscience and chronic disorders?
+- What role plays the ecological momentary assessment (EMA; also known as ambulatory assessment & 
+  experience sampling) in this context?
+- What role plays data security and data privacy in this context?
+- How do we cope with ethical aspects?
+- What are the general risks of this new kind of data collection?
+- Should we consider threats that arise with mobile technology in general? 
+
+===============================================================================================================
+About Frontiers in Neuroscience
+===============================================================================================================
+Frontiers in Neuroscience is a leading journal in its field, publishing 
+rigorously peer-reviewed research across a wide spectrum of specialities 
+and disciplines. 
+https://www.frontiersin.org/journals/neuroscience#about
+
+===============================================================================================================
+Important Dates
+===============================================================================================================
+
+15 September 2018  Manuscript
+
+===============================================================================================================
+Submission Guidelines
+===============================================================================================================
+
+https://www.frontiersin.org/about/author-guidelines
+
+All contributions to this SI must be within the scope of the 
+section and journal to which they are submitted, as defined in their mission 
+statements. Frontiers reserves the right to guide an out-of-scope manuscript 
+to a more suitable section or journal at any stage of peer review. 
+
+===============================================================================================================
+Guest Associate Editor, Neural Technology www.frontiersin.org
+===============================================================================================================
+
+* Rüdiger Pryss
+Institute of Databases and Information Systems, Ulm University, Germany
+e-mail: ruediger.pryss@uni-ulm.de
+
+Co-Editors
+===============================================================================================================
+*Thomas Probst, Danube University Krems, Austria
+*Winfried Schlee, University Hospital of Regensburg, Germany
+*Manfred Reichert, Ulm University, Germany 
+*Myra Spiliopoulou, University of Magdeburg, Germany
+*Berthold Langguth, University Hospital of Regensburg, Germany
+===============================================================================================================

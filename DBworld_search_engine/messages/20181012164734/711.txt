@@ -1,0 +1,50 @@
+**********************************************************************************
+Future Generation Computer Systems (Elsevier)
+
+Special Issue On the Convergence of Extreme Scale Computing and Big Data Analysis
+**********************************************************************************
+
+https://www.journals.elsevier.com/future-generation-computer-systems/call-for-papers/on-the-convergence-of-extreme-scale-computing-and-big-data-a
+
+The deployment of extreme scale computing platforms in research and industry coupled with the proliferation of large and distributed digital data sources have the potential for unprecedented insights and understanding in all areas of science, engineering, business, and society in general. However, challenges related to the Big Data generated and processed by these systems remain a significant barrier in achieving this potential.
+
+Addressing these challenges requires a seamless integration of the extreme scale/high performance computing, cloud computing, storage technologies, data management, energy efficiency, and big data analytics research approaches, framework/technologies, and communities. The convergence and integration of exascale systems and data analysis is crucial to the future. To achieve this goal, both communities need to collectively explore and embrace emerging disruptions in architecture and hardware technologies as well as new data-driven application areas such as those enabled by the Internet of Things. Finally, educational and workforce development structures have to evolve to develop the required integrated skillsets.
+
+The special issue aims at collecting high-quality scientific contributions from the research communities working in the fields of high-performance computing, big data management, and data analytics. We solicit papers covering various topics of interest that include, but are not limited to the following:
+
+- Models and techniques for scalable data analysis 
+- Extreme data discovery solutions 
+- Extreme scale platforms for Big Data analytics 
+- Exascale data analysis programming abstractions and services 
+- Parallel and distributed Big Data analysis algorithms 
+- Code coordination and data integration on HPC platforms 
+- Adaption of data mining/analysis algorithms to extreme scale systems 
+- Data-centric highly scalable programming tools and algorithms 
+- Convergence of High-performance and Big Data analytics frameworks, programming models, and tools 
+- Scalable storage architectures for extreme scale systems 
+- Techniques for data integrity and availability for extreme scale systems 
+- New storage devices for Big Data management in exascale systems 
+- Security issues in Big Data analysis and management in extreme scale systems 
+- Energy-efficiency issues in Big Data analysis and management in exascale systems 
+- Stream data processing in exascale systems 
+- Case studies of data-intensive applications in exascale systems 
+- Scheduling and provisioning data analytics on hybrid Cloud and Exascale infrastructure 
+- Accuracy and correctness of Big Data analysis on exascale systems 
+- In-situ techniques for extreme scale data analytics 
+- Machine learning techniques for exascale applications
+
+All manuscripts and any supplementary material should be submitted through the online submission system of Future Generation Computer Systems at https://www.evise.com/evise/jrnl/FGCS. Authors should select “VSI: Extreme & BD Analysis” when they reach the “Article Type” step in the submission process.
+
+Papers submission is according to the following timetable (Tentative Schedule):
+
+- Submission deadline: October 3, 2018 
+- First round notification: February 10, 2019 
+- Tentative publication date: August 20,  2019
+
+Guest Editors
+Shadi Ibrahim, Inria, France 
+Manish Parashar, Rutgers University, USA 
+Anna Queralt, Barcelona Supercomputing Center, Spain 
+Domenico Talia, University of Calabria, Italy 
+
+For more details: https://www.journals.elsevier.com/future-generation-computer-systems/call-for-papers/on-the-convergence-of-extreme-scale-computing-and-big-data-a

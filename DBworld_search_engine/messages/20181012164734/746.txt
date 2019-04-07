@@ -1,0 +1,65 @@
+CALL FOR PAPERS (DEADLINE EXTENDED)
+======================================================
+First International Workshop on Artificial Intelligence for 3D Bigdata Processing (AI3D 2018)
+Co-located with IEEE AIKE 2018
+
+September 26-28, 2018, Laguna Hills, California, USA
+
+AI3D 2018: https://sites.google.com/site/ai3dbigdataprocessing
+IEEE AIKE 2018: http://www.ieee-aike.org/2018/
+======================================================
+
+
+Abstract
+======================================================
+Artificial intelligence (AI) has the potential to take the 3D Bigdata processing into hypergrowth. Recently, 3D indoor mapping systems, terrestrial mobile mapping systems (MMS) and airborne LiDAR systems are capable of collecting terabytes of data (including images and point clouds) in a single scan or on a single trip. Existing approaches and tools lack the efficient management, processing and analysis of 3D Bigdata and the construction of 3D maps. The solution to this problem lies in the use of Artificial Intelligence to redefine the workflow. This workshop focuses on the use of Artificial Intelligence and deep learning to improve the processing, management and analysis of 3D Bigdata and its use in the 3D mapping.
+
+
+Topics of Interest
+====================================================== 
+A list of topics of interest includes but is not limited to:
+
+AI and the 3D scanning technologies and devices
+Use of AI in 3D view registration and surface modeling
+Intelligent LiDAR data processing, management and analysis
+AI based object detection from point cloud and images
+Supervised/Unsupervised object annotation in 3D data
+3D Bigdata architectures
+3D Bigdata cleaning, compression and integration
+Distributed, parallel and peer-to-peer approaches to index, search and process 3D Bigdata
+3D Bigdata visualization and analytics
+3D Bigdata applications
+
+
+Venue
+====================================================== 
+Laguna Hills, California, USA
+
+
+Submission Instructions and Review Process
+======================================================  
+Authors are invited to submit a 6-page manuscript in double-column IEEE format. Manuscripts must be written in English and follow the instructions in the Manuscript Formatting and Templates (https://www.ieee.org/conferences/publishing/templates.html)
+
+All paper submissions will be carefully reviewed by at least three experts and reviews will be returned to the author(s) with comments to ensure the high quality of the accepted papers. The authors of the accepted papers must guarantee that their paper(s) will be presented at the workshop. Please only submit original material where copyright of all the parts is owned by the authors and which is not currently under review elsewhere. Please see the IEEE policies for further information.
+
+
+Proceedings
+======================================================  
+Every accepted paper will be published by the IEEE Computer Society Press with the proceedings of the main conference (IEEE AIKE 2018)
+
+
+Submission link: https://easychair.org/conferences/?conf=ai3d 
+====================================================== 
+
+
+Key Dates
+======================================================   
+Paper submission deadline: August 05, 2018
+Notification of acceptance: August 25, 2018
+Camera ready deadline: August 31, 2018
+Workshop date: September 26, 2018  
+
+
+Further Information
+======================================================   
+AI3D 2018: https://sites.google.com/site/ai3dbigdataprocessing 

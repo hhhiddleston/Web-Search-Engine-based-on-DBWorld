@@ -1,0 +1,20 @@
+I am pleased to announce a new title in Morgan & Claypool’s series on Data Management:
+
+Human Interaction with Graphs: A Visual Querying Perspective
+Sourav S. Bhowmick, Nanyang Technological University
+Byron Choi, Hong Kong Baptist University
+Chengkai Li, The University of Texas, Arlington
+Paperback ISBN: 9781681733760
+eBook ISBN: 9781681733777
+Hardcover ISBN: 9781681733784
+August 2018, 208 pages
+http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1284
+
+Abstract:
+Interacting with graphs using queries has emerged as an important research problem for real-world applications that center on large graph data. Given the syntactic complexity of graph query languages (e.g., SPARQL, Cypher), visual graph query interfaces make it easy for non-programmers to query such graph data repositories. In this book, we present recent developments in the emerging area of visual graph querying paradigm that bridges traditional graph querying with human computer interaction (HCI). Specifically, we focus on techniques that emphasize deep integration between the visual graph query interface and the underlying graph query engine. We discuss various strategies and guidance for constructing graph queries visually, interleaving processing of graph queries and visual actions, visual exploration of graph query results, and automated performance study of visual graph querying frameworks. In addition, this book highlights open problems and new research directions. In summary, in this book, we review and summarize the research thus far into the integration of HCI and graph querying to facilitate user-friendly interaction with graph-structured data, giving researchers a snapshot of the current state of the art in this topic, and future research directions.
+
+Table of Contents: Foreword / Preface / Acknowledgments / Introduction / Background / Guidance for Visual Query Formulation / Blending Human Interactions and Graph Query Processing / Blending Interactions and Query Processing on Large Networks / Human Interaction with Query Results / Simulation of Visual Subgraph Query Formulation / The Road Ahead / Bibliography / Authors' Biographies Queries / Graph Pattern Matching Queries / Graph Similarity Search Queries / Influence Maximization / Major Open Problems / Bibliography / Authors' Biographies
+
+Series: Synthesis Lectures on Data Management
+Editors: H. V. Jagadish, University of Michigan
+http://www.morganclaypoolpublishers.com/catalog_Orig/index.php?cPath=22&sort=2d&series=17

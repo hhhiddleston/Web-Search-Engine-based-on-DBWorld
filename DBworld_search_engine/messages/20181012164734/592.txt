@@ -1,0 +1,21 @@
+I am pleased to announce the latest title in Morgan & Claypool’s series on Data Mining and Knowledge Discovery:
+
+Mining Structures of Factual Knowledge from Text: An Effort-Light Approach
+Xiang Ren, University of Southern California
+Jiawei Han, University of Illinois at Urbana-Champaign
+Paperback ISBN: 9781681733920
+eBook ISBN: 9781681733937
+Hardcover ISBN: 9781681733944
+August 2018, 199 pages
+http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1282
+
+Abstract:
+Real-world data, though massive, is largely unstructured in the form of natural-language text. It is challenging but highly desirable to mine structures from massive text data, without extensive human annotation and labeling. In this book, we investigate the principles and methodologies of mining structures of factual knowledge (e.g., entities and their relationships) from massive, unstructured text corpora.
+Departing from many existing structure extraction methods that have heavy reliance on human annotated data for model training, our effort-light approach leverages human-curated facts stored in external knowledge bases as distant supervision and exploits rich data redundancy in large text corpora for context understanding. This effort-light mining approach leads to a series of new principles and powerful methodologies for structuring text corpora, including (1) entity recognition, typing and synonym discovery, (2) entity relation extraction, and (3) open-domain attribute-value mining and information extraction. This book introduces this new research frontier and points out some promising research directions.
+
+Table of Contents: Acknowledgments / Introduction / Background / Literature Review / Entity Recognition and Typing with Knowledge Bases / Fine-Grained Entity Typing with Knowledge Bases / Synonym Discovery from Large Corpus / Joint Extraction of Typed Entities and Relationships / Pattern-Enhanced Embedding Learning for Relation Extraction / Heterogeneous Supervision for Relation Extraction / Indirect Supervision: Leveraging Knowledge from Auxiliary Tasks / Mining Entity Attribute Values with Meta Patterns / Open Information Extraction with Global Structure Cohesiveness / Open Information Extraction with Global Structure Cohesiveness / Applications / Conclusions / Vision and Future Work / Bibliography / Authors' Biographies
+
+
+Series: Synthesis Lectures on Data Management
+Editors: H. V. Jagadish, University of Michigan
+http://www.morganclaypoolpublishers.com/catalog_Orig/index.php?cPath=22&sort=2d&series=17

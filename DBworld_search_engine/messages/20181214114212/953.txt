@@ -1,0 +1,58 @@
+[Apology for cross-postings]
+
+*******************************************************************
+CALL FOR PAPERS
+
+Int. J. of Continuing Engineering Education and Life-Long Learning
+
+Special Issue on: "Knowledge Management Technologies in Education"
+
+http://www.inderscience.com/info/ingeneral/cfp.php?id=4195
+
+Guest Editors: 
+Assistant Prof. Inaya Lahoud-Lemaitre, Galatasaray University, Turkey
+Assistant Prof. Elsa Cardoso, Instituto Universitário de Lisboa and Instituto de Engenharia de Sistemas e Computadores, Investigação e Desenvolvimento em Lisboa
+Prof. Nada Matta, University of Technology of Troyes, France
+
+
+The high volume of information in organisations has led researchers to focus on knowledge management as a form of competitive leverage. Knowledge management (KM) aims to retrieve and share information within databases, documents and the know-how of employees to help cooperation and the improvement of ideas, increasing opportunities for innovation, and thus enabling organisations to better stay ahead of the competition.
+Many organisations are implementing technologies and tools to better manage their knowledge. Successful examples can be found in private and public organisations from different sectors: industry, services, healthcare and education.
+Interest in KM for the educational domain has been growing in recent years. This can be seen in many series of conferences and workshops, such as Educational Knowledge Management (EKM), International Educational Data Mining (EDM) and International Learning Analytics and Knowledge (LAK), as well as in papers discussing the role of knowledge management in higher education. As education is increasingly occurring online or using educational software, a larger amount of data is being generated and is available for analysis. New technologies such as semantic web and data mining techniques are being developed and tested, aiming for instance to improve educational effectiveness, determine the key factors for the success of educational training, support basic research on learning, or manage educational training by satisfying the needs of community, local industry or professional development.
+For this special issue, we welcome submissions reporting original research that explores how KM technologies can solve problems related to the management and analysis of educational information in schools, colleges, universities and other academic or professional learning institutions. We solicit papers focusing on how these technologies can face the current evolution of educational systems, especially the mobility of students/teachers involved in interactive learning, the improvement of student retention and graduation rates, the analysis of the importance of social media and games in learning, the production of exam questions from text files, and so on.
+
+Subject Coverage
+ 
+Suitable topics include, but are not limited, to the following:
+Educational knowledge management and ontologies
+Educational data mining
+Educational linked data and semantic web
+Knowledge acquisition, extraction and reuse in education
+Artificial intelligence, robotics and human-computer interaction in education
+Natural language processing to improve educational effectiveness
+Providing feedback to teachers and other stakeholders generated from EKM methods
+Learner or student modelling
+Learning analytics
+Educational information systems
+Improving educational software
+Practice learning experiences and techniques
+Evaluating and improving teachers' support
+Educational knowledge evolution
+Social media and games in learning
+Experiences and examples of the use of KM in education
+Global issues in education and research
+Visualisation of student learning patterns
+ 
+
+Notes for Prospective Authors
+ 
+Submitted papers should not have been previously published nor be currently under consideration for publication elsewhere. (N.B. Conference papers may only be submitted if the paper has been completely re-written and if appropriate written permissions have been obtained from any copyright holders of the original paper).
+All papers are refereed through a peer review process.
+
+All papers must be submitted online. To submit a paper, please read the Submitting articles page (http://www.inderscience.com/info/inauthors/author_submit.php)
+ 
+
+Important Dates
+ 
+Manuscripts due by: 21 September, 2018 (extended)
+Notification to authors: 30 October, 2018
+Final versions due by: 30 December, 2018

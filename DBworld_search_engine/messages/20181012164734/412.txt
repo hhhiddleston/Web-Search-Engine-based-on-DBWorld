@@ -1,0 +1,45 @@
+1st Workshop on Reframing Research (RefResh 2018) at the European Computational Social Science symposium (EuroCSS)
+
+Date: 5th December 2018
+Venue: Cologne, Germany
+Twitter: @refreshworkshop
+Twitter Hashtag: #RefResh2018
+Website: http://refresh.kmi.open.ac.uk
+
+
+# IMPORTANT DATES
+
+- Submission deadline: 7th October 2018, 23:59 Hawaii Time (sharp) 
+- Notification to authors: 21st October 2018, 23:59 Hawaii Time
+
+
+# DESCRIPTION
+
+The main objective of RefResh 2018 is to bring together researchers from both quantitative and qualitative studies, practitioners and policymakers working in the field of academic research, scholarly communication, and knowledge production in order to reframe research in relation to the underlying socioeconomic and geopolitical canvas.â€¨In particular, we intend to encourage interdisciplinary analysis that considers research as a complex system that influences and is influenced by society, economics, culture, and politics. This would include analysis of academic social networks and interactions among different communities, exploration of factors influencing or preventing scientific collaboration and knowledge dissemination, exploration of trends, polarisations and biases in research, methodologies, indicators and measures for assessing research impact on society and industry, policies and practices fostering a better scientific progress, and so on.
+
+
+# TOPICS OF INTEREST
+
+We encourage submission of papers covering, but not limited to, one or more of the following topics:
+- Analysis of patterns and trends in academiaâ€¨- Research equality, fair opportunities and access to funding streamsâ€¨- Gender, racial and geographic trends and biasesâ€¨- Mutual influence of research and politicsâ€¨- Societal impact of researchâ€¨- Analysis of researchers mobility and careersâ€¨- Predatory publishing and bogus conferencesâ€¨- Misrepresentation of science and public opinion miningâ€¨- Acceleration of scientific progressâ€¨- Structure and evolution of scienceâ€¨- Evolution and diffusion of research concepts across research areasâ€¨- x.metrics (scientometrics, informetrics and altmetrics)â€¨- Assessment of interdisciplinarityâ€¨- Impact of Open Access and Open Scienceâ€¨- Policy making and strategic decision for researchâ€¨- Traditional publishing caveat, critiques and alternative modelsâ€¨- Novel peer review practices
+
+
+# SUBMISSIONS
+
+RefResh 2018 looks for extended abstracts around the listed topics summarising the work to be presented.â€¨We encourage researchers to also submit extended abstracts of work that has already been published and/or submit work in progress. Research, data and positions papers are welcome.â€¨Submissions have to be up to 3 pages (in English) excluding references in Springer LNCS format (available at http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
+â€¨Papers have to be submitted as PDF files through EasyChair conference management system at https://easychair.org/conferences/?conf=refresh20180
+
+Papers will be evaluated according to their significance, originality, technical content, style, clarity, and relevance to the workshop. RefResh also supports the Linked Research principles; we applaud authors having care to consider them when preparing their papers.
+
+It is our intention to publish the workshop proceedings in CEUR workshop series (http://ceur-ws.org) or, in alternative, as Open Access post-print on Zenodo (https://zenodo.org).
+
+
+# REGISTRATION
+
+The papers acceptance notification of the workshop is aligned with the conference registration. If an article is accepted, at least one author must register for the conference and present it during the RefResh 2018 workshop.
+
+
+Andrea Mannocci
+Francesco Osborne
+Paolo Manghi
+RefResh 2018 chairs

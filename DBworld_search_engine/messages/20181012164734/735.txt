@@ -1,0 +1,47 @@
+****************************************************************************
+
+LAST CALL FOR CONTRIBUTIONS
+
+Reasoning about Actions and Processes: Highlights of Recent Advances
+
+ACTIONS@KR18Â 
+
+http://www.diag.uniroma1.it/~kr18actions/
+
+Held as part of KR 2018, October 28 & 29, 2018, Tempe, Arizona (USA)
+
+****************************************************************************
+
+
+The field of Reasoning about actions, a fundamental area of KR, is expanding to incorporate research from a wide range of other areas of AI and CS. In recent years, we have moved from standard forms of reasoning, such as action sequence executabilty and future effects (projection), to more sophisticated forms of reasoning which share many commonalities with other fields of CS, from verification in Formal Methods to process modeling and analysis in Business Process Management. Moreover, connections with planning are being extended to other forms of synthesis, such as generalized planning, MDPs/RL, supervisory control, reactive synthesis, etc. Papers from these various areas are dispersed across many conferences, which makes it difficult to follow the general direction of the field. Drawing upon a successful format followed in other fields (e.g.,Â http://highlights-conference.org), the workshop aims to offer a wide picture of the latest research in the field and a chance to meet everybody in the community.
+â€¨Goalâ€¨This workshop aims to bring together researchers working in a variety of areas of AI and CS -- including KR, planning, RL, verification, and synthesis -- to foster these emerging directions of reasoning about actions and processes.
+â€¨Formatâ€¨We invite submissions for presentations, not papers. We welcome a presentation on your favorite recent technical work, position paper, or open problems with clear and concise formulations of current challenges. The contributed talks will be 15-minutes long. All sessions will be designed to promote interaction between the attendees by holding frequent discussion periods for analysis and critique. The workshop will also have panel sessions on important emerging issues for the field and longer keynote talks.
+â€¨Submissionsâ€¨Submissions should have a single main author, who will be the speaker, and each speaker can have no more than one submission. Each submission must be at most 2-pages long and may refer to joint work with other collaborators to be credited in the presentation. There are no formal proceedings and we encourage submissions of work presented or submitted elsewhere (no copyright transfer is required, only permission to post the abstract on the workshop site).
+â€¨Topics of interest include but are not limited to:â€¨â€¨Â Â Â Â Reasoning about actionsâ€¨Â Â Â Â Representing and reasoning about processes
+Â Â Â Â Hierarchical abstractions of action modelsÂ 
+Â Â Â Â Generalized planningâ€¨Â Â Â Â Verification and Synthesis of high level agent behaviorsâ€¨Â Â Â Â Agent behavior controlâ€¨Â Â Â Â Logic-based representation, action theories, temporal logics, logics of programsâ€¨Â Â Â Â Stochastic representation, MDPs and Non-Markovian Decision Processesâ€¨Â Â Â Â Learning dynamic behaviors, RL
+Â Â Â Â Partial observability, incomplete information, uncertainty
+Â Â Â Â Reasoning about beliefs, goals and intentionsâ€¨Â Â Â Â First-person vs third person view
+Â Â Â Â Plan, intention, and activity recognitionâ€¨Â Â Â Â Transparency, predictability and accountability of agentsâ€™ behaviors
+
+Both theoretical and application-oriented contributions are welcome.â€¨â€¨Papers can be submitted via EasyChair:
+https://easychair.org/conferences/?conf=actionskr18
+â€¨Important Dates
+
+SubmissionÂ  July 21, 2018 ***extended toÂ August 4, 2018***â€¨NotificationÂ  August 25, 2018 ***extended to August 31, 2018***
+Workshop Â Â Â Â Â Â Â October 28 & 29, 2018
+
+Invited Talks
+To be announced.
+
+Registration
+For registration details see KR 2018 website.
+
+Organizing Committee
+Giuseppe De GiacomoÂ  University of Rome "La Sapienza"
+Andreas Herzig  IRIT, CNRS, UniversitÃ© Paul Sabatier
+Yves Lesperance  York University
+Marco Montali   Free University Bozen-Bolzano
+Fabio Patrizi   University of Rome "La Sapienza"
+Sasha Rubin   University of Naples "Federico II"
+Siddharth SrivastavaÂ  Arizona State University

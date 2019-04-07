@@ -1,0 +1,106 @@
+CALL FOR PAPERS - !!! Extended Deadlines!!!
+(Our apologies if you receive multiple copies of this CFP)
+
+=================================================================================================
+
+                Track on LARGE, HETEROGENEOUS NETWORKS AND THEIR APPLICATIONS (LHNA)
+
+2018 IEEE – 14th International Conference on SIGNAL IMAGE TECHNOLOGY & INTERNET BASED SYSTEMS (SITIS 2018)
+Las Palmas De Gran Canarias, Spain, November 26th – November 29th, 2018
+http://www.sitis-conf.org/
+=================================================================================================
+ 
+New extended deadline !!!!
+----------------------------------
+* Paper Submission: September 22, 2018
+* Acceptance/Reject notification: October 21, 2018
+* Camera ready: October 28, 2018
+* Author registration: October 30, 2018
+      
+LARGE, HETEROGENEOUS NETWORKS AND THEIR APPLICATIONS (LHNA) Watching streaming videos, uploading pictures and using cloud-based services will make high demands on mobile networks. At the same time more devices will be connected. Heterogeneous Networks, involving a mix of radio technologies and cell types working together seamlessly, will play an important role to service data hungry smartphones, especially in crowded areas.The "Large, Heterogenous Networks and their Applications" (LHNA) track aims at promoting original and unpublished research works covering emerging and novel concepts, technologies, applications for categories related to large and heterogeneous networks. This includes issues related to radio (4/5G) and large wireless networks, traffic management, complex graphs, semantic Web, Big Data, and network security.
+
+Topics of interest for track LHNA
+Large Network Analysis - methods, algorithms, processes, analytic tools
+* Graph processing / manipulation
+* Usage / implementation of Big Data algorithms
+* Avoiding fragmentation of the network graph 
+* Dynamics and evolution patterns of social networks, trend prediction
+* Information broadcasting in Social Networks
+
+Social analytic tools
+* Approaches based on Semantic Web Technologies
+* Ontologies for managing social networks
+* Social networks and cultural information
+* Social Network Analysis of Terrorist Networks
+* Cyber surveillance for unlawful activities for critical infrastructure protection
+* Participatory surveillance 
+
+Large/Heterogeneous Networks Security, privacy, trust and ethics
+* Privacy-preserving (social) network Analysis
+* Network Analysis for security applications
+* Network-based security measures and controls
+* Network Analysis for identifying and assessing cyber risks
+* Information security measures and controls, to help in identifying and assessing cyber risks
+
+Architectures and methods for large/heterogeneous network management
+* Traffic management
+* Self-optimizing approaches
+* Self-configuration approaches
+* Cell coordination
+* Communities discovery and analysis in large scale online and offline social networks
+* Traffic prediction for dimensioning multimedia applications
+* Frameworks and Methodologies for large scale Collaboration
+* Social media search and management in large scale environments 
+* Collective Awareness Platforms for Social (CAPS) and business innovation
+
+Applications of large/heterogeneous networks:
+* Human-centric Computing and Cyber-Physical Systems 
+* Internet of People
+* Internet of Things
+* Social Computing and Social Internet of Things
+* Mobile Network and Behavior Analysis  
+* Internet of Sensing, Thinking and Creation
+* Internet of Swarm Intelligence and Games
+* Context-aware service discovery and recommendation
+* Ontologies for managing social/large networks
+* Large Scale Ontologies Matching and Mapping
+* Crowd Sensing, Sourcing, Intelligence and Wisdom  
+* Biometric Sensors and Identifications 
+* Wearable Computing and Implant Technology
+* Personal/Body Network and Near Field Communication
+* Affective Computing, Ubiquitous Social Computing
+
+Submission and publication
+-------------------------------------
+Submission and publication Papers must be up to 8 pages and follow IEEE double-column format. All papers accepted for
+presentation at the main tracks and workshops will be included in the conference proceedings, which will be published by IEEE
+Computer Society and referenced in IEEE Xplore Digital Library, DBLP and major indexes.  Extended version of selected accepted
+papers will be considered for publication in major journals. Submissions will be peer-reviewed by at least 3 peer reviewers. Papers will be evaluated based on relevance, significance,
+impact, originality, technical soundness, and quality of presentation. At least one author should attend the conference to
+present an accepted paper. Paper submission will only be online via SITIS 2018 submission site:
+https://easychair.org/conferences/?conf=sitis2018
+
+Important dates
+------------------------
+* Paper Submission: September 22, 2018
+* Acceptance/Reject notification: October 21, 2018
+* Camera ready: October 28, 2018
+* Author registration: October 30, 2018
+
+Track Chairs
+-----------------
+Track Chairs
+Ana Roxin, University of Burgundy, France Kokou Yetongnon, University of Burgundy, France
+
+Track Program Committee
+----------------------------------
+Refer to complete conference PC online at http://www.sitis-conf.org/
+
+Local Organizing Committee Chairs
+------------------------------------------
+Antonio Domínguez-Brito, University of Las Palmas de Gran Canaria, Spain 
+David Freire-Obregón, University of Las Palmas de Gran Canaria, Spain 
+Daniel Hernández-Sosa, University of Las Palmas de Gran Canaria, Spain 
+Josep Isern-González, University of Las Palmas de Gran Canaria, Spain 
+Pedro Marín-Reyes, University of Las Palmas de Gran Canaria, Spain 
+Enrique Ramón-Balmaseda, University of Las Palmas de Gran Canaria, Spain 

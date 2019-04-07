@@ -1,0 +1,148 @@
+[Apologies for cross-posting]
+
+==================================================
+SOFSEM  2019
+
+45th International Conference on Current Trends in Theory and Practice of Computer Science
+January 27 - 30, 2019
+Novy Smokovec, Slovakia
+http://www.sofsem.sk
+
+*** EXTENDED DEADLINES: Abstract: August 7, 2018 - Papers: August 12, 2018 ***
+
+==================================================
+
+SOFSEM (SOFtware SEMinar) is an annual international winter conference devoted to the theory and practice of computer science. SOFSEM presents the latest results and developments in academic and industrial research in leading areas of computer science. The first SOFSEM was organized in 1974.  
+
+SOFSEM consists of Invited Talks by prominent researchers, Contributed Talks selected from the submitted papers, and the Student Research Forum. The program is organized in plenary talks and parallel tracks devoted to original research in the selected research areas. SOFSEM has a long-standing tradition of facilitating discussions and collegial interactions. SOFSEM is well-known for its familiar and inspiring atmosphere and as a meeting place for active and leading computer scientists. 
+
+SOFSEM 2019 consists of three tracks covering major sub-areas of Computer Science and a Student Research Forum. Original contributions are welcome, presenting new research results in the theory and practice of computer science in each sub-area of SOFSEM 2019.
+
+--------------------------------------------------
+IMPORTANT DATES
+--------------------------------------------------
+
+Deadline for abstracts:   August   7, 2018 *** EXTENDED ***
+Deadline for papers:      August  12, 2018 *** EXTENDED ***
+Acceptance notification:  October 15, 2018
+Camera-ready version:     November 5, 2018
+Conference:               January 27-30, 2019
+
+--------------------------------------------------
+SOFSEM 2019 TRACKS
+--------------------------------------------------
+
+FOUNDATIONS OF THEORETICAL COMPUTER SCIENCE
+Chair: Giovanni Pighizzini (University of Milan, Italy)
+
+FOUNDATIONS OF DATA SCIENCE AND ENGINEERING
+Chair: Barbara Catania (University of Genoa, Italy)
+
+FOUNDATIONS OF SOFTWARE ENGINEERING
+Chair: Jerzy Nawrocki (Poznan University of Technology, Poland)
+
+--------------------------------------------------
+DETAILED DESCRIPTION OF THE TRACKS
+--------------------------------------------------
+
+FOUNDATIONS OF THEORETICAL COMPUTER SCIENCE
+
+The track is devoted to the recognized core areas of foundational computer science including the theories and application of algorithms and their complexity, automata and languages, computability, data analytics, formal models, intelligent systems, programming semantics, science-inspired computing and foundations of information and software systems. Original contributions showing the value of fundamental research in areas like artificial intelligence and data science are welcome as well. Topics include (but are not limited to):
+
+* algorithms (including game-theoretic, geometric, network, graph, parametrized, exact, approximation, randomized, evolutionary, and online algortihms)
+* automata, languages, and rewriting systems
+* bio-inspired computing
+* combinatorial optimization and simulation
+* complexity theory (incl. computational, descriptional, fine-grained, and parametrized complexity)
+* computability and decidability
+* cryptographic algorithms and security
+* data structures
+* experimental algorithmics
+* formal models of systems (incl. concurrent, hybrid, reactive, mobile, timed, and stochastic processes and systems)
+* foundations of agent systems and artificial intelligence
+* graphs and networks
+* machine learning
+* non-classical models of computing (incl. computing by nature, cellular automata,neural computing, cognitive computing, nano-computing, self-assembly)
+* parallel and distributed computing
+* physics of computation
+* quantum computation and quantum information
+* theory of databases, semi-structured data, and finite model theory
+* theory of programming languages
+
+FOUNDATIONS OF DATA SCIENCE AND ENGINEERING
+
+The track is devoted to all aspects of eliciting, acquiring, modeling, storing, managing, processing, and analyzing data, with a special reference to large-scale datasets. Contributions concerning the nature of data, the techniques used for data management and analysis, the theory for extracting information from data, and the principles for data intensive computing are welcome. Topics include (but are not limited to):
+
+* Data and Information Quality
+* Data Integration, Interoperability, and Metadata Management
+* Data Models and Query Languages
+* Query Processing, Indexing, and Optimization
+* Transaction Management
+* Distributed, Parallel, and P2P Data Processing and Management
+* High Performance Processing
+* Data Semantics and Linked Data
+* Spatial, Temporal, Mobile, and Multimedia Data
+* Web Data and Social Networks
+* Graph-based Data
+* Probabilistic and Uncertain Data
+* Data Streams and Sensor Networks
+* Data Warehousing
+* Information Extraction and Retrieval
+* Data Mining and Knowledge Discovery
+* Machine Learning, Deep Learning
+* Recommender Systems
+* Data Visualization and Interactive Data Exploration
+* Fairness, Diversity, Neutrality, and Trasparency in Data Science
+* Data Privacy, Security, and Trust
+* Benchmarking and Performance Evaluation
+* Data Applications and Experiences
+
+FOUNDATIONS OF SOFTWARE ENGINEERING
+
+The track presents and discusses the research of novel and innovative methods and technologies to software engineering, including both software product and development process aspects. Methods and tools that support the improvement of software processes and products aim at significantly increasing both the quality of software-intensive systems and the productivity of software development. The track will bring together researchers and practitioners to share innovations and experiences. Topics include (but are not limited to):
+
+* Methods and tools for better software processes
+    - Process modeling, composition, and enactment/simulation
+    - Agile/lean development
+    - User-centered development
+    - Method engineering
+    - Quality assurance, inspections, testing
+* Software architecture of complex software-intensive systems
+    - Architecture, components, services
+    - Software reuse, product lines, and software ecosystems
+* Model-based software engineering methods and tools (icluding model-based development and testing, model transformations and versioning, model and meta-model co-evolution)
+* Data-driven improvement of methods, models, and tools
+    - Quantitative models for development processes and products
+    - Continuous delivery/integration and DevOps, software process and product evolution with feedback from operation
+    - Legacy modernization/migration
+    - Model mining techniques
+    - Repository mining
+    - Empirical studies and experimental approaches
+* Methods and tools for software engineering applications (including Process-centered information systems, Web-based systems, Mobile systems, Game development, Intelligent technical systems, Internet of Things)
+
+In particular, we encourage submissions demonstrating the benefits or limitations of SE approaches through case studies, experiments, and quantitative data.
+
+--------------------------------------------------
+STUDENT RESEARCH FORUM
+--------------------------------------------------
+
+Chair: Roman Spanek (Technical University of Liberec, Czech Republic)
+
+The Student Research Forum (SRF) is organized with the aim of publishing and discussing student research projects in the field of theory and practice of Computer Science. The forum offers students a unique opportunity to receive feedback on both the originality of their results and the work in progress. The papers will be reviewed and selected by the SOFSEM 2019 Program Committee as regular papers, so those accepted for the LNCS proceedings will be presented in regular sessions with possibility to have additional presentation in the poster session of the Student Research Forum. Papers accepted for the local SRF proceedings will be provided with considerable space for presentation in the half day Student Research Forum session.
+
+--------------------------------------------------
+SUBMISSION INSTRUCTIONS
+--------------------------------------------------
+
+SOFSEM 2019 proceedings will be published in the series Lecture Notes in Computer Science by Springer Verlag, in the  ARCOSS (Advanced Research in Computing and Software Science) subline.
+Papers should be submitted through EasyChair at https://easychair.org/conferences/?conf=sofsem2019.
+Papers must not exceed 12 pages (excluding references and a potential appendix that could be read at the discretion of the reviewers) in the LNCS format.
+
+For more information visit the SOFSEM 2019 web page http://www.sofsem.sk
+
+Rastislav Kralovic
+(General Chair)
+Barbara Catania, Jerzy Nawrocki, Giovanni Pighizzini
+(Program Committee Chairs)
+Roman Spanek
+(Student Research Forum Chair)

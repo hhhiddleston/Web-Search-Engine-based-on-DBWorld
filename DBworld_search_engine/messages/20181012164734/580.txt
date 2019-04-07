@@ -1,0 +1,47 @@
+Cybersecurity 
+https://cybersecurity.springeropen.com/   
+Special Issue on Data Security and Privacy
+==================================================
+
+
+About the journal
+https://cybersecurity.springeropen.com/about
+==================================================
+
+The new Cybersecurity journal is aimed to systematically cover all essential aspects of cybersecurity, with a focus on reporting on cyberspace security issues, the latest research results, and real-world deployment of security technologies.
+
+This journal is the first open access journal on cybersecurity. The article processing charge (APC) will be fully covered by the Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS). The journal is served by a dedicated international editorial board to give thorough swift editorial response (https://cybersecurity.springeropen.com/about/editorial-board).
+
+For more details, please visit: https://cybersecurity.springeropen.com/about
+
+
+
+Special Issue on Data Security and Privacy
+https://resource-cms.springernature.com/springer-cms/rest/v1/content/15863786/data/v2
+==================================================
+
+In this Special Issue, we solicit original contributions on all areas of data security and privacy. Prospective authors are invited to prepare and submit manuscripts following the publisher¡¯s instructions: https://cybersecurity.springeropen.com/submission-guidelines 
+
+Manuscripts should be submitted through: http://www.editorialmanager.com/cyse/default.aspx 
+Please submit to the Special Issue on Data Security and Privacy. In particular, at step 6 of the submission process("Additional Information"), please select the last option "Data Security and Privacy" in the last question ("Are you submitting this manuscript to a Thematic Series?").
+
+
+
+Important Dates
+==================================================
+
+Paper Submission:       August 31, 2018
+First round notification:   October 31, 2018
+Revision due:     November 30, 2018
+Final notification:   December 31, 2018
+Manuscript due to the publisher: January 20, 2019
+Publication:     April 2019
+
+
+
+Contacts
+==================================================
+
+Dan Lin  University of Missouri 
+Jingqiang Lin  Chinese Academy of Sciences
+Bo Luo  University of Kansas

@@ -1,0 +1,36 @@
+-------------------------------------------------------------------------
+                            TIME 2018
+
+25th International Symposium on Temporal Representation and Reasoning
+
+                  Warsaw (Poland), 15-17 October 2018
+
+                        Call for Participation
+
+                   https://time2018.ipipan.waw.pl/
+
+-------------------------------------------------------------------------
+
+The International Symposium on Temporal Representation and Reasoning
+(TIME) is a well-established symposium series which brings together
+researchers interested in reasoning about temporal aspects of
+information in all areas of computer science. The symposium has a wide
+remit and is devoted to both theoretical aspects and well-founded
+applications. One of the key aspects of the symposium is its
+interdisciplinarity, with attendees from different areas such as
+artificial intelligence, database management, logic and verification,
+and beyond.
+
+The 25th edition of the symposium (TIME 2018) will be held from 15th
+to 17th October 2018 in the city of Warsaw, Poland, hosted by
+the Institute of Computer Science of the Polish Academy of Sciences.
+
+Detailed information about program and participation can be found on the
+website of TIME 2018:
+
+               https://time2018.ipipan.waw.pl/
+
+Early-bird registration fees apply until, and including, 31 August 2018.
+
+The organizers are looking forward to welcoming you in Warsaw.
+-------------------------------------------------------------------------

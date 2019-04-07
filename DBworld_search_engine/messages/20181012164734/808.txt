@@ -1,0 +1,25 @@
+CALL FOR PARTICIPATION
+-------------------------------------
+VLDB 2018 : 44th International Conference on Very Large Data Bases
+(http://vldb2018.lncc.br)
+-------------------------------------
+
+VLDB is a premier annual international forum for data management and database researchers, vendors, practitioners, application developers, and users. The VLDB 2018 conference will feature research talks, tutorials, demonstrations, and workshops. It will cover issues in data management, database and information systems research, since they are the technological cornerstones of the emerging applications of the 21st century.
+
+VLDB 2018 will take place in Rio de Janeiro, Brazil, from August 27th to August 31st, 2018.
+
+
+We are delighted to invite you to join VLDB 2018. We have an exciting program lined up. Find the program schedule at: http://vldb2018.lncc.br/program-schedule.html 
+
+Registration is open.
+http://vldb2018.lncc.br/registration-fee.html 
+
+
+General Conference Chairs:
+Alberto Laender (Universidade Federal de Minas Gerais - UFMG)
+Fabio Porto (LaboratÃ³rio Nacional de ComputaÃ§Ã£o CientÃ­fica - LNCC)
+Marco Antonio Casanova (PontifÃ­cia Universidade CatÃ³lica do Rio de Janeiro - PUC Rio)
+
+Program Committee Chairs
+Jian Pei (Simon Fraser University) 
+Sihem Amer-Yahia (University of Grenoble Alpes, CNRS)

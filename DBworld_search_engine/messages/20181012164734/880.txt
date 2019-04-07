@@ -1,0 +1,37 @@
+The European Conference on Service-Oriented and Cloud Computing (ESOCC) is the premier conference on advances in the state of the art and practice of service-oriented computing and cloud computing in Europe. The main objectives of this conference are to facilitate the exchange between researchers and practitioners in the areas of service-oriented computing and cloud computing, as well as to explore the new trends in those areas and foster future collaborations in Europe and beyond.
+
+As in the previous two ESOCC editions, ESOCC 2018 will include a special track entirely devoted to presenting results and perspectives of EU research projects on Service-Oriented and Cloud Computing.
+
+The track session will be held on September 12, 2018. ESOCC 2018 EU projects track features a good opportunity for presenters to disseminate the results of their project and for participants to get an updated view of the ongoing research on Service-Oriented and Cloud Computing.
+
+----------
+Submissions
+â€”â€”â€”â€”â€”
+
+We only accept original papers, not submitted for publication elsewhere. The papers must be formatted according to the LNCS proceedings guidelines. They must be submitted to the EasyChair site at
+https://easychair.org/conferences/?conf=esocc2018
+
+Revised descriptions of each project presented in the track can be submitted after the conference for publication in the second volume of the conference post-proceedings, which will be probably published in Springerâ€™s CCIS series (final approval pending). These revised submissions must be between 3-5 pages in length, and will be reviewed by at least three program committee members.
+
+People interested in presenting a project should first submit via EasyChair a 3 to 5 page description of the project.
+
+Each description must contain:
+
+ â€¢ Project full name, acronym, duration (from-to) and URL
+ â€¢ Project consortium
+ â€¢ Summary of project objectives
+ â€¢ Summary of project results and current state
+
+----------
+Important dates
+----------
+
+- Paper submission: July 21, 2018 (extended)
+- Notification: August 13. 2018
+- Camera ready: August 27, 2018
+
+Regards,
+Federico M. Facca
+Dumitru Roman
+
+For more information: http://esocc2018.disco.unimib.it

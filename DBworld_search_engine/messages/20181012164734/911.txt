@@ -1,0 +1,120 @@
+==================================================
+             CALL FOR PAPERS
+==================================================
+ICDCN 2019: 20th International Conference on Distributed Computing and Networking
+January 4-7, 2019 – Bangalore, India                       
+http://www.icdcn.org
+
+Sponsored by IISc Bangalore, ACM in cooperation with ACM SigMobile, and ACM SigOps(Approval Pending)
+----------------------------------------------------------------------------------
+ IMPORTANT: Submission Deadline: July 22, 2018
+
+Papers describing original research work and practical experiences/experimental results are solicited on topics that tentatively 
+include, but are not limited to:
+
+Distributed Computing Track
+* Concurrent data structures
+* Distributed algorithms: design, analysis, and complexity
+* Distributed operating systems
+* Distributed database systems
+* Embedded distributed systems, sensors and mobile
+* Distributed robots
+* Formal methods for distributed systems
+* Experimental evaluation of distributed systems
+* Fault-tolerance, reliability, and availability
+* Multiprocessor & multi-core architectures & algorithms
+* Self-organization, self-stabilization, & autonomic computing
+* High performance computing, grid computing
+* Multi-tire cloud computing and Big Data processing
+* Security, cryptography, & game theory in distributed systems
+* Internet-scale distributed systems
+ 
+Networking Track
+* 5G, ultra-dense networks, and next-gen networks and services
+* Ad-hoc, sensor, PAN, and mesh networks
+* Backscatter and ultra-low power networks
+* Cognitive networking
+* Data center and cloud networking
+* Energy-efficient networking & integration with smart grids
+* Internetworking protocols & Internet applications
+* IoT connectivity and Cyber Physical Systems (CPS)
+* Mobile Edge Computing (MEC)
+* Mobile offloading
+* Mobile pervasive computing and networking
+* Network function virtualization and Software Defined Networking (SDN)
+* Network security & privacy
+* Next generation & converged network architectures
+* Overlay & peer-to-peer networks and services
+* Pricing and network economics
+  
+ICDCN 2019 is soliciting submissions as either regular or short papers. Regular Papers should not exceed 10 pages double column 
+           including figures, tables, and references in standard ACM format. Additional details may be included in a clearly-marked 
+            appendix (containing all technical ideas and proofs necessary for an expert to fully verify the claims of the paper) 
+            that will be read at the discretion of the program committee. Short Papers should not exceed 5 pages double column 
+            including figures, tables, and references in standard ACM format. Papers must be submitted electronically in printable
+            PDF form via the EasyChair submission management system. Some papers not accepted as regular papers may be accepted as 
+            short papers with 5 pages in the proceedings, while full papers will be allowed 10 pages. At least one author of each 
+            accepted paper must register for the conference and present the paper.
+
+ BEST PAPER AWARD: The ICDCN TPC plans to award a Best Paper Award, independently for each of the two tracks. This award will be 
+                    based on the paper's technical merit, the opinions of the reviewers and the presentation quality at the 
+                     conference.
+ SPECIAL ISSUE: The authors of selected best papers in the Distributed Computing track will be invited to submit an extended version
+                of their paper for publication in Elsevier's Theoretical Computer Science (TCS - A) journal. The authors of selected 
+                best papers in the Networking track will be invited to submit an extended version of their paper for publication in
+                Elsevier's Pervasive and Mobile Computing (PMC) journal.
+                 For inquiries, contact Local Organizing Committee Co-Chairs, R. C. Hansdah (hansdah@iisc.ac.in) or 
+                                                                            Dilip Krishnaswamy (dilip1@gmail.com).
+  
+IMPORTANT DATES
+
+Abstract submission:          July 22, 2018
+Paper submission:             August 1, 2018
+Notifications:                September 20, 2018
+Camera-Ready:                 October 26, 2018
+Conference Dates:             January 4-7, 2019
+Conference Web:               http://www.icdcn.org
+ 
+ORGANIZING COMMITTEES
+ 
+General Co-Chairs
+* R.C. Hansdah, IISc Bangalore
+* Dilip Krishnaswamy, Reliance Jio Infocomm, India
+* Nitin Vaidya, University of Illinois, USA
+ 
+Technical Program Committee Co-Chairs
+* Networking Track: Paolo Bellavista, University of Bologna, Italy
+* Distributed Computing Track: Sriram V. Pemmaraju, University of Iowa, USA
+ 
+Workshop Co-Chairs
+* Sathya Peri, IIT Hyderabad, India
+* Nirmalya Roy, University of Maryland – Baltimore County, USA
+ 
+Tutorial Co-Chairs
+* Arpita Patra, IISc Bangalore, India
+* Mainak Chatterjee, University of Central Florida, USA
+ 
+PhD Forum Co-Chairs
+* Bivas Mitra, IIT Kharagpur, India
+* Yogesh Simmhan, SERC IISc Bangalore
+ 
+Demo Chair
+* Salil Kanhere, University of New South Wales, Australia
+* Prasant Misra, TCS Innovation Lab, Bangalore, India
+ 
+Poster Chair
+* J. Lakshmi, IISc Bangalore
+ 
+Publicity Co-Chairs
+* Luciano Bononi, University of Bologna, Italy
+* Neeraj Mittal, University of Texas, Dallas, USA
+* S. D. Madhu Kumar, NIT Calicut, India
+* Hirozumi Yamaguchi, Osaka University, Japan
+ 
+Local Organizing Committee Co-Chairs
+* R. C. Hansdah, IISc Bangalore, India
+* Dilip Krishnaswamy, Reliance Jio Infocomm, India
+ 
+Steering Committee Co-Chairs
+* Sajal K. Das, Missouri University of Science and Technology, USA
+* Sukumar Ghosh, University of Iowa, USA

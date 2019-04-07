@@ -1,0 +1,42 @@
+International Workshop of Intelligent Data Analytics and Applications
+(Joint with JSAI International Symposia on AI)
+
+Location: Yokohama, Japan 
+Date: November 12th â€“ 14th, 2018
+Website: https://sites.google.com/view/data-analytics-applications/iwidaa-2018/
+
+
+** Call for Papers **
+
+This workshop aims to bring researchers and practitioners across different artificial intelligent research and application communities together in a unique forum to present and exchange ideas, results, and experiences in AI technologies and applications. It welcomes researchers and practitioners to share the latest breakthroughs in analyzing data for applications in different domains by using AI techniques. These could include data science studies, data analytics applications and systems, and simulation and visualization using massive data. This workshop will focus on application inspired novel findings, methods, systems and solutions which demonstrate the impact of data analytics by artificial intelligence. Topics of interest include, but are not limited to:
+
+AI Architectures
+AI-related Methodologies
+Applied Data Science
+FinTech
+EduTech
+Data Mining
+Machine Learning
+Case Studies
+Other New Approaches to AI
+
+*. Submission:
+IDAA2018 accepts POSTERs, SHORT PAPERs and LONG PAPERs. POSTER submission should have a title and 400 words abstract. The SHORT PAPER should be within 4 pages and the LONG PAPER should be within 8 pages.  The submitted papers should be formatted according to the Springer Verlag LNCS style and then converted into pdf files. Please refer the template and the guideline in https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines. Selected papers will be published as a post proceedings of Springer LNAI with JSAI-isAI2018. The posters will be distributed in the workshop sites only and are not considered to be formal publications. 
+
+
+IDAA2018 uses easychair to manage the submissions. You can submit your paper here (https://easychair.org/conferences/?conf=idaa2018 )
+
+
+
+*. Important Dates:
+Workshop Submission Deadline: August 15th, 2018
+Workshop Author Notification: September 15th, 2018
+Workshop Camera-ready: October 26th, 2018
+Workshop Date: November 12th -14th, 2018
+
+*. Organizers:
+Chih-Chieh Hung, Tamkang University, Taiwan
+Hui-Huang Hsu, Tamkang University, Taiwan
+Chun-Hao Chen, Tamkang University, Taiwan
+
+For more information, please contact: smalloshin@gmail.com 

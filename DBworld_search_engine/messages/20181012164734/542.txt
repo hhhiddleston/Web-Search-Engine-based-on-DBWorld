@@ -1,0 +1,62 @@
+ï»¿We are happy to announce the contents of 
+
+--  Volume 77 of the Information Systems Journal  --
+
+Thiago Salles, Marcos GonÃ§alves, Victor Rodrigues, Leonardo Rocha
+Improving random forests by neighborhood projection for effective text classification
+Information Systems, Volume 77, 2018, Pages 1-21, ISSN 0306-4379
+https://doi.org/10.1016/j.is.2018.05.006
+
+Nastaran Hajiheydari, Mahdi Ashkani
+Mobile application user behavior in the developing countries: A survey in Iran
+Information Systems, Volume 77, 2018, Pages 22-33, ISSN 0306-4379
+https://doi.org/10.1016/j.is.2018.05.004
+
+Xiufeng Liu, Per Sieverts Nielsen
+Scalable prediction-based online anomaly detection for smart meter data
+Information Systems, Volume 77, 2018, Pages 34-47, ISSN 0306-4379
+https://doi.org/10.1016/j.is.2018.05.007
+
+FÃ¡ber D. Giraldo, Sergio EspaÃ±a, William J. Giraldo, Ã“scar Pastor
+Evaluating the quality of a set of modelling languages used in combination: A method and a tool
+Information Systems, Volume 77, 2018, Pages 48-70, ISSN 0306-4379
+https://doi.org/10.1016/j.is.2018.06.002
+
+Hua Lu, Man Lung Yiu, Xike Xie
+Querying spatial data by dominators in neighborhood
+Information Systems, Volume 77, 2018, Pages 71-85, ISSN 0306-4379
+https://doi.org/10.1016/j.is.2018.06.001
+
+Enrico Gallinucci, Matteo Golfarelli, Stefano Rizzi, Alberto AbellÃ³, Oscar Romero
+Interactive multidimensional modeling of linked data for exploratory OLAP
+Information Systems, Volume 77, 2018, Pages 86-104, ISSN 0306-4379
+https://doi.org/10.1016/j.is.2018.06.004
+
+Niek Tax, Benjamin Dalmas, Natalia Sidorova, Wil M.P. van der Aalst, Sylvie Norre
+Interest-driven discovery of local process models
+Information Systems, Volume 77, 2018, Pages 105-117, ISSN 0306-4379
+https://doi.org/10.1016/j.is.2018.04.006
+
+Jaehoon Lee, Giseop Noh, Hayoung Oh, Chong-kwon Kim
+Trustor clustering with an improved recommender system based on social relationships
+Information Systems, Volume 77, 2018, Pages 118-128, ISSN 0306-4379
+https://doi.org/10.1016/j.is.2018.05.008
+
+Foto N. Afrati, Nikos Stasinopoulos, Jeffrey D. Ullman, Angelos Vassilakopoulos
+SharesSkew: An algorithm to handle skew for joins in MapReduce
+Information Systems, Volume 77, 2018, Pages 129-150, ISSN 0306-4379
+https://doi.org/10.1016/j.is.2018.06.005
+
+Kevin Oâ€™Hare, Anna Jurek, Cassio de Campos
+A new technique of selecting an optimal blocking method for better record linkage
+Information Systems, Volume 77, 2018, Pages 151-166, ISSN 0306-4379
+https://doi.org/10.1016/j.is.2018.06.006 
+
+Guillermo RodrÃ­guez, J. AndrÃ©s DÃ­az-Pace, Ãlvaro Soria
+A case-based reasoning approach to reuse quality-driven designs in service-oriented architectures
+Information Systems, Volume 77, 2018, Pages 167-189, ISSN 0306-4379
+https://doi.org/10.1016/j.is.2018.06.003
+
+
+Editors-in-Chief
+Felix Naumann, Dennis Shasha, Gottfried Vossen

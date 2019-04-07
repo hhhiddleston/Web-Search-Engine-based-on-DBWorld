@@ -1,0 +1,35 @@
+The 6th International Conference on Statistical Language and Speech Processing (SLSP 2018) invites researchers to submit poster presentations. SLSP 2018 will be held in Mons (Belgium) on October 15-16, 2018. See 
+
+http://slsp2018.irdta.eu/
+
+Poster presentations are intended to enhance informal interactions with conference participants, at the same time allowing for in-depth discussion.
+
+TOPICS
+
+Presentations displaying novel work in progress on statistical models (including machine learning) for language and speech processing are encouraged. Posters do not need to show final research results. Work that might lead to new interesting developments is welcome.
+
+KEY DATES
+
+Poster submission deadline: September 8, 2018
+
+Notification of poster acceptance or rejection: September 15, 2018
+
+SUBMISSION
+
+Please submit a .pdf abstract through:
+
+https://easychair.org/conferences/?conf=slsp2018
+
+It should contain the title, author(s) and affiliation, and should not exceed 500 words.
+
+PRESENTATION
+
+Posters will be allocated 10 minutes each in the programme for oral presentation. Moreover, they will remain hanging out during the whole conference for discussion.
+
+PUBLICATION
+
+Posters will not appear in the LNCS/LNAI proceedings volume of SLSP 2018. However, they will be eligible for submission to the post-conference journal special issue in Computer Speech and Language (JCR 2016 impact factor: 1.900).
+
+REGISTRATION
+
+At least one author of each accepted poster must register to the conference by October 1st, 2018. The registration fare is reduced: 285 Euro. It gives the same rights all other conference participants have (attendance, copy of the proceedings volume, lunches, coffee breaks). Contributors of regular papers who in addition get a poster accepted must register for the latter independently.

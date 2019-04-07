@@ -1,0 +1,34 @@
+Peking University-University of Waterloo Joint Post-Doc Program
+
+Program Description
+This is a joint 3-year Post-Doc program between Peking University (PKU) and University of Waterloo (UW). The qualified applicants are expected to spend two years at PKU and the other year at UW performing research on data systems topics. The ideal candidate should have (or be expecting soon) a PhD in computer science or a related field, with a strong publication record. The candidate should have experience in databases system, and/or cloud computing, and/or distributed systems, and should be willing to perform interdisciplinary research.
+Research Project 
+We have two joint projects as listed below. Each applicant can choose his/her topic of interest. 
+ A general-purpose big graph data management/analysis system, with the emerging hardware techniques for improving performance. 
+ A streaming graph system for handling high-speed streaming graph data. 
+We are also open to any big data and data science related topics, such as data mining and machine learning, especially the systems aspects. The applicants are expected to contribute towards publications in top tier conferences and journals, research prototypes, and intellectual property in the form of patent applications. 
+Remuneration 
+We provide the comparative salary for the qualified applicants: 
+2-year in PKU:
+ 250000-300000 RMB (in about 40000-48000 USD ) per year. 
+ EXTRA 42000 RMB (in 6640 USD) per year for housing.
+1-year in UW
+ about 55000 CAD per year. 
+NOTE: We will discuss salary in person for excellent candidates.
+How to apply:
+ An application letter written in English;
+ A curriculum vitae;
+ A list of publications (no more than 5);
+ We may need you to secure 3 reference letters at the second stage of the application. 
+
+
+Please email your applications to Prof. Lei Zou at zoulei@pku.edu.cn at Peking University and Prof. Tamer Ozsu at tamer.ozsu@uwaterloo.ca at University of Waterloo. 
+
+
+ABOUT US:
+
+Peking University (PKU) is a major Chinese research university located in Beijing and is founded as the Imperial University of Peking in 1898 as a successor and replacement of Beijing Guozijian (Beijing Imperial College). Peking University has been consistently ranked as the top academic institution in China and it is ranked as 27 in Times World and 38 in QS World. The Institute of Computer Science and Technology (ICST) is a second-level organization of Peking University and the major construction unit for the national key discipline of applied computer technology. ICST offers master¡¯s programs, doctoral programs and vibrant postdoctoral exchange centres. The database group in ICST focuses on big data management/analysis system, especially in graph data systems. The group members have contributed many high impact papers in reputed journals and major international conference and graph system/demos. The applicants can check the details at 
+http://www.icst.pku.edu.cn/db/en/index.php/Main_Page and Prof. Lei Zou¡¯s home page at 
+http://www.icst.pku.edu.cn/F/intro/leizou/index.html . 
+
+The University of Waterloo (UW) is a public research university with a main campus in Waterloo, Ontario.  The David R. Cheriton School of Computer Science in UW brings together over 80 faculty, 40 staff and 2000 students at the undergraduate and graduate levels. The School has its origin in the Department of Applied Analysis and Computer Science, founded in 1967, and has grown to become the largest academic computer science research centre in Canada, ranking 10th in North America and 24th in the world.  The School is home to numerous Fellows of the Royal Society of Canada, Fellows of the Association for Computing Machinery, Fellows of the Institute of Electrical and Electronics Engineers, and winners of awards from other international research societies. The Data Systems Group builds innovative, high-impact platforms, systems, and applications for processing, managing, analyzing, and searching the vast collections of data that are integral to modern information societies ¨C colloquially known as ¡°big data¡± technologies. You may would like to check the details at https://cs.uwaterloo.ca/research/research-areas/data-systems and Prof. Tamer Ozsu¡¯s home page at https://cs.uwaterloo.ca/~tozsu/ . 

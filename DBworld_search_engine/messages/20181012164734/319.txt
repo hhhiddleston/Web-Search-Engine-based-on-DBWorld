@@ -1,0 +1,8 @@
+The September, 2018 issue of the Data Engineering Bulletin is now available electronically via the IEEE Computer Society Bulletin web site http://tab.computer.org/tcde/bull_about.html . The ISSUES pages are maintained at the IEEE Computer Society (http://sites.computer.org/debull/bull_issues.html ). 
+
+Alexandra Meliou served as editor for this issue, which is on "Insights and Explanations in Data Analysis”. 
+
+The current issue has two additional news items.  (1) There are statements from the TCDE Award winners Timos Sellis, Marek Rusinkiewicz, Jennifer Widom, Spyros Blanas, and Jinnan Wang. (2) The Technical Committee on Data Engineering is electing a new chair.  The candidates, with statements in the issue, are Thomas Risse and Erich Neuhold.   I would urge all TCDE members to vote for a new chair.
+
+
+David Lomet 

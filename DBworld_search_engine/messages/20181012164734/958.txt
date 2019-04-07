@@ -1,0 +1,84 @@
+================
+Call For Papers *DEADLINE EXTENDED TO 31 JULY 2018*
+================
+
+Special Issue on Harnessing personal tracking data for personalization and sense-making 
+
+at 
+
+User Modeling and User-Adapted Interaction. The Journal of Personalization Research (UMUAI)
+
+IF 2016: 3.625
+
+Submission deadline extended to 31st July 2018
+
+
+================
+Scope
+================
+
+In recent years, growing numbers of people are tracking a variety of personal data via diverse tools, using devices ranging from desktops to smartphones, from ubiquitous system devices to wearable devices. Examples include keeping records of social interactions, emails, and social media status updates, physiological and emotional status, or activities such as viewing television, use of time in general, driving habits, work productivity, monitoring environmental conditions, and so on. This phenomenon of self-tracking has had a vanguard group of early adopters, the so-called ìQuantified Selfî (QS) movement, an Internet community focusing on self-quantification through technological aids. However, with the growing availability of personal data trackers, this phenomenon is now spreading to a far wider audience than the QS community. The number of tracking devices reached 51 million units in 2015 and various reports suggest that 
+they will reach 220 million units by 2020. This makes it timely to tackle the core challenges that people face in making effective use of their personal tracking data. 
+
+This special issue brings together research that aims to transform tracking data into user models that can support personalization of software and open user model interfaces that enable individuals self-reflect, self-monitor and plan how to achieve their long term goals. On the one hand, user models can now be expanded to make use of a variety of information concerning the userís attitudes, emotions, tastes, physiology, movements, everyday behaviours, habits, working and learning performances, media uses, and preferences. Such information may create rich ìQS user modelsî, i.e. users models nurtured by personal tracking data. In principle, these could model diverse aspects of the userís real and digital life and be turned into life-long and holistic digital mirrors. However, some important research questions arise: 
+
+- How can we merge these heterogeneous data to obtain a comprehensive, semantic, and dynamic representation of the diverse aspects regarding users? 
+- How can we create reasoning tools for such data to create meaningful QS user models that can drive personalization? 
+- And can we enable predictions about the usersí behaviour, health, and objectives?  
+- How can we mine such data to detect and model trends in time and unexpected correlations among different aspects of their life?
+- How can all of these be done in ways that match individualís privacy preferences.
+
+On the other hand, modeling all this information in a comprehensive representation of the user may give life to new forms of personalization embedded in daily life, such as real-world, context-aware, just-in-time recommendations and services, tailored on the usersí changing state, goals, and environments. Here further research questions appear to be fundamental: 
+
+- How can we deal with different, and even conflicting, data sources to create user models to drive recommendations? 
+- How can we exploit information coming from self-tracking in personalized systems?
+- How can we adapt applications accordingly to the continuous flux of data regarding diverse aspects of the user? 
+- How can we create user models that address peopleís privacy concerns and ensure people can understand the ways their user model was created and may be used?
+
+Finally, when these enriched QS user models have suitable interfaces, they become a form of lifelong and life-wide Open Learner Model (OLM) facilitating metacognitive processes of self-reflection, self-monitoring and planning, based on long term user models. 
+
+- How can we present a comprehensive model of the user, creating an effective interface and supporting interaction with it? 
+- How can we represent relations, correlations, and trends among the different aspects that make up the model? 
+
+Such use of personal data to create user models creates three key challenges. First, it tackles the gathering of personal information with emerging devices that make this increasingly easy to do for many spheres of life. Secondly, it deals with the multiplicity of challenges for transforming that data into user models that people can control and that address challenges they face. The third challenge concerns sharing partial data collections of certain aspects of oneís life with a worldwide audience, which can be used to create aggregate user models.
+
+================
+Relevant Topics
+================
+
+With so much potential still to explore, a special issue on the topic is aimed to both focus on research in this new and exploding area as well as to provide a key milestone in the state of the art. Relevant topics include but are not limited to:
+
+- Techniques to harness real world data, such as physiological data, behaviours, habits, emotional states, and incorporate these in ìQS user modelsî that provide useful services;
+- Techniques to create, manage, visualize, and interact with QS user models spanning long periods of time, and including a large variety of data;
+- Techniques to make such user models interoperable; 
+- New personalized applications that exploit user models enriched with data coming from QS tools;
+- New personalized services (e.g. in health, learning, cultural heritage domain) capable of adapting themselves to the continuous data streams coming from personal trackers;
+- New recommender systems based on personal data and their impacts on users;
+- Evaluations of QS user models and personalized systems that leverage personal data;
+- Ethical challenges and theoretical reflections on how personalization could change in the future thanks to the availability of new data sources.
+
+
+================
+Timeline 
+================
+
+- 31st July 2018: Submission of full papers
+- 1st October 2018: First round of review notifications
+- 1st December 2018: Revisions of papers due
+- 1st February 2019: Final notifications due
+- 15th February 2019: Camera ready papers due
+
+
+================
+Guest Editors
+================
+
+- Frank Hopfgartner, University of Sheffield, UK.
+- Judy Kay, University of Sydney, Australia
+- Amon Rapp, University of Torino, Italy
+
+================
+Submission Details
+================
+
+Submission instructions for full papers are available at the journal's website: http://www.umuai.org/paper_submission.html

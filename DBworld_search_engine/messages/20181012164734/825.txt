@@ -1,0 +1,30 @@
+Funded Ph.D. thesis – Call for Applications
+---
+Security Policies for IoT Networks
+
+Research Director : Pr Alban Gabillon
+Tel : (+689) 40 803 880
+email : alban.gabillon@upf.pf
+Co-Research Director: Dr. Emmanuel Bruno
+Tel : (+33) 4 94 14 20 33
+email : emmanuel.bruno@univ-tln.fr
+
+Place : Laboratoire GePaSud, Bâtiment OGT, Université de la Polynésie Française, Tahiti.
+
+The recruited student will devise solutions for implementing security policies in IoT networks. Knowing that IoT networks can be very large, proposed solutions should be scalable.  This implies the following points:
+1. There should be several policy administration points distributed throughout the network
+2. The security policy evaluation cannot be centralized at one point but should be distributed in some nodes of the network. 
+3. The security policy should be synchronized everywhere in the network
+Distributing the security policy evaluation can be achieved by using edge or fog computing approaches whereas synchronizing the security policy at every node of the network can be done by using blockchain or other replication algorithms.
+Supported IoT networks could include LPWAN (Low-Power Wide-Area Network) networks like LoRa, Sigfox or Wi-Fi 802.11ah.
+The thesis will mainly be hosted at the GePaSud Laboratory of the University of French Polynesia in Tahiti and partly at the university of Toulon in France.  
+The recruited student will benefit from a nice working environment. We have money to travel and to attend scientific conferences. We can buy the necessary equipment to set up experimental networks. We will have access to a large IoT platform managed by the university of Toulon.
+
+Student Profile : The applicant should hold a MSc in Computer Science and have skills in computer security, network and distributed computing.
+
+Keywords : Computer security, network, security policy, event synchronization, replication protocol.
+
+Funding : Doctoral contract. 181 977 XPF (1525 euros) net per month
+
+Interested students should send a letter of application and a complete resume via email
+Pre-selected students will have to follow Interviews via skype

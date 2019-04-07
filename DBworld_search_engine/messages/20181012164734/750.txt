@@ -1,0 +1,228 @@
+------------------------------------------------------------------------------
+***** SUBMISSION DEADLINE EXTENDED: August 5 *****
+------------------------------------------------------------------------------
+
+***************************************************************************
+7th INTERNATIONAL CONFERENCE ON THE THEORY AND PRACTICE OF NATURAL COMPUTING
+
+TPNC 2018
+
+Dublin, Ireland
+
+December 12-14, 2018
+
+Co-organized by:
+
+Natural Computing Research & Applications Group
+School of Business
+University College Dublin
+
+Institute for Research Development, Training and Advice
+Brussels / London
+
+http://tpnc2018.irdta.eu/
+***************************************************************************
+
+AIMS:
+
+TPNC is a conference series intending to cover the wide spectrum of computational principles, models and techniques inspired by information processing in nature. TPNC 2018 will reserve significant room for young scholars at the beginning of their career and particular focus will be put on methodology. The conference aims at attracting contributions to nature-inspired models of computation, synthesizing nature by means of computation, nature-inspired materials, and information processing in nature.
+
+VENUE:
+
+TPNC 2018 will take place in Dublin, a major historical and contemporary centre for education, arts, administration, economy and industry. The venue will be:
+
+Michael Smurfit Graduate Business School
+University College Dublin
+Carysfort Avenue
+Blackrock
+Co. Dublin
+http://www.smurfitschool.ie/
+
+SCOPE:
+
+Topics include, but are not limited to:
+
+- Theoretical contributions to:
+
+artificial chemistry
+artificial immune systems
+artificial life
+cellular automata
+cognitive computing
+cognitive engineering
+cognitive robotics
+collective behaviour
+complex systems
+computational intelligence
+computational social science
+computing with words
+developmental systems
+DNA computing
+DNA nanotechnology
+evolutionary algorithms
+evolutionary computing
+evolutionary game theory
+fractal geometry
+fuzzy control
+fuzzy logic 
+fuzzy sets
+fuzzy systems
+genetic algorithms
+genetic programming
+granular computing
+heuristics
+intelligent agents
+intelligent systems
+machine intelligence
+metaheuristics
+molecular programming
+multiobjective optimization
+neural computing
+neural networks
+quantum communication
+quantum computing
+rough sets
+self-assembly
+self-organization
+social computing
+social simulation
+soft computing
+swarm intelligence
+synthetic biology
+
+- Applications of natural computing to:
+
+algorithmics
+bioinformatics
+control
+cryptography
+design
+economics
+graphics
+hardware
+human-computer interaction
+knowledge discovery
+learning
+logistics
+medicine
+natural language processing
+optimization
+pattern recognition
+planning and scheduling
+programming
+robotics
+telecommunications
+web intelligence
+
+A flexible "theory to/from practice" approach would be the perfect focus for the expected contributions.
+
+STRUCTURE:
+
+TPNC 2018 will consist of:
+
+- invited talks
+- peer-reviewed contributions
+- posters
+
+INVITED SPEAKERS:
+
+Juergen Branke (University of Warwick), Design of Complex Systems via Simulation-based Optimisation
+
+Hani Hagras (University of Essex), Towards Human Understandable Explainable AI via Type-2 Fuzzy Logic Systems
+
+Georgios Ch. Sirakoulis (Democritus University of Thrace), The Cellular Automata Computing Paradigm Enriched: From Simple Models to Real World Applications
+
+PROGRAMME COMMITTEE:
+
+Andrew Adamatzky (University of the West of England, UK)
+Wolfgang Banzhaf (Memorial University of Newfoundland, CA)
+Mauro Birattari (Université Libre de Bruxelles, BE)
+Christian Blum (Spanish Higher Scientific Research Council, ES)
+Shyi-Ming Chen (National Taiwan University of Science and Technology, TW)
+Sung-Bae Cho (Yonsei University, KR)
+Claude Crépeau (McGill University, CA)
+Jean-Louis Deneubourg (Université Libre de Bruxelles, BE)
+Marco Dorigo (Université Libre de Bruxelles, BE)
+Matthias Ehrgott (Lancaster University, UK)
+Carlos M. Fonseca (University of Coimbra, PT)
+Amir H. Gandomi (Stevens Institute of Technology, US)
+Michel Gendreau (Polytechnique Montréal, CA)
+Deborah M. Gordon (Stanford University, US)
+Jin-Kao Hao (University of Angers, FR)
+Zeng-Guang Hou (Chinese Academy of Sciences, CN)
+Licheng Jiao (Xidian University, CN)
+Janusz Kacprzyk (Polish Academy of Sciences, PL)
+Hamid Reza Karimi (Polytechnic University of Milan, IT)
+Ljupco Kocarev (Macedonian Academy of Sciences and Arts, MK)
+Vladik Kreinovich (University of Texas El Paso, US)
+Rudolf Kruse (University of Magdeburg, DE)
+José Ignacio Latorre (University of Barcelone, ES)
+Jing Liang (Zhengzhou University, CN)
+Gui Lu Long (Tsinghua University, CN)
+Jianquan Lu (Southeast University, CN)
+Carlos Martín-Vide (Rovira i Virgili University, ES, chair)
+Luis Martínez (University of Jaén, ES)
+Ujjwal Maulik (Jadavpur University, IN)
+José M. Merigó (University of Chile, CL)
+Nenad Mladenovic (Serbian Academy of Sciences and Arts, RS)
+Michael O'Neill (University College Dublin, IE)
+Celso C. Ribeiro (Fluminense Federal University, BR)
+Frank Schweitzer (Swiss Federal Institute of Technology Zurich, CH)
+Patrick Siarry (Paris-Est Créteil Val de Marne University, FR)
+Andrzej Skowron (University of Warsaw, PL)
+John A. Smolin (IBM Thomas J. Watson Research Center, US)
+Attila Szolnoki (Hungarian Academy of Sciences, HU)
+José Luis Verdegay (University of Granada, ES)
+Fernando J. Von Zuben (State University of Campinas, BR)
+David Wolpert (Santa Fe Institute, US)
+Hao Ying (Wayne State University, US)
+Jacek M. Zurada (University of Louisville, US)
+
+ORGANIZING COMMITTEE:
+
+David Fagan (Dublin, co-chair)
+Sara Morales (Brussels)
+Michael O'Neill (Dublin, co-chair)
+Manuel Jesús Parra Royón (Granada)
+David Silva (London, co-chair)
+Miguel A. Vega-Rodríguez (Cáceres)
+Irene Ward (Dublin)
+
+SUBMISSIONS:
+
+Authors are invited to submit non-anonymized papers in English presenting original and unpublished research. Papers should not exceed 12 single-spaced pages (all included) and should be prepared according to the standard format for Springer Verlag's LNCS series (see http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0).
+
+Submissions have to be uploaded to:
+
+https://easychair.org/conferences/?conf=tpnc2018
+
+PUBLICATIONS:
+
+A volume of proceedings published by Springer in the LNCS series will be available by the time of the conference.
+
+A special issue of Soft Computing (Springer, 2016 JCR impact factor: 2.472) will be later published containing peer-reviewed substantially extended versions of some of the papers contributed to the conference. Submissions to it will be by invitation.
+
+REGISTRATION:
+
+The registration form can be found at:
+
+http://tpnc2018.irdta.eu/Registration.php
+
+DEADLINES (all at 23:59 CET):
+
+Paper submission: August 5, 2018 – EXTENDED –
+Notification of paper acceptance or rejection: September 5, 2018
+Final version of the paper for the LNCS proceedings: September 12, 2018
+Early registration: September 12, 2018
+Late registration: November 28, 2018
+Submission to the journal special issue: March 14, 2019
+
+QUESTIONS AND FURTHER INFORMATION:
+
+david@irdta.eu
+
+ACKNOWLEDGMENTS:
+
+UCD – University College Dublin
+
+IRDTA – Institute for Research Development, Training and Advice, Brussels/London

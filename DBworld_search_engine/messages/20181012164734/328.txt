@@ -1,0 +1,72 @@
+=====================================================
+APCCM 2019 Call for Papers
+
+The 15th Asia-Pacific Conference on Conceptual Modelling (APCCM 2019)
+January 29-31, 2019
+Sydney, Australia
+http://www.ict.griffith.edu.au/conferences/apccm2019/
+=====================================================
+
+AIMS
+****
+The Asia-Pacific Conference on Conceptual Modelling provides an annual forum for disseminating the results of innovative research in information modelling and related areas. The fifteenth conference of the series will be held from January 29 to 31 as a track of the Australasian Computer Science Week (ACSW 2019), hosted at Macquarie University, Australia. Registration will enable delegates to attend sessions in any conference participating in the Australasian Computer Science Week. A full list of conferences and further details of ACSW can be accessed at http://www.acsw.org.au/
+The amount, complexity and diversity of data held in computer systems is constantly on the increase, and so are the requirements and challenges that need to be met to ensure useful access and manipulation of this information. Conceptual modelling is fundamental to the development of up-to-date information and knowledge-based systems. The conference series aims at bringing together experts from all areas of computer science and information systems with a common interest in the subject.
+
+
+IMPORTANT DATES
+***************
+- Abstract Submission: September 15, 2018
+- Full Paper Submission: September 19, 2018
+- Author Notification: October 15, 2018
+- Camera-ready: November 9, 2018
+- Early-bird registration closes: November 30, 2018
+- ACSW 2019 Conferences: January 29 - 31, 2019
+
+
+TOPICS
+******
+APCCM invites contributions addressing current research in conceptual modelling as well as experiences, novel applications and future challenges. Topics of interest include, but are not restricted to:
+- Business, enterprise, process and services modelling;
+- Big data modelling
+- Concepts, concept theories and ontologies;
+- Conceptual modelling and user participation;
+- Conceptual modelling for
+  * Decision support and expert systems;
+  * Digital libraries;
+  * E-business, e-commerce and e-banking systems;
+  * Health care systems;
+  * Knowledge management systems;
+  * Mobile information systems;
+  * User interfaces; and
+  * Web-based systems;
+- Conceptual modelling of semi-structured data and XML;
+- NoSQL and NewSQL Databases
+- Conceptual modelling of spatial, temporal and biological data;
+- Conceptual modelling quality;
+- Conceptual models for cloud computing applications;
+- Conceptual models for supporting requirement engineering;
+- Conceptual models in management science;
+- Design patterns and object-oriented design;
+- Evolution and change in conceptual models;
+- Implementations of information systems;
+- Data Semantics and Integrity Constraints
+- Information and schema integration;
+- Information customisation and user profiles;
+- Information recognition and information modelling;
+- Information retrieval, analysis, visualisation and prediction;
+- Information systems design methodologies;
+- Knowledge discovery, knowledge representation and knowledge management;
+- Methods for developing, validating and communicating conceptual models;
+- Models for the Semantic Web;
+- Philosophical, mathematical and linguistic foundations of conceptual models;
+- Reuse, reverse engineering and reengineering; and
+- Software engineering and tools for information systems development.
+
+
+PAPER SUBMISSION AND PUBLICATION
+********************************
+APCCM 2019 invites papers describing original contributions in all fields of conceptual modelling and related areas. Full papers should be no more than 10 pages, and short papers should be no more than 4 pages, conforming to the ACM conference paper formatting guidelines at http://www.acm.org/publications/proceedings-template. Each paper will be judged on its originality, significance, technical quality, relevance and presentation. 
+
+Submission to APCCM 2019 will be electronically only via the EasyChair submission system at https://easychair.org/conferences/?conf=acsw2019
+
+APCCM 2019 proceedings will be published in the ACM International Conference Proceedings Series and included in the ACM Digital Library. Please note that it is ACSW policy that at least one author of all accepted papers to the conferences and workshops in the series has to register and present at the relevant event. Failure to do so without a reason acceptable to the organisers of the event will result in the paper being retrospectively withdrawn from both the proceedings and all citation sources. It is also ACSW policy that all papers be original and not concurrently submitted elsewhere. Once again, we reserve the right to retrospectively withdraw a paper from the proceedings if we later find this not to be the case.

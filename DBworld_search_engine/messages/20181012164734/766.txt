@@ -1,0 +1,20 @@
+I am pleased to announce the latest title in Morgan & Claypool’s series on Data Management:
+
+On Uncertain Graphs
+Arijit Khan, Nanyang Technological University
+Yuan Ye, Northeastern University, China
+Lei Chen, Hong Kong University of Science and Technology
+Paperback ISBN: 9781681730370
+eBook ISBN: 9781681730387
+Hardcover ISBN: 9781681734002
+July 2018, 94 pages
+http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1280
+
+Abstract:
+Large-scale, highly interconnected networks, which are often modeled as graphs, pervade both our society and the natural world around us. Uncertainty, on the other hand, is inherent in the underlying data due to a variety of reasons, such as noisy measurements, lack of precise information needs, inference and prediction models, or explicit manipulation, e.g., for privacy purposes. Therefore, uncertain, or probabilistic, graphs are increasingly used to represent noisy linked data in many emerging application scenarios, and they have recently become a hot topic in the database and data mining communities. Many classical algorithms such as reachability and shortest path queries become #P-complete and, thus, more expensive over uncertain graphs. Moreover, various complex queries and analytics are also emerging over uncertain networks, such as pattern matching, information diffusion, and influence maximization queries. In this book, we discuss the sources of uncertain graphs and their applications, uncertainty modeling, as well as the complexities and algorithmic advances on uncertain graphs processing in the context of both classical and emerging graph queries and analytics. We emphasize the current challenges and highlight some future research directions.
+
+Table of Contents: Acknowledgments / Introduction to Uncertain Graphs / Reliability Queries / Graph Pattern Matching Queries / Graph Similarity Search Queries / Influence Maximization / Major Open Problems / Bibliography / Authors' Biographies
+
+Series: Synthesis Lectures on Data Management
+Editors: H. V. Jagadish, University of Michigan
+http://www.morganclaypoolpublishers.com/catalog_Orig/index.php?cPath=22&sort=2d&series=17

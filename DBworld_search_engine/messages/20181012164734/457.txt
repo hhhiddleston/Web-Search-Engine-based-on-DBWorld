@@ -1,0 +1,65 @@
+------------------------------------------------------------------------------
+CALL FOR PAPERS
+
+Elsevier Online Social Networks and Media Journal (OSNEM)
+http://www.journals.elsevier.com/online-social-networks-and-media/
+
+Continuous evaluation upon submission
+------------------------------------------------------------------------------
+
+OSNEM is a peer-reviewed international journal that publishes high-quality 
+scientific articles (both theoretical and experimental) and survey papers 
+covering all aspects of OSNEM. It is a multidisciplinary journal for researchers 
+and technologists working on OSNEM platforms and services and using OSNEM  as a 
+big data source to mine, learn and model the (online) human behavior. The  
+journal also welcomes contributions applying a wide range of (computer- and  
+network-science)  techniques and tools to OSNEM for investigating, with a 
+quantitative - rather than qualitative - analytical approach, the properties  
+and roles of (online) social relationships in the various sectors of the society 
+(e.g., politics, economics, finance, health, entertainment).
+
+
+Topics include, but are not limited to:
+
+- OSNEM platforms, protocols and applications
+- Decentralized, mobile and location-based OSNEM
+- Trust, reputation, privacy and security in OSNEM
+- Dynamics of trends, information and opinion diffusion in OSNEM
+- Recommendations and advertising in OSNEM
+- Measurement, analysis and modeling of popular online social networks  
+  (Facebook, Twitter, Instagram, Flickr, etc.)
+- Data mining and machine learning in OSNEM systems
+- Social media analysis and social analytics
+- BigData analysis of OSNEM seen as large- meso- or micro-scale
+  complex networked systems
+- Information extraction and search in OSNEM
+- Complex-network analysis of OSNEM
+- Measurement, analysis and modeling of social behavior through OSNEM data
+- Analysis of the use of OSNEM in the urban context
+- Crowdsourcing and online social networks
+- Multidisciplinary applications of OSNEM (economics, medicine, society, 
+  politics, homeland security, etc.).
+
+
+------------------------------------------------------------------------------
+Authors information and guidelines
+
+The journal continuously accepts submissions of original papers.
+Extensions of papers previously published in conferences or workshops are also
+welcome, provided the submitted manuscript includes a substantial extension of
+at least 35% novel and significant contributions. In this case, authors are 
+also required to submit their published conference articles and a summary 
+document explaining the enhancements made in the journal version, as well as 
+to cite the prior publication in the paper, and clearly explain the delta of
+the submitted paper.
+
+The journal is committed to a fast review process, of approximately 6 weeks from
+submission to the first notification.
+
+The submission website for this journal is located at https://www.evise.com/
+profile/#/OSNEM/login.
+Please refer to the journal website (https://www.journals.elsevier.com/online-
+social-networks-and-media) for complete authors instructions and 
+submission templates.
+
+For further information, please contact the EiC or Associate EiC of OSNEM.

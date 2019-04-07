@@ -1,0 +1,122 @@
+------------------------------------------------------------------------------- 
+SA-TTA 2019 at ACM SAC 2019: CALL FOR PAPERS and STUDENT RESEARCH ABSTRACTS 
+
+The 34rd ACM/SIGAPP Symposium On Applied Computing (SAC 2019) 
+The 7th track on Software Architecture: Theory, Technology, and Applications (SA-TTA) 
+http://dinamico2.unibg.it/sa-tta/2019/ 
+
+Limassol, Cyprus  
+April 8 - 12, 2019-------------------------------------------------------------------------------
+
+**Aim and scope** 
+The 7th edition of the track Software Architecture: Theory, Technology, and Applications (SA-TTA 2019) is part of the 34rd ACM/SIGAPP Symposium on Applied Computing (SAC 2019). For the past thirty-three years, ACM SAC has been a primary gathering forum for applied computer scientists, computer engineers, software engineers, and application developers from around the world. 
+ 
+Software Architecture is considered a consolidated and necessary discipline centered on the idea of reducing complexity in software development and evolution through abstraction and separation of concerns. Designing software architectures that enable provisioning and evolution of functional requirements and exhibit a good tradeoff between multiple quality attributes (or extra-functional requirements) is hard and still challenging. At the same time having adaptable software architectures able to change their topology and behavior to overcome certain environmental situations is still under analysis in different domains especially when they are used to realize complex and distributed systems. The goal of the track SA-TTA is to bring together researchers and industry R&D having the common objective of transforming Software Architecture into a mature discipline leveraging on both solid scientific foundations and validated engineering methodologies and tools.  SA-TTA is focused on how to address functional requirements and quality characteristics in the design, maintenance, adaptation and evolution of software architectures through the support of automated techniques and tools. Of special interest are architecture description languages, formalisms, techniques, methodologies, tools, and runtime environments that support these activities, possibly exploiting model-driven engineering principles. A special emphasis will be put also on technical aspects of software architectures development for specific class of software systems and application domains.
+
+SA-TTA will be a forum on Software Architecture for scholars, educators, research scientists, engineers, and practitioners on the following topics:   
+- Architecture description languages and component models for Software Architectures 
+- Model-driven methodologies and tools for Software Architecture modeling and analysis 
+- Architectural patterns, tactics, styles, viewpoints, and tool support
+- Software architecture and development practices such as agile development, DevOps and global software development
+- Architecture quality measures and tool support
+- Formal validation and verification techniques for Software Architectures
+- Linking architecture to requirements and implementation
+- Testing based on Software Architecture 
+- Recovery of Software Architecture
+- Architecture based software evolution and maintenance 
+- Service-oriented Architectures and Microservices
+- Software Architectures for Software Product Lines 
+- Software Architectures for legacy systems and systems integration
+- Software Architectures for Systems of Systems, IoT systems, Cyber Physical Systems, software ecosystems, self-adaptive systems, and autonomous systems
+- Software Architectures for Cloud-based applications, Mobile Cloud applications and Cloud IoT applications
+- Software Architectures for Social Computing and Sociotechnical systems
+- Software Architectures for Data-Intensive Systems and Big Data
+- Software Architectures for Blockchain-based applications
+- Software Architectures for Bio-inspired Systems and Machine Learning Systems
+- State-of-the-art and state-of-practice in software architecture
+- Industrial experiments and case studies 
+
+**Submissions**
+Paper submissions must be made electronically in PDF format via the SAC 2019 website: https://www.sigapp.org/sac/sac2019/
+Two types of submissions are allowed: regular papers and student research abstracts. 
+
+Regular papers:  Authors are invited to submit original unpublished papers. Submission of the same paper to multiple tracks is not allowed. The program committee will blindly review submissions to the track. The author(s) name(s) and address(es) must not appear in the body of the paper, and self-reference should be in the third person. This is to facilitate blind review. SA-TTA track chairs will not submit to the track. Submissions from SA-TTA PC members and track chairs of other SAC tracks are welcome. 
+
+Regular papers are limited to 8 pages, in camera-ready format, included in the registration fee. Authors have the option to include up to 2 additional pages at extra charge (max of 10 pages). Posters are limited to 3 pages, in camera-ready format, included in the registration fee. Authors have the option to include only one (1) additional page at extra charge (max of 4 pages). Further details on the paper format, template, and submission guidelines can be found on the SAC 2019 website: https://www.sigapp.org/sac/sac2019/
+
+Student Research Competition: The SAC 2019 Student Research Competition (SRC) program provides graduate students the opportunity to meet and exchange ideas with researchers and practitioners in their areas of interest. Active graduate students seeking feedback from the scientific community on their research ideas are invited to submit abstracts of their original un-published and in-progress research work in the Software Architecture focus area. Student research abstracts are limited to 4 pages, in camera-ready format, included in the registration fee. No extra pages are allowed.
+For more details, visit the SAC 2019 website: https://www.sigapp.org/sac/sac2019/
+
+**Paper Registration and presentation**
+Paper registration is required, allowing the inclusion of the paper/poster in the conference proceedings. An author or a proxy attending SAC MUST present the paper. This is a requirement for the paper/poster to be included in the ACM/IEEE digital library. No-show of scheduled papers and posters will result in excluding them from the ACM/IEEE digital library.
+
+**Important Dates** 
+Sept 10, 2018: Submission of regular papers and SRC abstracts 
+Nov 10, 2018: Notification of papers and posters acceptance/rejection
+Nov 10, 2018 : Notification of SRC abstracts acceptance/rejection
+Nov 25, 2018: Camera-ready copies of accepted papers/SRC
+Dec 10, 2018: Author registration due date
+
+**Program Committee**
+Yamine Ait-Ameur  -  IRIT/ENSEEIHT, France
+Jesper Andersson  -  Linnaeus University Sweden
+Paolo Arcaini  -  National Institute of Informatics, Japan
+Marco Autili - University of L'Aquila, Italy
+Olivier Barais  -  INRIA, France
+Georg Buchgeher - SCCH GmbH  Hagenberg, Austria
+Radu Calinescu - University of York (UK)
+Rafael Capilla - University Rey Juan Carlos (Madrid, Spain)
+Guglielmo De Angelis  - ISTI CNR, Pisa, Italy
+Naranker Dulay - Imperial College London, UK
+Kenneth Johnson - Auckland University of Technology, New Zealand
+Eva Kühn - Vienna University of Technology, Austria
+Chan-gun Lee  - Chung-Ang University, Korea
+Jihyun  Lee -  Dept. of Software Engineering, Chonbuk National University
+Hernan Melgratti - University of Buenos Aires, Argentina
+Claudio Menghi - University of Gothemburg
+José Javier Merseguer  -  University of Saragoza, Spain
+Marina Mongiello - Politecnico di Bari, Italy
+Henry Muccini - University of L'Aquila, Italy
+Elisa Yumi Nakagawa  -  University of São Paulo, Brazil
+Ileana Ober - IRIT/University of Toulouse
+Hongyu Pei-Breivold - ABB Corporate Research, Västerås, Svezia
+Diego Perez Palacin -  Linnaeus University Sweden
+Clément Quinton  -  University of Lille
+Alexander Raschke  - Universität Ulm, Germany
+Elvinia Riccobene  - University of Milan, Italy
+Antonino Sabetta  -  SAP Research, France
+Lionel Seinturier -  Univ. Lille & IUF - LIFL & Inria ADAM
+Marjan Sirjani  -  Malardalen University, Sweden
+Romina Spalazzese  -  Malmö University, Sweden
+Maria Spichkova  -  University  Melbourne, AUSTRALIA
+Damian A. Tamburri  -   TU/e  JADS
+Kenji Tei  -  National Institute of Informatics, Japan
+Catia Trubiani - GSSI L'Aquila, Italy
+Danny Weyns  - University of Linnaeus, Sweden
+Xiwei Xu - SSRG, NICTA, Sydney, Australia
+
+**Track Chairs** 
+Marcello M. Bersani, Politecnico di Milano, Italy
+E-mail: marcellomaria.bersani@polimi.it 
+Web page: https://sites.google.com/site/marcellombersani/  
+
+Sungwon Kang, Korea Advanced Institute of Science and Technology, Daejeon, South Korea.
+E-mail: sungwon.kang@kaist.ac.kr  
+Web page: http://salab.kaist.ac.kr/
+
+Patrizia Scandurra, Dept. of Management, Information and Production Engineering, University of Bergamo, Italy 
+E-mail: patrizia.scandurra@unibg.it  
+Web page: http://cs.unibg.it/scandurra/
+
+**Steering Committee**
+Antonio Bucchiarone, SOA Research Unit of Bruno Kessler Foundation of Trento, Italy 
+E-mail: bucchiarone@fbk.eu  Web page: http://soa.fbk.eu/bucchiarone
+
+Sungwon Kang, Korea Advanced Institute of Science and Technology, Daejeon, South Korea.
+E-mail: sungwon.kang@kaist.ac.kr  Web page: http://salab.kaist.ac.kr/
+
+Raffaela Mirandola, Dipartimento di Elettronica e Informazione, Politecnico di Milano, Italy 
+E-mail: raffaela.mirandola@polimi.it  Web page: http://home.dei.polimi.it/mirandola/
+
+Patrizia Scandurra, Dept. of Management, Information and Production Engineering, University of Bergamo, Italy. 
+E-mail: patrizia.scandurra@unibg.it  Web page: http://cs.unibg.it/scandurra/

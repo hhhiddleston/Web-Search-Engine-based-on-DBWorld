@@ -1,0 +1,73 @@
+[Apologies for multiple copies]
+
+**NEWS**
+Papers accepted for presentation at GoodTechs conference will be published in ACM Digital Library.
+Best papers will be invited to submit an extended version of the paper to appear in a Special Issue of "Mobile Networks and Applications" (MONET) Journal and to the Multimedia and Applications (MTAP) Journal.
+
+The deadline has now been postponed. The new date is: 3rd September 2018
+
+
+       Goodtechs 18
+
+       4th EAI International Conference on
+       Smart Objects and Technologies for Social Good
+       Special Session on Serious Games to Improve Quality of Life
+       http://goodtechs.eu/
+
+       CALL FOR PAPERS
+
+Gamification techniques and serious games are often used to capture and maintain user's attention. This is particularly important when dealing with young patients or people with special needs.
+Patient's collaboration is crucial for doctors to perform a good diagnosis, and to provide an efficient therapy, but it cannot always be taken for granted. Moreover, serious games are proved to be an efficient tool to incentivize people to improve their lifestyle, e.g., making more physical activity.
+This track will feature new insights, research, and practice on how to design, develop and use gamification and persuasive technologies to create serious games and applications to improve individuals' Quality of Life (QoL) and behavior, with a particular focus on people with disabilities.
+The track targets researchers, doctoral students, practitioners and other people interested in presenting, discussing, reflecting and networking on central themes associated with the development and use of serious games and applications to help people with special needs.
+Papers on both theoretical aspects and design method of gamification techniques and serious games are welcomed, which describe and evaluate novel design methods and system prototypes. In addition, the track welcomes full research and work in progress papers and educational cases.
+
+GoodTechs 18 will be held in Bologna, Italy, from the 28th to 30th of Novembre 2018.
+
+TOPICS
+------
+
+Suggested topics include (but are not limited to):
+
+       - Serious game design for better lifestyle promotion
+       - Serious games for people with disability
+       - Games for Education and Learning
+       - Gamification
+       - Pervasive Systems
+       - Assistive Technologies
+       - Persuasive solutions
+       - Methods, models and principles for gamification design
+       - Usability and accessibility issues
+       - Games for Health and Well-Being
+       - Serious Games for social inclusion
+
+
+SUBMISSION
+----------
+
+       - Regular papers should be up to 6 pages in length.
+       - Short papers should be up to 4 pages in length.
+       - The paper submissions must follow the ACM formatting guidelines (http://goodtechs.eu/authors-kit/)
+
+Papers must be submitted online on Confy (http://confy.eai.eu/), selecting GoodTechs 2018 and the Special Issue on "Serious Games to Improve Quality of Life".
+
+Submissions will be reviewed anonymously by at least three expert reviewers. Papers will be judged on originality, correctness, clarity and relevance. Submission of the paper implies agreement of the
+author(s) to attend the conference and present the paper if accepted.
+
+Papers accepted for presentation at GoodTechs conference will be published in Springer and indexed by ACM Digital Library.
+Moreover, authors of the selected best papers will be asked to write an extended version of the paper to appear in a Special Issue of "Mobile Networks and Applications" (MONET) Journal and "Multimedia Tools and Applications" (MTAP) journal.
+
+
+IMPORTANT DATES
+---------------
+
+NEW DEADLINE for paper submission: 3rd September 2018 
+Notification deadline: 1 October 2018 
+Registration Opens: 1 October 2018 
+Camera-ready deadline: 1 November 2018
+
+SESSION CHAIR
+--------------------
+
+Ombretta Gaggi - Universita  di Padova, Italy 
+Antonio RodÃ   - Universita  di Padova, Italy

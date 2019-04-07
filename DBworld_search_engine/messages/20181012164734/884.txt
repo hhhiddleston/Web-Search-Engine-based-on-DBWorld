@@ -1,0 +1,40 @@
+-----------------------------------------------------------------------------------------
+EVALITA 2018
+The 6th Evaluation of NLP and Speech Tools for Italian
+-----------------------------------------------------------------------------------------
+*** EVALITA 2018 - Final Call for Registration + Best System Award Announcement ***
+
+The general objective of EVALITA (http://www.evalita.it) is to promote the development of language technologies for the Italian language, providing a shared framework where different systems and approaches can be evaluated in a consistent manner. EVALITA is an initiative of the Italian Association for Computational Linguistics (AILC) and it is endorsed by the Italian Association for Artificial Intelligence (AI*IA) and the Italian Association for Speech Sciences (AISV).
+
+For the 2018 edition tasks are organized along four tracks: Affective Creativity and Style, Dialogue Systems, Hate Speech, and Semantics4AI. The complete list of tasks is available here: http://www.evalita.it/2018/tasks
+
+The training data are available already for all tasks and registration are open until September 3, 2018. Please visit the EVALITA web site where information about all tasks is currently available, and indicate your intention to participate and the specific task(s) you are interested in. Itâ€™s easy! You can do so by filling out the registration form at: http://www.evalita.it/2018/registration .
+
+As usual, the results of the evaluation will be disseminated at the final workshop, which will be organised in Turin as a co-located event of the 5th Italian Conference on Computational Linguistics - CLiC-it 2018 (December 10-12, 2018).
+
+We encourage participation from both academic institutions and industrial organisations. 
+http://www.evalita.it/2018/registration
+
+======================
+Best system @Evalita 2018
+======================
+In line with CliC-it, for this edition of the EVALITA Campaign, we will award the work of the participants, especially that of young researchers. Specifically, we will be awarding the â€œbest systemâ€ across tasks. 
+
+In order to do so, we will solicit from the task organizers  a shortlist of two or three papers describing systems that identified as eligible candidates for the award, based on the criteria for evaluation listed below. The shortlist should include only papers for which at least a PhD candidate, a master or a bachelor student is among the authors. Based on the task organizers recommendations, we will evaluate the systems in the shortlists and select the best system for Evalita 2018 emerging from all the tasks. 
+
+Criteria for evaluation are: 
+
+novelty, to be declined as novelty of the approach with respect to the state of the art (e.g. a new model or algorithm), or novelty of features (for discrete classifiers);
+originality, to be declined as identification of new linguistic resources employed to solve the task (for instance, using WordNet should not be considered as a new resource), or identification of linguistically motivated features; or implementation of theoretical framework grounded in linguistics;
+critical insight, to be declined as a deep error analysis that highlights limits of the current system and paves direction to future challenges
+technical soundness and methodological rigor.
+
+
+EVALITA 2018 Chairs
+
+Tommaso Caselli (Center for Language and Cognition Groningen, Rijksuniversiteit Groningen, The Netherlands)
+Nicole Novielli (Dipartimento di Informatica, UniversitÃ  degli Studi di Bari â€œA. Moroâ€, Italy)
+Viviana Patti (Dipartimento di Informatica, UniversitÃ  degli Studi di Torino, Italy)
+Paolo Rosso (PRHLT Research Center, Universitat PolitÃ¨cnica de ValÃ¨ncia, Spain)
+
+CONTACT: evalita2018@gmail.com  

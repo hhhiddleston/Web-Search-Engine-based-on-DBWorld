@@ -1,0 +1,142 @@
+**************************************************************************
+Please do distribute this call of papers to others who might be interested
+**************************************************************************
+
+*** CALL FOR PAPERS ***
+
+
+OnTheMove 2018 Federated Conferences, Workshops and Academy (OTM 2018)
+Oct 22-26, Valletta, Malta
+
+http://www.otmconferences.org/
+
+Proceedings will be published by Springer LNCS
+
+***********************************************************************************
+
+
+ABOUT OTM 2018
+--------------
+
+Of course as a past participant, you are already familiar with the OnTheMove concept and format. This 17th edition of OnTheMove (OTM 2018) as before is composed of three interrelated yet complementary scientific conferences that together attempt to span a relevant range of the advanced research on, and cutting-edge development and application of, information handling and systems in the wider current context of ubiquitous distributed computing.
+
+
+-  CoopIS'18, Cooperative Information Systems, our flagship event in its 26th edition since its inception in 1993, invites fundamental contributions on principles and applications of distributed and collaborative computing in the broadest scientific sense in workflows of networked organizations, enterprises, governments or just ad-hoc communities
+
+-  Cloud & Trusted Computing’18 (C&TC’18), is the successor of DOA (Distributed Object Applications) and focuses on critical aspects of infrastructure for cloud computing, specifically spanning issues of Secure and Trustworthy Cloud, Big Data, and Data-Intensive Applications
+
+-  ODBASE'18, Ontologies, Databases and Applications of SEmantics covers the fundamental study of structured and semi-structured data, including linked [open] data, and the meaning of data as is needed for today’s databases, and the role of data and semantics in design methodologies and new applications
+
+
+
+Themes
+——————
+For 2018 we identified a number of broad themes: submissions on these themes are encouraged within the scope of each of the main conferences. The themes naturally overlap and interact, and so emphasis and view may be different within the individual scopes of CoopIS’18, ODBASE’18, and C&TC’18.
+
+*    Aspects of data governance, compliance and privacy in ecosystems of organizations and enterprises
+*     Infrastructure for, and semantic use of, big data and open data on the internet in general
+*    Mobile issues as well as general technical aspects of secure computing as a basis for trusted use of Cloud-based IS (e.g. blockchain technology)
+*    Technical and scientific aspects of information systems interacting with society at large: regulation, privacy, trust, …
+*    Implementation and application of open innovation in ecosystems of organizations and enterprises
+*    Role of community-driven, semantics-based intelligence in cooperative IS
+
+
+
+KEYNOTES
+-----------------
+
+Martin Hepp, Universität der Bundeswehr Munich / Hepp Research GmbH, Germany
+"Web Ontologies: Lessons Learned from Conceptual Modeling at Scale"
+
+Pieter De Leenheer, Collibra, cofounder and Research & Education Officer
+"Data governance: the new imperative to democratize data science"
+
+Richard Mark Soley, Object Management Group, Inc. (OMG), Chairman & CEO
+"Learning to Implement the Industrial Internet"
+
+Tom Raftery, SAP / Instituto Internacional San Telmo
+"The Future of Digital: What the next 10 years have in Store"
+
+
+
+15th OnTheMove Academy (2018) — not your “usual PhD symposium”…
+---------------------------------------------------------
+We especially also wish to draw attention to our refreshed OTM Academy, a unique and specially developed comprehensive program for PhD students and their advisors. Accepted submissions under this program will enjoy a thorough and interactive critique by the OTMA Faculty of presentation, both poster and paper, about their PhD project as well as a published contribution in our LNCS workshop proceedings, and much more— check its own website!
+
+OnTheMove Academy website: http://www.otm.academy/
+
+
+
+WORKSHOPS 2018
+-----------------------------
+
+As previous years, we have a parallel program consisting of highly topical workshops covering emerging related areas:
+
+EI2N 2018: 13th OTM/IFIP International Workshop on Enterprise Integration, Interoperability and Networking
+FBM 2018: International Workshop on Fact Based Modeling
+Meta4eS’18: 7th International Workshop on Methods, Evaluation, Tools and Applications for the Creation and Consumption of Structured Data for the e-Society
+
+
+
+INDUSTRY CASE STUDIES PROGRAM 2018
+----------------------------------------------------------------------
+
+Furthermore, there is the recently added Industry Case Studies Program (ICSP), in which successful submitters may use OnTheMove as the forum for presenting cutting-edge applications of distributed computing, receiving analysis and critique by the attending scientific community.
+
+
+
+IMPORTANT DATES 2018:
+--------------------------------
+
+  >> OTM ACADEMY
+    * October 22-23, 2018
+    * Abstract Submission Deadline: July 26, 2018
+    * Paper Submission Deadline: July 27, 2018
+
+  >> CONFERENCES
+     C&TC:          Oct 22-23, 2018
+     ODBASE:        Oct 23-24, 2018
+     CoopIS:        Oct 24-26, 2018
+
+    * Conference Abstract Submission Deadline: July 18, 2018 (strongly advised)
+    * Conference Paper Submission Deadline: July 25, 2018
+    * Acceptance Notification: Aug 20, 2018
+    * Camera Ready Due: Aug 30, 2018
+    * Author Registration Due: Aug 30, 2018
+
+ >> INDUSTRY CASE STUDIES PROGRAM
+
+    Paper Submission Deadline (4 pages):  July 31, 2018
+    Acceptance Notification:  Aug 20, 2018
+    Camera Ready Due: Aug 30, 2018
+    Author Registration Due: Aug 30, 2018
+
+  >> WORKSHOPS
+    * OTM Workshop dates: 22-26 Oct, 2018 (detailed schedule TBA)
+
+    * Workshop Abstract Submission Deadline: July 18, 2018
+    * Workshop Paper Submission Deadline: July 25, 2018
+    * Acceptance Notification: Aug 20, 2018
+    * Camera Ready Due: Aug 30, 2018
+    * Presenting Author Registration Due: Aug 30, 2018
+
+
+***********************************************************************************
+
+General Chairs and Organization
+----------------------------------------------
+
+OTM Conferences and Workshops General Chairs
+ * Robert Meersman, TU Graz, Austria
+ * Tharam Dillon, Latrobe University, Melbourne, Australia
+ * Hervé Panetto, University of Lorraine, Nancy, France
+ * Ernesto Damiani, Politecnico di Milano, Italy
+
+OTM Workshops General Chair
+ * Ioana Ciuciu, Babes-Bolyai University, Cluj-Napoca, Romania
+
+OnTheMove Academy Dean
+ * Erich Neuhold, University of Vienna, Austria
+
+Industry Case Studies Program Chair
+ * Hervé Panetto, University of Lorraine, Nancy, France

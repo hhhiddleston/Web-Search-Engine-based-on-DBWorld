@@ -1,0 +1,60 @@
+The 4th International Workshop on Signal Processing and Machine Learning (SiPML 2018) is organized by Dr. Ricardo Rodriguez, Dr. Jolanta Mizera-Pietraszko from Autonomous University of Ciudad Juarez, and Opole University, respectively. SiPML will be held in Tunghai University, Taichung, Taiwan on Octorber 27-29, 2018, in conjunction with the main conference 13th International Conference on P2P, Parallel, Grid, Cloud and Internet Computing (3PGCIC 2018).
+The aim of the workshop is to contribute to the cross-fertilization between the research on Machine Learning (ML) methods and their application to Signal Processing (SP) to initiate collaboration between these areas. ML usually plays an important role in the transition from data storage to decision systems based on large databases of signals such as the obtained from sensor networks, internet services, or communication systems. These systems imply developing both computational solutions and novel models. Signals from real-world systems are usually complex such as speech, music, bio-medical, and multimedia, among others.
+
+1.    Topics
+Topics of interest include (but not limited to):
+• Learning theory 
+• Subspace/maniforld learning
+• Cognitive information processing 
+• Bayesian and distributed learning
+• Neural networks 
+• Smart Grid, games, social networks
+• Classification and pattern recognition 
+• Computational Intelligence
+• Nonlinear signal processing 
+• Data-driven adaptive systems
+• Graphical models and kernel methods 
+• Data-driven models
+• Genomic signals and sequences 
+• Multimodal data fusion
+• Multichannel adaptive signal processing 
+• Multiset data analysis
+• Kernel methods and graphical models 
+• Perceptual signal processing
+• Sparsity-aware learning 
+• Applications (biomedical signals, biometrix, bioinformatics)
+
+2.    Authors information
+Authors should submit a paper to the main conference with maximum 12 pages in length, including all figures, tables, and references. Workshop papers should be maximum 10 pages long. However, authors can have two extra pages with the appropriate fee payment. 
+Prepare your paper in PDF file and submit it electronically to the 3PGCIC-2018 web page: 
+
+http://edas.info/N24595
+
+If authors will not submit their FINAL VERSION papers and copyright form by the deadline, the papers will be automatically removed from conference proceedings. The maximum number of pages for conference papers of 3PGCIC-2018 conference is 12 pages. Workshop papers should be maximum 10 pages long. For each paper, at most TWO additional pages are allowed, but each additional page costs 100 Euros.
+
+3.    Important dates
+Submission deadline: August 10, 2018
+Notification of Acceptance: August 15, 2018
+Camera-Ready Submission: September 1, 2018
+Author registration:   September 1, 2018
+Workshop and main conference dates:    October 27-29, 2018
+
+ 
+4.    Web links
+Web page of 3PGCIC 2018:               http://voyager.ce.fit.ac.jp/conf/3pgcic/2018/index.php
+Web page of SiPML 2018:                 http://www.sipml.com.mx/default.html
+
+
+5.    Publication and indexing
+All accepted papers will be included in the conference proceedings of Lecture Notes in Data Engineering and Communication Technologies series published by Springer. Proceedings will be sent by Springer for indexing in EI and SCOPUS. ** Indexing: The books of this series are submitted to ISI Proceedings, MetaPress, Springerlink **. Currently, the books of this series are indexed in Web of Science.
+High quality papers accepted and presented at the SiPML 2018 workshop will be invited to submit their extended and revised papers to a special issue in the journal Machine Learning (others are pending of approval).
+
+
+
+6.    Contact Information
+Dr. Ricardo Rodriguez Jorge
+Titular Professor/Researcher
+Engineering and Technology Institute
+Av. del Charro no. 450 Nte Col. Partido Romero, C.P. 32310
+Email: ricardo.jorge@uacj.mx
+Personal web page: http://rodriguezricardo.net

@@ -1,0 +1,56 @@
+Track â€œGeoInformation Analysisâ€ - GIA (https://gia.sciencesconf.org/)
+
+at the 34rd ACM SIGAPP SAC Conference (https://www.sigapp.org/sac/sac2019/)
+Limassol, Cyprius
+April, 2019
+
+IMPORTANT DATES:
+Sept 10, 2018: Submission of papers
+Nov 10, 2018: Author notification
+Nov 25, 2018: Camera-ready copies
+
+Track Description:
+The production and use of geo-referenced digital resources is expanding rapidly. In order to exploit their contents, the documents are annotated, indexed and analyzed according to data models dedicated to the description of particular domains. The multiple dimensions of data descriptors can be divided into three categories: location (spatial dimension), date/time (temporal dimension), and theme (thematic dimension). We call geographical data such multidimensional representations.
+In recent years, a variety of works have highlighted the potential of the extraction, analysis and retrieval of geographic information in corpora composed of textual documents, images, maps, ... A number of engines or services dedicated to the search for geographical information have been proposed: they cover spatial information for the vast majority, but also spatio-temporal and thematic information, for others.
+The purpose of this Track is to bring together the growing community of professionals and researchers of the field of geographic information extraction, retrieval and analysis, and of the corresponding applications. GIA track is at the crossroads of several disciplines: of course geomatics, but also Knowledge Engineering (KE), natural languages processing (NLP), data mining (DM) and information extraction (IE).
+ 
+Topics:
+
+How to effectively exploit the power of geographical information available on the Web, through the
+thematic, spatial and temporal dimensions? How to use the complementarity of external knowledge
+resources? These questions highlight a non-exhaustive list of themes considered for GIA track:
+1.    Preparation of Geographical Data
+a.    Identification of resources and of data (texts, images, etc.);
+b.    Data Modeling (spatial, temporal, spatio-temporal and thematic data);
+c.  Taking into account specific characteristics: heterogeneity, volumetry, mono or multi-dimensionality;
+2.   Preparation and/or uses of Geographic Information Systems.
+3.    Geographical knowledge Extraction
+a.    Construction and Acquisition of spatial/temporal/thematic Knowledge;
+b.   Semantic Web and geographic information;
+c.   Web of Things and geographic information;
+d.  Qualitative approaches (expert annotation, etc.) and quantitative approaches (data mining, NLP, etc).
+4.     Geographical Data Analytics
+a.     Single or multi-Dimensional Data Analysis (interpretation and data enrichment);
+b.     Quality measurements on spatial and temporal dataÍ¾
+c.      Evaluation of spatial and temporal tools, resources and knowledge.
+5.   Uses, methods and issues in Humanities and Social Sciences topics: geography, history, archeology, sociology, etc.
+
+Submission guidelines: 
+
+Regular papers:  Original papers addressing any of the listed topics of interest (or related topics) will be considered. Each submitted paper will be fully refereed and undergo a blind review process by at least three referees. Paper size is limited to 8 pages. A maximum of 2 additional pages may be included for an additional fee. 
+The reviews will be double-blind: authorsâ€™ names and affiliations must not appear in the paper, self-citations should be in the third person, and authors must avoid disclosing their identity by any means. For accepted papers, registration for the conference is required by at least one of the authors or a proxy, who must attend SAC and present the paper. This is a strict requirement for the paper to be included in the ACM SAC 2019 proceedings. 
+Student Research Competition:  Graduate students are invited to submit research abstracts (maximum 4 pages) to the Student Research Competition (SRC).
+See Author kit at https://www.sigapp.org/sac/sac2019/authorkit.html 
+Paper submissions must be made electronically in PDF format via the SAC 2019 website:
+- https://www.softconf.com/i/sac2019 (for regular/poster paper submission),
+- https://www.softconf.com/i/sac-src2019 (for SRC abstract submission).
+Submission of the same abstract to multiple tracks is not allowed. 
+
+Track co-chairs and contacts:
+
+Maguelonne Teisseire, UMR TETIS (Earth Observation and Geoinformation for Environment and Land Management research Unit) 500 rue Jean-FranÃ§ois Breton, F-34093 Montpellier, France, email: maguelonne.teisseire@irstea.fr
+Christian Sallaberry, University of PAU & PAYS ADOUR, LIUPPA lab., Avenue du Doyen Poplawski, 64016, Pau, France, email: christian.sallaberry@univ-pau.fr
+Eric Kergosien, University of LILLE, GERiiCO lab, Domaine universitaire du "Pont de Bois", BP 60149,  9653 â€“ Villeneuve d'Ascq CÃ©dex, France, email: eric.kergosien@univ-lille3.fr
+Cyril de Runz, University of Reims, IUT de Reims, Chemin des Rouliers, CS30012 51687 REIMS CEDEX
+2, email: cyril.de-runz@univ-reims.fr
+Thomas Guyet, AGROCAMPUS-OUEST/IRISA, 65 rue de Saint Brieuc, 35042 Rennes, France, email : thomas.guyet@irisa.fr

@@ -1,0 +1,240 @@
+**************************************************************************
+Please do distribute this call of papers to others who might be interested
+**************************************************************************
+
+
+*** FINAL CFP ****
+
+
+CoopIS 2018: 26th International Conference on COOPERATIVE INFORMATION SYSTEMS
+============================================================================
+
+part of the OnTheMove Federated Conferences & Workshops 2018
+http://www.otmconferences.org/
+
+
+24-26 October 2018, Valletta, Malta
+
+Acceptance rate of CoopIS in recent years was approx. 20%
+Proceedings will be published by Springer Verlag
+
+
+ 
+Chaired by:
+---------------
+ 
+Henderik A. Proper
+Luxembourg Institute of Science and Technology, Luxembourg
+University of Luxembourg, Luxembourg
+Radboud University, Nijmegen, the Netherlands
+    
+Markus Stumptner  
+University of South Australia, Australia
+    
+Samir Tata
+IBM Reasearch, USA
+
+ 
+Business Program Chair:
+------------------------
+
+Hervé Panetto
+University of Lorraine, France
+
+
+CALL FOR PAPERS
+----------------
+
+Cooperative Information Systems (CIS) facilitate the cooperation between individuals, organisations, smart devices, and systems of systems, by providing flexible, scalable and intelligent services to enterprises, public institutions and user communities. As a result, people and smart devices can interact, share information and work together across physical barriers. The domain of CIS integrates research results from different related computing areas, such as: distributed systems, coordination technologies, collaborative decision making, enterprise architecture, business process management and conceptual modelling.
+
+In recent years, several innovative technologies have emerged: Cloud Computing, Service Oriented Computing, the Internet of Things, Linked Open Data, Semantic Systems, Collective Awareness Platforms, Block Chain, Processes as a Service, etc, that enable the next generation of CISs.
+
+In developing the next generation CISs, research is needed towards (1) the applicability and use of the above mentioned innovative technologies, (2) approaches to develop CISs in particular catering towards the multitude of stakeholders involved in the development of socio-cyber-physical systems, and (3) associated modelling techniques to express and analyse the different aspects of these systems in cohesion.
+
+The CoopIS conference series has established itself as a major international forum for the exchange of ideas and results from scientific research and practical experiences in the fields mentioned above.
+
+As in previous years, CoopIS'18 will be part of a joint event with other conferences, in the context of the OTM Federated Conferences ("OnTheMove"), covering different aspects of distributed information systems.
+
+ 
+TOPICS OF INTEREST
+-------------------
+
+Topics that are addressed by CoopIS'18 are logically grouped in five broad thematic areas, and include but are not limited to:
+
+    Applications from emerging areas of CIS
+    Development approaches and associated modelling languages for CIS engineering
+    Principles and reference architectures for CIS
+    Enabling technologies for CIS
+    Collaborative development methods, tools, and platforms
+
+Applications from emerging areas of CIS, including:
+
+    Industry 4.0
+    Space mining
+    Digital sustainability
+    Smart systems (city, mobility, traffic, home, grid etc)
+    Digital humanities and e-Sciences
+    E-Business, e-Commerce, e-Learning and e-Government
+    Medical and biological information systems
+    Compliance and regulation
+
+Development approaches and associated modelling languages for CIS engineering, including:
+
+    CIS development approaches and strategies
+    Conceptual modelling for CIS, including:
+    Domain modelling
+    Enterprise modelling
+    Business process modelling
+    Ontologies and ontology engineering
+    Evolution and re-engineering techniques for CIS
+    Enterprise and information systems architecture
+
+Principles and reference architectures for CIS, including:
+
+    Interoperability and integration of heterogeneous, autonomous systems
+    Event-driven architectures
+    Adaptive and self-organising systems
+    Coordination systems, models and languages
+    Model-driven architectures
+    Security and privacy in CIS
+    Benchmarking and evaluation (performance, scalability, usability etc.)
+    Multi-agent systems and architectures for CIS
+    Quality of service in CIS architectures
+
+Enabling technologies for CIS, including:
+
+    Artificial intelligence
+    Cloud computing
+    Peer-to-peer technologies
+    Block-chain technology
+    Data analytics
+    Internet of things
+    Big data
+
+Collaborative development methods, tools, and platforms
+
+    Collaborative systems design and engineering
+    Frameworks and Methodologies for large scale collaboration
+    Distributed process compliance, governance, and risk management
+    Social network platforms and models for large-scale collaboration
+    Collaborative open innovation management
+    Key performance indicators (KPI) and monitoring in CIS
+    Process support in smart and ubiquitous environments
+    Cooperation, communication, negotiation protocols
+
+
+SHARED KEYNOTES DURING OTM 2018:
+--------------------------------
+
+Martin Hepp, Universität der Bundeswehr Munich / Hepp Research GmbH, Germany
+"Web Ontologies: Lessons Learned from Conceptual Modeling at Scale"
+
+Pieter De Leenheer, Collibra, cofounder and Research & Education Officer
+"Data governance: the new imperative to democratize data science"
+
+Richard Mark Soley, Object Management Group, Inc. (OMG), Chairman & CEO
+"Learning to Implement the Industrial Internet"
+
+Tom Raftery, SAP / Instituto Internacional San Telmo
+"The Future of Digital: What the next 10 years have in Store"
+
+ 
+IMPORTANT DATES
+-----------------
+
+Conference Paper Submission Deadline: July 30, 2018 (FINAL)
+Acceptance Notification:  Aug 20, 2018
+Camera Ready Due:  Aug 30, 2018
+Author Registration Due:  Aug 30, 2018
+
+  
+SUBMISSION GUIDELINES
+---------------------
+
+Papers submitted to CoopIS'18 must not have been accepted for publication elsewhere or be under review for another workshop or conference. All submitted papers will be carefully evaluated based on originality, significance, technical soundness, and clarity of expression. All papers will be refereed by at least three members of the program committee, and at least two will be experts from industry in the case of practise reports. All submissions must be in English. Submissions must not exceed 18 pages in the final camera-ready paper style. Submissions must be laid out according to the final camera-ready formatting instructions and must be submitted in PDF format.
+
+The final proceedings will be published by Springer Verlag as LNCS (Lecture Notes in Computer Science). Author instructions can be found at: http://www.springer.de/comp/lncs/authors.html
+ 
+ 
+Program Committee 2018 (BEING EXTENDED)
+----------------------------------------
+
+Agnes Nakakawa, Makerere University, Uganda
+Alex Norta, Tallinn University of Technology, Estonia
+Alfredo Cuzzocrea, University of Calabria, Italy
+Amal Elgammal, Univ. of Cairo, Egypt
+Amel Mammar, TSP, France
+Andreas Andreou, Cyprus University of Technology, Cyprus
+Andreas Opdahl, University of Bergen, Norway
+A. S. M. Kayes, La Trobe University, Australia
+Athman Bouguettaya, Sydney Univesrity, Australia
+Babis Theodoulidis, University of Manchaster, United Kingdom
+Barbara Pernici, Politecnico di Milano, Italy
+Bruno defude, TSP, France
+Chengzheng Sun, Nanyang Technological University, Singapore
+Chirine Ghedira, Université  Lyon 3, France
+Daniel Florian, Politecnico Milano, Italy
+Daniela Grigori, Université Paris Dauphine, France
+David Aveiro, University of Madeira, Portugal
+David Carlos Romero Díaz, Tecnológico de Monterrey, Mexico
+Djamal Benslimane, Université Lyon 1, France
+Eduard Babkin, State University - Higher School of Economics (Nizhny Novgorod), Russian Federation
+Epaminondas Kapetanios, University of Westminster, London, UK
+Ernesto Damiani, University of Milan, Italy
+Ernesto Exposito, UNIV PAU & PAYS ADOUR, LIUPPA, France
+eva Kühn, TU Wien, Austria
+Faouzi Ben Charrada, University of Tunis El Manar, Tunisia
+Farouk Toumani, Blaise Pascale University, France
+Francois Charoy, University of Lorraine, France
+George Feuerlicht, UTS, Australia
+George Samaras, University of Cyprus
+Hamid Motahari Nezhad, EY, USA
+Jian Yang, Macquarie University,. Australia
+John Miller, UGA, Franklin College, USA
+Jolita Ralyte, University of Geneva, Switzerland
+Joonsoo Bae, Chonbuk National University, South Korea
+Juan Manuel Murillo Rodríguez, University of Extremadura, Spain
+Julius Köpke, Alpen Adria Universitaet Klagenfurt, Austria
+Khalid Belhajjame, Lamsade France
+Khalil Drira, LAAAS, Toulouse, France
+Liang Zhang, Fudan University,China
+Lijie Wen, Tsinghua University, China
+Lucinéia Heloisa Thom, UFRGS, Brazil
+Mahmoud Barhamgi, Université Lyon 1, France
+Manfred Reichert, Ulm University, Germany
+Marco Aiello, University of Stuttgart, Germany
+Maristella Matera, Politecnico di Milano, Italy
+Marlon Dumas, University of Tartu, Estonia
+Massimo Mecella, Sapienza Università di Roma, Italy
+Mehdi Ahmed-Nacer, USTHB, Algeria
+Michael Rosemann, Queensland University  of  Technology, Brisbane, Australia
+Michael Sheng, Macquarie University,  Australia
+Mohamed Mohamed, IBM Almaden Research Center, USA
+Mohamed Quafafou, Aix-Marseille Université, France
+Mohamed Sellami, ISEP, France
+Mohand-Said Hacid, Université Claude Bernard Lyon 1, France
+Narjes Bellamine-Ben Saoud, ENSI, Tunisia
+Nour Assy, Eindhoven University of Technology, The Netherlands
+Olivier Perrin, University of Lorraine, France
+Oscar Pastor, DSIC, Universidad Politecnica de Valencia
+Philippe  Merle, INRIA, France
+Pnina Soffer, University of Haifa, Israel
+Raimundas Matulevicius, University of Tartu, Estonia
+Richard Chbeir,  UNIV PAU & PAYS ADOUR,  France
+Rik Eshuis, Eindhoven University of Technology, Netherlands
+Sami Yangui, INSA Toulouse, France
+Samir Tata, IBM, USA
+Sanjay K. Madria, Missouri University of Science and Technology, USA
+Schahram Dustdar, TU Vienna, Austria
+Selmin Nurcan, Université Paris 1, France
+Shazia Sadiq, University of Queensland, Australia
+Sherif Sakr, University of New South Wales, Sydney, Australia
+Stefan Jablonski, University of Bayreuth, Germany
+Stijn Hoppenbrouwers, HAN University of Applied Sciences, Netherlands
+Tiziana Catarci, Università degli Studi di Roma La Sapienza, Italy
+Walid Gaaloul, TSP, France
+Xavier Blanc,  Bordeaux University, France
+Yehia Taher, Univ. of Versailles, Saint-Quentin-en-Yvelines, France
+Zakaria Maamar, Zayed Univ., Dubai, UAE
+Zhangbing Zhou, University of Geosciences, China
+Zohra Bellahsene, University of Montpellier, France

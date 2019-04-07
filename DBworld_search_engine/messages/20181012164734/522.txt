@@ -1,0 +1,109 @@
+Call for Papers
+3rd Workshop on Middleware for Edge Clouds & Cloudlets (MECC 2018) 
+
+held in conjunction with ACM/IFIP/USENIX ACM International Middleware Conference 
+
+Rennes, France, 10-14 December, 2018 
+
+http://mecc2018.dcc.fc.up.pt/
+
+IMPORTANT DATES (23:59 GMT/UTC-12) 
+August 31, 2018    - Paper submission
+September 28, 2018 - Notification of Acceptance
+October 15, 2018   - Final version (Camera ready)
+
+The Middleware for Edge Clouds & Cloudlets (MECC) workshop aims to address the increasing need for closer integration between the different tiers on modern cloud computing platforms. 
+
+
+
+There is a growing trend of interactive and resource-intensive (e.g., compute, storage, need for big data) applications on mobile devices today, and currently many such applications are provided using resources on infrastructural clouds. However, it is challenging to provide such applications using cloud resources when there is limited connectivity. Harvesting the resources present on nearby mobile devices and/or cloudlets is a viable solution to this problem. 
+
+
+
+Today, there is also increasing demand for middleware that offers higher level abstractions without hampering expressiveness and performance. However, many distributed systems today are designed for the datacenter, and their assumptions, such as that nodes use fast wired interconnects, no longer hold in edge environments. In particular, edge clouds, such as those made up of only mobile devices at the edge, use unreliable wireless links. These unreliable links directly translate into unavailability and churn. Simultaneously, since mobile devices have limited energy resources, heavyweight distributed algorithms, such as coordination using a leader-based consensus protocol, are impractical. 
+
+
+
+As an effort to offload computation from mobile devices, cloudlets were originally envisioned as server-class hardware deployed in a neighborhood, office building or more generally, in close physical proximity to any scenario with a high density of users, such as at large public events. It is now transitioning to a more lightweight approach where the offloading is done through multiple techniques besides the use of virtual machines, as originally proposed, and where cloudlets can also offer connectivity support to crowd-sourced mobile devices, i.e., edge clouds. 
+
+
+
+With this new trend in sight, there is a need to define the services that should be offered at each tier. For example, cloudlets can provide well-defined APIs to support multiple computation offloading methods. Furthermore, new modular and reconfigurable architectures have to be proposed in order to support a variety of deployment scenarios, such as edge clouds without cloudlet support, and scenarios with very limited access to infrastructural clouds.
+
+
+Topics of interest include but are not limited to:
+Design and performance of middleware platforms for edge clouds and cloudlets
+Mechanisms for the integration of edge clouds with cloudlets
+Security mechanisms  for edge clouds including, including but not limited to, storage and computation
+Context-aware services by cloudlets
+Connectivity-as-a-service provided by cloudlets
+Novel theoretical approaches for churn tolerance
+Lightweight replication and fault-tolerance algorithms
+Distributed coordination and cooperation for edge clouds
+Lightweight computation sandboxing for edge clouds
+Novel storage systems for edge clouds, with special focus on geo-aware storage engines
+Tools for testing and benchmarking MECC
+Experimental deployments
+Novel applications for MECC
+Networking coding approaches for MECC
+P2P overlays and systems for edge clouds
+Gossip based protocols for edge clouds
+Computational frameworks for MECC
+Programming models and abstractions to manage edge to infrastructure cloud interactions
+Middleware platforms for cloud-of-clouds
+Privacy enforcing algorithms for leveraging MECC
+Trust for edge clouds and/or cloudlets
+Interoperability between mobile OSes
+Sensor fusion for MECC
+Infrastructure cloud based services for supporting MECC
+
+
+WORKSHOP CO-CHAIRS
+Rolando Martins (University of Porto, Portugal)
+Hervé Paulino (University Nova of Lisbon, Portugal)
+Luis Veiga (Technical University of Lisbon, Portugal)
+
+Contacts:
+rmartins@dcc.fc.up.pt
+herve.paulino@fct.unl.pt
+luis.veiga@inesc-id.pt
+
+
+PROGRAM COMMITTEE
+Paulo Ferreira (INESC-ID, Portugal)
+Fernando Pedone(University of Lugano, Switzerland)
+Padmanabhan Pillai (Intel/Carnegie Mellon University, USA)
+Felix Freitag (Universitat Politècnica de Catalunya, Spain)
+Ruediger Kapitza (TU Braunschweig, Germany)
+Diego Kreutz (University of Luxembourg, Luxembourg)
+Luís Antunes (University of Porto, Portugal)
+Alysson Bessani (University of Lisbon, Portugal)
+João Lourenço (University Nova of Lisbon, Portugal)
+Evangelia Kalyvianaki (University of Cambridge, UK)
+Utsav Drolia (NEC Labs America, USA)
+Odorico Mendizabal (Universidade Federal do Rio Grande, Brazil)
+Ketan Bhardwaj (Georgia Tech, USA)
+Amir M. Rahmani (UC Irvine, USA and TU Wien, Austria)
+Heverson B. Ribeiro (Cloud Computing Lab/IRT b-com, France)
+Jonathan Francis (Carnegie Mellon University, Bosh Research Pittsburgh, USA)
+Eddy Truyen (Katholieke Universiteit Leuven, Belgium)
+Wolfgang Richter (Soroco, USA)
+Jat Singh (University of Cambridge, UK)
+Nuno Preguiça (University Nova of Lisbon, Portugal)
+Mennan Selimi (University of Cambridge, UK)
+
+PUBLICITY CHAIRS
+Patrícia Sousa (University of Porto, Portugal)
+João Resende (University of Porto, Portugal)
+
+
+SUBMISSION AND PUBLICATION
+MECC 2018 will receive proposals for communication in the form of full research papers of at most 6 pages, and short research papers of at most 3 pages, including references. Short papers should either describe work-in-progress, or should describe visions of challenges, problems, and potential research directions in MECC. Content should be work that is not previously published or concurrently submitted elsewhere. 
+
+All submissions should be in PDF and must follow the ACM template. Submissions must have authors’ information, text, figures, references and appendices (if applicable). Submissions that do not respect the formatting requirement may be rejected without review. 
+
+Reviewing is single-blind. This means that the names and affiliations of the authors must appear in the submitted papers. Each paper will receive at least three reviews from members of the program committee. 
+
+Submissions should be done through HotCRP at the following URL: https://mecc18.hotcrp.com 
+
+Accepted papers will appear in companion proceedings to the Middleware 2018 proceedings, which will be available in the ACM Digital Library before the workshop.

@@ -1,0 +1,63 @@
+-----------------------------------------------------------------------
+
+           CALL FOR PAPERS
+
+           34th ACM SIGAPP Symposium on Applied Computing
+
+           Track on Recommender Systems: Theory, User Interactions and Applications
+
+           8-12 April 2019, Limassol, Cyprus
+
+           Submission deadline Sep 10th, 2018
+
+           https://recsystrack.wordpress.com/ 
+
+-----------------------------------------------------------------------
+
+Topics of Interest (but not limited to)
+==============================
+
+* Recommender Systems
+- Conversational recommender systems
+- Context-aware/Trust-based/Group/Social/Mobile and multi-channel recommenders
+- Recommendation explanation
+- New recommender applications
+- Data mining and machine learning for development
+- Novel paradigms, Theoretical foundations
+- Preference elicitation
+- Privacy and security issues in recommender systems
+- Recommendation algorithms, Algorithm scalability, Evaluation metrics and studies
+- Semantic technologies for recommendation
+* User modeling in Recommender Systems
+- User interface design
+- User-adaptive interaction and personalization
+- Empirical user studies
+- Explanations in recommender systems
+- User behavior analytics and user modeling
+- User-centric studies and evaluations in recommender systems
+- Privacy and security issues in recommender systems
+- Recommender systems based on usersâ€™ psychological characteristics, such as personality and emotion
+
+Submission Guidelines
+==================
+
+For full submission guidelines and the submission website, please follow the instructions on the ACM SAC 2019 website (https://www.sigapp.org/sac/sac2019) carefully.  Also, please note the following reminders related to paper submissions.
+
+Submission system for regular papers (full/poster) http://www.sigapp.org/sac/sac2019/submission.html
+
+Three types of submissions:
+=======================
+
+Full papers are expected to present original research work which should report on substantial contributions of lasting value. The submission should be limited to a maximum of 10 pages: 8 pages (included in the conference registration) + up to 2 additional pages (at extra charge, $80 USD per page).
+
+Posters may discuss exciting new work that is not yet mature, or open challenges in promising research directions. The submission should be limited to a maximum of 4 pages: 3 pages (included in the conference registration) + up to 1 additional page (at extra charge, $80 USD per page).
+
+Student Research Competition(SRC) Program: For details see https://www.sigapp.org/sac/sac2019/file2019/SAC2019-CFSRC.pdf  
+
+
+Track Chairs:
+===========
+Markus Zanker, Free University of Bolzano, Italy
+Li Chen, Hong Kong Baptist University, Hong Kong, China
+Panagiotis Symeonidis, Free University of Bolzano, Italy
+Yong Zheng, Illinois Institute of Technology, USA

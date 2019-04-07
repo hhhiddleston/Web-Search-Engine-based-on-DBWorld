@@ -1,0 +1,85 @@
+Call for Papers
+
+The Sixth Workshop on Data Mining in Biomedical Informatics and Healthcare (DMBIHÕ18)
+http://facweb.cs.depaul.edu/research/vc/ICDM18/index.html
+Singapore, November 17-20, 2018
+In conjunction with the IEEE ICDM 2018
+
+The Sixth Workshop on Data Mining in Biomedical Informatics and Healthcare aims to 
+provide a forum for data miners, informacists, data scientists, and clinical 
+researchers to share their latest investigations in applying data mining techniques 
+to biomedical and healthcare data. The increasing availability of large and complex 
+data sets to the research community, triggers the need to develop more advanced and 
+sophisticated data analytical techniques to exploit and manage these big data. The 
+broader context of the workshop comprehends artificial intelligence, information 
+retrieval, machine learning, and knowledge extraction methods using biomedical image 
+analysis and natural language processing. Submissions are invited to address the 
+need for developing new methods to mine, summarize and integrate the huge volume and 
+diverse modalities of the structured and unstructured biomedical and healthcare data 
+that can potentially lead to significant advances in the field. 
+
+Topics of interest include but are not limited to:
+* Classifying and clustering big data in electronic health records (EHRs)
+* Classifying and clustering temporal data in EHRs and biomedical data in high 
+  dimensional spaces
+* Application of deep learning methods to clinical data
+* Topic modeling / detection in large amounts of clinical textual data
+* Data preprocessing and cleansing to deal with noise and missing data in large 
+  biomedical or population health data sets
+* Algorithms to speed up the analysis of big biomedical data
+* Novel visualization techniques to facilitate the query and analysis ofÊ clinical 
+  data
+* Statistics and probability in large-scale data mining
+* Evidence-based medicine
+* Medical image data mining
+* HIPAA compliance data mining
+* Pharmacogenomics data mining
+* Biological markers detection
+* Biological and clinical data analysis and integration for translational research
+* Computational genetics, genomics and proteomics
+
+Important Dates
+* Papers Due: August 7, 2018
+* Author Notifications: September 4, 2018
+* Camera-ready deadline and copyright forms: September 15, 2018
+
+Submission and Procedures
+Paper submissions will be done through the IEEE ICDM Workshop CyberChair submission 
+system. As per ICDM instructions, papers are limited to a maximum of eight pages, 
+and follow the IEEE ICDM format requirements. All accepted workshop papers will be 
+published in a formal proceedings by the IEEE Computer Society Press. One paper 
+will be selected for the best paper award, which will be awarded at the workshop.
+
+JournalÕs Special Issue 
+TBD
+
+Workshop Chair
+* Daniela Stan Raicu, DePaul University
+
+Workshop Organizers
+* Samah Jamal Fodeh, Yale University
+* JosŽ D. Mart’n-Guerrero, University of Valencia
+* Mohammad-Reza Siadat, Oakland University
+
+Program Committee Members
+* Sameer Antani, NIH National Library of Medicine
+* Carlo Barbieri, Fresenius Medical Care
+* Paul Bradley, MethodCare, Inc.
+* Hamidreza Chitsaz, Colorado State University
+* Rosa Figueroa, University of Utah
+* Jacob Furst, DePaul University
+* Adam Gaweda, University of Louisville
+* Maryellen Giger, University of Chicago
+* Hamid Soltanian-Zadeh, Henry Ford health System
+* Juan G—mez, University of Valencia, Spain
+* Ali Haddad, Yale University
+* Kourosh Jafari-Khouzani, Harvard University
+* Ian H. Jarman, Liverpool John Moores University, UK
+* Paulo J. G. Lisboa, Liverpool John Moores University, UK
+* Flavio Mari, Fresenius Medical Care, Bad Homburg, Germany
+* Theophilus Ogunyemi, Oakland University
+* Doug Redd, University of Utah.
+* Emilio Soria, University of Valencia, Spain
+* Abbas Babajani-Feremi, University of Tennessee Health Science Center
+* Szilard Vajda, NIH National Library of Medicine
+* Joan Vila FrancŽs, University of Valencia, Spain

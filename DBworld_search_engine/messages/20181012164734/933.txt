@@ -1,0 +1,67 @@
+ï»¿ACM 1st International Workshop on Knowledge Management for Healthcare (KMH)
+http://dtmbiokmh.net/
+
+Joint Summit with the ACM 12th International Workshop on Data and Text Mining in Biomedical Informatics (DTMBio) 
+In conjunction with ACM 27th Conference on Information and Knowledge Management (CIKM)
+Lingotto, Turin, Italy, October 22 â€“ October 26, 2018
+
+Information and communication technologies (ICT) are widely used within health care, and they are playing an increasingly important role in the practice of medicine and in clinical research in a variety of scenarios, e.g.:.
+â€“ Smart healthcare systems are used for primary prevention purposes, with ICT solutions being employed for monitoring usersâ€™ activities and habits in order to infer the probability or likelihood of chronic disease onset.
+â€“ Knowledge-based data management solutions provide efficient representations of information (i.e. personal clinical data, documents and images content, etc.) enabling the construction of smart systems and ensuring the interoperability between healthcare platforms.
+â€“ Integrated knowledge-based business process solutions in organizational frameworks to support the monitoring and optimizing of processes implemented within healthcare organizations.
+However, the lack of integration and semantic interoperability in healthcare information systems is the primary cause for limited efficient and effective digital solutions, which challenges the ability of the healthcare industry to reach its primary goal, i.e. to supply continuous care that is personalized for each patient and to put new knowledge into practice by translating clinical research results from â€œbench to bedsideâ€.
+The workshop on Knowledge Management Technologies for Healthcare aims cover a wide spectrum of topics concerned with the integration of knowledge management technologies within the healthcare domain including, communities of practice and social networks, analytics and engagement with tracking and monitoring wearable devices, big data, public health surveillance, persuasive technologies, epidemic intelligence, participatory surveillance, and emergency medicine.
+
+
+*** Topics of interest ***
+Topics include but are not limited to:
+* Big data and big ontology in Healthcare
+* Biomedical ontology mapping
+* Clinical trial generalizability assessment using ontologies
+* Computer-interpretable clinical guidelines
+* Computer-interpretable clinical trial eligibility criteria
+* Data mining or machine learning on biomedical, clinical or social web data
+* Decision support systems in medicine
+* Development of semantic applications for medicine and healthcare
+* Health knowledge management
+* Robotic systems for assisted living
+* Information Extraction on biomedical, clinical, or social web data
+* Medical knowledge graphs
+* Ontology development, enrichment and alignment in healthcare and life sciences
+* Ontology-based text mining and natural language processing
+* Ontology-based analysis on biomedical, clinical, or social web data
+* Quality assurance of ontologies and controlled terminologies
+* Rule-based formalizations for Healthcare systems
+* Reasoning and processing of medical knowledge
+* Semantic annotation of medical images and documents
+* Semantic annotation on biomedical, clinical or social web data
+* Semantic interoperability for clinical trial data
+* Semantic interoperability for Electronic Health Records (EHRs)
+* Semantic research for biomedical science
+* Semantic technology for telemedicine
+* Semantically-enabled systems in medicine and healthcare
+* Serious games for healthcare integrating semantic solutions
+* Temporal/spatial reasoning and data processing in Healthcare
+
+
+*** Submission Guidelines ***
+Authors are invited to submit their manuscripts electronically in PDF format using the ACM camera-ready templates (available at the ACM official web site or KMH web site).
+
+- Full papers: Submissions must describe substantial completed work. Full papers may consist of up to six (6) pages with the possibility of having a seventh page containing only references. Full papers will be presented at the workshop.
+- Short papers: Short papers will be presented at the workshop, and will be given three (3) pages in the proceedings with the possibility of having a fourth page containing only references.
+- Posters: We solicit quality posters that describe previously published or unpublished work. Posters will be presented at the workshop in a shared lightning talk session with the DTMBio Workshop (~5 mins for each poster).
+
+All papers (in PDF format) should be submitted on Easychair (https://easychair.org/conferences/?conf=dtmbiokmh18)
+
+Selected full papers (~8 papers) will be invited for a top-ranked journal (to be announced).
+
+
+*** Important Dates (subject to change) ***
+Paper Due: July 31st 2018 - EXTENDED
+Notification of Acceptance: August 15th 2018
+
+
+*** Workshop Organizers ***
+Mauro Dragoni, Fondazione Bruno Kessler, Italy, dragoni@fbk.eu
+Claudio Eccher, Fondazione Bruno Kessler, Italy, cleccher@fbk.eu
+Valentina Tamma, University of Liverpool, United Kingdom, V.Tamma@liverpool.ac.uk

@@ -1,0 +1,59 @@
+Pre-ICIS SIGBPS 2018 Workshop on Blockchain and Smart Contract
+Research Frontier Theme: Building Digital Society with Blockchain and Smart Contract
+(http://2018.sigbps.org)
+
+SIGBPS workshop aims to extend the boundaries of research in business process management and services science by integrating new elements that have not been sufficiently emphasized in the past. The recent rapid advances in information systems have created both challenges and opportunities to develop new business services via innovative business processes. Another important area of interest of this workshop is to promote theoretical research in business process management and service science. Driven by the need to solve practical problems, the business process modeling and automation research has been largely prescriptive. There has been a lack of strong theories in this area and we believe that it is essential to develop new theories about business process and service automation.
+
+On the other hand, recently blockchain is poised to become the most exciting invention after the Internet; while the latter connects the world to enable new business models based on online business processes, the former will help resolve the trust issue more efficiently via distributed computing. While the recent advancement made blockchain a practical technology, smart contract is now getting more attention, which is essentially a transaction protocol that executes the terms of a computerized contract. The potential business impacts of blockchain and smart contracts are challenging existing business models, leading to fascinating research opportunities in business process and service applications. The purpose of the SIGBPS workshop this year is to provide an interdisciplinary forum to discuss new research directions in the areas of building trustworthy business processes and services with blockchain and smart contract technologies. We have seen testimonial studies on how to examine, design, implement, and deploy solutions based on blockchain and smart contracts to resolve research and practical issues in BPS applications. Such applications may benefit many research frontier domains, for example, finance, supply chain, education and healthcare.
+
+Given the nature and purpose of this workshop, we invite research papers of no more than five pages that are well articulated and formatted in single line spacing, Times New Roman, 12 pt, 1inch margins. We particularly seek position papers but also welcome conceptual papers with either theoretical or application flavors, as well as completed research papers or research-in-progress papers. Case, empirical, and behavioral studies relevant to the focused topics are also welcome. Best paper awards and best student paper awards (students are first authors) will be selected based on novelty and significance. Authors of selected workshop papers will be invited to submit an extended version of their papers to the Special Issue on Blockchain of Information Systems and e-Business Management journal (ISeB, http://www.springer.com/10257). 
+
+Suggested research topics include, but not limited to, the following ones:
+¡ð Design science research in BPS applications of blockchain-driven smart contracts
+¡ð Technical and application solutions for smart contracts and BPS applications
+¡ð Empirical studies on blockchain, smart contracts and BPS applications
+¡ð Trust, privacy, and behavioral issues in smart contracts under blockchains
+¡ð Regulation, governance, and standardization of smart contracts in BPS applications
+¡ð BPS applications of contract theory in smart contract management
+¡ð Mechanism design for BPS applications of smart contracts under blockchain
+¡ð Blockchain-driven protocols for BPS smart contracts
+¡ð BPS applications with blockchain and smart contracts
+¡ð BPS case studies of blockchain and smart contract adoption
+¡ð Tokenomics
+¡ð Big data, cloud computing and process management
+¡ð Robotic Process Automation
+¡ð Collaborative processes in social media
+¡ð Coordination and cooperation mechanisms for process management
+¡ð Process mining and intelligence
+¡ð Frameworks and methodologies for collaboration processes
+¡ð Business process management and smart contract based applications in healthcare, supply chain, finance, education 
+¡ð Metrics, evaluation and measurements in business processes and services
+¡ð Organization and culture issues in process automation
+¡ð Process competencies in information intensive businesses
+
+The workshop will be organized with special tracks of interests. Researchers with expertise in the above topics are welcome to direct the paper solicitation and reviewing within one track:
+¡ñ Integration of smart contracts in workflow systems
+¡ñ Service science and engineering in blockchain ecosystems
+¡ñ Blockchain enabled supply chain processes
+¡ñ Innovative Blockchain Applications in industry
+¡ñ Business Process Intelligence
+¡ñ Business Process Innovation and Transformation
+¡ñ E-Business Service Management
+¡ñ Intelligent Service Systems and Technologies
+
+Important Dates:
+       Submission Deadline: Oct 1st, 2018
+       Notification of Acceptance: Oct 20th, 2018
+       Final Version Due: Oct 30th, 2018
+
+Honorary Chairs:
+       Edward Stohr, Stevens Institute of Technology, USA
+       Akhil Kumar, Pennsylvania State University, USA
+       
+Conference Chairs:
+       J. Leon Zhao, City University of Hong Kong, China
+       Karl Lang, Baruch College, USA
+       
+Program Chairs:
+       Jun Shen, University of Wollongong, Australia
+       Zhe (Jay) Shan, Miami University, USA

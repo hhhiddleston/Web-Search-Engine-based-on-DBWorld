@@ -1,0 +1,48 @@
+Title :  Intelligent SLA guided trusted data integration for multi-cloud environments 
+ 
+Advisors:  
+Prof. Chirine Ghedira Guegan, University Lyon 3, chirine.ghedira-guegan@univ-lyon3.fr     
+Dr. Nadia Bennani, INSA, Lyon, nadia.bennani@insa-lyon.fr   
+Dr. Genoveva Vargas-Solar, CNRS, LIG-LAFMIA, Genoveva.Vargas@univ-grenoble-alpes.fr    
+
+Funding: SUMMIT project, AAP Region doctoral scholarship,  Auvergne-Rh™ne Alpes, France
+ 
+Context and challenges Data integration is in general guided by queries that specify the data required by an application, a user or a community of users. Given the evolution of technology, in later years queries can be issued from devices with different constraints and results are expected to be consumed in different conditions (energy consumption, network bandwidth consumption, economic cost, privacy, trust, and criticality). These quality aspects related to data and to the conditions in which queries are evaluated and data are integrated and associated to the requirements specification through contracts and user profiles. They guide the process in which data is integrated to respond to queries and they significantly increase the complexity of this process. Indeed, evaluating a query (i.e. query rewriting) becomes a combinatorial problem which complexity increases because of the presence of quality requirements that are non-orthogonal constraints. 
+
+Even if heuristics and best effort approaches have already been proposed in the database domain, queries evaluated in new contexts like service oriented and multi-cloud environments, internet of things (IoT), and multi device and multi- target architectures, insist on the necessity to capitalise the effort of evaluating queries by making the data integration intelligent. Profiting from logs maintained by systems, machine learning and data mining techniques can be applied to look for solutions of similar problems (i.e., queries) previously solved.
+
+On the other hand, data integration quality suffers from the lack of control on the data sources implied in the integration. Exploiting the data sources provenance and the trust level of the data provider should make the data resulting from the data integration better. To do so, a new mechanism that derives data quality by applying statistical and prediction-based models to data provenance information and the trust level is needed. Given that today the economic cost in computing cycles (see your cloud invoice); and in energy consumption and the performance required for some critical tasks become important, reducing the cost of data integration by efficiently evaluating queries is an important challenge. Besides, new applications require solving even more complex queries including millions of sources, and data with high levels of volume and variety. These new challenges call for intelligent processes that can learn from previous experiences, that can be adaptable to changing requirements and dynamic execution contexts. 
+ 
+The objective this research work is to explore the use of machine learning, artificial intelligence and data analytics techniques in the query evaluation process for transforming data integration into an intelligent task.
+
+ 
+Expected results
+
+- Study of machine learning, IA and data analytics methods applied to data integration process 
+including comparative tests.
+
+- Intelligent SLA guided trusted data integration solution platform on a multi-cloud 
+environment.
+
+- Experiments and comparative results with existing solutions for assessing the importance of the approach.
+
+Schedule 
+
+Year 1
+- Understand the state of the art on SLA data integration on multi-cloud environments and previous results.
+- State of the art on machine learning, AI and data analytics works applied to database processes (deliverable a systematic review document & paper
+- State of the art on data provenance calculation and statistical model applied to the provider trust level. (deliverable a systematic review document & paper
+- Prepare a multi-cloud environment as an experimental platform and deploy SLA guided trusted data integration on such an environment.
+
+Year 2
+- Capitalising in our previous work, propose an approach for an intelligent query rewriting method.
+- Develop experiments on the proposed approach in a multi-cloud environment considering 
+scalability issues (deliverable paper about approach and experiments).
+- Formalise the approach for an intelligent SLA guided trusted data integration process on multi-cloud environments.
+
+Year 3
+- Finalise formalisation of the approach, and run more experiments focusing on scalability.
+- Write the dissertation.
+- Defend the thesis.
+ 
+ 

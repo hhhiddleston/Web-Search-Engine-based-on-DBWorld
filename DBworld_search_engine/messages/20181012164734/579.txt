@@ -1,0 +1,92 @@
+   5th International Conference on Artificial Intelligence and Applications (AIFU 2019)
+      July 13~14, 2019, Toronto, Canada
+      https://ccsea2019.org/aifu/index.html
+
+Scope & Topics
+
+5th International Conference on Artificial Intelligence and Applications (AIFU 2019) is a forum for presenting new advances and research results in the fields of Artificial Intelligence. The conference will bring together leading researchers, engineers and scientists in the domain of interest from around the world. The scope of the conference covers all theoretical and practical aspects of the Artificial Intelligence.
+
+Authors are solicited to contribute to the conference by submitting articles that illustrate research results, projects, surveying works and industrial experiences
+
+Topics of interest include, but are not limited to, the following:
+
+Fuzzy Logic Systems
+Fuzzy logic Techniques & Algorithm
+Fuzzy Mathematics
+Fuzzy Measure and Integral
+Type 2 Fuzzy Logic
+Possibility Theory and Imprecise Probability
+Fuzzy Database
+Fuzzy Clustering
+Fuzzy Decision Support System
+Fuzzy Expert System
+Fuzzy Mathematical Programming
+Fuzzy Decision Making and Decision Support Systems
+Fuzzy Modeling and Fuzzy Control of Biotechnological Processes
+Fuzzy Neural Systems, Neuro-fuzzy Systems
+Fuzzy Systems Modeling and Identification
+Fuzzy Pattern Recognition
+Fuzzy Process Control
+Fuzzy Reasoning System
+Fuzzy-rule Based System
+Fuzzy System in Multimedia and Web-based Applications
+Fuzzy System Applications in Computer Vision
+Hybrid Fuzzy Systems (fuzzy-neuro-evolutionary-rough)
+Fuzzy System Applications in E-commerce
+Fuzzy Sets in Bioinformatics
+Fuzzy System Applications in Human-Machine Interface
+Fuzzy System Applications in Robotics
+Fuzzy System Applications in System and Control Engineering
+AI Algorithms
+Artificial Intelligence Tools & Applications
+Automatic Control
+Bioinformatics
+Natural Language Processing
+CAD Design & Testing
+Computer Vision and Speech Understanding
+Data Mining and Machine Learning Tools
+Fuzzy Logic
+Heuristic and AI Planning Strategies and Tools<
+Computational Theories of Learning
+Hybrid Intelligent Systems
+Information Retrieval
+Intelligent System Architectures
+Knowledge Representation
+Knowledge-based Systems
+Mechatronics
+Multimedia & Cognitive Informatics
+Neural Networks
+Parallel Processing
+Pattern Recognition
+Pervasive Computing and Ambient Intelligence
+Programming Languages
+Reasoning and Evolution
+Recent Trends and Developments
+Robotics
+Semantic Web Techniques and Technologies
+Soft Computing Theory and Applications
+Software and Hardware Architectures
+Web Intelligence Applications and Search
+
+Paper Submission
+
+Authors are invited to submit papers through the conference Submission system by October 03, 2018.
+
+Submissions must be original and should not have been published previously or be under consideration for publication while being evaluated for this conference. The proceedings of the conference will be published by Computer Science Conference Proceedings in Computer Science & Information Technology (CS & IT) series (Confirmed).
+
+Selected papers from AIFU 2019, after further revisions, will be published in the special issues of the following journals
+
+International Journal of Artificial Intelligence & Applications (IJAIA)
+International Journal of Fuzzy Logic Systems (IJFLS)
+International Journal on Soft Computing, Artificial Intelligence and Applications ( IJSCAI )
+International Journal on Soft Computing ( IJSC )
+
+Important Dates
+
+Submission Deadline :October 03, 2018
+
+Authors Notification : December 05, 2018
+
+Registration & Camera-Ready Paper Due : December 25, 2018
+
+Contact us:aifuconf@yahoo.com or aifu@ccsea2019.org

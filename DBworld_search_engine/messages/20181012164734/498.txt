@@ -1,0 +1,25 @@
+A post-doctoral researcher position is available at University of Namur (Belgium) 
+Faculty of Computer Science - PReCISE research center - Namur Digital Institute.
+
+The position will be fixed-term for 2 years, with possibility of extension.
+
+Gross salary per year: about 40.000 EUR (depending on experience).
+
+This position is associated with a new European H2020 project titled "Polyglot and Hybrid Persistence Architectures for Big Data Analytics" (TYPHON), in collaboration with The Open Group, University of York, University of Lâ€™Aquila, Edge Hill University, CWI, Volkswagen, GMV, Institut fur angewandte Systemtechnik Bremen, Alpha Bank, Nea Odos and CLMS. 
+
+The aim of TYPHON is to develop a methodology and an integrated technical offering for designing, developing, querying and evolving scalable architectures (polystores) for persistence, analytics and monitoring of large volumes of hybrid (relational, graph-based, document-based, natural language etc.) data.
+
+The main objective of the TYPHON work-package led by University of Namur is to design and develop tools for evolving and monitoring the use of assembled polystores. Based on the data usage patterns observed by a monitoring mechanism, dedicated algorithms will suggest reconfigurations for the polystore schema. Tools for data and query migration will then support the automated propagation of the schema reconfigurations.
+
+In the context of this research project, your responsibilities will be: Designing and developing software for data usage analysis, schema change, cross-platform data migration and query migration; using appropriate research techniques and methods; writing up of research results and dissemination through publications, deliverables, seminar and conference presentations and outreach activities, and contributing to the identification of possible new areas of research.
+
+You will have a PhD in a technological / engineering area relevant to software or data engineering. You will need to have strong presentation, writing and object-oriented design and development skills (preferably using Java/JVM-based languages) as well as experience with one or more of the following: high-performance relational/non-relational data persistence and querying technologies, dynamic program analysis techniques, and language engineering/meta-programming frameworks (e.g. EMF, Sirius, Xtext, Rascal, ANTLR). Essential personal attributes for this role include attention to detail and commitment to high quality, a collaborative ethos, positive attitude to colleagues, commitment to personal development, and ability to plan and prioritise own work to meet deadlines. Experience in collaborative research projects, especially in European projects, will be considered as an asset.
+
+Official applications should be submitted to anthony.cleve@unamur.be and should include: 
+- Earliest available starting date. The starting date is negotiable, no later than January 1, 2019 
+- Curriculum vitae with a list of publications and previous positions held. 
+- A digital copy of one to three (co-)authored publications demonstrating some of the expected expertise.
+- Contact details (including e-mail address and phone number) of two academic referees.
+
+Deadline for submissions: September 21, 2018 
+Submissions received before and after that date are welcome and will be considered as long as the position remains available.

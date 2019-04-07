@@ -1,0 +1,36 @@
+BIGDATANETANALYSIS is a BIBM 2018 Workshop.
+http://orienta.ugr.es/bibm2018/
+Dec 3-6,  2018, Madrid, Spain
+
+Workshop Rationale
+Precision Medicine is currently a hot research field and of high  interest for bioinformatic 
+community. The field attracts the interest  of both computer scientists and biologists and medical 
+doctors  interested in the applications in biology, precision medicine and  pharmacology. 
+The rationale underlying the research is that many biological  processes in different fields, from 
+molecular biology to neurological  sciences, may be elucidated only considering mutual interactions  among  different players. For instance, the regulation of messenger RNA  (mRNA) levels is due to  the synergistic and antagonist actions of  transcription factors (TFs) and microRNAs (miRNAs). 
+Similarly network  based approaches have been recently applied to the modelling of 
+brains.  A common aspect of these different scenarios is that available  technological platforms enable the  investigation of only a single  aspect of these mechanisms, e.g., the quantification of levels of  mRNA  or miRNA or the investigation of the activity of single brain regions. 
+Consequently, the comprehensive analysis is made possible only by the  integration and the analysis  of these data sources. Currently, the  interest of researchers in this area is growing, the number of  projects is increasing, and the number of challenges and issues for  computer scientists is  considerable. Many approaches are based on the  use of results coming from graph theory, thus the  need for a workshop  bringing together computer scientists and biologists/doctors arises. 
+Recent approaches integrated big-data in heterogeneus networks.  This workshop solicits submissions discussing general concepts related  improvements and challenges are also discussed. Position  to data integrations, as well  as novel approaches of analysis Future  papers are also invited. Peer reviewed papers will be included in conference proceedings, while  position papers are only exchanged on informal proceedings. A special issue in a journal is also  planned. 
+
+Workshop Organizers
+
+Pietro Hiram Guzzi
+Swarup Roy
+Program Committee
+TBA
+
+Important Dates
+
+Electronic submission of full papers: Oct 3, 2018 
+Notification of paper acceptance: Oct 16, 2018
+ Camera-ready of accepted papers: Nov 3, 2018
+ Poster submission: Nov 5, 2018 
+Conference: December 3-6, 2018 
+Workshop Submission Page.
+Paper Submission:
+Please submit a full-length paper (up to 8 page IEEE 2-column format) through the online submission system (you can download the format instruction here (http://www.ieee.org/conferences_events/conferences/publishing/templates.html). 
+Electronic submissions (in PDF or Postscript format) are required. Selected participants will be asked to submit their revised papers in a format to be specified at the time of acceptance. 
+
+Online Submission:
+https://wi-lab.com/cyberchair/2018/bibm18/index.php     

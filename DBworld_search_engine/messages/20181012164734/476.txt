@@ -1,0 +1,82 @@
+Final Call for papers:
+   
+The 11th IEEE International Conference on Social Computing and Networking ( SocialCom 2018), 11-13 Dec. 2018, Melbourne, Australia.
+   
+Website: http://www.swinflow.org/confs/2018/socialcom/ 
+   
+Key dates:
+Submission Deadline: August 31, 2018 (11:59pm UTC/GMT, firm)
+Notification: September 30, 2018
+Final Manuscript Due: October 15, 2018
+   
+Submission site: http://www.swinflow.org/confs/2018/socialcom/submission.htm
+   
+Publication:
+Proceedings will be published by IEEE CS Press.
+   
+Special issues:
+Distinguished papers will be selected for special issues in Information
+Sciences, Future Generation Computer Systems, Journal of Parallel and
+Distributed Computing, Concurrency and Computation: Practice and Experience
+
+===========
+Introduction
+   
+Social computing and networking is concerned with the intersection of social behaviour and computing systems, creating or recreating social conventions and contexts through the use of software and technology. Various social computing applications such as blogs, email, instant messaging, social networking (Facebook, Twitter, LinkedIn, Google+ etc.), wikis, and social bookmarking have been widely popularised by providing digital platforms for social interaction. Such applications have been profoundly change social behaviours and digital life styles of humankind whilst pushing the boundaries of Internet technologies. While people can enjoy or even indulge in the benefits such as freedom and convenience brought about by social computing, various critical issues such as trust, privacy, HCI design, and the modelling as well as understanding of social behaviours via computational means provide significant challenges.
+   
+SocialCom (Social Computing and Networking) was created to provide a prime international forum for researchers, industry practitioners and domain experts to exchange the latest fundamental advances in the state of the art and practice of Social Computing & Networking and its broadly related areas. 
+     
+Scope and Topics
+
+Topics of particular interest include, but are not limited to:
+¡¤   Fundamentals of social computing
+¡¤   Modelling of social behaviour
+¡¤   Social network analysis and mining
+¡¤   Big social media data
+¡¤   Social media infrastructure and cloud computing
+¡¤   Computational models of social simulation
+¡¤   Web 2.0 and semantic web
+¡¤   Innovative HCI and touch-screen models
+¡¤   Modelling of social conventions and social contexts
+¡¤   Social cognition and social intelligence
+¡¤   Social media analytics and intelligence
+¡¤   Group formation and evolution
+¡¤   Security, privacy, trust, risk and cryptography in social contexts
+¡¤   Social system design and architectures
+¡¤   Information retrieval, data mining, artificial intelligence and agent-based technology
+¡¤   Group interaction, collaboration, representation and profiling
+¡¤   Handheld/mobile social computing
+¡¤   Service science and service oriented interaction design
+¡¤   Cultural patterns and representation
+¡¤   Emotional intelligence, opinion representation, influence process
+¡¤   Mobile commerce, handheld commerce and e-markets
+¡¤   Connected e-health in social networks
+¡¤   Social policy and government management
+¡¤   Social blog, micro-blog, public blog, internet forum
+¡¤   Business social software systems
+¡¤   Impact on peoples activities in complex and dynamic environments
+¡¤   Collaborative filtering, mining and prediction
+¡¤   Social computing applications and case studies
+       
+Submission Guidelines
+Submissions must include an abstract, keywords, the e-mail address of the corresponding author and should not exceed 8 pages for main conference, including tables and figures in IEEE CS format. The template files for LATEX or WORD can be downloaded here. All paper submissions must represent original and unpublished work. Each submission will be peer reviewed by at least three program committee members. Submission of a paper should be regarded as an undertaking that, should the paper be accepted, at least one of the authors will register for the conference and present the work. Submit your paper(s) in PDF file at the submission site: http://www.swinflow.org/confs/2018/socialcom/submission.htm. 
+    
+Publications
+Accepted and presented papers will be included into the IEEE
+Conference Proceedings published by IEEE CS Press. Authors of accepted
+papers, or at least one of them, are requested to register and present
+their work at the conference, otherwise their papers may be removed from
+the digital libraries of IEEE CS and EI after the conference.
+
+Distinguished papers will be selected for special issues in Information
+Sciences, Future Generation Computer Systems, Journal of Parallel and
+Distributed Computing, Concurrency and Computation: Practice and Experience.
+    
+General Chairs
+Jiming Liu, Hong Kong Baptist University, China
+Jian Yang, Macquarie University, Australia
+        
+Program Chairs
+Wookey Lee, Inha University, Korea
+Simon Caton, National College of Ireland, Ireland
+Yan Wang, Macquarie University, Australia

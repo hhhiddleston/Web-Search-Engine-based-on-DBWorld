@@ -1,0 +1,30 @@
+*** Fourth Annual Industrial Control System Security (ICSS) Workshop ***
+
+The fourth annual Industrial Control System Security Workshop (ICSS) will be held in San Juan, Puerto Rico, Tuesday, December 4, 2018, in conjunction with the Annual Computer Security Applications Conference (ACSAC). ACSAC will be held at the Condado Plaza Hilton, San Juan, Puerto Rico.
+
+Supervisory control and data acquisition (SCADA) and industrial control systems monitor and control a wide range of industrial and infrastructure processes such as water treatment, power generation and transmission, oil and gas refining and steel manufacturing. Such systems are usually built using a variety of commodity computer and networking components and are becoming increasingly interconnected with corporate and other Internet-visible networks.  As a result, they face significant threats from internal and external actors. For example, in 2010 the Stuxnet malware was specifically written to attack SCADA systems and caused millions of dollars in damages.
+
+The critical requirement for high availability in SCADA and industrial control systems, along with the use of resource-constrained computing devices, legacy operating systems, and proprietary software applications limits the applicability of traditional information security solutions. The goal of this workshop is to explore new offensive and defensive techniques that are applicable in the control systems context. Papers of interest including (but not limited to) the following subject categories are solicited: 
+• Intrusion detection and prevention 
+• Malware 
+• Vulnerability analysis and risk management
+• Digital forensics
+• Virtualization
+• Application security 
+• Performance evaluation of security methods and tools in control systems
+• Cybersecurity Education
+
+Submissions should be 5-8 pages, using the double-column ACM proceedings format, using the new ACM 2017 acmart template available at http://www.acm.org/sigs/publications/proceedings-templates, using the [sigconf, anonymous] options. Submissions should not use older ACM templates (e.g., sig-alternate). If you encounter any problems with the acmart template, please contact acmtexsupport@aptaracorp.com. You can also report problems with the template to https://github.com/borisveytsman/acmart/issues so that they are reviewed by SIG volunteers.
+
+All submissions must be anonymous. Submission website is at https://easychair.org/conferences/?conf=icss20180.
+The accepted workshop papers will be published by ACM. The slides will be published on the ACSAC website. 
+
+
+** Important Dates **
+
+•  Submission Deadline: Sept 10, 2018 
+•  Acceptance Notification: October 29, 2018
+•  Final Manuscript due: November 9, 2018
+•  Workshop Date: December 4, 2018
+
+Further details about the workshop can be found at the workshop website: https://www.acsac.org/2018/workshops/icss/

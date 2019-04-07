@@ -1,0 +1,91 @@
+Final Call for papers:
+       
+The 16th IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA 2018), 11-13 Dec. 2018, Melbourne, Australia.
+         
+Website: http://www.swinflow.org/confs/2018/ispa/
+        
+Key dates:
+Submission Deadline: August 31, 2018 (11:59pm UTC/GMT, firm) 
+Notification: September 30, 2018
+Final Manuscript Due: October 15, 2018
+         
+Submission site: http://www.swinflow.org/confs/2018/ispa/submission.htm
+        
+Publication:
+Proceedings will be published by IEEE CS Press.
+         
+Special issues:
+Distinguished papers will be selected for special issues in Information Sciences, Future Generation Computer Systems, Journal of Parallel and Distributed Computing, Concurrency and Computation: Practice and Experience
+      
+===========
+Introduction
+     
+The IEEE ISPA 2018 (16th IEEE International Symposium on Parallel and Distributed Processing with Applications) is a forum for presenting leading work on parallel and distributed computing and networking, including architecture, compilers, runtime systems, applications, reliability, security, parallel programming models and much more. During the symposium, scientists and engineers in both academia and industry are invited to present their work on concurrent and parallel systems (multicore, multithreaded, heterogeneous, clustered systems, distributed systems, grids, clouds, and large scale machines). 
+
+The 16th IEEE ISPA follows the tradition of previous successful IEEE ISPA conferences in the years from 2003 to 2017 in Asia, Europe, Australia and North America. It will feature sessions of regular presentations, workshops, tutorials and keynote speeches. IEEE ISPA 2018 is sponsored by the IEEE Technical Committee on Scalable Computing (TCSC) and the IEEE Computer Society. IEEE ISPA is particularly interested in research addressing heterogeneous computing with the use of accelerators, mobile computing, approximate computing, tools and methodologies to improve the quality of parallel programming and applying generic computing approaches to networks, in particular Software Defined networking and its applications. 
+   
+Scope and Topics
+(1) Systems and Architectures Track
+
+     - Cloud computing and data center technology
+     - Migration of computations
+     - Multi-clouds environments, cloud federation, interoperability
+     - Energy management and Green Computing
+     - Wireless and mobile networks
+     - Internet-Of-Things (IoT)
+     - Social Networks, crowdsourcing, and P2P systems
+               
+(2) Technologies and Tools Track
+
+      - Building block processors: FPGA, multicore, GPU, NoC, SoC
+      - Parallel and distributed algorithms
+      - Tools/environments for parallel/distributed software development
+      - Novel parallel programming paradigms
+      - Programming models for cloud services and applications
+      - Code generation and optimization
+      - Compilers for parallel computers
+      - Middleware and tools
+      - Scheduling and resource management
+      - Performance simulations, measurement, and evaluations
+      - Reliability, fault tolerance, dependability, and security
+ 
+
+(3) Applications Track
+
+     - High-performance scientific and engineering computing
+     - Grid and cluster computing
+     - Pervasive and ubiquitous computing
+     - Databases, data mining, and data management
+     - Big data and business analytics
+     - Scientific cloud systems and services
+     - Internet computing and web services
+     - Application scenarios of IoT and ubiquitous computing
+     - Experience with computational, workflow and data-intensive applications
+     - Software Defined Networks and its applications
+
+       
+Submission Guidelines
+Submissions must include an abstract, keywords, the e-mail address of the corresponding author and should not exceed 8 pages for main conference, including tables and figures in IEEE CS format. The template files for LATEX or WORD can be downloaded here. All paper submissions must represent original and unpublished work. Each submission will be peer reviewed by at least three program committee members. Submission of a paper should be regarded as an undertaking that, should the paper be accepted, at least one of the authors will register for the conference and present the work. Submit your paper(s) in PDF file at the submission site: http://www.swinflow.org/confs/2018/ispa/submission.htm. 
+      
+Publications
+Accepted and presented papers will be included into the IEEE Conference Proceedings published by IEEE CS Press. Authors of accepted papers, or at least one of them, are requested to register and present their work at the conference, otherwise their papers may be removed from the digital libraries of IEEE CS and EI after the conference.
+         
+Distinguished papers will be selected for special issues in Information Sciences, Future Generation Computer Systems, Journal of Parallel and Distributed Computing, Concurrency and Computation: Practice and Experience.
+       
+Honorary Chairs
+Wanlei Zhou, Deakin University, Australia
+Albert Zomaya, The University of Sydney, Australia
+   
+General Chairs
+Geoffrey Fox, Indiana University, USA
+Beniamino Di Martino, Universita' della Campania "Luigi Vanvitelli", Italy
+Laurence Yang, St. Francis Xavier University, Canada
+    
+Program Chairs
+Mianxiong Dong, Muroran Institute of Technology, Japan
+Rajiv Ranjan, Newcastle University, UK
+Massimo Cafaro, University of Salento, Lecce, Italy
+    
+Workshop Chairs
+Young Choon Lee, Macquarie University, Australia
+Wei Zheng, Xiamen University, China

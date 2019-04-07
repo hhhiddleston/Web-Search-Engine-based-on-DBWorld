@@ -1,0 +1,189 @@
+(Our apologies if you receive multiple copies of this message)
+
+** Please forward to anyone who might be interested **
+
+** FINAL EXTENSION TO ABSTRACT + PAPER SUBMISSION DEADLINE: 25 JULY 2018 **
+
+------------------------------------------------------------------------------------------------------------------------------- 
+17th IEEE International Symposium on Network Computing and Applications (NCA 2018)
+
+Sponsored by the IEEE Computer Society - Technical Committee on Distributed Processing
+
+This CFP is also available at: http://www.ieee-nca.org/2018/index.php?p=20_Call_for_Papers.md
+
+Cambridge/Boston, MA, USA  --  1-3 November 2018
+------------------------------------------------------------------------------------------------------------------------------- 
+
+*CALL FOR PAPERS*
+
+NCA is a successful series of conferences that serves as a large international forum for presenting and sharing recent research
+results and technological developments in the fields of Network and Cloud Computing. NCA, which is sponsored by the IEEE Computer
+Society, reaches out to both researchers and practitioners, and to both academia and industry. The conference features keynotes,
+technical presentations, and workshops.
+
+The IEEE International Symposium on Network Computing and Applications (NCA) is seeking articles concerning fundamental research
+and practical experience reports. 
+
+The topics of interest include, but are not limited to:
+- Theory of Network Computing
+- Autonomic Network Computing
+- Content Delivery Network (CDN)
+- High Speed Networks/Protocols and Middleware
+- Routing Mechanisms
+- Overlay Networks/Peer-to-Peer Systems
+- System Area Networks (SAN)/Clusters
+- Performance Modeling/Quality of Services (QoS) Issues
+- Web Caching and Switching
+- Dependable Wide, Local, and System Area Networks
+- Network Security
+- Intrusion-Tolerant Networked Systems
+- Scalable and Dependable Servers and Data Centers
+- Middleware for Dependable Network Computing
+- Self* (Configuring, Healing, Optimizing, Protecting, Organizing, Aware)
+- Platforms for Network Computing
+- Network Protocols: Verification and Validation
+- Autonomic Network Computing for Achieving Self* Properties and Applications Availability
+- Seamless and Virtual Capabilities for Implementing Self* Properties 
+- Software Defined Networking (SDN): Principles and Implementation
+- Designing Highly-Available and Secure SDN
+- Network Functions Virtualization (NFV): Design and Optimization 
+- Network Cloud Computing
+- Machine Learning Techniques for Cloud Resources Management 
+- Big Data in Clouds for IoT
+- Future Internet and Communicating Objects 
+- Mobile Ad-Hoc Networks (MANET)
+- Sensor Networks
+- Fog/Edge Computing 
+- Energy-Efficient Computation and Communication
+- Applications to Real and/or Complex Problems, Practical Experiences and Prototypes
+- Programming Environments for Distributed Systems
+- Blockchain
+- Byzantine Fault Tolerance
+- Web and Mobile Security
+
+
+*IMPORTANT DATES*
+
+- NEW Title and Abstract Due: *25 July 2018* (firm)
+- NEW Manuscript Due:         *25 July 2018* (firm)
+- Author Notification:     15 September 2018
+- Camera Ready Papers:     1 October 2018
+- Authors Registration:    1 October 2018
+- Conference Dates:        1-3 November 2018
+
+
+*MANUSCRIPT SUBMISSIONS*
+
+Submission and Submission Requirements:
+
+Paper submissions are managed through EasyChair. Please visit the submission link to send your manuscript: 
+http://easychair.org/conferences/?conf=nca2018
+
+Submitted manuscripts must not have been previously published or currently submitted for publication elsewhere and must be
+cleared for publication in the NCA Proceedings, which will be published by the IEEE Computer Society Press. The manuscript
+must be written in English, and must not exceed 8 pages for NCA papers or 4 pages for workshop papers. The submission must
+be in PDF format. Instructions for submitting the manuscript are available at www.ieee-nca.org.
+
+
+Manuscript page limit:
+
+Regular Papers: 8 pages, including all figures, tables, and references.
+Short Papers: 4 pages, including all figures, tables, and references.
+
+
+Purchasing extra pages:
+
+Regular Papers: Up to 2 extra pages may be purchased at $100 (US dollars) per extra page.
+Short Papers: Up to 1 extra page may be purchased at $100 (US dollars).
+
+Authors can decide to submit papers longer than 8/4 pages (up to 10 and 5, depending on the category) before the reviewing
+process. This is an indication of their will to purchase extra pages during the registration process. Therefore, longer 
+papers cannot be shrunk when preparing camera ready versions, in case of acceptance. This is to respect the work made by
+reviewers and other authors who decided to stay in the limits.
+
+
+*ACCEPTED PAPERS AND PUBLICATION POLICIES*
+
+Every regular paper accepted must have attached to it at least one registration at the full (member or non-member) rate. Thus,
+for a manuscript for which all authors are students, one student author will be required to register at the full registration
+rate. For manuscripts where at least one author is already registered at the full rate, this fulfills the obligation for up to
+two (2) papers.
+
+No-show papers are defined as papers submitted by authors who subsequently did not present the paper in-person (no videos, no
+remote cast will be allowed) at the technical meeting. Presentations by proxies are not allowed, unless explicitly approved 
+*before* the conference by the technical co-chairs. No-show papers that were not withdrawn and were published in the Proceedings
+must be identified as "No-Show" in the files submitted to IEEE for further publication (IEEE Xplore). No-shows will not be 
+available on IEEE Xplore or other public access IEEE forums. IEEE will maintain an archive of no-shows.
+
+Exceptions to this policy will be made by the Technical Program Chair of the conference only if there is evidence that the 
+no-show occurred because of unanticipated events beyond the control of the authors, and every option available to the authors to 
+present the paper was exhausted.
+
+The IEEE strongly discourages changes and, in particular, withdrawals of papers once submitted and included in the program. To
+avoid the likelihood of this, the author is strongly encouraged to get all necessary company and/or government approvals prior
+to submitting his/her paper to the conference.
+
+If under any circumstances it becomes necessary for the author to withdraw or change a paper, IEEE policy dictates that the 
+request to do this must come directly from the author and not from any third party. IEEE policy also states that in this case,
+the author will be held liable for all costs that are incurred. It would then be up to the author to get reimbursed for the 
+expense from any third party if he/she feels it is justified. The IEEE cannot act as a policing entity on behalf of the author in
+this regard.
+
+
+*BEST PAPER AWARDS*
+
+The IEEE NCA2018 Program Committee will select Best Paper and Best Student Paper. The first author of the Best Student Paper must
+be a PhD student. Authors of high-quality papers that have been accepted to the main conference, will be invited to submit an 
+extended version of their work to a special issue organized in an IEEE Journal.
+
+
+*ORGANIZATION*
+
+Steering Committee Chair: Dimiter R. Avresky, IRIANC - Boston, USA / Munich, Germany
+Program Chair: Aris Gkoulalas-Divanis, IBM Watson Health - Boston, USA
+Program Co-Chair: Miguel Correia, INESC-ID / IST, Lisboa, Portugal
+Program Co-Chair: Mirco Marchetti, University of Modena, Italy
+General Chair: Aris Gkoulalas-Divanis, IBM Watson Health - Boston, USA
+Financial Chair: Mirco Marchetti, University of Modena, Italy
+
+
+Technical Program Committee
+- E. Anceaume, IRISA/CNRS, France
+- M. Andreolini, University of Modena, Italy
+- L. Arantes, Lip 6, Paris, France
+- F. Araujo, U. Coimbra, Portugal
+- Y. Busnel, IMT, Rennes, France
+- P. Carpenter, Barcelona Supercomputing Center, Spain
+- A. Ceccarelli, University of Florence, Italy
+- B. Ciciani, University of Roma, Italy
+- M. Colajanni, University of Modena, Italy
+- S. Dolev, BGU, Israel
+- S. Duan, University of Maryland, USA
+- S. Frechette, Northeastern University, USA
+- A. Goldman, University of Sao Paulo, Brazil
+- H. Hellwagner, University of Klagenfurt, Austria
+- D. B. Hoang, University of Technology, Sydney, Australia
+- P. Inacio, Universidade da Beira Interior, Portugal
+- Z. Kalbarczyk, UIUC, USA
+- S. Khan, National Science Foundation & North Dakota State University, USA
+- N. Koziris, NTUA, Athens, Greece
+- R. Lancellotti, University of Modena and Reggio Emilia, Italy
+- T. Loukopoulos, University of Thessaly, Greece
+- R. Ludinard, ENSAI, France
+- T. Madsen, Aalborg University, Denmark
+- E. Maehle, University of Luebeck, Germany
+- P. Massonet, CETIC, Brussels, Belgium
+- Y. Nan, The University of Sydney, Australia
+- R. Olsen, Aalborg University, Denmark
+- R. Palmieri, Virginia Tech. USA
+- M. Pardal, INESC-ID / IST, Portugal
+- F. Quaglia, University of Roma, Italy
+- H. Schwefel, Aalborg University, Denmark
+- P. Sens, Lip 6, Paris, France
+- P. Solis, University of Brasilia, Brazil
+- V. Sourlas, University College London, UK
+- D. Syrivelis, IBM Research, Ireland
+- N. Tziritas, Shenzhen Institutes of Advanced Technology, China
+- M. Vouk, NC State University, USA
+- C. Xu, Wayne State University, USA
+- A. Y. Zomaya, The University of Sydney, Australia

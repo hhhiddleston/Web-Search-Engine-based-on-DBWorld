@@ -1,0 +1,48 @@
+PhD Position in Computer Science - Ulm University/BMW Car IT GmbH
+
+Flexible end-to-end protocol for car-2-backend communication (m/f)
+Institute of Databases and Information Systems (DBIS)
+
+About the position:
+The position is a joint project with BMW Car IT GmbH. The position shall start September 2018
+and is funded for 3 years. It is a full-time position. Hiring is done by BMW Car IT GmbH.
+
+Responsibilities:
+    1. Active participation in BMW Car IT GmbH projects
+    2. Active participation in DBIS student projects
+
+Requirements:
+    1. Master's degree in Computer Science, but not yet a doctoral degree
+    2. Preferably, skills and experiences in Service-oriented Computing.
+    3. Preferably, skills in software application engineering
+    4. Preferably, experiences with middleware systems
+    5. Preferably, strong interest in the automotive domain
+    6. Preferably, skills and experiences in statistical analyses
+    7. Basic experience in clear writing of scientific reports and articles
+    8. Ability and willingness to work as a team player
+    9. Very good skills in English in speech and writing
+
+We offer:
+    1. A diverse and attractive environment for interdisciplinary research training with close
+       industrial connections.
+    2. High-quality education within the Institute of Databases and Information Systems
+    4. Excellent opportunities for cooperation with a team of automotive experts and computer scientists
+    5. Excellent supervision on your research project at multiple levels
+
+Application:
+Ulm University and BMW Car IT GmbH are committed to increase the share of women in research and teaching positions and therefore explicitly encourage
+female candidates to apply. Preference will be given to disabled
+applicants with equal qualifications. Please indicate disablement.
+Apply by August 31th, 2018 to Dr. Rüdiger Pryss, Ulm University,
+89081 Ulm, Germany – ruediger.pryss@uni-ulm.de
+Please submit a PDF, including cover letter, CV, and certificates.
+
+Further Information:
+http://www.bmw-carit.de/opportunities/StudentJobs/PhD_Car_2_Backend_Communication_Protocol.pdf
+or by contacting:
+Rüdiger Pryss – ruediger.pryss@uni-ulm.de
+
+Looking forward receiving your application,
+Rüdiger Pryss
+Institute of Databases and Information Systems, Ulm University
+http://www.dbis.info 

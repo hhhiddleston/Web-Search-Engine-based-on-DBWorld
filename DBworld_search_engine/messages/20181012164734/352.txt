@@ -1,0 +1,5 @@
+Amazon has opened a call for proposals for the 2018 round ofÊAmazon Research Awards (ARA)Êin a number of areas, including knowledge management and data quality, natural language processing, search and more. 
+
+The program is open to permanent faculty members at academic institutions worldwide and awards up to 80,000 USD in cash and 20,000 USD in AWS promotional credits. ARA aims to fund projects leading to a PhD degree or conducted as a part of post-doctoral work. Check theÊCall for ProposalsÊpage (https://ara.amazon-ml.com) for a list of focus areas supported this year. Proposal submissions are due September 15, 2018.
+
+For ARA call for proposal details and to apply, visitÊhttps://ara.amazon-ml.com/proposals/#apply

@@ -1,0 +1,45 @@
+[apologies for cross-postings, please distribute]
+
+****************************************************************************************
+
+CALL FOR PAPERS
+
+1st International Workshop on Multimedia analysis for Architecture, Design and Virtual Reality games (MADVR 2018)
+MADVR 2018 web page: http://mklab.iti.gr/madvr2018/
+
+In Conjunction with the IEEE International Symposium on Mixed and Augmented Reality (ISMAR) 2018 (https://ismar2018.org/)
+Munich, Germany, October 16-20, 2018
+
+****************************************************************************************
+
+Architecture, Design and Virtual Reality game creation companies are in great need of acquiring, reusing and repurposing visual and textual data to recreate, renovate or produce a novel target space, building or element. This come in align with the abrupt increase that lately is observed in the use of immersive VR environments and the great technological advance that can be found in the acquisition and manipulation of digital models. 
+The 2018 Multimedia analysis for Architecture, Design and Virtual Reality games (MADVR) workshop is the 1st of a series of unique meetings which plan to bring together creative industries, researchers and technicians who use VR technologies so as to open a new dialogue between them and create a novel ground, where user demands could be used in order to create scientific and technological tools based on realistic and meaningful needs. This endeavor will deploy a fruitful ground, not only helpful for architecture and video game creation purposes but also very meaningful for companies who want to enhance the whole VR experience. Research topics of interest for this workshop include, but are not limited to:
+
+- VR applications for game industry, architecture & cultural heritage
+- Video/ image analysis for design & game authoring applications
+- VR and 3D Game authoring tools 
+- Multimedia analysis for game authoring
+- 3D reconstruction for creative industry or social applications 
+- Multilingual content generation for 3D content
+- Multilingual summarisation for VR authoring applications
+- VR serious games
+- Multimedia content integration for VR environment generation
+- Interactive applications for creative industries
+- Techniques for data acquisition that will be used for the construction of 3D models
+- Data crawling techniques for acquiring data useful for the augmentation of 3D/VR models
+- Architecture and VR applications
+
+
+Important dates:
+- Deadline for paper submission:  July 30, 2018
+- Notification of acceptance:  August 14, 2018
+- Camera Ready Paper and Registration: September 4, 2018
+- Date of the workshop: October 16, 2018 
+
+Workshop Chairs:
+- Konstantinos Avgerinakis (CERTH-ITI),
+- Francesco Bellotti (DITEN, University of Genoa),
+- Maarten Vergauwen (KU Leuven), 
+- Leo Wanner (UPF-ICREA),
+- Stefanos Vrochidis (CERTH-ITI)
+_______________________________________________

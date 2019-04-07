@@ -1,0 +1,130 @@
+*** SIMPDA 2018 ***
+
+[Apologies if you receive multiple copies of this CFP]
+################################################################################
+# SIMPDA 2018
+## SEVENTH INTERNATIONAL SYMPOSIUM ON DATA-DRIVEN PROCESS DISCOVERY AND ANALYSIS
+### 12-14 DECEMBER, 2018 - SEVILLE, SPAIN
+### http://simpda2018.di.unimi.it
+################################################################################
+
+### About SIMPDA
+The increasing automation of business processes and the growing amounts of process data become available opens new research opportunities for business process data analysis, mining, and modeling.Â The aim of the IFIP 2.6 International Symposium on Data-Driven Process Discovery and Analysis is to offer a forum where researchers from different communities and the industry can share their insight in this hot new field.
+The Symposium will feature a number of keynotes illustrating advanced approaches, shorter presentations on recent research, a competitive Ph.D. seminar and selected research and industrial demonstrations. This year the symposium will be held in Seville.
+
+### Call for Papers
+The IFIP International Symposium on Data-Driven Process Discovery and Analysis (SIMPDA 2018) offers a unique opportunity to present new approaches and research results to researchers and practitioners working in business process data modelling, representation, and privacy-aware analysis.
+The symposium will bring together leading researchers, engineers, and scientists from around the world. Full papers must not exceed 15 pages. Short papers are limited to at most 4 pages. All papers must be original contributions, not previously published or under review for publication elsewhere. All contributions must be written in English and must follow the LNCS Springer Verlag format. Templates can be downloaded from http://www.springer.de/comp/lncs/authors.html
+Accepted papers will be published in a pre-proceeding volume of CEUR workshop series. The authors of the accepted papers will be invited to submit extended articles to a post-symposium proceedings volume which will be published in the LNBIP series (Lecture Notes in Business Information Processing,Â http://www.springer.com/series/7911), scheduled for late 2018 (extended papers length will be between 7000 and 9000 words). Around 10-15 papers will be selected for publication after a second round of review.
+
+### Topics
+Topics of interest for submission include, but are not limited to:
+
+* Business process modeling languages, notations, and methods
+* Lightweight process model
+* Data-aware and data-centric approaches
+* Big Data process representation and management
+* Process mining with Big Data
+* Variability and configuration of process models
+* Process simulation and static analyses
+* Process data query languages
+* Process data mining
+* Process data visualization and reporting
+* Privacy-aware process data mining
+* Process metadata and semantic reasoning
+* Process patterns and standards
+* Foundations of business process models
+* Resource management in business process execution
+* Process tracing and monitoring
+* Process change management and evolution
+* Business process lifecycle
+* Case studies and experience 
+* Social process discovery
+* Crowdsourced process definition and discovery
+
+### Workshop Format:
+In accordance to our historical tradition of proposing SIMPDA as a symposium, we propose an innovative format for this workshop:
+The number of sessions depend on the number of submissions but, considering the previous editions, we envisage to have four sessions, with 4-5 related papers assigned to each session. A special session (with a specific review process) will be dedicated to discuss research plan from Ph.D. students.
+Papers are pre-circulated to the authors that will be expected to read all papers in advance but to avoid exceptional overhead, two are assigned to be prepared with particular care,  making ready comments and suggestions. 
+The bulk of the time during each session will be dedicated to open conversations about all of the papers in a given session, along with any linkages to the papers and discussions within an earlier session. 
+The closing session (30 minutes), will include a panel about open challenges during which every participant will be asked to assemble their thoughts/project ideas/goals/etcâ€¦ that they got out of the workshop.
+
+### Call for Ph.D. Research Plans
+The SIMPDA Ph.D. Seminar is a workshop for Ph.D. students from all over the world. The goal of the Seminar is to help students with their thesis and research plans by providing feedback and general advice on how to use their research results.
+Students interested in participating in the Seminar should submit an extended abstract describing their research. Submissions can relate to any aspect of Process Data: technical advances, usage and impact studies, policy analyses, social and institutional implications, theoretical contributions, interaction and design advances, innovative applications, and social implications.
+
+Research plans should be at most of 5 page long and should be organised following the following structure: 
+
+* Abstract: summarises, in 5 line, the research aims and significance.
+* Research Question: defines what will be accomplished by eliciting the relevant the research questions.
+* Background: defines the background knowledge providing the 5 most relevant references (papers or books).
+* Significance: explains the relevance of the general topic and of the specific contribution.
+* Research design and methods: describes and motivates the method adopted focusing on: assumptions, solutions, data sources, validation of results, limitations of the approach.
+* Research stage: describes what the student has done so far.
+
+### SIMPDA Ph.D. award
+A doctoral award will be given by the SIMPDA Ph.D. Jury to the best research plan submitted.
+Student Scholarships
+An application for a limited number of scholarships aimed at students coming from emerging countries has been submitted to IFIP.
+In order to apply, please contact paolo.ceravolo@unimi.it
+
+### CALL for Demonstrations and Posters
+Demonstrations showcase innovative technology and applications, allowing for sharing research work directly with colleagues in a high-visibility setting. Demonstration proposals should consist of a title, an extended abstract, and contact information for the authors, and should not exceed 10 pages.
+Posters allow the presentation of late-breaking results in an informal, interactive manner. Poster proposals should consist of a title, an extended abstract, contact information for the authors, and should not exceed 2 pages.
+Accepted demonstrations and posters will be presented at the symposium. Abstracts will appear in the proceedings.
+
+### Important Dates
+- Paper Submission: 4 October 2018
+- Submission of Ph.D. Presentations: 4 October 2018
+- Notification of Acceptance: 19 November 2018
+- Submission of Camera Ready Papers:    28 November 2018
+- Second International Symposium on Process Data: 12-14 December 2018
+- Post-proceeding submissions:    30 March 2019
+
+## Keynote Speakers
+### Josep Carmona, Department of Computer Science, Universitat PolitÃ¨cnica de Catalunya
+#### Relating Event Data and Process Models: the Advent of Conformance Checking
+
+## Organizers
+### CHAIRS 
+* Paolo Ceravolo, UniversitÃ  degli Studi di Milano, Italy
+* Maurice van Keulen, University of Twente, The Netherlands
+* Maria Teresa Gomez Lopez, University of Seville, Spain
+
+### ADVISORY BOARD 
+- Ernesto Damiani, UniversitÃ  degli Studi di Milano, Italy
+- Erich Neuhold, University of Vienna, Austria
+- Philippe CudrÃ©-Mauroux , University of Fribourg, Switzerland
+- Robert Meersman, Graz University of Technology, Austria
+- Wilfried Grossmann, University of Vienna, Austria
+
+### Program Committee
+- Alexandra Mazak - University of Vienna, Austria
+- Robert Singer - FH JOANNEUM, Austria
+- Manfred Reichert - University of Ulm, Germany
+- Schahram Dustdar - Vienna University of Technology, Austria
+- Helen Balinsky - Hewlett-Packard Laboratories, UK
+- Valentina Emilia Balas - University of  Arad, Romania
+- Antonio Mana Gomez - Universidad de Malaga, Spain
+- Karima Boudaoud - Ecole Polytechnique de Nice Sophia Antipolis, France
+- Jan Mendling - Vienna University of Economics and Business, Austria
+- Peter Spyns - Flemish Government, Belgium
+- Mohamed Mosbah - University of Bordeaux
+- Chintan Mrit - University of Twente, The Netherlands
+- Fabrizio Maria Maggi - University of Tartu, Estonia
+- Pnina Soffer - University of Haifa, Israel
+- Matthias Weidlich - Imperial College, UK
+- Roland Rieke - Fraunhofer SIT, Germany
+- Edgar Weippl - TU Vienna, Austria
+- Benoit Depaire - University of Hasselt, Belgium
+- Angel Jesus - Varela University of Seville, Spain
+- Luisa Parody - University Loyola Andalucia, Spain
+- Antonia Azzini - Consorzio C2T, Italy
+- Jorge Cardoso - University of Coimbra, Spain
+- Carlos Fernandez-Llatas - Universitat Politecnica de Valencia, Spain
+- Chiara Di Francescomarino - Fondazione Bruno Kessler, Italy
+- Faiza Bukhsh - University of Twente, The Netherlands
+- Mirjana PejiÆ’Ã¡ Bach - University of Zagreb, Croatia 
+- Tamara Quaranta - 40Labs, Italy
+- Anna Wilbik - Eindhoven University of Technology, The Netherlands
+- Yingqian Zhang - Eindhoven University of Technology, The Netherlands

@@ -1,0 +1,295 @@
+Dear Colleagues and Contributors,
+
+we are very happy to welcome new contributions for the next
+INFOCOMP events, coming to NICE, France, in 2019!
+
+Please consider to contribute to The Ninth International Conference on
+Advanced Communications and Computation (INFOCOMP 2019) and events
+and/or forward to your colleagues and to the appropriate groups.
+
+  http://www.user.uni-hannover.de/cpr/x/rwerkr/en/#2019INFOCOMP
+
+Thank you so much for the excellent contributions from scientific and
+applied disciplines and for the active support from all participants,
+speakers, panelists, independent peer reviewers, from the chairs,
+committees, and moderators, from the editorial supporters and
+other volunteers, over the past years! Your contributions and active
+support have made the INFOCOMP conferences a successful and most
+lively event series with highest quality standards and publications!
+
+INFOCOMP 2019 continues a successful series of events
+dedicated to advanced communications and computing aspects, covering academic
+and industrial achievements and visions. We solicit both academic, research,
+and industrial contributions. We welcome technical papers presenting research
+and practical results, position papers addressing the pros and cons of specific
+proposals, such as those being discussed in the standard fora or in industry
+consortia, survey papers addressing the key problems and solutions on any of
+the above topics short papers on work in progress, and panel proposals. Tracks
+feature trends and advances, application scenarios, state of the art, and
+outreach developments of advanced scientific computing, supercomputing, HPC,
+and communication from present to future architectures, integrated systems,
+beyond cloud, and reaching exaflop: large scale and fast computation,
+networks/systems communications, measurement, control and management, advanced
+applications from geosciences, scientific data processing, natural sciences,
+archaeology, planetology, spatial and environmental sciences, geoprocessing,
+integrated information and computing systems, intelligent systems, mobility,
+legal informatics, database applications, as well as tracks on evaluation
+context, biometry, security, access technologies, algorithms, and applications.
+
+In 2019 INFOCOMP, again, also hosts MODOPT 2019,
+the Special Track on Modeling and Optimization.
+
+The conference aims on bringing together world's leading international experts,
+researchers, computational scientists, developers, system managers, users,
+doctoral students, and industry and business affiliates for sharing
+experiences, publishing and presenting new research results and discussing
+recent developments, challenges, and future advancements and collaboration in
+exciting keynotes, expert panels, workshops, special sessions, and tutorials.
+
+In this context, in addition to the Call for Papers
+please also note the chance for proposals on
+TUTORIALS, PANELS, SPECIAL SESSIONS, WORKSHOPS, AND SYMPOSIA.
+
+Wish you all the best with your research and beyond!
+
+Looking forward to your contributions and hopefully seeing you in Nice!
+
+Kind regards,
+Dr. Claus-Peter Rueckemann
+INFOCOMP General Chair and Chair of the Steering Committee
+
+
+
+INVITATION:
+
+==============
+Please consider to contribute to and/or forward to the appropriate groups the following opportunity
+to submit and publish original scientific results to:
+  *INFOCOMP 2019*, The Ninth International Conference on
+                   Advanced Communications and Computation,
+The submission deadline is *March 19, 2019*.
+Authors of selected papers will be invited to submit extended article versions for a journal.
+==============
+
+=== CALL FOR PAPERS, TUTORIALS, PANELS ===
+
+============= INFOCOMP 2019 | Call for Papers ==============
+
+             Call for Papers, Tutorials, Panels
+
+                     INFOCOMP 2019
+
+           THE NINTH INTERNATIONAL CONFERENCE ON
+          ADVANCED COMMUNICATIONS AND COMPUTATION
+
+          July 28 - August 1, 2019 - Nice, France
+
+============================================================
+
+For General Page, Call for Papers and topics, submission, committees,
+and program for INFOCOMP please see:
+
+  http://www.user.uni-hannover.de/cpr/x/rwerkr/en/#2019INFOCOMP
+
+Event schedule: July 28 - August 1, 2019 - Nice, France
+
+Contribution types:
+
+- Regular papers [in proceedings and digital library]
+- Short papers (work in progress) [in proceedings and digital library]
+- Ideas: Two pages [in the proceedings, digital library]
+- Extended abstracts: Two pages [in proceedings and digital library]
+- Posters: Two pages [in proceedings and digital library]
+- Posters:  Slide only [slide-decks will be posted]
+- Presentations: Slide only [slide-decks will be posted]
+- Demos: Two pages [will be posted]
+- Doctoral forum submissions: [in proceedings and digital library]
+
+
+Please consider to contribute to and/or forward to the appropriate
+groups the following opportunity to submit and publish original
+scientific results to INFOCOMP 2019.
+
+The paper submission deadline is March 19, 2019.
+
+ISSN: 2308-3484
+ISBN: 978-1-61208-732-0
+ISBN: 978-1-61208-093-2 (e-Proceedings)
+
+         
+Print proceedings will be available via Curran Associates, Inc.:
+http://www.proceedings.com/9769.html
+
+INFOCOMP 2019 proceedings will be submitted for indexing
+with ISI Thomson Reuters in WoS (Web of Science Core Collection).
+
+Articles and full proceedings will also be archived in the
+free access ThinkMind Digital Library ("Golden Open Access"):
+http://www.thinkmind.org
+
+INFOCOMP proceedings and publication data are also hosted as
+Open Access by various libraries (please see the conference
+page for detailed information).
+
+Authors of selected and presented papers will be invited
+to submit extended article versions to one of the
+associated Journals without additional costs.
+
+
+Call for Papers and Submission:
+-------------------------------
+
+The topics suggested by the conference can be discussed in term of concepts,
+state of the art, research, standards, implementations, running experiments,
+applications, and industrial case studies. Authors are invited to submit
+complete unpublished papers, which are not under review in any other conference
+or journal in the following, but not limited to, topic areas.
+
+All tracks are open to both research and industry contributions, in terms of
+Regular papers, Posters, Work in progress, Technical/marketing/business
+presentations, Demos, Tutorials, and Panels.
+
+
+INFOCOMP 2019 conference tracks:
+--------------------------------
+
+Trends and advances on architecture/methods
+
+Intensive computing and Big Data; Performance portability; Trading off locality
+and load balancing; Complex multi-physics models; Multiscale methods;Emerging
+programming models;Hybrid parallel programming; APGAS (Asynchronous Partitioned
+Global Address Space) programming model; Resiliency and elasticity approaches;
+Scalable petascale data-driven approach; Extreme scale technologies; Task
+characterization-driven scheduling; Data analytics and visualization; HPC in
+IoT (Internet of Things) systems; Observational data and simulations; Complex
+scientific data sets; Massively scalable task parallelism; Routing-aware tasks;
+Multi-tenant cloud workloads; Soft error resiliency
+
+Trends and advances on disciplines/applications
+
+Urban Simulations; Scalable cortical computing; Molecular dynamics
+supercomputing; Petascale biomolecular simulations; Data-centric parallel
+systems; Lithospheric dynamics; Graph computation; Genome-scale gene networks;
+Scale free graphs; Migratable objects; Quantum simulations; Metascalable
+quantum molecular dynamics simulations; Real-time data analytics; Uncertain
+execution scales; Sharing in IaaS clouds; Large-scale visualization;
+Distributed NoSQL data stores
+
+Large scale and fast computation
+
+Developments in information and computing systems; Grid computing; Cloud
+computing; Pervasive / ubiquitous computing; Services computing and
+Opportunistic computing; High Performance Computing (HPC); Fast data
+processing; Real-time processing; Fast switching and routing protocols;
+Parallelization of algorithms and applications; Energy-efficient High
+Performance Computing; Large scale data visualization; Tools for
+parallelization; High performance codes; Optimization; Innovative
+architectures; Distributed systems, dynamical systems; Future architectures,
+integrated systems, beyond cloud, reaching exaflop; Supercomputing
+architectures, operation, and management; Petascale, Exascale; Big data,
+dCache; HPC centers, data centers; Benchmarking; Green500, Graph500, Top500;
+Service provisioning; Green computing, cooling techniques
+
+Programming models
+
+Programming languages and parallel algorithms; Message Passing Interface (MPI),
+OpenMP; Massively Parallel Processing, Symmetric Multi-Processing; PGAS, GASPI,
+CAF (Co-array Fortran), UPC (Unified Parallel C); X10, Chapel, CUDA, OpenCL,
+OpenACC, OpenHMPP, Lime, OmpSs, OpenStream; Parallel Virtual Machine (PVM);
+Programming paradigms; Manycore, multicore; CPU, GPU, FPGA, accelerators; Chip
+design, architectures, and programming; Fault tolerance, troubleshooting,
+debugging; High end issues, latency, concurrency
+
+Networks/systems communications
+
+Cross-layer design and optimization; Cyber-physical systems and networks; Data
+centers, virtualization, and cloud networks; Delay/disruption tolerant
+networks; Future Internet broadband services; Software Defined Networks (SDN);
+Fast networks / InfiniBand architectures for future interactive multicore
+applications; Sensor networks and embedded systems; Ad hoc mobile networks;
+Access technologies; P2P networks; Optical networks; Cellular and broadband
+wireless networks; Mobility models and mobile networks; Multicast, broadcast
+and anycast; Multimedia protocols and networking; Software defined radio and
+cognitive radio networking; Content-based network service; Certification,
+public key infrastructures, data integrity; Privacy and anonymity
+
+Networks/systems measurement, control and management
+
+Networks/systems measurement, simulation and emulation; Network-, system-, and
+application-management; Congestion control and capacity planning; Dynamic
+spectrum management; Addressing and location management; Quality of Service
+(QoS) and Quality of Experience (QoE); Quality of Data (QoD) and Quality of
+Context (QoC); e-Commerce, accounting, pricing and billing; Highly parallel
+file systems, Lustre, GPFS; Interconnects, high speed ethernet; Use of
+distributed compute and storage resources; Energy-aware mechanisms for control
+and management; Configuration, reuse of software components; Resource
+allocation and management; Denial of service mitigation and prevention; System
+and data security; Communication visualization
+
+Turbulence modeling and simulation
+
+Fundamental turbulence; Complex flows; Turbulence modeling; Environmental
+turbulence; Simulation of solid-liquid systems; Heat/cooling transfer modeling;
+Transitional flows models;  Flows simulation; Particle simulations; Turbulent
+multi-phase flows; Oscillations; Stability and instability; Turbulent air-water
+flows;  Liquid/Liquid interface turbulence; Aeroacoustics
+
+Advanced applications
+
+Computation:
+Advanced applications, scientific, theoretical, methodological, practical, and
+technical contributions;  Advanced scientific computing; Simulation and
+modeling (scientific applications, engineering, industry); Mathematical and
+numerical algorithms and methods; Molecular dynamics simulation; Genetic
+algorithms;  Physics and chemistry applications; Multi-dimensional data
+visualization;  Search engines and scientific discovery;  Scientific data
+processing; Database applications and development; Knowledge discovery,
+documentation, and classification;  Data intensive computing, data science;
+Methodology and case studies regarding computing and communication scenarios;
+Small and Medium Enterprises (SME) applications;  Computer Aided Engineering
+(CAE) applications
+
+Systems:
+Computer science and geoinformatics; e-Energy, geosciences, prospection,
+exploration, oil and gas; Information and database systems; Mobility and
+logistic services; Geoscientific Information Systems (GIS); Remote sensing and
+satellite imaging; Cartography, hydrology;  Climatology and environmental
+sciences;  Medicine, genetics, epidemiology, medical geology; Online social
+networking;  Vehicular, underground and underwater networks and applications;
+Education, e-Learning, and e-Science; ICT business evaluation and management;
+Earth and planetary sciences; Archaeology, cultural heritage; Computation
+frameworks and tools; Mathematica, SAGE, Maple, Matlab, Scilab, Gromacs, ANSYS,
+Fluent, etc.)
+
+Legal context, economic use and re-use
+
+Legal informatics; Science, information technology, and copyright; Open access,
+license models, legal aspects of open source; Legal aspects of collaborative
+software development; Ownership and information technology; Digital rights;
+Patents; Toll access; Accounting; billing;  National and international legal
+regulations
+
+Evaluation context
+
+Energy-aware and energy-efficient networks; Implementation and experimental
+testbeds; Traffic measurement and traffic patterns; Characterization of
+topology dynamics; Access and biometric technologies, performance, and cost
+prediction; Web services and performance; Performance measurement and
+benchmarking; Energy-aware and energy-efficient High Performance Computing;
+Usability studies; Social and ethic consequences with biometry and data
+security; Standards, benchmarks, protocols
+
+Biometry, security, access technologies, algorithms, and applications
+
+Technologies and advances in biometric algorithms and interfaces (gait,
+electrocardiography, iris, image, fingerprint, palm veins, multi-modality);
+Biometric systems; Integration of biometrics with other technologies; Challenge
+response; Simplified enrollment; NFC support, spoofing, and countermeasures;
+Single sign on (SSO); Adaptive trust; Template protection (protection of
+reference data); Large and scalable biometric systems using cloud services;
+Deployed solutions and applications; Experience reports and systems;
+Description in physical and logical access control; information system access,
+immigration and border control, law enforcement, entertainment, finance, life
+science, healthcare, forensics); Distributed and mobile devices; Public Key
+Infrastructures; Digital Forensics; Quantum cryptography theory and application
+for commercial usage; topology of information (braid group approach) 

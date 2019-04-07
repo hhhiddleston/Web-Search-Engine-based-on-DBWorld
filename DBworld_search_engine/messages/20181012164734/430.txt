@@ -1,0 +1,107 @@
+INTERNATIONAL WORKSHOP ON CLOUDS AND (ESCIENCE)
+APPLICATIONS MANAGEMENT - CLOUDAM 2018
+In conjunction with the 11th IEEE/ACM Utility and Cloud Computing (UCC)
+
+Zurich, Switzerland,  December 17-20, 2018
+
+http://webdiis.unizar.es/~rafaelt/cloudam2018
+
+
+DESCRIPTION
+=============================================
+Cloud computing, virtualization and virtual (eScience) applications are currently hot topics and have been generating substantial interest in the community, and it is anticipated that this interest will expand. It is also important to the research community as it is challenging traditional methods by its sheer size and high level of automation. Clouds must provide appropriate levels of performance to large groups of diverse users, and those clouds are accessed through virtualized wide area networks. Management systems are essential for that and thereby for the future success of the cloud paradigm. New systems, methods, and approaches for cloud, virtualization and (eScience) applications management are to be discussed at this workshop.
+For the CloudAM 2018 workshop, researchers from Clouds and (eScience) Applications communities are encouraged to submit and present original work to be considered for publication. Overall topics of interest include but are not limited to: 
+* Cloud computing environments
+* Cloud service orchestration
+* Cloud APIs and usage control
+* Cloud data management
+* Cloud scalable monitoring
+* Cloud load balancing
+* Multi-cloud/Inter-clouds 
+* Customer cloud management
+* Managing data centers
+* Management as a service
+* Management of virtual slices
+* *aaS Management
+* Application and Management Portals
+* Cloud scheduling
+* Hybrid clouds
+* Fog computing
+* Cloud case studies
+* Cloud surveys and taxonomies
+* Social clouds 
+* Accounting and economic models for clouds
+* Managing cloud services
+* Management of virtualized hardware resources
+* Network-specific mechanisms for optimized cloud access
+* Performance modeling & evaluation
+* QoS/QoE management in the cloud
+* Management tools for infrastructure virtualization
+* Automated resource slicing 
+* Integration of the wireless and optical domains
+* Policy driven service/resource life-cycle management
+* Applications and services enabled by virtualized infrastructure
+* Optimization of data center and workload energy consumption
+* Green cloud computing
+* Scientific workflows on clouds
+* Mobile clouds
+* Big data / complex event processing in the cloud
+* Autonomic cloud computing
+* Cloud â€“ IoT/Smart Cities integration
+
+
+PAPER SUBMISSION
+=============================================
+The Clouds and Applications Management workshop invites authors to submit original and unpublished work. Papers should not exceed 6 pages IEEE style (single-spaced 2-column text using 10-point size type on A4 paper). Authors should submit a PostScript (level 2) or PDF file that will print on a PostScript printer:
+* Submission requires the willingness of at least one of the authors to register and present the paper.
+* All selected papers for this workshop are peer-reviewed and will be published in IEEE Xplore.
+* Selected (extended) papers should be invited to submit to a high-quality Journal special issue.
+To submit your paper, please access the easychair submission system at: EasyChair 
+
+DEADLINES
+=============================================
+Paper submission due: September 14, 2018 (hard deadline)
+Notification of acceptance: October 10, 2018
+Final camera-ready papers due: October 15, 2018 (hard deadline)
+Workshop date: 17-20 December 2018
+
+WORKSHOP CO-CHAIRS
+=============================================
+Bruno Schulze - LNCC, BR
+Luiz Bittencourt - UNICAMP, BR
+Rafael Tolosana-Calasanz - Unizar, ES
+
+PROGRAM COMMITTEE (To be determined)
+=============================================
+* Hoang Nguyen, University of Queensland, Australia
+* Nazim Agoulmine University of Evry Val d'Essone, France
+* Minh Ngoc Dinh, The University of Queensland, Australia
+* Rafael Ferreira Da Silva, USC, USA
+* Murphy SeÃ¡n, Zurich University of Applied Science (ZHAW), Switzerland
+* Andrey Brito, UFCG, Brazil
+* Craig Lee, The Aerospace Corporation, USA
+* Alan Davy, Waterford Institute of Technology, Ireland
+* Edmundo Madeira, University of Campinas, Brazil
+* Vojtech Cima, IT4Innovations, VSB â€“ Technical University of Ostrava, Czech Republic
+* HÃ©lio Guardia, Federal University of Sao Carlos, Brazil
+* Jose Angel BaÃ±ares, University of Zaragoza, Spain
+* Jose Luis VÃ¡zquez-Poletti Universidad Complutense de Madrid, Spain
+* Felix Freitag Universitat PolitÃ¨cnica de Catalunya, Spain
+* Ewa Deelman, USC, USA
+* Alan Sill, Texas Tech, USA 
+* Claudio Geyer, UFRGS, Brazil
+* Ioan Petri, Cardiff University, UK
+* Alexander Withers University of Illinois at Urbana-Champaign, USA
+* Wilson Higashino University of Western Ontario
+* Mariza Ferro, National Laboratory for Scientific Computing, Brazil
+* Jorge  Ãlvarez, Cardiff University, UK
+* Josef Spillner, Zurich University of Applied Sciences, Switzerland
+* Ivan Rodero, Rutgers University, USA
+* Manish Parashar, USA
+* Michael Bauer, University of Western Ontario, Canada
+* Marco Netto, IBM, Brazil
+* Omer  Rana, Cardiff University, UK
+* Agustin Caminero, Universidad Nacional de EducaciÃ³n a Distancia, Spain
+* Laurent Lefevre INRIA, France
+* Ashiq Anjum, Univ. of Derby, UK
+* ZoltÃ¡n Mann, Univ. Duisburg-Essen, Germany

@@ -1,0 +1,98 @@
+---------------------------------------------------------------------------
+        First International Workshop on Big Data Stream Processing
+(collocated with 2018 ACM/IFIP/USENIX International Middleware Conference)
+                   December 10-14th 2018 -- Rennes, France
+
+                    https://bigstream-workshop.github.io
+--------------------------------------------------------------------------
+
+
+
+-------------------
+CALL FOR PAPERS
+-------------------
+
+Recent years have witnessed unprecedented amounts of data being generated from
+different hardware or software in the form of streams of data. Examples of
+this phenomenon are crucial for several applications and domains including
+financial markets, surveillance systems, manufacturing, smart cities and
+scalable monitoring infrastructure. In all of these applications and domains,
+there is a crucial requirement to collect, process, and analyze big streams of
+data in order to extract valuable information, discover new insights in
+real-time and to detect emerging patterns and outliers. The goal of this
+workshop is to provide a forum for people in both academia and industry to
+present their most recent work and to foster exchange of new ideas in the area
+of big data streams.
+
+Topics of interest include but are not limited to the following:
+
+* Learning on streams
+* State management in stream processing
+* Distributed stream processing
+* Transactions on streams
+* Geo-distributed streams
+* Stream processing languages
+* Complex event processing
+* Stream processing on modern hardware
+* Approximate stream processing
+* Distributed data stream summarization
+* Data stream mining
+
+
+-------------------
+Submission
+-------------------
+
+BigStream 2018 invites the submission of original contributions in the area of
+data stream processing. Submissions must be formatted using the ACM
+proceedings template, which can be found on
+https://www.acm.org/publications/proceedings-template. There are two different
+submission categories:
+
+* Long paper: The maximum length is 10 pages (including references)
+* Short paper: The maximum length is 4 pages (including references)
+
+Papers should be electronically submitted in pdf format to 
+https://bigstream18.hotcrp.com/
+ 
+-------------------
+Important Dates:
+-------------------
+
+Paper Submission: September 5, 2018 
+Paper notification: October 1, 2018
+Camera-ready: October 21, 2018
+
+All deadlines are at 11:59PM Pacific Daylight Time
+
+-------------------
+Organization:
+-------------------
+
+==Workshop Chairs==
+
+* Tilmann Rabl (TU Berlin)
+* Kaustubh Beedkar (TU Berlin)
+
+
+==Program Committee==
+
+* Albert Bifet (LTCI, Telecom ParisTech)
+* Alessandro Margara (Politecnico di Milano)
+* Alireza Rezaei Mahdiraji (DFKI)
+* Andras Benczur (Institute for Computer Science and Control, Hungarian Academy of Sciences)
+* Boris Glavic (Illinois Institute of Technology)
+* Emanuele Della Valle (Politecnico di Milano)
+* Kaiwen Zhang (ETS Montreal)
+* Matthias Sax (Confluent Inc.)
+* Matthias Uflacker (Hasso Plattner Institute)
+* Matthias Weidlich (Humboldt-UniversitÃ¤t zu Berlin)
+* Paris Carbone (KTH Royal Institute of Technology)
+* Peter Pietzuch (Imperial College London)
+* Ruben Mayer (Technical University of Munich)
+* Till Rohrmann (Apache Software Foundation)
+* Tyler Akidau (Google Inc.)
+* Vasiliki Kalavri (ETH Zurich)
+* Xiang Ni (IBM)
+
+--------------------------------------------------------------------------

@@ -1,0 +1,61 @@
+** Joint Call for Workshop Papers @ ICAI 2018 **
+
+ICAI Workshops
+1st to 3rd November 2018
+http://icai.itiud.org/workshops/ 
+
+
+ICAI 2018, the International Conference on Applied Informatics, will host four co-located workshops that will complement and enhance the main conference program, offering a wider perspective around the conference topics:
+
+  - Workshop on Data Engineering and Analytics (WDEA 2018)
+  - Workshop on Empirical Experiences on Software Reuse (WEESR 2018)
+  - Workshop on Intelligent Transportation Systems (WITS 2018)
+  - WorkShop on Smart Sustainable Cities (WSSC 2018)
+
+
+**Important Dates**
+  - Workshop Paper Submission: August 24th 2018
+  - Workshop Paper Notification: September 10th 2018
+  - Camera Ready Submission: 24th September 2018
+
+
+NOTE: Workshop papers will be published by IEEE and will be accessible through IEEE Xplore
+  - https://conferences.ieee.org/conferences_events/conferences/conferencedetails/45811
+
+=========================================================
+
+Workshop on Data Engineering and Analytics (WDEA 2018) 
+More information: https://sites.google.com/utadeo.edu.co/icai-workshop-data/ 
+
+
+Abstract: Data is everywhere. Data Analytics, Data Mining, Data Science or more generally the practice of identifying patterns or constructing mathematical models based on data is at the heart of most new business models or projects. This together has led to a whole new series of rapidly evolving tools, algorithms and methods which combine data engineering, computer science, statistics and mathematics.
+
+The aim of this Workshop is to present recent results in this area, discussing new methods or algorithms, or applications including Machine Learning, Databases, optimization or any type of algorithms which consider managing or obtaining value from data.
+
+=========================================================
+
+Workshop on Empirical Experiences on Software Reuse (WEESR 2018) 
+More information: https://sites.google.com/view/weesr2018/index 
+
+
+Abstract: The main goal of WEESR is to present significantly experience and challenges on the area of software reuse, particularly domain engineering applied to both, software and software process, in order to achieve an effective research methods and knowledge among researchers and practitioners. The central themes are reuse scoping, reuse business cases, feature models, variability models, model driven and domain modeling, and architecture for both software and processes as well as its relationships. 
+
+The workshop focuses on empirical experiences methodically conducted including action research, surveys, case studies and experiments. Participants could share as the experiences were planned, designed, conducted and reported, contributing with new knowledge about how empirical research must be conducted.
+
+=========================================================
+
+Workshop on Intelligent Transportation Systems (WITS 2018) 
+More information: https://sites.google.com/view/wits2018/ 
+
+
+Abstract: This workshop aims to bring together researchers and experts, to present and discuss current implementations of intelligent transportation systems, analyze the challenges that must be overcomed in these solutions and propose new approaches that can be applied in future projects.
+
+=========================================================
+
+WorkShop on Smart Sustainable Cities (WSSC 2018) 
+More information: https://sites.google.com/utadeo.edu.co/icai-workshop-ssc 
+
+
+Abstract: The International Telecommunication Union ITU define a smart sustainable city as : “An innovative city that uses information and communication technologies (ICTs) and other means to improve quality of life, efficiency of urban operation and services, and competitiveness, while ensuring that it meets the needs of present and future generations with respect to economic, social, environmental as well as cultural aspects”. 
+
+The aim of this Workshop is to present recent results in this area, discussing new methods or algorithms, or applications in different areas including architecture, cultural, tourism, mobility, among others.

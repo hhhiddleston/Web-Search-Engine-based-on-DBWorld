@@ -1,0 +1,45 @@
+Special Issue "Modern Recommender Systems: Approaches, Challenges and Applications"
+
+Recommender systems are nowadays an indispensable part of most personalized systems implementing information access and content delivery, supporting a great variety of user activities. Recommender systems alleviate the problem of information overload, identifying and promoting content that is deemed more suitable for each individual user. To this end, recommender systems collect and process information about user preferences, likings and previous actions; the userâ€™s current context (such as the userâ€™s location or company, the time of day or week, etc.); the userâ€™s neighborhood and activity in social networks (friends, posts, message exchanges and so forth); the characteristics of items to be recommended, including semantic information; and so on. Both static and dynamic views of the collected data are considered, and the algorithms employed to process the available data range from collaborative filtering and statistical models to knowledge-based approaches and matrix factorization.
+
+This Special Issue on â€œModern Recommender Systems: Approaches, Challenges and Applicationsâ€ aims to promote new theoretical models, approaches, algorithms and applications related to the area of recommender systems. Authors should submit papers describing significant, original and unpublished work. Possible topics include but are not limited to:
+
+* Models and algorithms to improve recommendation quality.
+* Recommendation algorithms that exploit contextual information and/or social network information and/or rich item descriptions.
+* Techniques and methods for enhancing recommender system performance in the context of big data.
+* Privacy preserving techniques for recommender systems.
+* Novel recommender system applications.
+* Case studies of real-world implementations
+* Algorithm scalability, performance, and implementations
+* Cross-disciplinary approaches involving recommender systems
+
+Guest Editors:
+
+Prof. Costas Vassilakis
+Department of Informatics and Telecommunications, University of the Peloponnese, Greece
+costas@uop.gr | https://users.uop.gr/~costas 
+
+Dr. Dionisis Margaris
+Department of Informatics and Telecommunications, University of Athens, Greece
+margaris@di.uoa.gr | http://cgi.di.uoa.gr/~margaris/
+
+A special issue of Information (ISSN 2078-2489). This special issue belongs to the section "Information Systems".
+
+Deadline for manuscript submissions: 15 March 2019
+
+Manuscript Submission Information
+
+Manuscripts should be submitted online at www.mdpi.com by registering and logging in to this website. Once you are registered, click here to go to the submission form. Manuscripts can be submitted until the deadline. All papers will be peer-reviewed. Accepted papers will be published continuously in the journal (as soon as accepted) and will be listed together on the special issue website. Research articles, review articles as well as short communications are invited. For planned papers, a title and short abstract (about 100 words) can be sent to the Editorial Office for announcement on this website.
+
+Submitted manuscripts should not have been published previously, nor be under consideration for publication elsewhere (except conference proceedings papers). All manuscripts are thoroughly refereed through a single-blind peer-review process. A guide for authors and other relevant information for submission of manuscripts is available on the Instructions for Authors page. Information is an international peer-reviewed open access monthly journal published by MDPI.
+
+Please visit the Instructions for Authors page before submitting a manuscript. The Article Processing Charge (APC) for publication in this open access journal is 850 CHF (Swiss Francs). Submitted papers should be well formatted and use good English. Authors may use MDPI's English editing service prior to publication or during author revisions.
+
+Keywords
+* recommender systems
+* contextual information
+* social networks
+* item semantics
+* big data and performance
+* privacy preservation
+ 

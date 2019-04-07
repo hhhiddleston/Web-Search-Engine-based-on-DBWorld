@@ -1,0 +1,95 @@
+Dear colleagues: 
+
+The 3rd International Workshop on Semantics-Powered Data Analytics (SEPDA 2018) will be held on December 3, 2018 (tentative date) in Madrid, Spain, in conjunction with the IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2018).  
+
+We are now inviting original research submissions (FULL 8 pages), work-in-progress (SHORT 4 pages), and poster abstracts (2 pages, NEW TYPE). 
+
+All the accepted submissions will be presented in SEPDA 2018 and published in the IEEE BIBM 2018 Proceedings (in IEEE Xplore Digital Library); Selected FULL/SHORT papers will be invited to publish an extended version in the supplement of BMC Medical Informatics & Decision Making (IF: 2.134; Indexed in SCIE, MEDLINE, and PMC; and subject to an article processing charge of USD $1,465). 
+
+
+Overview and Previous Workshops 
+============================ 
+Biomedical ontologies and controlled terminologies provide structured domain knowledge to a variety of health information systems. The rich thesaurus with concepts linked by semantic relationships has been widely used in natural language processing, data mining, machine learning, semantic annotation, and automated reasoning. The dramatically increasing amount of health-related data poses unprecedented opportunities for mining previously unknown knowledge with semantics-powered data analytics methods. However, due to the heterogeneity of different data sources, it is a challenging problem to exploit multiple sources to solve real-world problems such as designing cost-effective treatment plan for patients, designing generalizable clinical trials, drug repurposing, and clinical phenotyping. The goal of this workshop is to bring people in the field of knowledge representation, knowledge management, and health data analytics to discuss innovative semantic methods, applications, and data analytics to address problems in healthcare, biomedicine, public health, and clinical research with biomedical, clinical, behavioral, and social web data. 
+
+The 1st SEPDA workshop (SEPDA 2016) was held in conjunction with IEEE BIBM 2016 in Shenzhen, China. SPEDA 2016 was a half-day workshop. Dr. Hua Xu, a leading expert in the field of Biomedical Informatics, gave the keynote speech on the bioCADDIE project. Eight quality papers were presented. Selected papers were invited to publish the extended version to the special issue on "Semantics-Powered Healthcare Engineering and Data Analytics" in the Journal of Healthcare Engineering (IF: 1.26). 
+
+The 2nd SEPDA Workshop (SEPDA 2017) was held in conjunction with IEEE BIBM 2017 in Kansas City, Missouri, USA. SPEDA 2017 was a full day workshop. 17 high quality papers were presented in the workshop. 13 extended journal version of the papers was published in BMC Medical Informatics & Decision Making (IF: 2.13). 
+
+Scope of the Workshop 
+=================== 
+We are inviting original research submissions as well as work-in-progress. 
+
+Topics of interest include but not limited to: 
+
+Ontologies and Controlled Terminologies 
+Ontology development and enrichment 
+Quality assurance of ontologies and controlled terminologies 
+Semantic harmonization and ontology alignment 
+Knowledge representation and reasoning 
+
+Semantics-based Data Analytics 
+Ontology-based text mining and natural language processing 
+Ontology-based analysis on biomedical, clinical, or social web data 
+Information Extraction on biomedical, clinical, or social web data 
+Data mining or machine learning on biomedical, clinical or social web data 
+Semantic annotation on biomedical, clinical or social web data 
+
+Data Integration 
+Linked open data 
+Novel approaches for data integration of heterogenous data sources 
+Large scale data integration 
+
+Application 
+Novel tools and ontologies for data interpretation and visualization 
+Pharmacovigilance and drug repurposing using ontologies 
+Clinical trial generalizability assessment using ontologies 
+Algorithmic phenotyping and cohort identification using ontologies 
+Improving the literacy of health information consumers 
+
+Important Dates 
+============= 
+Sept 30, 2018: Due date for full / work-in-progress workshop papers submission 
+
+Oct 27, 2018: Notification of paper acceptance to authors 
+
+Nov 15, 2018: Camera-ready of accepted papers 
+
+Dec 3, 2018 (tentative): SEPDA 2018 Workshop 
+
+Journal submission deadline: TBD 
+
+Submission 
+========== 
+Please submit a full-length paper (up to 8 page IEEE 2-column format) through the online submission system (you can download the format instruction here ). Electronic submissions (in PDF or Postscript format) are required. Selected participants will be asked to submit their revised papers in a format to be specified at the time of acceptance. For relevant papers submitted to the main conference, you can indicate SEPDA 2018 as a backup workshop so that your rejected main conference papers will be reconsidered for SEPDA 2018. 
+
+Submission site: 
+
+https://wi-lab.com/cyberchair/2018/bibm18/scripts/submit.php?subarea=S07&undisplay_detail=1&wh=/cyberchair/2018/bibm18/scripts/ws_submit.php 
+
+
+Organizing 
+========= 
+
+Organizing Committee 
+
+Zhe He, School of Information, Florida State University, USA 
+Cui Tao, School of Biomedical Informatics, University of Texas Health Center at Houston, USA 
+Rui Zhang, Institute for Health Informatics, University of Minnesota, USA 
+Jiang Bian, Health Outcomes & Biomedical Informatics, College of Medicine, University of Florida, 
+USA 
+
+Program Committee 
+
+GQ Zhang, University of Kentucky, USA 
+Guoqian Jiang, Mayo Clinic, USA 
+Jake Luo, University of Wisconsin, Milwaukee, USA 
+James Cimino, University of Alabama at Birmingham, USA 
+Licong Cui, University of Kentucky, USA 
+Xia Jing, Ohio University, USA 
+Riccardo Miotto, Icahn School of Medicine at Mount Sinai, USA 
+Fleur Mougin, University of Bordeaux, France 
+Yonghui Wu, University of Florida, USA 
+Yi Guo, University of Florida 
+Buzhou Tang, Intelligent Computing Research Center, Harbin Institute of Technology Shenzhen, China 
+Zhengxing Huang, Zhejiang University, China 
+Feichen Shen, Mayo Clinic

@@ -1,0 +1,21 @@
+Three postdocs and two PhD positions at RWTH Aachen University
+
+The Process and Data Science (PADS) group, headed by Prof. Wil van der Aalst, is a new research group at RWTH focusing on the interplay between processes and data. The group is rapidly expanding due to the growing interest in process mining, the importance of data science, and many new exciting projects and collaborations. Working in this group allows you to work at the forefront of process mining. Positions are highly competitive in terms of salaries and possibilities to develop as an academic.
+
+>>> Interested?  Apply via applications@pads.rwth-aachen.de! <<<
+
+PADS symbolizes RWTH’s ambitions in the area of Data Science and is supported through a recently awarded Alexander von Humboldt Professorship (Germany’s most valuable international research award with a value of 5 million euros). The scope of PADS includes all topics where discrete processes are analyzed, reengineered, and/or supported in a data-driven manner (www.pads.rwth-aachen.de). Process-centricity is combined with an array of Data Science techniques (machine learning, data mining, visualization, and Big data infrastructures). The main focus is on Process Mining (including process discovery, conformance checking, performance analysis, predictive analytics, operational support, and process improvement). This is combined with neighboring disciplines such as operations research, algorithms, discrete event simulation, business process management, and workflow automation. The ambition is to realize scientific breakthroughs which will help organizations to turn event data into business and societal value. Investments by RWTH, the Alexander von Humboldt foundation, and the Fraunhofer Institute for Applied Information Technology make it possible to realize these ambitions and to provide unique job opportunities for ambitious researchers.
+
+3 POSTDOCS POSITIONS
+We are looking for postdocs that have a proven track record in process and/or data science. Successful candidates will be asked to lead a subgroup composed of PhDs, student assistants, and master/bachelor students. The positions are tailored towards building a strong scientific profile. Hence, we aim for candidates that are interested in an academic career.    
+
+2 PhD POSITIONS
+We are looking for candidates that are eager to become a data science researcher and already have a Master in computer science or a related discipline (e.g., statistics, operations research or management science with a specialization in data and/or process science). Given the practical relevance of process mining, possibilities are endless after completing a PhD in the PADS group (continue in industry or academic).
+
+Salaries at RWTH are highly competitive.
+
+We are looking forward to your application!
+
+Apply via applications@pads.rwth-aachen.de
+
+ps. If you are attending BPM 2018 in Sydney this week of the World Computer Congress in Poznan next, feel free to discuss possibilities. 

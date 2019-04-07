@@ -1,0 +1,167 @@
+ï»¿CALL FOR PAPERS
+======================================================
+Track on Social Network and Media Analysis (SONAMA)
+The 34rd ACM Symposium on Applied Computing (SAC 2019)
+ 
+April 8 -12, 2019, Limassol, Cyprus
+ 
+ACM SAC: https://www.sigapp.org/sac/sac2019
+SONAMA Track: http://www.agape.hanyang.ac.kr/sonama2019
+======================================================
+ 
+ 
+Aims and Scope
+---------------
+
+With the advent of social network services such as Twitter, Facebook, 
+Tumbler, and Google+, the research on social network and media analysis 
+has been greatly advanced. In recent years, the interactions among people, 
+sharing of knowledge and experiences, community activities in social 
+network services increase greatly, which would make the research on social 
+networks more important. Furthermore, as social media contents within 
+social network services are rapidly being produced and consumed, the social 
+media contents now account for the majority of content published on the 
+world wide web. Social media is differentiated from traditional media in 
+many aspects such as its frequency, quality, usability, immediacy, and
+permanence, which leads to significant potential to the social media 
+analysis research. 
+ 
+The ACM SAC has been an important venue for the past 33 years, 
+attracting computer scientists, computer engineers, software engineers, 
+and application developers from around the world. The Social Network and 
+Media Analysis (SONAMA) track of ACM SAC will provide a forum that brings 
+together researchers and practitioners for exploring technologies, issues, 
+experiences, and applications with a specific focus on the recent research 
+trends and industrial needs in the related fields. Since social network and 
+media analysis encompasses a variety of highly cross-disciplinary research 
+issues, the SONAMA will foster collaborations and exchange of ideas and 
+experiences among researchers working in various fields such as computer 
+science, linguistics, statistics, sociology, economics, and business. 
+ 
+ 
+Topics of Interest
+------------------
+ 
+We plan to include all the important topics related to 
+social network and media analysis within the SONAMA. 
+These topics include, but are not limited to:
+ 
+- Community structure analysis in social networks    
+- Applications of social network and media analysis
+- Analysis of the relationship between social media and traditional media 
+- Data modeling for social networks and social media
+- Detection of spam, misinformation and malicious activities in social networks
+- Business impact in social network and media analysis
+- Political impact in social network and media analysis
+- Geographical analysis of social networks
+- Temporal analysis of social networks
+- Information analysis for social media
+- Dynamics and evolution of social networks
+- Information acquisition in social networks
+- Big data issues in social network and media analysis
+- Link prediction and simulation
+- Modeling of user behavior and interaction 
+- Monitoring social networks and media
+- New social media applications and interfaces 
+- Pattern analysis in social networks
+- Personalization for social interaction
+- Privacy and security in social networks 
+- Propagation and diffusion of information in social networks
+- Social information applied to recommender systems
+- Information retrieval in social network services
+- Visualization and presentation of social information
+- Statistical analysis 
+- Topological analysis of social networks 
+- Trust management for social networks and social media
+- Qualitative and quantitative studies of social networks and social media
+ 
+ 
+Important Dates
+---------------
+Paper submission: September 10, 2018
+Acceptance notification: November 10, 2018
+Camera-ready copies: November 25, 2018
+Author registration: December 10, 2018 
+
+ 
+Submission Guidelines
+---------------------
+Authors are invited to submit original and unpublished papers of research and applications for this track. Full papers are limited to 8 pages with the option for up to 2 additional pages. The author(s) name(s) and address(es) must not appear in the body of the paper, and self-reference should be in the third person. This is to facilitate double-blind review. Only the title should be shown at the first page without the author's information. Papers must be formatted according to the ACM SAC template. Papers that received high reviews but were not accepted due to space limitations can be invited for the poster session. Posters are limited to 3 pages with the option for up to only additional page. For full submission guidelines, please follow the instructions on the ACM SAC 2019 website. Please submit your contribution via SAC 2019 Web page. 
+
+
+
+Registration
+---------------------
+Paper registration is required, allowing the inclusion of the paper/poster in the conference proceedings. An author or a proxy attending SAC MUST present the paper. This is a requirement for the paper/poster to be included in the ACM digital library. No-show of scheduled papers and posters will result in excluding them from the ACM digital library.
+
+
+
+Student Research Competition (SRC) Program 
+------------------------------------------
+Graduate students are invited to submit research abstracts (maximum of 4 pages in ACM camera-ready format) following the instructions published at SAC 2019 website. Submission of the same abstract to multiple tracks is not allowed. All research abstract submissions will be reviewed by expert reviewers and practitioners. Authors of selected abstracts will have the opportunity to give poster presentations of their work and compete for three top-winning places. The SRC committee will evaluate and select the first-, second-, and third-place winners. The winners will receive medals and cash awards. Winners will be announced during the conference banquet. Authors of selected abstracts are eligible to apply to the SIGAPP Student Travel Award program for financial support. Please submit your contribution via SAC 2019 Web page.
+ 
+
+Track Chair
+-----------
+ 
+Sang-Wook Kim
+Department of Computer Science and Engineering
+Hanyang University, Korea
+ 
+E-mail contact: wook@agape.hanyang.ac.kr
+Homepage: http://agape.hanyang.ac.kr/sonama2019
+ 
+ 
+Program Committee Members
+-------------------------
+
+Claudio de Souza Baptista  Federal University of Campina Grande, Brazil
+Ladjel Bellatreche   National Engineering School for Mechanics and Aerotechnics, France
+Tru Hoang Cao   Ho Chi Minh University of Technology, Vietnam
+Seong Je Cho   Dankook University, Korea
+Chang Choi   Chosun University, Korea
+Freddy Chong-Tat Chua  Singapore Management University, Singapore
+Alessio Conte   National Institute of Informatics, Japan
+Christian Esposito   University of Salerno, Italy
+Sheng Gao   BUPT, China
+Ji-Woon Ha   Naver, Korea
+Masoud R. Hamedani  Hanyang University, Korea
+Dominic Heutelbeck  Forschungsinst. fur Telekommunikation e.V., Germany
+Kuo-Wei Hsu   National Cheng Chi University, Taiwan
+Hao Huang   Ge Global Research, USA
+Heasoo Hwang   University of Seoul, Korea
+Mirjana Ivanovic    University of Novi Sad, Serbia
+Hasan Jamil   University of Idaho, USA
+Min-Hee Jang   Samsung Electronics, USA
+Jason J. Jung   Yeungnam University, Korea
+Carlos Alberto Kamienski  Federal University of ABC, Brazil
+U Kang    KAIST, Korea
+Pinar Karagoz   Middle East Technical University, Turkey
+Mark Kibanov   University of Kassel, Germany
+Chulyun Kim   Gachon University, Korea
+Han-joon Kim   University of Seoul, Korea
+Hyoungshick Kim   Sungkyunkwan University, Korea
+Hyunchul Kim   Sangmyung University, Korea
+Younghoon Kim   Seoul National University, Korea
+Dongho Lee   Hanyang University, Korea
+Jongwuk Lee   Pennsylvania State University, USA
+Kiyong Lee   Sookmyung Womenâ€™s University, Korea
+Sang-Chul Lee   Hyundai Heavy Industries, Korea
+Andrea Marino    University of Pisa, Italy
+Pedro O.S Vaz de Melo  Universidade Federal de Minas Gerais, Brazil
+Richi Nayak   Queensland University of Technology, Australia
+Pedro Ribeiro   University of Porto, Portugal
+Armanda Rodrigues  Universidade NOVA de Lisboa, Portugal
+Milos Savic   University of Novi Sad, Serbia
+Won-Yong Shin   Dankook University, Korea
+Min Song   Yonsei University, Korea
+Francesca Spezzano  Boise State University, USA
+Julien Velcin   University Lyon 2, France
+Jenq-Haur Wang   National Taipei University of Technology, Taiwan
+Xiaojie Wang   BUPT, China
+Joyce Whang   Sungkyunkwan University, Korea
+Junjie Yao   East China Normal University, China
+ShinjaeYoo   Brookhaven National Laboratory, USA
+Seok-Ho Yoon   Samsung Electronics, Korea
+Eva Zangerle   University of Innsbruck, Austria
+Xiangliang Zhang   King Abdullah University of Science and Technology, Saudi Arabia

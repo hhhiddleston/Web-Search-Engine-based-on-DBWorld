@@ -1,0 +1,47 @@
+ï»¿*** Extended Submission Deadline *** 
+***** August 30th, 2018 *****
+
+CALL FOR PAPERS
+Special issue on Geo-distributed Big Data Processing and Management
+(https://www.journals.elsevier.com/big-data-research/call-for-papers/special-issue-on-geo-distributed-big-data-processing-and-man)
+Journal of Big Data Research, Elsevier
+(https://www.journals.elsevier.com/big-data-research)
+
+** Guest editors: 
+ 
+- Prof. Sherif Sakr, King Saud Bin Abdulaziz University for Health Sciences, sakrs@ksau-hs.edu.sa 
+- Dr. Giuseppe Di Modica, University of Catania (Italy), dimodica@unict.it
+- Prof. Orazio Tomarchio, University of Catania (Italy), orazio.tomarchio@dieei.unict.it
+
+
+** Aim and Topics
+
+The rate at which data are nowadays generated have called for new data management and processing mechanisms capable of guaranteeing high performance and high scalability. Hadoop and Spark have been well-recognized as de facto big data processing platforms that have been extensively adopted, and are currently widely used, in many application domains. Yet, the effectiveness of the parallel computation technique implemented by these frameworks was proved only in scenarios where homogeneous and clustered computing resources (nodes and network links) are deployed and the raw data are already available within the clusterâ€™s location. In practice, there are many practical scenarios in which the mentioned requirements are not met. For example, there are several organizations that are operating in different countries, holding distributed data centers that generate a high volume of raw data across the globe (natively sparse Big Data); or the case of Big Data company that take advantage of multiple public and/or private clouds for the processing purpose (Big Data in the Cloud). Either the case, the data computation involves the movement of big data over the network which, if not carefully managed, might impair the performance of the computation itself. 
+
+This special issue proposal plans to solicit novel and original manuscripts that demonstrate current research in all aspects of Big Data processing in geographical environment (geographical Big Data). The objective is to stimulate the discussion on innovative solutions addressing a) the design of new parallel and distributed computing paradigms for geographical Big Data and b) the enhancement of the state-of-art parallel computing techniques by also exploiting technologies borrowed from other ICT fields such as telecommunication and networking. 
+
+Topics of interest of this special issue include, but are not limited to:
+- Computing approaches for natively sparse Big Data
+- IoT and Big Data
+- Big Data in the Cloud
+- Federated cloud for big data processing
+- Hadoop and Spark for geographically sparse Big Data
+- Hierarchical approaches to Big Data analysis in geographic computing contexts
+- Orchestrating Big Data Analysis workflows
+- Analysis of geo-distributed Big Data Streams
+- Big Data and SDN
+- Processing SQL queries over geo-distributed Big Data
+- Graph processing over geo-distributed Big Data
+- New computing paradigms for geographically distributed Big Data
+- Crowd-sensing data gathering and processing
+- Applications involving geo-distributed Big Data
+- Security issues of geo-distributed Big Data
+- Legal and right issues concerning the elaboration of data distributed across several countries
+- Real time processing of geo-distributed Big Data
+- Performance evaluation of geo-distributed Big Data processing frameworks
+- Energy-aware geo-distributed Big Data processing
+ 
+** Submission Instruction
+
+All submitted papers must be clearly written in English and must contain only original work, which has not been published by, or is currently under review for, any other journal, conference, symposium, or workshop. The authors must select "VSI: Geo-Distributed Big Data" as Article Type.
+Requests for additional information should be addressed to the guest editors.

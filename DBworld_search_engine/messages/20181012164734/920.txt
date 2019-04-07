@@ -1,0 +1,46 @@
+CALL FOR PAPERS    
+    
+ACM Transactions on Intelligent Systems and Technology    
+Special Issue on Advances in Causal Discovery and Inference        
+    
+Guest Editors        
+Jiuyong Li, University of South Australia, Australia    
+Kun Zhang, Carnegie Mellon University, USA    
+Emre Kiciman, Microsoft Research, USA    
+Peng Cui, Tsinghua University, China            
+-----------------------------------------------------------------------    
+          
+Causality plays an important role in explanation, prediction, decision making, and control in many fields of the empirical sciences. Traditionally, causal relationships are identified based on controlled experiments. However, conducting such experiments is usually expensive or even impossible in many cases. Therefore there has been an increasing interest in reasoning in a principled way with causal effect relationships with purely observational data or partially accessible experiments, and significant progress in this line has been made in various fields in the past decades, including computer science, statistics, and philosophy.     
+    
+Reasoning with causal relationships involves both deductive and inductive tasks. The deductive component asks what can be inferred when the researcher is in possession of certain knowledge or assumptions about the underlying causal process (usually in the form of a causal graph, or features thereof). The inductive component asks how aspects of the graph can be discovered from data when the researcher is willing to make only weak assumptions about the generative process (e.g., faithfulness). Those are complementary and strongly intertwined tasks, representing a wide spectrum of the trade-off between assumptions and inferential power.    
+    
+Recently, with the rapid accumulation of huge volume of data, the field of causality is seeing exciting opportunities, as well as greater challenges. This special issue aims at reporting progresses in fundamental principles, practical methodologies, efficient implementations, and applications of causal methods for discovery and inference tasks. The special issue especially welcomes contributions that link data mining/machine learning research with causality, and solutions to causal problem for large scale data sets.     
+    
+Topics of Interest    
+    
+We invite high quality submissions related to the following topics (not limited to):    
+    
+*  Identifiability of causal relationships from observational data        
+*  Reasoning with causal effect relationships in problems such as mediation analysis, attribution, heterogeneity  
+*  Integrating experimental (interventional) and observational data for causal inference and learning  
+*  Causal structure learning      
+*  Local causal structure discovery    
+*  Causal discovery from high-dimensional data    
+*  False discovery control in causal discovery    
+*  Real-world problems for causal analysis    
+*  Extensions and connections of data mining approaches for causality methods     
+*  Assessment of causal discovery and inference methods    
+*  Efficient data mining and machine learning algorithms for causal discovery    
+    
+Submission    
+      
+On-Line Submission: http://mc.manuscriptcentral.com/tist (please select "Special Issue: Advances in Causal Discovery and Inference" as the manuscript type). Details of the journal and manuscript preparation are available on the website: http://tist.acm.org/.      
+      
+Important Dates    
+    
+* Submission deadline: 15 August 2018    
+* Notification of first review: 15 December 2018    
+* Submission of revised manuscript: 15 March 2019    
+* Notification of final acceptance: 30 June 2019    
+    
+For further information please contact acdi@tist.acm.org.    

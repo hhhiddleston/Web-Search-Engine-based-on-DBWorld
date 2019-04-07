@@ -1,0 +1,64 @@
+IFIP WG PERFORMANCE 2018 -  Workshop on AI in Networks (WAIN)
+December 5-7, 2018 @ Tolouse - France
+https://performance2018.sciencesconf.org/resource/page/id/16
+
+
+AI and Machine Learning are currently being exploited in almost every scientific fields. However, networking has still a limited development and deployment of these techniques.
+
+AI can be effectively used in many networking areas, such as fault isolation, intrusion detection, event correlation, log analysis, capacity planning, and design optimization, just to name a few.  Moreover, the complexity of today networks makes it challenging to design scalable network measurement and analysis techniques and tools. Machine learning and big data analytics techniques promise to shed light on this enormous amount of data, but smart and scalable approaches must be conceived to make them applicable to the networking practice.
+
+WAIN workshop aims at showing to the community new contributions in this field. It looks for smart approaches and uses cases useful for understanding when and how applying AI in networking.  The workshop will allow researchers and practitioners to share their experiences and ideas and discuss the open issues related to the application of machine learning to computer networks data.
+
+
+- List of Topics
+
+The following is a non-exhaustive list of topics of interest for WAIN workshop:
+
+    Applications of ML in communication networks
+    Data analytics and mining  in networking
+    Traffic monitoring through AI
+    Application of deep learning and reinforced-learning in networking
+    Benchmarks design for big data or ML
+    Protocol design using ML
+    Methodologies for network anomaly detection and cybersecurity
+    Visualization for network characteristics and traffic monitoring
+    Requirements and expectations when using AI
+    AI applied to IoT, 5G or cloud
+    Performance Optimization through ML and Big Data
+    Experiences and best-practices using machine learning in operational networks
+    Reproducibility of ML in networking
+
+
+- Guidelines
+
+Papers will be published at ACM SIGMETRICS Performance Evaluation Review (PER, https://www.sigmetrics.org/per.shtml, 2 to 4 pages long). Furthermore, authors will have the option to submit a longer version of their paper to the special issues in QUESTA.
+Submissions must be original, unpublished work, and not under consideration at another conference or journal. The format for the submissions is that of PER (two-column 10pt ACM format)), between 2 and 4 pages, including all figures, tables, references, and appendices. Papers must include authors names and affiliations for single-blind peer reviewing by the PC. Authors of accepted papers are expected to present their papers at the workshop.
+
+PER style file can downloaded from https://performance2018.sciencesconf.org/resource/page/id/21 . Please change the first argument of the command \conferenceinfo to "Workshop on AI in Networks (WAIN) 2018", i.e., \conferenceinfo{Workshop on AI in Networks (WAIN) 2018}{~~~Toulouse, France}
+
+EasyChair submission page: https://easychair.org/conferences/?conf=wain2018
+
+
+- Organizers
+
+    Luca Vassio, Politecnico di Torino, Italy
+    Zhi-Li Zhang, University of Minnesota, US
+    Sung-Ju Lee, KAIST, Korea
+
+- Program Committee
+
+    Marco Canini, KAUST (Saudi Arabia)
+    Edmundo de Souza e Silva, Federal University of Rio de Janeiro (Brazil)
+    Lixin Gao, UMASS (USA)
+    Danilo Giordano, Politecnico di Torino (Italy)
+    Leana Golubchik, University of Southern California (USA)
+    Dan Li, Tsinghua University (China)
+    Marco Mellia, Politecnico di Torino (Italy)
+    Giovanni Neglia, Inria (France)
+    Daniel Sadoc Menasche, Federal University of Rio de Janeiro (Brazil)
+    Rayadurgam Srikant, UIUC (USA)
+    Patrick Thiran, EPFL (Switzerland)
+    Martino Trevisan, Politecnico di Torino (Italy)
+    Hui Zang, Huawei Research (USA)
+    Nur Zincir-Heywood, Dalhousie University (Canada)
+    Song Chong, KAIST, (South Korea)

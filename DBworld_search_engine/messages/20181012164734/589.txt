@@ -1,0 +1,44 @@
+SDM'19: THE NINETEENTH SIAM INTERNATIONAL CONFERENCE ON DATA MINING
+ 
+May 2 - May 4, 2019
+Calgary, Canada
+https://www.siam.org/conferences/CM/Main/sdm19
+ 
+------------ CALL FOR TUTORIALS ------------
+
+The SDM19 Organizing Committee invites proposals for tutorials to be held in conjunction with the conference. Tutorials are an effective way to educate and/or provide the necessary background to the intended audience enabling them to understand technical advances. They will typically cover state-of-the-art research, development and tools in a specific data mining related area, and stimulate and facilitate future work. 
+
+For SDM19, we are seeking proposals for tutorials on all topics related to data mining. A tutorial may be a theme-oriented comprehensive survey, discuss novel data mining techniques or may center around a successful and timely application of data mining in important areas (e.g., public health, medicine, security, urban computing, the web, scientific data analysis). Tutorials on interdisciplinary research topics, novel and fast growing directions, and innovative applications are highly encouraged. We also encourage tutorials in areas that are somewhat different from the usual SDM mainstream, but still related to the objectives of discovering valuable knowledge from data. As examples of typical SIAM tutorials, see the set of accepted tutorials at previous SIAM conferences SDM14, SDM15, SDM16, SDM17, and SDM18.
+ 
+Tutorials are open to all conference attendees without any extra fees. The typical tutorial will be 2 hours long (longer tutorials will be considered). Previous SDM conferences attracted up to 100 attendees in a tutorial.
+ 
+Proposals should be submitted electronically with the subject header: â€œSDM 2019 Tutorial Proposal Submissionâ€ by October 5, 2018 11:59PM (US Pacific Time) to: B. Aditya Prakash, Virginia Tech., USA (badityap@cs.vt.edu)
+ 
+Proposals should be submitted in PDF format (for other formats please contact the tutorial chair first).
+ 
+Proposals should include the following:
+Basic information: Title, brief description, name and contact information for each tutor, length of the proposed tutorial. If the intended tutorial is expected to take longer than 2 hours a rationale is expected. 
+Identify any other venues in which the tutorial, or a similar/highly related tutorial by the same authors, has been or will be presented, and highlight the similarity/difference between those and the one proposed for SDM19 (up to 100 words for each entry).
+Audience: Proposals must clearly identify the intended audience for the tutorial (e.g., novice, intermediate, expert).
+What background will be required of the audience?
+Why is this topic important/interesting to the SIAM data mining community?
+What is the benefit to participants?
+Provide some informal evidence that people would attend (e.g., related workshops). 
+Coverage: Enough material should be included to provide a sense of both the scope of material to be covered and the depth to which they will be covered. The more details that can be provided, the better (up to and including links to the actual slides or viewgraphs). Note that the tutors should not focus mainly on their own research results. If, for certain parts of the tutorial, the material comes directly from the tutors' own research or product, please indicate this clearly in the proposal. 
+Biographies: Provide brief biographical information on each tutor (including qualifications with respect to the tutorial's topic). 
+Optional: Video snippet of you teaching a tutorial or giving a talk.
+
+Please note that all organizers of accepted tutorials are required to be present and deliver the lectures in the conference.
+Timeline
+Submission : October 5, 2018 11:59PM (US Pacific Time)
+Decision Notification : November 5, 2018
+Tutorial notes (2-pager) due : January 15, 2019
+Complete Set of Tutorial Viewgraphs (Slides): February 20, 2019
+
+
+
+FOLLOW SDM
+------------------------------------------------------------
+https://twitter.com/SIAMDataMining
+Twitter hashtag:
+#SIAMSDM19

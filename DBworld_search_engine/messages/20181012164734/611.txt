@@ -1,0 +1,31 @@
+** Apologies for cross-postings. Please send to interested colleagues and students. **
+
+--CALL FOR PAPERS ICWI - Deadline for submissions (last call): 31 August 2018 --
+
+17th International Conference WWW/Internet 2018
+October 21 - 23, 2018 – Budapest, Hungary
+ (http://www.internet-conf.org/)
+
+* Conference Scope
+The WWW/Internet 2018 conference aims to address the main issues of concern within WWW/Internet. WWW and Internet had a huge development in recent years. Aspects of concern are no longer just technical anymore but other aspects have aroused.  This conference aims to cover both technological as well as non-technological issues related to these developments. 
+The conference accepts submissions in the following five main areas: Web 2.0; Semantic Web and XML; Applications and Uses; Services, Architectures and Web Development; Research Issues. For more details please check http://www.internet-conf.org/call-for-papers 
+
+* Paper Submission
+This is a blind peer-reviewed conference. Authors are invited to submit their papers in English through the conference submission system by August 31, 2018. Submissions must be original and should not have been published previously. 
+
+* Important Dates:
+- Submission Deadline (last call): 31 August 2018
+- Notification to Authors (last call): 24 September 2018
+- Final Camera-Ready Submission and Early Registration (last call): Until 5 October 2018
+- Late Registration (last call): After 5 October 2018
+
+* Paper Publication
+The papers will be published in book and electronic format with ISBN, will be made available through the Digital Library available at http://www.iadisportal.org/digital-library/showsearch. 
+The best paper authors will be invited to publish extended versions of their papers in a special issue published in the IADIS International Journal on WWW/Internet (ISSN: 1645-7641) and in other selected Journals.
+The conference proceedings will be submitted for indexation by IET’s INSPEC, Elsevier, EI Compendex, Scopus, Thomson Reuters Web of Science, EBSCO and other important indexing services.
+
+* Conference Contact:
+E-mail: secretariat@internet-conf.org
+Web site: http://www.internet-conf.org/
+
+* Organized by: International Association for Development of the Information Society

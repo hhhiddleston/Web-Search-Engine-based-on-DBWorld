@@ -1,0 +1,88 @@
+Call for Papers–ICACSIS 2018 (Deadline Extended)
+
+The 10th International Conference on Advanced Computer Science and Information Systems
+
+October 27-28th , 2018
+
+Yogyakarta, Indonesia
+
+http://icacsis.cs.ui.ac.id/
+
+The International Conference on Advanced Computer Science and Information Systems (ICACSIS) provides an international forum that brings together those who are actively involved in the field of Computer Science and Information System to report on up-to-the-minute innovations and developments, to summarize the state-of-the-art, and to exchange ideas and advances in all aspects of systems engineering, human machine interface, and emerging applications.
+
+The proceeding of ICACSIS 2011 - 2017 have been included in IEEE XPLORE database and the proceeding of ICACSIS 2011 - 2017 have been indexed by SCOPUS.
+
+Authors are invited to submit papers electronically via the system found at the conference web page. Paper templates and submission instructions are available at the conference web site. Paper submissions are due by August 19th, 2018 and should not exceed 6 pages. The size of PDF file of the paper should not exceed 3 MB.
+
+Papers related to this conference theme include theories, methodologies, and emerging applications such as recognition of activities of daily living are encouraged. Contributions covering theoretical developments and practical applications, including but not limited to the following technical areas, are invited:
+
+1. Bioinformatics/Biomedical Applications
+2. Biometrical Application
+3. Computer Network and Architecture
+4. Content-Based Multimedia Retrieval
+5. Cultural Heritage Applications
+6. Data Mining
+7. Distance Learning
+8. Distribute Intelligent Systems
+9. E-Business
+10. E-Commerce
+11. E-Government
+12. E-Health
+13. Enterprise Architecture Design & Management
+14. Expert & Knowledge-based Systems
+15. Fault Monitoring and Diagnosis
+16. Formal Methods
+17. Fuzzy Logic
+18. Genetic Algorithms
+19. Geographic Information System (GIS)
+20. Gesture Recognition
+21. High Performance Computing
+22. Human-Computer Interaction
+23. Image Processing
+24. Industrial Applications
+25. Information Assurance & Intelligent
+26. Information Extraction
+27. Information Retrieval
+28. Risk Management
+29. Infrastructure Systems and Services
+30. Intelligent Auto Surgery
+31. Intelligent Devices
+32. Intelligent Home Environments
+33. IS/IT Operations Management
+34. IS/IT Organization & Human Resource Management
+35. IS/IT Strategic Planning
+36. IT Governance
+37. IT Investment Analysis
+38. IT Project Management
+39. Modeling, System, & Control
+40. Multi temporal Data Change Detection
+41. Multimedia Application
+42. Multispectral and Hyperspectral Data analysis
+43. Natural Language Processing
+44. Neural Networks
+45. Pattern Recognition
+46. Remote Sensing
+47. Robotic Systems
+48. Smart Sensor Networks
+49. Software Engineering
+50. Spatial Data Mining
+51. Spatial Temporal Analysis
+52. Speech Processing
+53. Web Science
+This year, we will hold the event at Yogyakarta, Indonesia on October 27-28th , 2018. For any question concerning paper submissions, registration, and etc., please visit the conference web site.
+
+for more information : 
+http://icacsis.cs.ui.ac.id/
+
+IMPORTANT DATES:
+Full Paper Submission: (Extended) August 19, 2018
+Notification of Acceptance: September 15, 2018
+Camera Ready Paper Submission: October 1, 2018
+ICACSIS 2018 Main Event: October 27-28, 2018
+
+Best Regards, 
+
+Adila Alfa Krisnadhi
+Program Chair of 
+The 10th International Conference on Advance Computer Science and Information System (ICACSIS 2018)
+Faculty of Computer Science Universitas Indonesia

@@ -1,0 +1,45 @@
+(Please excuse multiple postings)
+
+AI4I 2018 -   Deadline extended to July 17 , 2018
+
+
+***********************************************
+First IEEE International Conference on Artificial Intelligence for Industries (AI4I 2018)
+September 26-28, 2018
+The Hills Hotel
+Laguna Hills, California, USA
+http://www.ai4i.org
+************************************************
+
+
+
+CALL FOR PAPERS, IDEAS, and PARTICIPATION
+
+Artificial Intelligence (AI) is concerned with computing technologies that allow machines to see, hear, talk, think, learn, and solve problems. On one hand it allows business decisions to be driven by real-time models that enable unprecedented levels of accuracy and efficiency. On the other hand, general and domain specific problem solving can be integrated by semantic technologies. In addition, business-business, business-customer, and customer- customer may be interconnected in a revolutionary way to support new business models with elevated customer experiences.
+The first International Conference on Artificial Intelligence for Industries (ai4i 2018), technically sponsored by IEEE, is an international forum focusing on incorporating artificial intelligence into business products and services that may be brought to the market in the near future. The conference invites researchers, practitioners, entrepreneurs, investors, and users to submit technical papers, white papers, ideas, needs, and demos for synergetic interactions.
+
+TOPICS OF INTEREST
+
+The conference is organized in two dimensions, technology and industry, so that technologies can be mapped to applications. The technology dimension includes, but is not limited to, the following:
+¥ Semantic and cognitive aspects in different industries
+¥ Innovative operations using artificial intelligence
+¥ Virtual reality, augmented reality, and immersive environment
+¥ Multimodal interaction
+¥ Human/agent interaction
+¥ Domain specific problem solving
+¥ Machine and deep learning
+¥ Modelling of behavior and activity generation
+¥ Big data and analytics
+¥ Dialogue modeling and generation
+¥ System components of intelligent platforms
+The application dimension consists of specific industries such as business, biomedicine, education, entertainment, arts and humanities, manufacturing, sciences, engineering, and agriculture.
+
+SUBMISSIONS
+
+Authors are invited to submit an 4-page (regular), 2-page (short), and 2-page (abstract) manuscript in double-column IEEE format following the guidelines available on the ai4i2018 web page. The conference proceedings will be submitted for inclusion to the IEEE Computer Society Press. Technical papers with distinguished quality presented at the conference will be selected for publication in internationally renowned journals.
+
+IMPORTANT DATES
+
+(Regular, Short, Abstract) Paper submission deadline: 17 July 2018
+
+Contact: ai4i@uci.edu

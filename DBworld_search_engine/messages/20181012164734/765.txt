@@ -1,0 +1,64 @@
+MDPI-Symmetry (IF:1.256) SI  Call for Papers
+****************************************************************************************
+A special issue of Symmetry (ISSN 2073-8994) 
+
+
+Special Issue "Symmetry-Adapted Machine Learning for Information Security"
+http://www.mdpi.com/journal/symmetry/special_issues/Symmetry_Adapted_Machine_Learning_Information_Security
+
+
+
+Deadline for manuscript submissions: 30 November 2018 
+****************************************************************************************
+
+== Guest Editor ==
+Prof. James (Jong Hyuk) Park 
+ Department of Computer Science and Engineering, 
+ Seoul National University of Science and Technology (SeoulTech), Korea
+ Email: jamespark.seoul@gmail.com
+    
+
+==Special Issue Information==
+
+Nowadays, security attacks on information and communication technology (ICT) are increasing. The ever-expanding utilization of the Internet has given rise to various types of new vulnerabilities and approaches to attack computer and communication systems; thus, making computers and network security a major concern. Due to the increasing pervasiveness of modern attacks, many organizations?mainly large commercial organizations?invest over 10% of their total ICT budget directly in network and computer security. The dynamic nature of security attacks?such as data compression, visualization, Advanced Persistent Threat (APT), ransomware, Internet of Things (IoT) attacks, and supply chain attacks?has caused an increased dynamicity of the security threats landscape, making traditional security approaches less efficient.
+
+On the other hand, the symmetry-adapted machine-learning paradigm is an emerging Artificial Intelligence (AI) technology that relies on the extraction and analysis of data to identify hidden patterns of data. It can extract and analyze data from ICT systems over the Internet, which further enables the detection of hidden and new attack patterns to tackle information security threats and challenges. Various machine learning techniques including clustering, association rules, and classification mechanisms can provide effective solutions to generalize and discover attack patterns for handling the recent information security threats such as malicious code, data leak, ransomware, APTs, data compression, etc. Moreover, emerging machine-learning paradigms, such as deep learning and extreme learning machine, can deal with incomplete and inconsistent information using pattern recognition and enable the detection of security attacks with limited computation capacity and lower detection times.
+
+
+==Topics==
+This Special Issue emphasizes the development and application of the machine learning paradigm to handle information security issues in computers and communication systems. We invite original and unpublished works that will contribute the continuing efforts to understand machine learning techniques in the field of information security. Topics of interest include, but are not limited to:
+?Detection of information security threats using symmetry-adapted machine learning
+?Symmetry-adapted machine learning for intrusion detection and prevention
+?Fraud evasion and detection using symmetry-adapted machine learning
+?Symmetry in adversarial machine learning for information security
+?Symmetry-adapted machine learning techniques for identifying information and data leakage
+?Symmetry in sequential learning for information security
+?Symmetry in efficient big data mining to protect against security attacks
+?Innovative deep learning framework for efficient detection of security attacks
+?Symmetry in meta-heuristic paradigm for information security
+?Design and development of intelligent security framework
+?Symmetry in cognitive science for information security using machine learning
+?Monitoring tool to secure symmetric communication network
+?Machine learning for symmetric social networks security
+
+
+==Manuscript Submission Information==
+Manuscripts should be submitted online at www.mdpi.com by registering and logging in to this website. Once you are registered, click here to go to the submission form. Manuscripts can be submitted until the deadline. All papers will be peer-reviewed. Accepted papers will be published continuously in the journal (as soon as accepted) and will be listed together on the special issue website. Research articles, review articles as well as short communications are invited. For planned papers, a title and short abstract (about 100 words) can be sent to the Editorial Office for announcement on this website.
+Submitted manuscripts should not have been published previously, nor be under consideration for publication elsewhere (except conference proceedings papers). All manuscripts are thoroughly refereed through a single-blind peer-review process. A guide for authors and other relevant information for submission of manuscripts is available on the Instructions for Authors page. Symmetry is an international peer-reviewed open access monthly journal published by MDPI.
+Please visit the Instructions for Authors page before submitting a manuscript. The Article Processing Charge (APC) for publication in this open access journal is 1200 CHF (Swiss Francs). Submitted papers should be well formatted and use good English. Authors may use MDPI's English editing service prior to publication or during author revisions. 
+
+
+==Keywords==
+
+?machine learning
+?artificial intelligence
+?deep learning
+?information security
+?internet of things
+?big data security
+?social networking security
+
+
+- The End -
+
+This special issue is now open for submission. 

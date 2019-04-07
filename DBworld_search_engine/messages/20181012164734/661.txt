@@ -1,0 +1,126 @@
+ï»¿
+Women in Data Science and High Performance Computing (WDSHPC18)
+December 17, 2018, Bangaluru, India
+http://hipc.org/widshipc/
+
+
+In conjunction with HiPC: 25th IEEE conference on High Performance Computing, Data,
+and Analytics 2018
+
+CALL FOR PAPERS
+
+ 
+
+While the HPC and data science research offers an unprecedented
+opportunity for growth in science, education, commerce, and
+communication, it also opens up new challenges and opportunities of
+engaging women. This workshop will provide a forum to bring together
+researchers discussing advanced methods in data analytics and will deal
+with practical applications where these can be used with key
+contributions from women scientists. The goal of this workshop is to
+bring together the state of the art research in the context of
+broadening participation from women researchers. Authors are invited to
+submit original unpublished research manuscripts that demonstrate
+current research in all areas of high performance computing, data and
+analytics. In addition, topics relevant to broadening participation from
+women are also invited. Example topics include but are not limited to:
+
+ 
+
+  * Analytics in application areas such as: wireless mobile networks,
+    financial services, transportation, implantable medical devices,
+    bioinformatics
+
+  * Core Data Analytics approaches for heterogeneous data,
+    spatio-temporal data and image data
+
+  * Opportunities and challenges for Women researchers
+
+  * Education in areas of Data Science and HPC 
+
+  * Parallel and distributed computing, algorithms or tools for
+    improving code performance on multi-node clusters.
+
+ 
+
+Manuscript Guidelines
+
+Submitted manuscripts should be structured as technical papers and may
+not exceed ten (10) single-spaced double-column pages using 10-point
+size font on 8.5Ã—11 inch pages (IEEE conference style), including
+figures, tables, and references. 
+
+Electronic submissions must be in the form of a readable PDF file. All
+manuscripts will be reviewed by the Program Committee and evaluated on
+originality, relevance of the problem to the conference theme, technical
+strength, rigor in analysis, quality of results, and organization and
+clarity of presentation of the paper.
+
+ 
+
+Submitted papers must represent original unpublished research that is
+not currently under review for any other conference or journal. 
+ 
+
+*Presentation of an accepted paper at the workshop is a requirement of
+publication. *Any paper that is not presented at the conference will not
+be included in  proceedings.
+
+ 
+
+ *Submission Portal*
+
+ Easy chair link: https://easychair.org/conferences/?conf=widshpc18
+
+ 
+
+
+        *Important Dates*                                               
+                                 
+
+August 30, 2018:  Abstract Submission deadline                                         
+
+September 9, 2018: Paper Submission deadline
+
+September 26, 2018: Author Notification                                
+
+October 3, 2018: Camera Ready Paper submission                                        
+ 
+
+
+         
+
+
+        Organising Committee 
+
+Vandana Janeja, /University of Maryland, Baltimore County, USA/
+
+Nitya Hariharan, /Intel, India/
+
+P. Chitra, /Thiagarajar College of Engineering, India/
+
+ 
+
+
+        Program Committee Members :
+
+Karuna P. Joshi, /University of Maryland, Baltimore County/
+
+Vijay Atluri, /Rutgers University/
+
+Nabanita Das, /Advanced Computing & Microelectronics Unit Indian
+Statistical Institute /
+
+Yelena Yesha, /University of Maryland, Baltimore County/
+
+Sonali Agarwal, /Indian Institute of Information Technology â€“ Allahabad /
+
+Ranjani Parthasarathi, /Anna University, Chennai/
+
+Hemangee Kapoor, /Indian Institute of Technology, Guwahati /
+
+Jyotsna Khemka, /Intel/
+
+Lucy Erickson, /AAAS Science and Technology Policy Fellow/ 
+
+ 

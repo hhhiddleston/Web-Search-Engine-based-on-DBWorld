@@ -1,0 +1,46 @@
+(Apologies for multiple postings)
+
+********************************************************************
+2nd International Workshop on Multimediaâ€based Educational and Knowledge Technologies for Personalized and Social Online Training (MultiEdTech 2019), January 8th, 2019
+Co-located with the 25th International Conference on MultiMedia Modeling
+http://mmm2019.iti.gr/2nd-international-workshop-on-multimedia-based-educational-and-knowledge-technologies-for-personalized-and-social-online-training-multiedtech-2019/ 
+********************************************************************
+IMPORTANT DATES
+Workshop paper submission deadline: August 27, 2018
+Notification of acceptance: September 17, 2018
+Camera-ready papers due: October 12, 2018
+********************************************************************
+
+Even though Technology Enhanced Learning (TEL) is an established field, Educational and Knowledge Technologies (EKT) is the new multimediaâ€driven learning. Indeed the process of digitization is progressing quickly and a current hype in the Silicon Valley is mobile and personalized learning. The driver and enabler of this movement is on the one side the development and widespread availability of multimedia materials and MOOCs, which represent multimedia content produced specifically for supporting onlineâ€learning; and, on the other side, by the ever increasing availability of all sorts of information on the Internet and in social media channels (e.g. lectures, research papers, userâ€generated videos, news items), which, despite not directly targeting onlineâ€learning, can prove to be valuable complements to the more targeted learning materials. Although the availability of such content is not a problem these days, finding the right content and associating different relevant pieces of multimedia so as to enable a comprehensive learning experience on a chosen subject is by no means a trivial task.
+
+TOPICS
+The scope of this workshop includes, but is not limited to:
+
+    â€“ Multimedia mobile search and retrieval for education
+    â€“ Multimedia analysis and understanding for education
+    â€“ Multimedia browsing, summarization, recommendation, and visualization technologies for education
+    â€“ Other multimediaâ€based educational and knowledge technologies
+    â€“ Multimediaâ€based educational applications and learning platforms
+
+WORKSHOP ORGANIZERS
+Ansgar Scherp (ZBW â€“ Leibniz Information Centre for Economics and Kiel University, Germany), General Co-Chair
+Thomas KÃ¶hler (TU Dresden, Germany), General Co-Chair
+Iacopo Vagliano (ZBW â€“ Leibniz Information Centre for Economics, Germany), General Co-Chair
+Vasileios Mezaris (Centre for Research and Technology Hellas, Greece), General Co-Chair
+
+
+Best regards,
+Iacopo Vagliano
+
+--
+Dr. Iacopo Vagliano
+Science 2.0 - Knowledge Discovery
+
+ZBW â€“ German National Library of Economics
+Leibniz Information Centre for Economics
+DÃ¼sternbrooker Weg 120
+24105 Kiel
+Germany
+T: +49 431 8814-427
+
+www.zbw.eu

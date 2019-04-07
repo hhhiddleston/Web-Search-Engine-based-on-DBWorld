@@ -1,0 +1,134 @@
+Call for Papers
+
+(Submission Deadline extended: Aug. 19, 2018)
+
+2018 IEEE International Conference on Big Data (IEEE Big Data 2018)
+http://cci.drexel.edu/bigdata/bigdata2018/index.html
+December 10-13, 2018,  Seattle, WA, USA
+ 
+In recent years, "Big Data" has become a new ubiquitous term. Big Data is transforming science, engineering, 
+medicine, healthcare, finance, business, and ultimately our society itself. 
+The IEEE BigData conference series started in 2013 has established itself as the top tier research conference in Big Data. 
+- The first conference IEEE Big Data 2013 had more than 400 registered participants from 40 countries 
+( http://cci.drexel.edu/bigdata/bigdata2013/) and the regular paper acceptance  rate is 17.0%.
+- The IEEE Big Data 2017 ( http://cci.drexel.edu/bigdata/bigdata2017/ ,  regular paper acceptance rate: 17.8%) was held 
+in Boston, MA, Dec 11-14, 2017 with close to 1000 registered participants from 50 countries.
+ 
+The 2018 IEEE International Conference on Big Data (IEEE Big Data 2018) will continue the success of the previous IEEE Big Data conferences. 
+It will provide a leading forum for disseminating the latest results in Big Data Research, Development, and Applications. 
+ 
+We solicit high-quality original research papers (and significant work-in-progress papers) in any aspect of Big Data 
+with emphasis on 5Vs (Volume, Velocity, Variety, Value and Veracity), including the Big Data challenges in scientific and engineering, 
+social, sensor/IoT/IoE, and multimedia (audio, video, image, etc.) big data systems and applications. 
+Example topics of interest includes but is not limited to the following:
+ 
+1.    Big Data Science and Foundations
+a.    Novel Theoretical Models for Big Data
+b.    New Computational Models for Big Data 
+c.    Data and Information Quality for Big Data
+d.    New Data Standards
+ 
+2.    Big Data Infrastructure
+a.    Cloud/Grid/Stream Computing for Big Data 
+b.    High Performance/Parallel Computing  Platforms for Big Data
+c.    Autonomic Computing and Cyber-infrastructure, System Architectures, Design and Deployment
+d.    Energy-efficient Computing for Big Data
+e.    Programming Models and Environments for Cluster, Cloud, and Grid Computing to Support Big Data 
+f.    Software Techniques and Architectures in Cloud/Grid/Stream Computing
+g.    Big Data Open Platforms
+h.    New Programming Models for Big Data beyond Hadoop/MapReduce, STORM 
+i.    Software Systems to Support Big Data Computing
+ 
+3.    Big Data Management
+a.    Search and Mining of variety of data including scientific and engineering, social, sensor/IoT/IoE, and multimedia data
+b.    Algorithms and Systems for Big DataSearch
+c.    Distributed, and Peer-to-peer Search
+d.    Big Data Search  Architectures, Scalability and Efficiency
+e.    Data Acquisition, Integration, Cleaning,  and Best Practices
+f.    Visualization Analytics for Big Data 
+g.    Computational Modeling and Data Integration 
+h.    Large-scale Recommendation Systems and Social Media Systems
+i.    Cloud/Grid/Stream Data Mining- Big Velocity Data
+j.    Link and Graph Mining
+k.    Semantic-based Data Mining and Data Pre-processing
+l.    Mobility and Big Data
+m.    Multimedia and Multi-structured Data- Big Variety Data
+ 
+ 
+4.    Big Data Search and Mining
+a.    Social Web Search and Mining
+b.    Web Search
+c.    Algorithms and Systems for Big Data Search
+d.    Distributed, and Peer-to-peer Search
+e.    Big Data Search  Architectures, Scalability and Efficiency
+f.    Data Acquisition, Integration, Cleaning,  and Best Practices
+g.    Visualization Analytics for Big Data 
+h.    Computational Modeling and Data Integration 
+i.    Large-scale Recommendation Systems and Social Media Systems
+j.    Cloud/Grid/StreamData Mining- Big Velocity Data
+k.    Link and Graph Mining
+l.    Semantic-based Data Mining and Data Pre-processing
+m.    Mobility and Big Data
+n.    Multimedia and Multi-structured Data- Big Variety Data
+ 
+5.    Big Data Security, Privacy and Trust
+a.    Intrusion Detection for Gigabit Networks 
+b.    Anomaly and APT Detection in Very Large Scale Systems
+c.    High Performance Cryptography 
+d.    Visualizing Large Scale Security Data
+e.    Threat Detection using Big Data Analytics
+f.    Privacy Threats of Big Data
+g.    Privacy Preserving Big Data Collection/Analytics
+h.    HCI Challenges for Big Data Security & Privacy
+i.    User Studies for any of the above
+j.    Sociological Aspects of Big Data Privacy
+k.    Trust management in IoT and other Big Data Systems
+ 
+ 
+6.    Big Data Applications
+a.    Complex Big Data Applications  in Science, Engineering, Medicine, Healthcare, Finance, 
+      Business, Law, Education, Transportation, Retailing, Telecommunication
+b.    Big Data Analytics in Small Business Enterprises (SMEs),
+c.    Big Data Analytics in Government, Public Sector and Society in General
+d.    Real-life Case Studies of Value Creation through Big Data Analytics
+e.    Big Data as a Service
+f.    Big Data Industry Standards
+g.    Experiences with Big Data Project Deployments
+ 
+INDUSTRIAL Track
+The Industrial Track solicits papers describing implementations of Big Data solutions relevant to industrial settings. 
+The focus of industry track is on papers that address the practical, applied, or pragmatic or new research challenge issues 
+related to the use of Big Data in industry. We accept full papers (up to 10 pages) and extended abstracts (2-4 pages).
+ 
+Student Travel Award
+IEEE Big Data 2018 will offerstudent travel to student authors (including post-docs) 
+ 
+Paper Submission:
+Please submit a full-length paper (up to 10 page IEEE 2-column format) through the online submission system. 
+https://wi-lab.com/cyberchair/2018/bigdata18/scripts/submit.php?subarea=BigD
+Papers should be formatted to IEEE Computer Society Proceedings Manuscript Formatting Guidelines 
+(see link to "formatting instructions" below).
+
+Formatting Instructions:
+8.5" x 11" (DOC,PDF)
+LaTex Formatting Macros
+
+Important Dates:
+Electronic submission of full papers: August 19, 2018
+Notification of paper acceptance: Oct 16, 2018
+Camera-ready of accepted papers: Nov 10, 2018
+Conference: Dec 10-13, 2018
+ 
+Conference co-chairs:
+Dr. Donald Kossmann   Microsoft Research, USA
+Prof. Bing Liu   University of Illinois at Chicago, USA
+ 
+PC Co-chairs
+Dr. Naoki Abe   IBM T.J. Watson Research Center, USA
+Prof. Huan Liu   Arizona State University, USA
+Prof. Calton Pu   Georgia Institute of Technology, USA
+ 
+Industry and government program committee chairs
+Dr. Nesreen Ahmed   Intel Labs, USA
+Dr. Mu Qiao   IBM Almaden Research Center, USA
+Dr. Yang Song   Google Seattle Lab, USA

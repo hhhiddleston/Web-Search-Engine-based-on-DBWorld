@@ -1,0 +1,44 @@
+The L3S Research Center, Hannover, Germany, invites applications for
+
+             one Postdoc and two Ph.D. research positions
+
+in the areas of Machine Learning, Data Mining, Semantic Technologies and Natural Language Processing.
+
+Your work will focus on conducting large-scale data analysis in several application domains, including 
+in particular mobility and logistics as well as on enhancing the usability and explainability of machine 
+learning and data analytics approaches.
+
+In your work you will develop solutions to real-world problems that require large-scale data analytics while 
+utilizing distributed platforms such as Hadoop, HBase and Storm as well as state-of-the-art machine learning 
+libraries including Apache Spark MLlib, SANSA and TensorFlow.  
+
+Your research will connect to our work in the projects Simple-ML and Data4UrbanMobility 
+(http://data4urbanmobility.l3s.uni-hannover.de) funded by The Federal 
+Ministry of Education and Research, Germany (BMBF), and provide important input to the development of the 
+integrated data analytics and machine learning platforms.  
+
+Your research will focus on selected topics in the following areas
+
+    * Large-scale data analytics
+    * Dataset profiling
+    * Application of Knowledge Graphs and RDF in Machine Learning
+    * Usability and explainability of Machine Learning
+    * Question answering and dialog systems
+
+in a challenging and unique research environment.
+
+You should possess good knowledge in one or several areas relevant for the topics specified in this announcement. 
+Good proficiency in English and German is expected, as well as an outstanding M.Sc. or Ph.D. in computer science. 
+International experience during your studies or afterwards as well as good social and communication skills are helpful.
+
+The salary amounts to German TV-L E13/E14, which is roughly 40.000 to 50.000 Euro gross income per year.
+
+Please submit your application including the usual documents as well as a list of references, preferably by email, to
+
+Prof. Dr. Wolfgang Nejdl
+L3S Research Center
+Appelstrasse 4
+30167 Hannover, Germany
+http://www.L3S.de/
+http://www.kbs.uni-hannover.de/~nejdl/
+E-Mail: nejdl@L3S.de

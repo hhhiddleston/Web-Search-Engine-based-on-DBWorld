@@ -1,0 +1,244 @@
+SCI Academic Council. (I am already in it)
+Curriculum
+Tenure Stream Recruiting Committee
+Faculty Affairs
+Non-Tenure Stream Recruiting Committee
+Planning and Budget Committee (incorporating Space Committee)
+
+IEEE CIC 2018 CALL FOR PAPERS - SECOND ROUND SUBMISSIONS
+
+(Apologies if you received multiple copies)
+
+IEEE 4th International Conference on Collaboration and Internet Computing
+Sheraton Philadelphia University City Hotel
+Philadelphia, PA, USA. 
+Oct 18-20, 2018 
+
+http://www.ieee-cic.org/ 
+
+Important Dates
+
+Full Paper submission deadline: August 17, 2018
+Notification of acceptance: September 14, 2018
+Camera Ready Submission: September 21, 2018
+
+Confirmed Special/Affiliated Issues:
+-------------------------------------
+
+[1] Selected papers will be invited for Special "Editor Select" section in IEEE Internet Computing
+
+[2] Extended papers from CIC are encouraged to be submitted to Special Issue/Section in the IEEE Transactions on Emerging Topics in Computing (TETC) titled: "Emerging Trends and Design Paradigms for Collaboration and Internet Computing"
+
+[3] Extended relevant papers are encouraged to be submitted to Special Issue in the IEEE Transactions on Services Computing titled "Holistic Technologies for Managing Internet of Things Services"
+
+HIGHLIGHTS
+----------
+
+-- Upto 6 Keynotes
+-- BLUE SKY/VISION track papers
+-- Several workshops, tutorial, & Special Issues/Section.
+
+CONFIRMED Keynotes
+------------------
+
+-- Susan B. Davidson, Weiss Professor, University of Pennsylvania, USA
+-- Arjmand Samuel, Principal Program Manager, Microsoft, USA
+-- Aameek Singh, Vice President of Engineering, IBM Watson
+-- More to confirm
+
+
+SIX CONFIRMED Workshops
+-------------------------
+
+[1] ECISeH 2018: First International Workshop on Emerging Cloud, IoT & Social Network Solutions for e-Health
+
+[2] TeC4C 2018: First International Workshop on Technology Convergence for Smart Cities
+
+[3] BTCA 2018: International Workshop on Blockchain Technology for Collaborative Applications
+
+[4] ISCBD 2018: 3rd International Workshop on Internet-scale Clouds and Big Data 
+
+[5] SPO-CMSN 2018: First International Workshop on Security, Privacy and Optimality in Collaborative Mobile Social Networks
+
+[6] I-CAPTCHA 2018: First International Workshop on oT and Cloud based Collaborative Analytics for Prevention of Crimes and Heinous Activities 
+
+
+Scope
+
+Internet has revolutionized the globalized society and enabled the growth of infrastructures, applications, and technologies that significantly enhance global interactions and collaborations that have significant impact on society. Unprecedented cyber-social, and cyber-physical infrastructures and systems that span geographic boundaries are possible because of the Internet and the growing number of collaboration enabling technologies. Individuals and organizations have increasingly relied on electronic and/or Internet-enabled collaboration between distributed teams of humans, computer applications, and/or autonomous robots to achieve higher productivity and produce collaboratively developed products that would have been impossible to develop without the contributions of multiple collaborators.
+
+Technology has evolved from standalone tools, to open systems supporting collaboration in multi-organizational settings, and from general purpose tools to specialized collaboration platforms. Future collaboration and Internet computing solutions that further the goal of achieving the full potential of global level collaboration require advancements in networking, technology and systems, user interfaces and interaction, cooperation and collaboration paradigms, and interoperation with application-specific components and tools.
+
+IEEE CIC has been conceived as the key multidisciplinary venue to serve as a premier international forum for discussion among academic and industrial researchers, practitioners, and students interested in Internet technologies, applications and services, collaborative networking, technology and systems, and applications.
+
+Topics
+Topics of interest include,ÃŠBUT are not limited to:
+
+--------------------------------------------------------------
+* Enabling Internet-scale collaborative networking & computing
+Internet-based technologies & infrastructure for collaboration 
+--------------------------------------------------------------
+
+o From cloud to fog/edge for collaborative computing
+o Internet of Everything for collaboration
+o Data and service models for collaboration
+o Quality of service and experience
+o Service management and testing
+o System engineering, metrics and performance
+o Cyber science and Data science
+Security, privacy and trust in collaborative computing
+o Resilient and trustworthy Internet
+o Big data analytics for data-driven collaboration
+o Social computing for collaboration
+o Cognitive collaboration
+o Web services and Service Oriented Architectures for Collaborative Internet services 
+
+-------------------------------
+* Approaches to collaboration *
+-------------------------------
+
+o Domain-specific social and collaborative applications
+o Crossover service computing
+o Collaboration in pervasive and cloud computing environments
+o Collaboration techniques in data-intensive computing and cloud computing
+o Collaborative technologies for fast creation and deployment of new mobile services
+o Collaborative sensor networks
+o Social networks and services
+o Human-provided and outsourcing of services
+o Collaborative search and question answering
+o Human computation and crowdsourcing
+o Participatory sensing, crowdsourcing, and citizen science
+o Collaboration computing between human and machine
+o Collaborative technologies for cyber-physical-human environments
+o Socio-technical and policy frameworks for collaboration and Internet computing
+Influence of/on CIC on/from other fields (arts and sciences, engineering, law, cultures, management and economics, etc.) o 
+
+----------------
+* Applications *
+----------------
+
+o Platforms for process, factory, and industrial applications
+o Vehicle networks and applications
+o Smart cities and smart territories
+o Collaborative robotics
+o Collaborative E-Commerce
+Collaborative e-Learning environmentso 
+o Collaborative health networks and services
+o Collaborative Science
+o Collaboration for disaster/crisis management  
+o Collaborative manufacturing and supply chain management
+o Collaboration for resilient critical infrastructures[MOU1]
+o Collaboration for personalized services
+
+
+***********************
+Blue Sky/Vision Track *
+*********************** 
+
+We would like to solicit papers that promote visionary ideas and blue sky thinking in areas aligned with the conference themes. These papers are expected to spark intense discussions and newer research directions/insights through potentially disruptive, controversial, or highly cross-disciplinary ideas that look forward to collaboration and internet computing space for the next 10 years and beyond. Ideas that are just being conceived, not fully developed, far from experimentally evaluated, or out-of-the box are highly encouraged. The papers should follow the same format as the regular conference papers and are limited to 6 pages.
+
+***********************
+Industry Track Papers *
+***********************
+
+We would like to solicit papers that focus on design, implementation and deployment of solutions related to Collaboration and Internet Computing within the industrial or government environments. The papers submitted to this track are expected to advance practical and applied research focused on the use of CIC technologies, and real world CIC relevant networks, systems applications. Applications, such as: Internet enabled collaborative e-commerce, medical and pharmaceutical, defense, critical cyber-physical infrastructures, public policy, finance, engineering, environment, manufacturing, telecommunications, and government.
+The Industry/Government Track will include papers selected through a separate program committee. Authors must clearly indicate sub-areas their papers are to be evaluated in because distinct criteria may be used for reviewing different category of submissions:
+
+-----------
+* Deployed:
+-----------
+
+Deployed systems that aim to provide real practical value to industry, Government, or other organizations, or communities. The papers should point out how the deployed system explicitly leverage CIC technologies or describe either qualitatively (lessons learnt, deployment experiences, etc.) or quantitatively the effect of use of CIC relevant technology in operational environments.
+
+-----------
+* Emerging:
+-----------
+
+Newer applications that use collaboration and internet computing as central themes are expected here. The authors should clearly demonstrate value and interest to Industry, Government of society (e.g., scientific or medical professions; critical infrastructures). Papers that describe infrastructure development and deployment that enables the large-scale deployment of CIC technologies or their validation are also in these areas.
+
+Workshops Proposals
+Proposals for half-day or full day workshops that focus on IEEE CIC 2018 related themes are solicited. Workshop proposals should be at most five pages, including a biographical sketch of each instructor, and submitted to the Workshop Chairs. Proposals will be evaluated based on the expertise and experience of the organizers and the relevance and importance of the subject matter. Please refer to call for workshop proposals for details.
+Panels Proposals
+Proposals for panel discussions that focus on future visions relevant to Collaboration and Internet Computing are preferred. Potential panel organizers should submit a panel proposal of at most five pages, including biographical sketches of the proposed panelists to the Panel Chairs.
+
+Tutorials Proposals
+Proposals for full and half-day tutorials are solicited. Tutorials are intended to enhance the technical program, and as such they should be relevant to collaborative computing, networking, internet technologies, worksharing, and applications. Potential tutorial presenters should submit a tutorial proposal of at most three pages, including: description of potential audience and background knowledge expected from the audience, if any; tutorial description; biographical sketch(s) of presenter(s).
+
+-------
+Awards:
+-------
+
+IEEE CIC will feature a Best Paper award and a Best Student Paper award (to be selected by the program committee/best paper award team). A paper is eligible for the Best Student Paper award if the first author is a full-time student at the time of submission. A partial travel grant or cash award may be offered to the winner student depending on fund availability.
+Paper Submission.
+
+------------
+Submissions:
+------------
+
+We invite original research papers that have not been previously published and are not currently under review for publication elsewhere. Contributions addressing all areas related to collaborative networking, technology and systems, and applications are solicited. Papers submitted to Regular or Industry/Gov track should be no longer than 10 pages in the standard two column IEEE proceedings format, which can be found at https://www.ieee.org/conferences_events/conferences/publishing/templates.html. The papers can be submitted at https://easychair.org/conferences/?conf=ieeecic2018
+
+Review Policy:
+
+IEEE Policy and professional ethics require that referees treat the contents of papers under review as privileged information not to be disclosed to others before publication. It is expected that no one with access to a paper under review will make any inappropriate use of the special knowledge, which that access provides. Contents of abstracts submitted to conference program committees should be regarded as privileged as well, and handled in the same manner. The Conference Publications Chair shall ensure that referees adhere to this practice.
+Organizers of IEEE conferences are expected to provide an appropriate forum for the oral presentation and discussion of all accepted papers. An author, in offering a paper for presentation at an IEEE conference, or accepting an invitation to present a paper, is expected to be present at the meeting to deliver the paper. In the event that circumstances unknown at the time of submission of a paper preclude its presentation by an author, the program chair should be informed on time, and appropriate substitute arrangements should be made. In some cases it may help reduce no-shows for the Conference to require advance registration together with the submission of the final manuscript.
+
+Steering Committee
+
+- Arun Iyengar, IBM, USA
+- Calton Pu, Georgia Institute of Technology, USA
+- Dimitrios Gerogakopolous, CSIRO, Australia
+- Elisa Bertino, Purdue University, USA
+- James Joshi(Chair), University of Pittsburgh, USA
+- Ling Liu, Georgia Institute of Technology, USA
+- Karl Aberer, EPFL, Switzerland
+- Tao Zhang, Cisco, USA
+- Weisong Shi, Wayne State University, USA
+- Zhaohui Wu, Zhejiang University, China
+
+
+General Co-Chairs
+- M. Brian Blake, Drexel University, USA
+- Schahram Dustdar, TU Wien, Vienna
+- James Joshi, University of Pittsburgh, USA
+
+Program Co-Chairs
+- Valerie Issarny, Inria, France
+- Mudhakar Srivatsa, IBM T. J. Watson, USA
+- Jaideep Vaidya, Rutgers University, USA
+
+Blue Sky/Vision Track Chairs
+- Calton Pu, Gerogia Tech, USA
+- Elisa Bertino, Purdue University, USA
+
+Panels Co-Chairs
+- Weisong Shi, Wayne State University, USA
+- Balaji Palanisamy, University of Pittsburgh, USA
+
+Industry/Gov Track Co-Chairs
+- Surya Nepal, Data61-CSIRO, Australia
+- Johnson Plathottam Jose, Cisco Systems., India
+- Bharat Rawal, Pennsylvania State University, Abington
+
+Workshop Co-Chairs
+- Massimo Villari, UniversitË† degli Studi di Messina, Italy
+- Danda B. Rawat, Howard University, USA
+
+Sponsorship Co-Chairs
+- Ling Liu, Georgia Institute of Technology, USA
+- Dimitrios Georgakopoulous, Swinburne University of Technology, Australia
+
+Tutorials Co-Chairs
+- Mohan Baruwal Chhetri, Swinburne University of Technology, Australia
+
+Publication Co-Chair
+- Amirreza Masoumzadeh, State University of New York at Albany, USA
+
+Publicity Chairs
+- Nathalie Baracaldo, IBM Research at Almaden, USA
+- James Joshi, University of Pittsburgh, USA
+
+Local Arrangements Chair
+- Julian Jarrett, University of Technology, Jamaica
+
+Webmaster
+- Runhua Xu. University of Pittsburgh, USA

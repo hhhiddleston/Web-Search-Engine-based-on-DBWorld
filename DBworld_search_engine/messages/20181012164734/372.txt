@@ -1,0 +1,10 @@
+The University of Glasgow, Scotland UK, is seeking a postdoctoral researcher to contribute to the EC-funded BigDataStack project (https://bigdatastack.eu/), working with Professor Iadh Ounis, Dr Craig Macdonald and Dr Richard McCreadie, and cooperating with various industrial and academic partners involved in the BigDataStack project. Specifically, the job requires experience in machine learning and information retrieval, as well as knowledge in the deployment and/or scheduling of containerized applications within compute clusters/clouds using environments such as Docker or Kubernetes. The successful candidate will also be expected to contribute to the formulation and submission of research publications and research proposals as well as help manage and direct this complex and challenging project as opportunities allow.
+
+Salary will be level 6/7, £28,098 - £31,604 / £34,520 - £38,833 per annum. This post is full time and funding is available for 18 months in the first instance.
+
+Deadline for applications: 26th September 2018
+
+For more information and application process, see ref E20360
+https://www.jobs.ac.uk/job/BMJ368/research-assistant-associate
+
+Informal enquiries can be addressed to Iadh Ounis or Craig Macdonald

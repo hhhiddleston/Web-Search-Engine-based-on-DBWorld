@@ -1,0 +1,23 @@
+Multiple Post-Doctoral Data Scientist Positions - Grab-NUS AI Lab, Singapore
+
+We have multiple postdoctoral data scientist openings for the Grab-NUS AI Lab anchored at the Institute of Data Science (http://ids.nus.edu.sg) at National University of Singapore (NUS).
+
+Grab (http://www.grab.com/sg/) is Southeast Asia’s leading on-demand transportation platform. The Grab-NUS AI Lab aims to solve transportation challenges with intelligent insights and innovative services enabled by rigorous research in AI and data science.
+
+Launched on 18 July 2018, the lab is Grab's first AI lab to leverage on the opportunity to study transport patterns across Southeast Asia and develop intelligent urban transportation solutions for the region (https://www.straitstimes.com/business/companies-markets/grab-and-nus-launch-first-of-its-kind-ai-lab).
+
+The lab will focus on five key areas: passengers, drivers, traffic, locations, and big data AI platform. We will develop big data-driven machine-learning algorithms to predict and meet the needs of both the passengers and drivers, as well as to understand and model the city’s traffic and its locations better. The lab will also develop a state-of-the-art visual AI platform for big data to deploy the algorithms on big data.
+
+The successful candidate(s) will conduct advance research on AI and data science in one the five focus areas mentioned above, led by distinguished professors from NUS’ Computing Department.
+
+Requirements:
+
+* PhD in Computer Science or related field, with specialization related to data mining, machine learning, or databases;
+* Publications in top-tier conferences in Data Mining, Machine Learning, Databases and other relevant areas;
+* Prior research experience in transportation data analytics would be a plus;
+* Proficiency in large-scale programming systems for big data and AI;
+* Good oral and written skills in English;
+* Passionate in working with developers and users to get solutions into use;
+* Effective in working in a team, with people of diverse skillsets and background, including industry end-users.
+
+The appointment will be for two years.  If interested, please send your resume and a cover letter to seekiong@nus.edu.sg.

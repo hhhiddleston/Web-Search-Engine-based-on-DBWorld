@@ -1,0 +1,193 @@
+---------------------------------------------------------------------------------
+[Our apologies if you receive multiple copies of this CFP]
+---------------------------------------------------------------------------------
+Call for Papers
+The 6th International Conference on Agreement Technologies (AT2018)
+December 6-7, 2018
+Bergen, Norway
+URL : http://at2018.imt-lille-douai.fr
+--------------------------------------------------------------------------------
+
+Highlights:
+
+- Post-proceedings in Springer LNAI volume 
+- Indexed in Scopus, ISI Conference Proceedings Citation Index, and DBLP
+- JCR-ranked journal Special Track and Special Section: AI-communications and ComSIS
+- Best early-researcher paper award
+- Registration fee waivers for the best early-researcher papers
+- "Shared Decision Making in Human-Robot Teams", invited talk by Prof. Elizabeth Sklar from King's College London 
+
+Abstract due date: September 25th, 2018
+Paper due date: October 1st, 2018
+
+--------------------------------------------------------------------------------
+
+Agreement Technologies refer to computer systems in which autonomous software agents negotiate with one another, typically on behalf of humans, in order to come to mutually acceptable agreements. An agent may choose whether to fulfil an agreement or not, and it should fulfil it when there is an obligation to do so derived from the standing agreements. Autonomy, interaction, mobility and openness are key concepts studied within Agreement Technologies approach. Semantic alignment, negotiation, argumentation, virtual organisations, trust and reputation and several other technologies are part of the sandbox to define, specify and verify such systems.
+
+The International Conference Series on Agreement Technologies is an interdisciplinary forum that brings together researchers and practitioners working on the various topics comprising this emergent and vibrant field. It provides an avenue to discuss and exchange new ideas and techniques for the design, implementation and verification of next generation open distributed systems centred on the notion of agreement among computational agents.
+ 
+AT 2018 follows the successful outcome of the previous editions of the International Conference Series on Agreement Technologies: AT 2012 in Dubrovnik, Croatia, AT 2013 in Beijing, China, AT 2015 in Athens, Greece,  AT 2016 in Valencia, Spain, and AT 2017 in Évry, France.
+
+
+TOPICS OF INTEREST
+
+We invite research papers including but not limited to the following topics:
+
+• Agreement technologies, architectures, environments, and methodologies
+• Agreement patterns
+• Argumentation and negotiation
+• Coalition and team formation
+• Real-time agreements
+• Distributed decision making and coordination
+• Computational social choice
+• Social intelligence
+• Logics for agreements
+• Decision and game theoretic foundations for agreement
+• Deliberative agreement: social choice and collective judgment
+• Evolution of organisational structures
+• Agent commitments
+• Group planning agreements
+• Social welfare, fairness and ethics in agreements
+• Agreement and coordination optimisation
+• Semantic service coordination
+• Normative systems
+• Individual reasoning about norm adoption
+• Collective deliberation about norm adoption
+• Autonomic electronic institutions
+• Inter-theory relations
+• Semantic alignment
+• Trust and reputation
+• Applications of agreement technologies (e.g. web service composition, contract automation, supply chain automation, sensor networks, multi-robot systems, etc.)
+
+
+SUBMISSIONS
+
+AT 2018 welcomes original, unpublished papers. We especially invite submissions by early-researchers who could benefit from receiving valuable feedback from the discussion-oriented focus of the conference. Best early-researcher paper award together with registration fee waivers for the best papers of early-researchers (PhD students and post-docs) are planned.
+
+Authors are invited to submit papers in the following two categories:
+
+• Full Papers (12-15 pages): Papers in this category should represent original and previously unpublished work that is currently not under review in any conference or journal. Both basic and applied research papers are welcome.
+
+• Short Papers (6-8 pages): These papers are intended for the discussion of ideas and concepts related to research and application of agreement technologies. Examples could include thoughtful critiques of the field, technical discussions of various implementation techniques, methodological contributions, and visionary ideas that propose long-term challenges and new research and application opportunities that are outside the current mainstream of the field.
+
+Each submission will undergo a double-blind peer-review process with three peer reviews. All submissions must be written in English and formatted according to the Springer LNCS style, which can be obtained from: http://www.springer.de/comp/lncs/authors.html . We request the submission of title and abstract prior to paper submission to support the tight schedule of reviewing. Authors must submit their abstracts and papers through the AT2018 Easychair submission site https://easychair.org/conferences/?conf=at2018.
+
+For preparing your paper, you will need to download the following files from the Springer web site:
+• For Microsoft word users : Microsoft Word Templates (zip).
+• For Latex users: LaTeX2e Proceedings Templates (llncs2e.zip) and the sample input typeinst.zip .
+ 
+
+POST-PROCEEDINGS IN SPRINGER LNAI 
+
+AT 2018 proceedings will be published as a Springer Lecture Notes in Artificial Intelligence (LNAI) post-proceedings volume (www.springer.com/lncs). Revised selected full and short papers describing original, unpublished work accepted and presented at AT 2018 will be included in the post-proceedings. We will give to the authors of accepted and presented papers the opportunity to revise the camera-ready version of their paper(s) in order to incorporate feedback received upon the presentation of their work during the conference.
+
+
+JCR-RANKED JOURNAL SPECIAL TRACK AND SECTION: AI-Communications and ComSIS
+
+A Special Track in the AI-COMMUNICATIONS Journal ( http://www.iospress.nl/journal/ai-communications/ ) with extended versions of the best high-quality papers from the AT 2018 conference will be published. AI Communications is a JCR-ranked Journal on Artificial Intelligence (AI) which has a close relationship to EurAi (European Association for Artificial Intelligence). 
+
+Moreover, if the quantity and quality of submissions justify it, we have arranged also an invitation to a Special Section for AT 2018 of JCR-ranked journal "Computer Science and Information Systems: ComSIS" (www.comsis.org). Submissions will be reviewed according to the policies of these journals.
+
+
+IMPORTANT DATES
+
+• Deadline for registering abstracts: September 25th, 2018
+• Deadline for paper submission: October 1st, 2018
+• Final decisions to authors: October 25th, 2018
+• Camera-ready papers: November 1st, 2018
+• Conference: December 6th-7th, 2018
+
+All deadlines are at 23:59 UTC-12, i.e. before midnight on the respective date anywhere in the World.
+
+
+VENUE AND CONTACT DETAILS
+ 
+The conference will be held at the University of Bergen, Fosswinckelsgt. 6. 5007 Bergen, Norway.
+ 
+
+PROGRAM COMMITTEE (tentative)
+
+• Giulia Andrighetto. Institute of Cognitive Sciences and Technologies (ISTC CNR), Rome, Italy.
+• Estefanía Argente. Universitat Politecnica de Valencia, Spain.
+• Reyhan Aydogan. TU Delft, Netherlands and Özyegin University, Istanbul, Turkey.
+• Silvana Badaloni. University of Padova, Italy.
+• Javier Bajo. Universidad Politecnica de Madrid, Spain.
+• Roberto Basili. University of Rome "Tor Vergata", Italy.
+• Floris Bex. Utrecht University. Netherlands.
+• Holger Billhardt. Universidad Rey Juan Carlos, Madrid, Spain.
+• Olivier Boissier. Ecole des Mines de Saint-Étienne,  France.
+• Elise Bonzon. LIPADE-Université Paris Descartes, Paris, France.
+• Elena Cabrio. Université Côte d’Azur, Inria, CNRS, I3S, Sophia Antipolis, France.
+• Carlos Carrascosa. Universitat Politecnica de Valencia, Spain.
+• Pompeu Casanovas. Universitat Autònoma de Barcelona,  Spain.
+• Amedeo Cesta. Institute of Cognitive Sciences and Technologies (ISTC CNR), Rome, Italy.
+• Carlos Chesñevar. Universidad Nacional del Sur, Bahia Blanca, Argentina.
+• Stéphanie Combettes. Institut de recherche en informatique de Toulouse, France.
+• Paul Davidsson. Malmö University, Sweden.
+• Sylvie Doutre. IRIT - University of Toulouse, France.
+• Arnaud Doniec. IMT Lille Douai, France.
+• Alberto Fernandez. Universidad Rey Juan Carlos, Madrid, Spain.
+• Rubén Fuentes-Fernández. Universidad Complutense de Madrid, Spain.
+• Maria Ganzha. Warsaw University of Technology, Warsav, Poland.
+• Stefano Giordani. University of Rome "Tor Vergata", Italy.
+• Adriana Giret. Universitat Politecnica de Valencia, Spain.
+• Jorge Gómez-Sanz. Universidad Complutense de Madrid, Spain.
+• Floriana Grasso. University of Liverpool, UK.
+• Stella Heras. Universitat Politecnica de Valencia, Spain.
+• Carlos A. Iglesias. Universidad Politecnica de Madrid, Spain.
+• Takayuki Ito. Nagoya Institute of Technology, Japan.
+• Mirjana Ivanovic. University of Novi Sad, Serbia.
+• Gordan Ježic. University of Zagreb, Croatia.
+• Vicente Julian. Universitat Politecnica de Valencia, Spain.
+• Jeroen Keppens. King's College London, UK.
+• Matthias Klusch. DFKI, German Research Center for AI, Saarbrücken, Germany.
+• Ryszard Kowalczyk. Swinburne University of Technology, Melbourne, Australia.
+• Mario Kušek. University of Zagreb, Croatia.
+• Lea Kutvonen. University of Helsinki, Finland.
+• Jerome Lang. LAMSADE, Universite Paris-Dauphine, France.
+• Beishui Liao. Zhejiang University, Hangzhou City, Zhejiang, China.
+• Joao Leite. Universidade Nova de Lisboa, Portugal.
+• Emiliano Lorini. Universite Paul Sabatier IRIT, Toulouse, France.
+• Guillaume Lozenguez. IMT Lille Douai, France.
+• Viorel Negru. West University of Timisoara, Romania.
+• Paulo Novais. University of Minho, Portugal.
+• Eugenio Oliveira. Faculdade de Engenharia Universidade do Porto, Portugal.
+• Eva Onaindia. Universitat Politecnica de Valencia, Spain.
+• Nir Oren. University of Aberdeen, UK.
+• Sascha Ossowski. Universidad Rey Juan Carlos, Madrid, Spain.
+• Mario Paolucci. Institute of Cognitive Sciences and Technologies (ISTC CNR), Rome, Italy.
+• Simon Parsons. King's College London, UK.
+• Marcin Paprzycki. Polish Academy of Sciencies, Warsaw, Poland.
+• Axel Polleres. Vienna University of Economics and Business (WU-Wirtschaftsuniversität Wien), Austria.
+• Jelica Protic. University of Belgrade, Serbia.
+• Miguel Rebollo. Universitat Politecnica de Valencia, Spain.
+• Alessandro Ricci. University of Bologna, Italy.
+• Sara Rodriguez. University of Salamanca, Spain.
+• Jörg Rothe. Universität Düsseldorf, Germany.
+• Jordi Sabater-Mir. Institut d'Investigació en Inteligència Artificial (IIIA-CSIC), Barcelona, Spain.
+• Victor Sanchez-Anguix. Coventry University, UK.
+• Miloš Savic. University of Novi Sad, Serbia.
+• Marco Schorlemmer. Artificial Intelligence Research Institute IIIA-CSIC, Barcelona, Spain.
+• Michael Ignaz Schumacher. University of Applied Sciences, Sierre, Switzerland.
+• Emilio Serrano. Polytechnic University of Madrid, Spain.
+• Carles Sierra. Artificial Intelligence Research Institute IIIA-CSIC, Barcelona, Spain
+• Elizabeth Sklar. King's College London, UK.
+• Marija Slavkovik. University of Bergen, Norway.
+• Giuseppe Stecca. Institute for Systems Analysis and Computer Science "Antonio Ruberti" (IASI-CNR), Rome, Italy.
+• Francesca Toni. Imperial College London, UK.
+• Denis Trcek. University of Ljubljana, Slovenia.
+• Alessandro Umbrico. Institute of Cognitive Sciences and Technologies (ISTC CNR), Rome, Italy.
+• Serena Villata. Université Nice Sophia Antipolis, France.
+• George Vouros. University of Piraeus, Greece.
+• Marin Vukovic, University of Zagreb, Croatia.
+• Antoine Zimmermann. ISCOD, Ecole des Mines de Saint-Étienne, France.
+• László Zsolt Varga. Eötvös Loránd University, Budapest, Hungary.
+
+
+ORGANIZING COMMITTEE
+ 
+• Marin Lujak, IMT Lille Douai, France (Chair)
+
+• Marija Slavkovik, University of Bergen, Norway (Local Chair)
+ 
+All questions about submissions should be emailed to AT Organising Committee ( at2018.conference@gmail.com )

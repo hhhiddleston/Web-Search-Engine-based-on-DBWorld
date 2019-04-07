@@ -1,0 +1,53 @@
+ICEEE2018 : The Seventh International Conference on E-Learning and E-Technologies in Education
+
+Venue: Lodz University of Technology, Lodz, Poland
+Dates: September 17-19, 2018
+
+The conference welcomes papers with the following research topics (not limited to):
+* Assessment and Accreditation of Courses and Institutions
+* Blended Learning
+* Community Building
+* Context Dependent Learning
+* Course Design and E-Learning Curriculae
+* Digital Libraries for E-Learning
+* Distance and E-Learning in a Global Context
+* E-Learning Platforms, Portals
+* Accessibility to Disabled Users
+* Assessment Software Tools
+* Authoring Tools and Content Development
+* Collaborative Learning
+* Computer-Aided Assessment
+* Distance Education
+* E-Learning Hardware and Software
+* E-Learning Success Cases
+* E-Testing and new Test Theories
+* Educating the Educators
+* Groupware Tools
+* Immersive Learning
+* Intelligent Tutoring Systems
+* International Partnerships in Teaching
+* Learning Organization
+* Medical Applications
+* Mobile Learning (M-learning)
+* Pedagogy Enhancement with E-Learning
+* Simulated Communities and Online Mentoring
+* Supervising and Managing Student Projects
+* Teacher Evaluation
+* Errors in E-Learnings
+* Higher Education vs. Vocational Training
+* Joint Degrees
+* Metrics and Performance Measurement
+* Ontologies and Meta-Data Standards
+* Security Aspects
+* Standards and Interoperability
+* Synchronous and Asynchronous Learning
+* Technology Enhanced Learning
+
+IMPORTANT DATES
+Submission Deadline  August 17, 2018
+Notification of Acceptance 4-7 weeks from the submission date
+Camera Ready Submission  September 7, 2018
+Registration Deadline  September 7, 2018
+Conference Dates  September 17-19, 2018
+
+For further details, kindly visit http://bit.do/ICEEE2018

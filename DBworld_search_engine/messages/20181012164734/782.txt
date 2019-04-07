@@ -1,0 +1,105 @@
+13th International Conference on Data Integration in the Life Sciences (DILS 2018)
+
+The Thirteenth International Conference on Data Integration in the Life Sciences 2018 (DILS 2018) will be held by TIB â€“ Leibniz Information Centre for Science and Technology in Hannover (Germany) at Leibnizhaus on November 20-21, 2018. 
+https://events.tib.eu/dils2018/
+
+In addition, the TIB will hold a pre-conference on "Data Integration in the Life Sciences and Semantic Technologies" on November 19, 2018 and a post-conference on "Open Research Knowledge Graph" on November 22, 2018. DILS 2018 is being hosted by TIB â€“ Leibniz Information Centre for Science and Technology (TIB in Hannover), L3S Research Center Leibniz UniversitÃ¤t Hannover (L3S in Hannover) and ZB MED â€“ Information Centre for Life Sciences (ZB MED in Cologne/Bonn)
+
+++Important Dates++ 
+
+Paper submission deadline for research papers: August 15th, 2018 EXTENDED!! 
+Paper submission deadline for industry, demonstration, and application/experience papers:  August 15th, 2018 EXTENDED!! 
+Notification of acceptance: September 15th, 2018
+Camera-ready copy due: September 30th, 2018
+Conference days: 
+Tutorials on "Data Integration in the Life Sciences and Semantic Technologies": November 19th,  2018
+Main conference: November 20-21, 2018
+Workshop on "Open Research Knowledge Graph": November 22rd, 2018
+
+++Keynote Speakers++
+Catia Pesquita. Universidade de Lisboa, Portugal
+Alfred PÃ¼hler. UniversitÃ¤t Bielefeld, Germany
+
+
+++Aims and Scope++
+DILS provides a forum for the discussion of data management on the life sciences, including open problems and technical solutions for integration, query processing, and analytics. In particular, the thirteenth edition of DILS will focus on Big life science data coming from diverse data sources, e.g., genomic data collections, biomedical literature, or clinical records, and in the challenges for transforming Big data into actionable insights.
+
+++Topics of Interests and Research Areas++
+Topics of interest include, but are not limited to:
+
+Challenges and opportunities with big, complex or heterogeneous life science data
+Life science data integration and management  
+Authenticity, privacy, security, and trust in life science data
+Knowledge graphs from life science data
+Knowledge representation and discovery from life science data 
+Knowledge extraction for life science data
+Ontology mappings and evolution
+Quality assurance in integrated life science repositories
+Architectures and data management techniques for the life sciences
+Query processing and optimization 
+Question answering over life science data
+Exposing life science data (APIs, Linked Open Data, SPARQL endpoints)
+Metadata and Provenance Management of life science repositories
+Analytics of large-scale life science data
+Ethical, legal and social issues with biomedical data integration.
+Data integration challenges and applications in various life-sciences
+Applications using and managing Big life science data
+
+
+Industry papers, demos, posters, and application/experiences are also welcome to DILS 2018. 
+They will be selected according to industry-compliant assessment criteria. 
+Furthermore, descriptions of European Projects in the Life Sciences can be also submitted. 
+
+++Paper Submission and Publication++
+
+Authors are invited to submit original contributions of technical rigor and practical relevance to DILS 2018. Four types of papers will be selected: 
+ -) Full research papers (up to 15 pages) 
+ -) Short research papers (8 pages) 
+ -) Industry/application/experience papers (8 pages) 
+ -) Demos and Posters (4 pages)
+ -) Description of European Projects in the Life Sciences (2 pages) 
+References are not counted in the page limit. Please, include in the title of the paper the type of submission.
+
+Papers are to be prepared using LNCS templates 
+The proceedings of DILS will be published by Springer in the LNCS/LNAI/LNBI (Lecture Notes in Bioinformatics). 
+And submitted using the EasyChair site:
+https://easychair.org/conferences/?conf=dils2018
+
+Special Issue on â€œData Quality of Life Sciencesâ€
+Authors of the best papers will be invited to submit an extended version of their papers to the Special issue on â€œData Quality on Life Sciencesâ€  of the ACM Journal of â€œData and Information Quality (JDIQ)â€  
+
+
+++Organizing Committee++
+General Chair: SÃ¶ren Auer. Leibniz Information Centre For Science and Technology, Leibniz UniversitÃ¤t Hannover, Germany
+Organizing Co-Chairs:
+Wolfgang Nejdl, L3S Research Center, Leibniz University of Hannover
+Dietrich Nelle, ZB-Med
+Katrin Hanebutt, TIB Leibniz Information Centre for Science and Technology
+Programme Chair: Maria-Esther Vidal, Leibniz Information Centre For Science and Technology, Germany and Universidad SimÃ³n BolÃ­var, Venezuela
+
+++Program Committee++
+Following is the list of (confirmed) program committee members not in any particular order: 
+
+CÃ©dric Pruski,  Luxembourg Institute of Science and Technology, Luxembourg
+Amrapali Zaveri, Maastricht University, The Netherlands
+Bernd MÃ¼ller, ZB MED Leibniz Information Centre for Life Sciences, Germany 
+Konrad FÃ¶rstner,Institute for Molecular Infection Biology, University of WÃ¼rzburg,  Germany 
+Juliane  Fluck, Fraunhofer, Germany
+Marcos Da Silveira,  LIST- Luxembourg Institute of Science and Technology, , Luxembourg
+Naveen Ashish, Taming Disease with Data Science, USA
+JosÃ© Luis Ambite, University of Southern California, USA
+Ulf Leser, Institut fÃ¼r Informatik, Humboldt-UniversitÃ¤t zu Berlin, Germany
+Erhard Rahm, University of Leipzig, Germany
+Michel Dumontier, Maastricht University, The Netherlands 
+Alejandro Rodriguez, Universidad PolitÃ©cnica de Madrid, Spain
+Catia Pesquita, Universidade de Lisboa, Portugal
+Angeli Moeller, Bayer, Germany
+Pierre Larmande, UniversitÃ© de Montpellier, France
+Robert Hoehndorf, King Abdullah University of Science and Technology, Saudi Arabia
+Udo Hahn, Jena University, Germany
+Dietrich Rebholz-Schuhmann, Insight Centre for Data Analytics, Irland
+Johanna Voelker, Bayer, Germany
+Matthias Gietzelt, Hannover Medical School, Germany
+Patrick Lambrix, LinkÃ¶ping University, Sweden
+Anika GroÃŸ, UniversitÃ¤t Leipzig, Germany
+Benjamin Lang, Centre for Genomic Regulation (CRG), Spain

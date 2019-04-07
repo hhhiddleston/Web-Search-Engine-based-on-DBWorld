@@ -1,0 +1,3 @@
+The research group in databases and theoretical computer science at Hasselt University is internationally active in the foundations of data management, query processing, and related fields such as data mining, knowledge representation.  We publish regularly in conferences such as PODS, VLDB, ICDT with various best paper awards, and in journals such as TODS, CACM, VLDB Journal.  We are urgently looking for two PhD candidates.  For more information, please see the website:
+
+https://www.uhasselt.be/vacancies_detail?taal=04&vacid=1583

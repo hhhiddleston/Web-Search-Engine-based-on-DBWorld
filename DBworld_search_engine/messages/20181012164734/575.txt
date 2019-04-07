@@ -1,0 +1,26 @@
+*** Call for participation: Hyperpartisan News Detection ***
+SemEval 2019 Task 4
+
+Registration open now at https://pan.webis.de/semeval19/semeval19-web/
+
+Hyperpartisan news presents an excessively unbalanced and unreasoning allegiance to one party, faction, cause, or person. It has often been used to stir up disagreement and discontentment online, and is one aspect of the wider issue of disinformation and fake news.
+
+We invite participation in the Hyperpartisan News Detection challenge as part of SemEval 2019. Given the text of a news article, you must decide whether it is hyperpartisan or not. We will provide a training set of one million articles, labeled according to the overall tendency of the publisher to prodce such content, and a smaller, manually-curated set of 500 articles for validation. To get you started, we will also provide an uncleaned and much smaller trial dataset.
+
+* Registration (now) *
+Register yourself or your team at https://pan.webis.de/semeval19/semeval19-web/  This task will use the PAN mailing list for communication, so please sign up there to ask questions to us or other participants. If you have specific requests, please write to the organizer's mailing list.
+
+* Submission (December 2018) *
+When you registered, you will get remote access to a virtual machine (Windows or Linux) to deploy the task software in. Your software must be executable from the command line and not require Internet access during the evaluation period.
+
+Note that you retain full copyrights of your software, but agree to grant us usage rights only for the purpose of the competition.
+
+We will soon provide the code from our ACL'18 publication to get you started.
+
+* Evaluation (January 2019) *
+You will be able to self-evaluate your software using the TIRA service. Main performance measure will be accuracy on a balanced set of articles. In addition, we will measure precision, recall, and F1-score for the hyperpartisan class.
+
+After the evaluation, participants are required to submit and review task description papers following the SemEval timeline.
+
+* Grand Prize (Summer 2019) *
+To want to encourage developers to share their software so that everyone can profit from their work. We are thus excited to announce a grand prize of $1,000 to the best-performing submission that has its code published open source before the SemEval conference.

@@ -1,0 +1,60 @@
+[Apologies if you got multiple copies of this invitation]
+
+The Fifth International Conference on Internet of Things: Systems, Management and Security (IoTSMS 2018) 
+http://emergingtechnet.org/IoTSMS2018/index.php
+Valencia, Spain. October 15-18, 2018.
+
+IoTSMS 2018.
+
+The Internet of Things (IoT) technology offers unprecedented opportunities to interconnect human beings as well as Machine-to-Machine (M2M), whereby sensors and networks allow all ‘things’ to communicate directly with each other to share vital information allowing us to have an instrumented universe where accurate data is readily available to inform optimal decision making. The IoT is about to enable a range of new capabilities and services far beyond today’s offerings. It will fundamentally change how people go about their lives. According to Gartner, the number of objects connected to the Internet is set to reach 20 billion by 2020. Cisco estimates the number will be close to 26 billion objects by 2020. Others believe the actual number will be even higher with the assumption that any object with a simple micro controller and on-off switch will be connected to the Internet in the near feature. The scale of the IoT is set to have a major economic, social and environmental impacts; the intersection of which forms the future sustainable growth. The IEEE Internet of Things: Systems, Management and Security (IoTSMS 2018) aims at soliciting original ideas on the broad area of IoT including challenges and opportunities, concepts and applications and future trends. The Symposium aims to facilitate discussions among academics and IoT practitioners and make positive contributions to the field. Authors are invited to submit original, unpublished manuscripts. Submitted papers should be in accordance with IEEE format, and will be reviewed by at least two expert reviewers in terms of relevance, originality, contribution, correctness, and presentation.
+
+Researchers are encouraged to submit original research contributions in all major areas, which include, but not limited to:
+
+* Emerging concepts of IoT Systems
+* Architectures of IoT systems 
+* Machine-to-Machine Communication and IoT 
+* Modeling of IoT applications
+* SDN and NFV support for IoT applications and Systems
+* Fog and Edge support for IoT Applications 
+* 5G support for IoT Applications 
+* IoT for Smart Cities 
+* Energy management in IoT 
+* Design methodologies for IoT 
+* Novel services and applications of IoT to facilitate environmental responsibility 
+* Green by Internet of Things 
+* IoT and Social benefits/impact 
+* IoT Economics and Business Models 
+* Emerging Internet of Things business models and process changes 
+* Communication systems and network architectures for the IoT 
+* IoT and Data Management 
+* Security and privacy of IoT 
+* Reliability of IoT 
+* Disaster recovery in IoT 
+* Applications of Internet of things 
+* Emerging applications and interaction paradigms for everyday citizens 
+* Big data and IoT 
+* Self-organizing IoT 
+* Cloud Computing and IoT 
+* IoT and sustainable Growth
+
+Important Dates
+
+Submission Date: 25 July 2018
+Notification to Authors: 20 August 2018
+Camera Ready Submission: 5 September 2018 
+
+Submissions Guidelines and Proceedings
+
+We are pleased to invite you to submit original contributions to IoTSMS 2018 via the official submission system at https://easychair.org/conferences/?conf=iotsms2018. This can include, technical and experimental, theoretical, conceptual, or a survey. All submissions will be peer-reviewed on the basis of relevance, originality, importance and clarity.
+
+Manuscripts should be prepared in 10-point font using the IEEE 8.5" x 11" two-column format. All papers should be in PDF format, and submitted electronically at Paper Submission Link. A full paper must not exceed the stated length (including all figures, tables and references). Submitted papers must present original unpublished research that is not currently under review for any other conference or journal. Papers not following these guidelines may be rejected without review. Also submissions received after the due date, exceeding length limit, or not appropriately structured may also not be considered. Authors may contact the Program Chair for further information or clarification.  All submissions are peer-reviewed by at least three reviewers. Accepted papers will appear in the IoTSMS Proceeding and to be submitted to IEEE Xplore for inclusion. The proceedings are also submitted for indexing to EI (Compendex), Scopus and other indexing services like DBLP. 
+
+Journal Special Issues
+
+Selected papers from the presented papers will be invited to submit an extended version to number of journals. Papers will be selected based on their reviewers’ scores and appropriateness to the Journal’s theme. All extended versions will undergo reviews and must represent original unpublished research work.
+
+- Transactions on Emerging Telecommunications Technologies (ETT)
+
+- Internet Technology Letters - Wiley
+
+Please send any inquiry on IoTSMS 2018 to Emerging Tech. Network Team : emergingtechnetwork@gmail.com

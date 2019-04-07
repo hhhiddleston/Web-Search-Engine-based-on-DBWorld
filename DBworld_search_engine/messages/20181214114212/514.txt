@@ -1,0 +1,34 @@
+-----
+School of Management Engineering - Ulsan National Institute of Science and Technology (UNIST)
+
+Job Description:
+The School of Management Engineering (http://sme.unist.ac.kr/eng/) at Ulsan National Institute of Science and Technology (UNIST) (https://www.unist.ac.kr) invites applications for multiple postdoctoral positions in a wide variety of fields within industrial and management engineering. These are two-year positions. A salary and a start date are negotiable. 
+
+An interested applicant should send his/her curriculum vitae (CV) and cover letter to the faculty member (director) directly by email. A link to each faculty memberâ€™s website and contact information can be found below.
+
+1. Data Mining Lab (http://dm.unist.ac.kr/)
+   Director: Prof. Junghye Lee (junghyelee@unist.ac.kr)
+   Research Interests: Data Mining, Probabilistic and Statistical Learning, Machine Learning, Deep Learning, Predictive Analytics, Data Privacy and Security, Health Analytics, Chemometrics
+
+2. Unstructured Data Mining and Machine Learning Lab (http://sunghoonlim.unist.ac.kr/)
+   Director: Prof. Sunghoon Lim (sunghoonlim@unist.ac.kr)
+   Research Interests: Unstructured Data Analytics, Machine Learning, Artificial Intelligence, Natural Language Processing/Text Mining, Social Network Analysis
+
+3. Financial Engineering Lab (http://felab.unist.ac.kr/)
+   Director: Prof. Yongjae Lee (yongjaelee@unist.ac.kr)
+   Research Interests: Financial Engineering, Financial Technologies (FinTech), Optimization, Investment Management, Financial Planning
+
+4. Service Systems Lab (http://service.unist.ac.kr/)
+   Director: Prof. Chiehyeon Lim (chlim@unist.ac.kr)
+   Research Interests: Service Science, Data Analytics on Service Systems, Smart Service Systems, Personal Process Management, Decision Science
+
+Minimum Qualifications:
+An applicant is expected to have (1) a Ph.D. in industrial engineering or a relevant field and (2) a good publication record. A Ph.D. candidate who is expected to earn his/her degree within one year will be considered as well. The working language will be English, so knowledge of Korean is not required.
+
+Location: Ulsan, Republic of Korea
+Application Deadline: Open Until Filled
+
+â€‹====
+Ulsan National Institute of Science and Technology (UNIST) was founded in 2009 as the fourth National Institute of Science and Technology in South Korea. Since its opening, UNIST has truly become one of worldâ€™s leading science and technology universities, despite being younger than its peers.
+The School of Management Engineering was established in 2016 based to counter a lack of related skills in the metropolitan city of Ulsan, the hub of Korean industry, where more than one million people are living. The school offers undergraduate, MSc, and PhD programs.
+=====

@@ -1,0 +1,59 @@
+Call for Papers
+
+ICDM 2018 - 4th Workshop on Data Integration and Applications (DINA 2018)
+Workshop Co-chairs: Luiza Antonie, Peter Christen and Osmar Zaiane
+https://sites.google.com/site/dinaworkshop2018/
+
+Combining diverse sources of data provides potentially very useful and powerful data, but it is also a challenging research problem. There are a multitude of challenges in data integration: the data collections to be integrated may come from different sources; the collections may have been created by different groups; their characteristics can be different (different schema, different data types); and the data may contain duplicates. Solving these challenges requires substantial effort and domain experts need to be involved. In the era of Big Data, with organizations scaling up the volume of their data, it is critical to develop new and scalable approaches to deal with all these challenges. In addition, it is important to properly assess the quality of the source data as well as the integrated data. As a consequence, the quality of the source data will drive the methods needed for its integration. Data integration is an important phase in the KDD process, by creating new and enriched records from a multitude of sources. 
+
+The goal of this workshop is to bring together computer scientists with researchers from other domains and practitioners from businesses and governments to present and discuss current research directions on multi source data integration and its application. The workshop will provide a forum for original high-quality research papers on record linkage, data integration, knowledge fusion, mining techniques of integrated data, and applications, as well as multidisciplinary research opportunities.
+
+Topics of interest include (but are not limited to):
+
+Data Integration Methodologies
+* Automating data cleaning and pre-processing
+* Data integration methods
+* Entity resolution, record linkage, data matching, and duplicate detection
+* Big Data integration
+* Integrating complex data
+
+Integrated Data and Longitudinal Data Applications
+* Mining and analysis of longitudinal data 
+* Data integration applications for healthcare, social sciences, digital humanities, bioinformatics, genomics, etc.
+
+Evaluation, Quality and Privacy
+* Evaluation of linkage/matching/data integration methods
+* Data quality evaluation for source data and/or integrated data
+* Bias and quality of longitudinal data
+* Preserving privacy in data integration
+
+Population Informatics
+* Algorithms and techniques for managing, processing, analyzing, and mining large population databases 
+* Requirements analysis for population informatics 
+* Models and algorithms for population informatics 
+* Architectures and frameworks for population informatics 
+* Research case studies of population informatics in health, demographics, ecology, economics, the social sciences, and other research domains 
+
+
+Key DatesÊ(All deadlines are at 11:59PM Pacific Time)
+* Due date for full workshop papers: August 14, 2018
+* Notification of workshop papers acceptance to authors: September 4, 2018
+* Camera-ready deadline for accepted papers: September 15, 2018
+* Workshop date: November 17, 2018
+
+
+Paper Submission and Publications
+
+Papers submitted to this workshop must not be under review or accepted for publication elsewhere. All submitted papers will be reviewed and selected by the program committee on the basis of originality, technical quality, relevance to the workshop and presentation quality. Accepted papers will be included in the ICDM 2016 Workshop Proceedings published by IEEE Computer Society Press. 
+Papers must be limited to a maximum of 8 pages, and follow the IEEE ICDM format requirement. For paper formatting instructions, please visit for more information: http://www.ieee.org/conferences_events/conferences/publishing/templates.html. All papers should be submitted via the workshop submission system. Detailed instructions and submission link are available on the workshop website.
+
+
+Workshop Organizers:
+
+Luiza Antonie, University of Guelph, Canada
+Peter Christen, The Australian National University, Australia
+Osmar Zaiane, University of Alberta, Canada
+
+Contact and Further Information:
+
+Workshop website: https://sites.google.com/site/dinaworkshop2018/

@@ -1,0 +1,47 @@
+Security, trust and privacy for Human-centric Internet of Things
+
+
+Human-centric Computing and Information Sciences welcomes high quality submissions to the thematic series on "Security, trust and privacy for human-centric internet of things".
+
+
+The aim of this thematic series is to publish articles that cover the various developments in theory and practice related to the latest methods, solutions, and case studies in security, trust, and privacy for human-centric internet of things (IoT).  Submitted articles should present research contributions that help solve the challenges that arise in developing a secure and privacy-aware human-centric IoT. This can be achieved by proposing security policies, algorithms, protocols, frameworks, and solutions for human-centric IoT ecosystems. We also welcome high-quality review articles, which focus on the analysis and integration of diverse kinds of approaches such as artificial intelligence cognitive computing, blockchain, big data mining, or soft computing in the area of human-centric IoT security.  
+
+Topics of interest include but are not limited to:
+* Security and privacy issues in human-centric IoT
+* Trust management for human-centric IoT
+* Intrusion detection technique for human-centric IoT
+* Artificial intelligence for secure human-centric IoT
+* Cognitive computing for secure human-centric IoT
+* Social considerations, legal, and ethics in human-centric IoT security 
+* Blockchain for human-centric IoT security
+* Cyber-attack detection and prevention systems for human-centric IoT 
+* Biometric security in human-centric IoT
+* Reverse engineering for human-centric IoT 
+* Human-centric IoT security using digital forensics investigation
+* Big data mining for privacy-aware human-centric IoT
+* Innovative deep learning approach for human-centric IoT security
+* Fuzzy fusion of Information, data and sensors
+* Advance persistent threats in human-centric IoT 
+
+
+Submission Instructions
+Before submitting your manuscript, please ensure you have carefully read the submission guidelines for Human-centric Computing and Information Sciences. The complete manuscript should be submitted through the Human-centric Computing and Information Sciences submission system. To ensure that you submit to the correct thematic series please select the appropriate special issue in the drop-down menu upon submission. All submissions will undergo rigorous peer review and accepted articles will be published within the journal as a collection.
+
+
+Deadline for submissions: 30 October 2018
+
+Lead Guest Editor
+Kyung-Soo Lim, Electronics and Telecommunication Research Institute, Korea
+
+Guest Editors
+Isaac Woungang, Ryerson University, Canada
+Javier López, University of Málaga, Spain
+Sherali Zeadally, University of Kentucky, USA
+Damien Sauveron, XLIM (UMR CNRS 7252 / Université de Limoges), France
+
+
+Submissions will also benefit from the usual advantages of open access publication: 
+* Rapid publication: Online submission, electronic peer review and production make the process of publishing your article simple and efficient 
+* High visibility and international readership in your field: Open access publication ensures high visibility and maximum exposure for your work - anyone with online access can read your article 
+* No space constraints: Publishing online means unlimited space for figures, extensive data and video footage
+* Authors retain copyright, licensing the article under a Creative Commons license: articles can be freely redistributed and reused as long as the article is correctly attributed. 

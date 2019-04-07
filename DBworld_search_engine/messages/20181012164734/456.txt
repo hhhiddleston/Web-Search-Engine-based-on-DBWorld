@@ -1,0 +1,46 @@
+FINAL CALL FOR PAPERS
+===========================================================
+Business and Information Systems Engineering (BISE) Journal 
+www.bise-journal.com
+Special Issue 5/2019: Data Sovereignty and Data Space Ecosystems
+Guest Editors: Matthias Jarke, Boris Otto, Sudha Ram 
+Submission Deadline: October 1, 2018 ===========================================================
+ 
+1 Special Issue 
+Data has evolved from a pure byproduct of value creation processes to a strategic resource and – in some cases – to a product in its own right. Consequently, means and approaches to manage data are currently undergoing significant changes. 
+The proliferation of digital technologies and the digitization of industrial enterprises in general bring about new requirements for data integration, data value creation, and data value appropriation both within and across enterprises. In many organizational settings – regardless whether in industrial or societal (e.g. medical) contexts – a debate has arisen how to structure such usually platform-based ‘data ecosystems’ such that the sovereignty of data owners and fair value appropriation can be ensured beyond the currently prevalent global dominators. Data must be integrated from heterogeneous (both internal and external) sources on demand without physical integration systems. Data spaces making use of linked data principles and lightweight semantic technologies are a promising approach to address the data integration issue without requiring the effort and complexity of traditional data integration approaches such as data warehousing based on ETL tools or consolidated monolithic databases. Furthermore, through the extension of internal data value chains from within an enterprise boundaries to the outside and the emergence of data markets and data ecosystems, demands rise for appropriate data integration architectures. 
+Central data storage architectures (often cloud-based) for inter-organizational application scenarios such as supply chain event tracking, collaborative predictive maintenance, mobility and energy are emerging on a daily basis. 
+These scenarios bring about new requirements in terms of trust, data security, data sovereignty, data provenance, data governance and business models – to name just a few. This has recently motivated researchers to explore and design novel architectures, technologies, algorithms, and systems to cope with these new requirements, some of them centering on ecosystems organized around variations of data lake or data space concepts.
+
+2 Objective 
+The objective of the Special Issue on ‘Data Spaces and Data Ecosystem Architectures’ is to help structure the field and present latest research results on innovative forms of inter-organizational data integration and related ecosystem architectures. 
+Topics include, but are not limited to: 
+• Data space and data lake architectures. 
+• Data value creation and data value appropriation. 
+• Data sovereignty and security. 
+• Ecosystem requirements for data governance. 
+• Platform concepts and experiences for data governance. 
+• Non-intrusive data integration approaches. 
+• Technologies for data provenance and heterogeneous data integration. 
+• Methodologies for data valuation in data networks. 
+• Lightweight semantics and linked data architectures. 
+• Application scenarios and case studies from various sectors such as    business, industry, logistics, medicine, engineering, … 
+The special issue recognizes the plurality of research methods being appropriate to advance the scientific knowledge in this field.
+ 
+3 Submission
+Please submit papers by 1 October 2018 at the latest via the journal’s online submission system (http://www.editorialmanager.com/buis/). Please observe the instructions regarding the format and size of contributions to Business Information Systems Engineering (BISE). Papers should adhere to the general BISE author guidelines (http://www.bise-journal.com/?page_id=18 ). All papers will be reviewed anonymously (double-blind process) by at least two referees with regard to relevance, originality, and research quality. In addition to the BISE editors, including those of this special issue, distinguished international professionals with scientific and practice backgrounds will be involved in the review process. 
+For over 60 years, BISE has been established as a leading journal in the field of Business & Information Systems Engineering, with a 2016 ISI Impact Factor of 3.4.
+
+4 Schedule 
+Paper submissions due: 1 October 2018. 
+Notification of authors: 10 December 2018. 
+Revisions due: 31 January 2019. 
+Notification of authors: 20 March 2019. 
+Completion of second revision (if needed): 1 May 2019. 
+Anticipated publication date: October 2019. 
+
+5 Guest Editors
+Matthias Jarke, RWTH Aachen University & Fraunhofer FIT, Ahornstr.55, 52074 Aachen, Germany; e-mail: jarke@dbis.rwth-aachen.de 
+Boris Otto, Fraunhofer ISST, Emil-Figge-Str. 91, 44227 Dortmund, Germany; 
+e-mail: boris.otto@isst.fraunhofer.de 
+Sudha Ram, Eller College of Management, University of Arizona, Tucson, AZ 85721-0108, USA; e-mail: ram@eller.arizona.edu

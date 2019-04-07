@@ -1,0 +1,25 @@
+For our 24 months long European graduate programme IGNITE starting in October 2018 we are looking for a Powertrain Electronics Control Unit Engineer (m/f) for our office in Wegberg near Aachen.
+
+/ Scope of Duties /
+As Graduate Engineer in our a powertrain electronics control unit (ECU) team you will be involved in the development of future electronics control unit and work at the interface between hardware and software. You will act as design engineer between relevant internal parties and customer.
+In detail you will
+* Analyse customer’s requirements,
+* Support the manager in system design of future ECU architecture and needed test strategy during development,
+* Develop DENSO’s products up to a mass production grade,
+* Plan and measure the hardware capability and compare it with the DENSO and customer requirements,
+* Write test software for HW testing during the development phases,
+* Make concept, design circuits, design layout with thermal and structure points of view and evaluate the PCB,
+* Form and ensure a structured development process from concept to production to operation.
+
+ / Qualifications /
+* Studies in Engineering Electronics
+* Basic knowledge about combustion engine, powertrain electronics, micro controller programming in C/C++ for low level driver, the use of Matlab tool chain and control theory
+* Strong analytical and problem solving skills
+* Team player, intercultural competency and good communication skills
+* Continuous improvement mindset
+* Very good command of English both written and spoken (Japanese language is desirable)
+
+ / What we offer /
+We offer attractive working conditions and a team oriented working climate, that is cosmopolitan according to our global relations. Are you interested? 
+Please apply online on https://denso.loop.jobs.
+For more information please contact our recruiting partner by mail DENSO@Kornferry.com.

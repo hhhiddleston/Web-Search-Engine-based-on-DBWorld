@@ -1,0 +1,63 @@
+CALL FOR PAPERS: CONVERSATIONS 2018 – 2ND INTERNATIONAL WORKSHOP ON CHATBOT RESEARCH
+
+We invite chatbot researchers to contribute to CONVERSATIONS 2018, a one-day cross-disciplinary workshop on chatbot research and design in St. Petersburg, Russia, October 26. The workshop is organised as part of the International Conference on Internet Science, INSCI 2018.
+
+Workshop webpage: https://conversations2018.wordpress.com
+
+We encourage two kinds of submissions:
+- Position papers or demonstrations (3-6 pages, Springer format) serving as a low-threshold contribution, to be published on the workshop webpage.
+- Theoretical contributions or empirical studies (6-12 pages, Springer format) advancing the state-of-the-art, to be published in the workshop proceedings.
+
+All submissions should follow in the Springer LNCS format.
+
+Important dates:
+- September 1: Submission deadline
+- September 15: Acceptance notification
+- October 10: Final submission deadline
+- October 26: Workshop
+
+Submissions will be selected following peer-review, based on their originality, quality and ability to promote discussion amongst the workshop participants. Accepted theoretical or empirical contributions (6-12 pages) will be published in the workshop proceedings.
+MOTIVATION
+
+Chatbots enable users to interact with digital services in natural language, through text or voice dialogue. Customer service and digital assistants are applications areas where chatbots already have substantial impact. Also in other application areas, such as health and fitness, education, and information services, a similar impact is foreseen.
+
+To realize the potential of chatbots, research is needed in a number of interconnected fields. This workshop contributes to this endeavour by providing a cross-disciplinary arena of knowledge exchanges for researchers interested in chatbots and conversational user interfaces.
+KEY CHALLENGES
+
+The participants of the previous edition of this workshop, CONVERSATIONS 2017, identified four clusters of research challenges. The first  two clusters  concern overall  objectives  for  chatbot  research  and  design,  and the  last  two address chatbot  enablers. We encourage contributions for this year's edition of the workshop to address the research challenges of one or more of these clusters.
+
+(1) Democratizing chatbots. The first cluster concerns how to make chatbots a technology for everyone – not just those technologically advanced or with high levels of technology interest. Key to this cluster of challenges is how to make chatbots user friendly and relevant, and whether chatbots could be developed as a technology to mitigate digital divides.
+(2) Chatbot user experience. Key to providing good experiences is knowledge about users, the ability to engage and surprise, but possibly also the design and development of more anthropomorphic or human-like chatbots. Furthermore, important challenges pertain to making the chatbot dialogue more engaging, for example, through combining different media or supporting group or networked dialogue.
+(3) Context aware chatbots. This cluster of challenges pertains to the general need for context sensitivity in chatbots, such as context awareness, and the need for chatbots that adapt to context – for example by utilizing more of the dialogue history in order to provide adequate chatbot responses. Supporting context awareness, in turn, require improved structuring of knowledge for dialogue management.
+(4) Natural language capabilities. The fourth main cluster of challenges concerns the need for strengthened natural language capabilities. Here, we will address the need to move towards generative approaches to chatbot dialogues, which if successful would imply personalized answers instead of template-based ones, and in principle also language independence.
+
+Other challenges. In addition to the above clusters, other relevant challenges include the need to strengthen the infrastructure for chatbot development, address ethical issues in chatbot development and implementation, and support evaluation of human-chatbot interaction.
+
+The questions to be explored in the papers and at the workshop, include but are not limited to the following:
+- How to design for chatbots for all; that is, chatbots that bridge digital divides?
+- How to investigate and design for chatbot user experience?
+- What is the effect of different demographics and culture on the design of chatbots?
+- What are the features of existing chatbot frameworks and chatbot agents operating in the wild and what can we learn from them?
+- How to transfer analysis output into actionable insight about users?
+- How to endow chatbots with empathy and personality?
+- How to design for chatbots that serve networks of users?
+- How to enhance context sensitivity and adaptivity in chatbots?
+- Efficient training of chatbots?
+- Next frontiers in strengthening natural language capabilities in chatbots?
+- How can human-centred design of chatbots benefit from machine learning, sentiment analysis and topic modelling?
+- How to advance infrastructure for chatbot development?
+- How can we evaluate and compare the user experience and the quality of dialogue across different chatbots?
+- What are new applications and services that can be enabled by the next generation of chatbots?
+- How should privacy and ethical issues be considered when developing chatbots?
+
+WORKSHOP ORGANIZERS
+
+The workshop organising committee are:
+- Asbjørn Følstad, SINTEF, Norway
+- Symeon Papadopoulos, Centre for Research and Technology Hellas, Greece
+- Ole-Christoffer Granmo, University of Agder, Norway
+- Effie L.-C. Law, University of Leicester, UK
+- Ewa Luger, University of Edinburgh, UK
+- Petter Bae Brandtzæg, SINTEF, Norway
+
+Workshop webpage: https://conversations2018.wordpress.com

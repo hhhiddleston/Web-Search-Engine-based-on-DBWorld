@@ -1,0 +1,56 @@
+CALL FOR PAPERS WESOACS 2018
+Co-located with ESOCC 2018
+September 12, Como, Italy
+__________________________________________
+The 14th International Workshop on Engineering Service-Oriented Applications and Cloud Services (http://wesoacs2018.cut.ac.cy) will be organized in the context of the 7th European Conference on Service-Oriented and Cloud Computing (http://esocc2018.disco.unimib.it)
+IMPORTANT DATES:
+Workshop Papers Submission : 
+July 14, 2018
+Authors Notification : 
+August 13, 2018
+Camera Ready Paper : 
+August 27, 2018
+Workshop : 
+September 12, 2018
+
+SUBMISSION
+Authors are invited to submit original, previously unpublished research papers written in English and strictly following Springer LNCS style for all text, references, appendices, and figures.
+For formatting instructions and templates please see the Springer LNCS author web page.
+The papers will be submitted according to the general call of papers of ESOCC:
+Full research papers and experience papers with a maximum length of 12 pages, including references and appendices.Short papers and position papers with a maximum length of 6 pages, including references and appendices.
+Papers shall be submitted in PDF using the EasyChair online submission system.
+
+PROCEEDINGS
+The accepted papers will be included in the conference proceedings published by Springer Verlag in the Lecture Notes in Computer Science (LNCS) series.
+KEYNOTE SPEAKER
+Professor Elisabetta di Nitto
+Politecnico di Milano 
+Dipartimento di Elettronica, Informazione e Bioingegneria 
+Milano, Italy
+E-mail: elisabetta.dinitto@polimi.it
+TOPICS
+Topics include (but are not limited to) the following:
+General Software Service Engineering
+· Software service development lifecycle methodologies and processes
+· Distributed and collaborative software service development
+· Service-oriented reference models and frameworks
+· Architectural styles (e.g. REST, Microservices) of software service systems
+· Management and governance of service engineering projects
+· Models, languages and methods for service-oriented analysis and design
+· Requirements-engineering and specification for software service systems
+· Service-oriented business process modelling
+· Validation, verification and testing of software service systems
+· Service assembly, composition and aggregation models and languages
+· Services Deployment, Synthesis, and Integration
+· Tool support for software service engineering
+· Case studies and best practices of service-oriented development
+
+Software Engineering for Cloud Services
+· Engineering of software services for the cloud
+· Development issues of cloud services
+· Cloud services frameworks and architectures
+· Microservices and microservices architectures
+· Engineering of reactive and event-driven service systems
+· Service engineering with DevOps: Methodologies, techniques, tools and case studies
+· Services Automation: Testing, reconfiguration, deployment, resource management
+· Engineering cloud and fog services for the Internet of Things and Big Data

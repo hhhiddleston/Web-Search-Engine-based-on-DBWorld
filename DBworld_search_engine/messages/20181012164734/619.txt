@@ -1,0 +1,45 @@
+International Workshop on Graph Analytics (GA) affiliated with ICDM 2018
+
+Website: https://gaworkshoppage.github.io
+
+Graph model has been widely used in a variety of domains to model the connectedness among entities in real-world organizations and complex systems, such as social networks, communication networks, collaboration networks, e-commerce networks, biological networks, transportation networks, world wide web, and knowledge base. With the rapid development of information technologies in the last decades, the accumulated graph data are becoming larger and larger. The availability of rich graph data not only brings great opportunities for realizing big values of data to serve key applications but also brings great challenges in computation. To enable individuals, business, and organisations to exploit the value of big graph data, there is an increasing demand for novel graph analytics models as well as scalable graph analytics techniques and systems.
+
+The workshop is co-located with the IEEE International Conference on Data Mining (ICDM 2018).
+
+Topics of interest include, but are not limited to:
+Graph analytics techniques
+Graph mining techniques
+Evaluation measures for graphs
+Machine learning techniques for graphs
+Single-machine graph management Techniques
+External-memory graph management Techniques
+Distributed Graph Management Techniques
+Graph analysis and management of multimedia databases
+Graph analysis and management of semantic web data
+Graph analysis and management of biomedical data
+Graph analysis and management for geometrical applications
+Graph analysis and management for business process management applications
+Advanced applications and tools for graph analysis in different domains
+
+Important Dates
+Deadline for Paper Submission: August 20, 2018 (11:59pm PST) 
+Paper Notification: September 4, 2018
+Camera-ready deadline: September 15, 2018 (11:59pm PST)
+Workshop Dates: November 17, 2018
+
+General Chair
+Prof. Hong Cheng
+The Chinese University of Hong Kong, China
+Email: hcheng@se.cuhk.edu.hk
+
+PC Co-Chairs
+Dr. Lijun Chang
+University of Sydney, Australia
+Email: Lijun.Chang@sydney.edu.au 
+
+Prof. Yuanyuan Zhu
+Wuhan University, China
+E-mail: yyzhu@whu.edu.cn
+
+Workshop Proceedings
+Accepted papers will be included in the IEEE ICDM 2018 Workshops Proceedings volume published by IEEE Computer Society Press (also included in the IEEE Xplore Digital Library).

@@ -1,0 +1,86 @@
+Apologies for cross postings
+
+12th Workshop on Geographic Information Retrieval GIR'18
+at ACM SIGSPATIAL 2018
+6th November 2018, Seattle, Washington, USA.
+
+Third Call for Papers : Deadline extended to 4th September 2018.
+----------------------------------------------------------------
+http://www.geo.uzh.ch/~rsp/gir18/
+----------------------------------------------------------------
+
+This is the third call for papers for the 12th Workshop on Geographic Information Retrieval (GIR'18), to be held on the 6th November 2018 in Seattle, Washington, USA. The workshop continues the successful series of workshops held in cooperation with ACM SIGSPATIAL and previously with SIGIR and CIKM conferences.
+
+The purpose of the workshop is to bring together members of the vibrant and growing community of researchers and practitioners working in the field of geographic information retrieval to discuss current research activity and potential future research directions.
+
+
+The subject and format of the workshop
+-----------------------------------------------------
+
+There is a vast quantity of information in text documents and other media that is referenced to geographic space. The discipline of Geographical Information Retrieval (GIR) is concerned with developing methods to gain access to this geographical information, with a particular focus on the content of web documents and social media. Because much of the information is in the form of unstructured or semi-structured text, there is a challenge to develop methods that can automatically recognise and interpret the geographical terminology and spatial or spatio-temporal concepts that people use when recording and querying the information. GIR falls at the intersection of Information Retrieval (IR) and Geographical Information Science (GIScience) resulting in research and systems development that benefit from the fusion of text-based methods for information extraction, natural language processing, indexing and search with GIS methods for spatial data management, analysis and visualization.
+
+The workshop invites contributions on the following topics, and other research related to GIR:
+
+*  Detection, disambiguation and geocoding of geographical references in text;
+
+*  User needs for geographic search;
+
+*  Classification of web documents and of social media with regard to their geographic foci;
+
+*  Interpretation of spatial natural language in documents and queries;
+
+*  Exploitation of the thematic content of web documents and social media for categorisation and characterisation of locations;
+
+*  Extraction of geographically-specific facts and events from text documents and social media;
+
+*  Spatial and spatio-temporal indexing of documents and other media objects;
+
+*  Modelling, construction and integration of ontologies, gazetteers and geographic thesauri;
+
+*  Reasoning with geo-spatial facts for purposes of information retrieval;
+
+*  Geographical query interfaces for search on the web;
+
+*  Geographic question / answering systems;
+
+*  Geographic search engine architectures;
+
+*  Relevance ranking of geographical information;
+
+*  Evaluation methods for geographic search;
+
+*  Applications of GIR methods.
+
+
+We invite both long papers (10 pages) and short papers (2 pages). Long papers are expected to report on relatively mature research results, while short papers may cover more speculative or early stage research that will stimulate discussion at the workshop. 
+
+All submissions will be reviewed by three members of the programme committee and we plan to publish accepted papers in the ACM Digital Library.
+
+Please note that we welcome contributions both from academic researchers and from practitioners working in industry and in public agencies engaged in GIR-related activities.
+
+The workshop programme will ensure opportunity for discussion of the presented papers and of the broader agenda for research in GIR.
+
+Submission procedure
+------------------------------
+You should prepare your paper in accordance with the ACM camera-ready
+instructions (http://www.acm.org/sigs/publications/proceedings-templates)
+and submit it using the EasyChair system
+(http://www.easychair.org/conferences/?conf=gir18).
+
+The revised deadline for submission is 4th September 2018. 
+
+Decisions on acceptance will be announced by 20th September 2018.
+
+Camera ready versions of accepted papers to be submitted by 1st October 2018.
+
+At least one author of accepted papers will be required to register for the workshop before the paper is published, and to present the paper at the workshop.
+
+Further details of the workshop can be found at
+
+http://www.geo.uzh.ch/~rsp/gir18/
+
+Please forward this message to anyone you think may have an interest in the workshop.
+
+With best wishes,
+
+Ross Purves (ross.purves@geo.uzh.ch) and Chris Jones (c.b.jones@cs.cf.ac.uk) Co-chairs

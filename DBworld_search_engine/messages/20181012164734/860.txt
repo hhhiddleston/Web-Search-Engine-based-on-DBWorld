@@ -1,0 +1,201 @@
++++ FINAL SUBMISSION DUE: AUGUST 1, 2018 +++
+
++++ All accepted papers will be published in Springer LNCS/LNAI series +++
+
++++ Selected papers will be invited to a fast track of JAAMAS +++
+
+
+***************************************************************************
+FINAL CALL FOR PAPERS:
+
+The 21st International Conference on Principles and Practice of
+Multi-Agent Systems (PRIMA 2018)
+October 29 - November 2, 2018
+AIST Tokyo Waterfront, Tokyo, Japan
+http://2018.prima-conference.org/
+***************************************************************************
+
+Software systems are becoming more intelligent in the kind of
+functionality they offer users. At the same time, systems are becoming
+more decentralized, with components that represent autonomous entities
+who must communicate among themselves to achieve their goals. Examples
+of such systems range from healthcare and emergency relief and
+disaster management to e-business and smarts grids. A multiagent
+worldview is crucial to properly conceptualizing, building, and
+governing such systems. It offers abstractions such as intelligent
+agent, protocol, norm, organization, trust, incentive, and so on, and
+is rooted in solid computational and software engineering foundations.
+As a large but still growing research field of Computer Science,
+multiagent systems today remain a unique enabler of interdisciplinary
+research.
+
+===============
+Important Dates
+===============
+Submission deadline: August 1, 2018 (11:59PM UTC-12) (EXTENDED!!)
+Notification: September 2, 2018
+Camera ready submission: September 13, 2018
+Conference date: October 29 - November 2, 2018
+
+===============
+Invited Talks
+===============
+Planned plenary speakers include Prof. Manuela M. Veloso (CMU) and
+Prof. Michael Luck (KCL). Further information will be announced soon.
+
+=======================
+Information for Authors
+=======================
+The PRIMA 2018 Program Committee invites submissions of original,
+unpublished, theoretical and applied work strongly relevant to
+multiagent systems, including reports on the development of prototype
+and deployed agent systems, and of experiments that demonstrate novel
+agent system capabilities. An indicative list of topics is provided
+below.
+
+The papers can be submitted to one of the following categories:
+- Regular papers: These papers can be up to 16 pages in length in the
+  Springer LNCS format. Note that some regular papers may be accepted as
+  short papers.
+- Short papers: These papers can be up to 8 pages in length in the
+  Springer LNCS format. These 'early-innovation' papers will be reviewed
+  with an emphasis on novelty/originality of the idea.
+
+Note that all the submitted papers must be in a form suitable for
+double-blind review. In order to make blind reviewing possible,
+authors must omit their names and affiliations from the paper.
+
+All accepted papers will be published in Springer's Lecture Notes in
+Artificial Intelligence series (LNCS/LNAI).
+
+=======================
+Special Issue
+=======================
+Selected papers will also be invited to submit an extended version to
+a fast track of the Journal of Autonomous Agents and Multi-Agent Systems
+(JAAMAS).
+
+=======================
+Paper Submission
+=======================
+Papers are to be submitted through the Easychair Conference Management
+System: https://easychair.org/conferences/?conf=prima2018
+
+==================
+Topics of Interest
+==================
+Topics of interest include (but are not limited to) the following:
+
+* Logic and Reasoning
+ - Logics of agency
+ - Logics of multiagent systems
+ - Norms
+ - Argumentation
+ - Computational Game Theory
+ - Uncertainty in Agent Systems
+ - Agent and Multi-Agent Learning
+
+* Engineering Multi-Agent Systems
+ - Agent-Oriented Software Engineering
+ - Interaction protocols
+ - Commitments
+ - Institutions and Organizations
+ - Normative Systems
+ - Formal Specification and Verification
+ - Agent Programming Languages
+ - Middleware and Platforms
+ - Testing, debugging, and evolution
+ - Deployed System Case Studies
+
+* Agent-Based Modeling and Simulation
+ - Simulation Languages and Platforms
+ - Artificial Societies
+ - Virtual Environments
+ - Emergent Behavior
+ - Modeling System Dynamics
+ - Application Case Studies
+
+* Collaboration & Coordination
+ - Planning
+ - Distributed Problem Solving
+ - Teamwork
+ - Coalition Formation
+ - Negotiation
+ - Trust and Reputation
+
+* Economic paradigms
+ - Auctions and mechanism design
+ - Bargaining and negotiation
+ - Behavioral game theory
+ - Cooperative games: theory & analysis
+ - Cooperative games: computation
+ - Noncooperative games: theory & analysis
+ - Noncooperative games: computation
+ - Social choice theory
+ - Game theory for practical applications
+
+* Human-Agent Interaction
+ - Adaptive Personal Assistants
+ - Embodied Conversational Agents
+ - Virtual Characters
+ - Multimodal User Interfaces
+ - Mobile Agents
+ - Human-Robot Interaction
+
+* Decentralized Paradigms
+ - Grid Computing
+ - Service-Oriented Computing
+ - Cybersecurity
+ - Robotics and Multirobot Systems
+ - Ubiquitous Computing
+ - Social Computing
+ - Internet of Things
+
+* Application Domains for Multi-Agent Systems
+ - Healthcare
+ - Autonomous Systems
+ - Transport and Logistics
+ - Emergency and Disaster Management
+ - Energy and Utilities Management
+ - Sustainability and Resource Management
+ - Games and Entertainment
+ - e-Business, e-Government, and e-Learning
+ - Smart Cities
+ - Financial markets
+ - Legal applications
+
+=========
+Committee
+=========
+General Chairs:
+ - Itsuki Noda (AIST, Japan)
+ - Tran Cao Son (New Mexico State University, USA)
+ - Tony Savarimuthu (University of Otago, New Zealand)
+
+Program Chairs:
+ - Nir Oren (University of Aberdeen, UK)
+ - Tim Miller (University of Melbourne, AU)
+ - Yuko Sakurai (AIST, Japan)
+
+Finance Chair:
+ - Taiki Todo (Kyushu University, Japan)
+
+Web Chair:
+ - Yuu Nakajima (Toho University, Japan)
+
+Publicity Chairs:
+ - Koichi Moriyama (Nagoya Institute of Technology, Japan)
+ - Quan Bai (Auckland University of Technology, New Zealand)
+
+Social Events Chair:
+ - Yuichi Sei (The university of Electro-Communications, Japan)
+
+Sponsorship Chair:
+ - Fujio Toriumi (The university of Tokyo, Japan)
+
+Workshop/Tutorial Chairs:
+ - Kiyoshi Izumi (The university of Tokyo, Japan)
+ - Jiamou Liu (Auckland University, New Zealand)
+ - Hiroki Sakaji (The university of Tokyo, Japan)
+ - Takashi Shimada (The university of Tokyo, Japan)
+ - Yasuhiro Matsushima (The university of Tokyo, Japan)

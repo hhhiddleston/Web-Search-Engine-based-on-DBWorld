@@ -1,0 +1,65 @@
+IEEE Transactions on Network and Service Management
+
+Special Issue on Novel Techniques in Big Data Analytics for Management
+
+http://www.comsoc.org/tnsm/cfp/si-bdm
+
+(Submissions due: 15 November 2018)
+
+Cloud and network analytics can harness the immense stream of operational data from clouds and networks, and can perform analytics processing to improve reliability, configuration, performance, fault and security management. In particular, we see a growing trend towards using statistical analysis, Artificial Intelligence (AI) and machine learning to improve operations and management of IT systems and networks.
+
+Research is therefore needed to understand and improve the potential and suitability of Big Data analytics and AI in the context of systems and network management. This will not only provide deeper understanding and better decision making based on largely collected and available operational data, but present opportunities for improving data analysis algorithms and methods on aspects such as accuracy and scalability, as well as demonstrate the benefits of machine intelligence methods in system and network management and control. Moreover, there is an opportunity to define novel platforms that can harness the vast operational data and advanced data analysis algorithms to drive management decisions in networks, data centers, and clouds.
+
+IEEE Transactions on Network and Service Management (IEEE TNSM) is a premier journal for timely publication of archival research on the management of networks, systems, services and applications. Following the success of two recent TNSM special issues on Big Data Analytics for Management in 2016 and 2018, this special issue will also focus on recent, emerging approaches and technical solutions that can exploit Big Data, analytics, and AI in management solutions. We welcome submissions addressing the underlying challenges of Big Data Analytics for Management and presenting novel techniques, experimental results, or theoretical approaches motivated by management problems. Survey papers that offer a perspective on related work and identify key challenges for future research are also in the scope of the special issue.
+
+Topics of Interest
+
+Topics of interest for this special issue include, but are not
+limited, to the following:
+
+* Big Data Analytics and Machine Learning
+- Analysis, modelling and visualization
+- Operational analytics and intelligence
+- Event and log analytics, text mining
+- Anomaly detection and prediction
+- Monitoring and measurements for management
+- Harnessing social data for management
+- Predictive analytics and real-time analytics
+- Artificial intelligence, neural networks, and deep learning for management
+- Data mining, statistical modeling, and machine learning for management
+
+* Application Domains and Management Paradigms
+- Cloud and network analytics
+- Data centric management of virtualized infrastructure, clouds and data centers
+- Data centric management of software defined networks
+- Data centric management of storage resources
+- Data centric management of Internet of Things and cyber-physical systems
+- Platforms for analyzing and storing logs and operational data for management tasks
+- Applications of Big data analytics to traffic classification, root-cause analysis, service quality assurance, IT service and resource management
+- Novel approaches to cyber-security, intrusion detection, threat analysis, and failure detection based on Big data analytics and machine learning
+
+Paper Submission
+
+All papers should be submitted through the IEEE Transactions on Network and Service Management manuscript submission site at https://mc.manuscriptcentral.com/tnsm. Authors must indicate in the submission cover letter that their manuscript is intended for the "Novel Techniques in Big Data Analytics for Management" special issue. Each submission will be limited to 14 pages in IEEE 2-column format. Detailed author guidelines can be found at http://www.comsoc.org/tnsm/author-guidelines.
+
+Important Dates
+
+Paper submission: November 15, 2018
+Review results returned: February 15, 2019
+Revision submission: March 15, 2019
+Final acceptance notification: June 15, 2019
+Final paper submission: July 7, 2019
+Publication date (tentative): September 2019*
+
+(* online published version will be available in IEEE Xplore after the camera ready version has been submitted with final DOI) 
+
+Guest Editors
+
+David Carrera (Barcelona Supercomputing Center, Spain)
+Giuliano Casale (Imperial College London, UK)
+Takeru Inoue (NTT Laboratories, Japan)
+Hanan Lutfiyya (The University of Western Ontario, Canada)
+Jia Wang (AT&T Research, US)
+Nur Zincir-Heywood (Dalhousie University, Canada)
+
+For more information, please contact the guest editors at TNSM.SI.BDM19@gmail.com

@@ -1,0 +1,117 @@
+Final Call for papers:
+       
+The 8th IEEE International Conference on Sustainable Computing and Communications (IEEE SustainCom2018), 11-13 Dec. 2018, Melbourne, Australia.
+         
+Website: http://www.swinflow.org/confs/2018/sustaincom/
+        
+Key dates:
+Submission Deadline: August 31, 2018 (11:59pm UTC/GMT, firm) 
+Notification: September 30, 2018
+Final Manuscript Due: October 15, 2018
+         
+Submission site: http://www.swinflow.org/confs/2018/sustaincom/submission.htm
+        
+Publication:
+Proceedings will be published by IEEE CS Press.
+         
+Special issues:
+Distinguished papers will be selected for special issues in Information Sciences, Future Generation Computer Systems, Journal of Parallel and Distributed Computing, Concurrency and Computation: Practice and Experience
+      
+===========
+Introduction
+     
+Sustainable Computing and Communications refers to principles that embrace a range of policies, procedures, programs, and attitudes that run the length and breadth of any use of information and communication technologies. It is a holistic approach that stretches from power to waste to purchasing to education and is a life-cycle management approach to the deployment of IT across an organization. It includes designing, manufacturing, using, and disposing of information and communication systems with minimal or no impact on the environment.
+   
+SustainCom (Sustainable Computing and Communications) was created to provide a prime international forum for researchers, industry practitioners and domain experts to exchange the latest fundamental advances in the state of the art and practice of Sustainable Computing andCommunications as well as innovative applications.   
+  
+Scope and Topics
+
+Track 1: Sustainable Computing and Communications
+¡¤   Theoretical Aspect of Energy, Power, and Temperature
+¡¤   Algorithms for Reduced Power, Energy and Heat
+¡¤   Power-aware Design of Software, Middleware and Systems
+¡¤   Power-aware Networking
+¡¤   Real-time systems
+¡¤   Power-efficient Computing Architectures
+¡¤   Efficient Circuit Design for Energy Harvesting
+¡¤   Power Management in Memory, Disk, Storage and other peripheral Devices
+¡¤   Configurable and Renewable Energy
+¡¤   Low Power Electronics
+¡¤   Energy Efficient Network Hardware
+¡¤   Energy-Efficient Communication Protocols
+¡¤   Low power Communication Technologies
+¡¤   Embedded Systems, ASICs and FPGSs
+¡¤   Power Leakage and Dissipation
+¡¤   Code Profiling and Transformation for Power Management
+¡¤   Power-aware Scheduling and Resource Allocation
+¡¤   Energy-efficient Wireless/Mobile/Sensor Systems and Networks
+¡¤   Security and Privacy
+¡¤   Wearable Computing
+¡¤   Ecological Monitoring, Analytics and Visualization
+¡¤   Green Communications Architectures and Frameworks
+¡¤   Green Data Centres and Enterprise Computing
+¡¤   QoS and Green Computing
+¡¤   Integration of Smart Appliances
+¡¤   Green Software Engineering Methodologies and Tools
+¡¤   Virtualization Impact for Green Computing
+¡¤   Case Studies on Green Computing and Communications
+¡¤   Green Computing Models, Methodologies and Paradigms
+   
+Track 2: Sustainable Systems and Technologies
+¡¤   Sustainable Architectures for Smart Grids
+¡¤   Smart Grid Security, Reliability and Load Balancing
+¡¤   Energy Management Systems (EMS)
+¡¤   Economic Models of Energy Efficiency
+¡¤   Energy Monitoring, Profiling and Measurement
+¡¤   Renewable Energy Systems and Harvesting Energy (e.g. Solar, Wind)
+¡¤   Greener Systems Planning and Design
+¡¤   Virtualization for Reducing Power Consumption
+¡¤   Evolutionary Algorithms in Energy Applications
+¡¤   Scheduling and Switching Power Supplies
+¡¤   Optimization Techniques for Efficient Energy Consumption
+¡¤   Reliability of Power-aware Computers
+¡¤   Runtime Systems that Assist in Power Saving
+¡¤   Models for Collective Optimization of Power and Performance
+¡¤   Monitoring Tools for Power and Performance of Parallel and Distributed Systems
+¡¤   Use of Sensors for Environmental Monitoring
+¡¤   Smart Control for Eco-friendly Buildings
+   
+Track 3: Sustainable Methodologies and Applications
+¡¤   Smart City (Sustainable Design, Models, Frameworks, Policies and Strategies)
+¡¤   Smart City (Sustainable Integration and Optimization of Comprehensive Resources and information Flows - energy, emissions, people, goods and services)
+¡¤   Sustainable Energy Generation, Transmission, Distribution and Delivery
+¡¤   Smart Buildings and Urban Infrastructures
+¡¤   Smart Grid for Energy Generation, Transmission, Monitoring and Management
+¡¤   Open Government, Open Data Policies, Urban-Scale Data Sharing, Information Security and Privacy
+¡¤   Smart Logistics and Sustainable Supply Chain Management
+¡¤   Smart People, Smart Living and Smart Citizen Engagement
+¡¤   Intelligent Transport Systems and Traffic Management
+¡¤   Smart Energy-efficient Sensor Networks and Internet of Things
+¡¤   Smart Home, Smart Healthcare and Ageing Population support
+¡¤   e-Mobility, e-Work and e-Business Applications
+¡¤   Sustainable Urban Mobility and Smart Vehicle Management
+¡¤   Smart Resource Support and Demand Management and Optimization
+¡¤   User-Centred Services and Systems
+¡¤   Open Big City Data, Cloud Computing, Internet-Enabled Infrastructures and Services for Sustainability
+¡¤   Innovation Labs, Experimental Test-Beds and Simulation Environments
+¡¤   Mechanisms for Motivating Behavior Change
+¡¤   Advanced Data Analytics for Smart Cities
+¡¤   IS Architecture Design and Platform for Sustainability
+¡¤   Case Studies and Innovative Applications for Sustainability
+  
+Submission Guidelines
+Submissions must include an abstract, keywords, the e-mail address of the corresponding author and should not exceed 8 pages for main conference, including tables and figures in IEEE CS format. The template files for LATEX or WORD can be downloaded here. All paper submissions must represent original and unpublished work. Each submission will be peer reviewed by at least three program committee members. Submission of a paper should be regarded as an undertaking that, should the paper be accepted, at least one of the authors will register for the conference and present the work. Submit your paper(s) in PDF file at the submission site: http://www.swinflow.org/confs/2018/sustaincom/submission.htm.
+        
+Publications
+Accepted and presented papers will be included into the IEEE Conference Proceedings published by IEEE CS Press. Authors of accepted papers, or at least one of them, are requested to register and present their work at the conference, otherwise their papers may be removed from the digital libraries of IEEE CS and EI after the conference.
+         
+Distinguished papers will be selected for special issues in Information Sciences, Future Generation Computer Systems, Journal of Parallel and Distributed Computing, Concurrency and Computation: Practice and Experience.
+    
+General Chairs
+Laurent Lefevre, Inria, LIP Lab., ENS Lyon, University of Lyon, France
+Jianhua Ma, Hosei University, Japan
+     
+Program Chairs
+Dakai Zhu, University of Texas at San Antonio, USA
+Anne-C¨¦cile Orgerie, CNRS, IRISA, France
+Trung Q. Duong, Queen¡¯s University Belfast, UK

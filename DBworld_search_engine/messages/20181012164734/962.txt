@@ -1,0 +1,45 @@
+ï»¿SUBMISSION DEADLINE 
+
+7th International Conference on Model-Driven Engineering and Software Development
+
+Submission Deadline: October 1, 2018
+
+http://www.modelsward.org/
+
+February 20 - 22, 2019
+Prague, Czech Republic.
+
+ MODELSWARD is organized in 3 major tracks:
+
+ - Methodologies, Processes and Platforms
+ - Applications and Software Development
+ - Modeling Languages, Tools and Architectures
+
+
+
+In Cooperation with: ITHEA
+
+Proceedings will be submitted for indexation by: DBLP, Thomson Reuters, EI, SCOPUS and Semantic Scholar. 
+ 
+With the presence of internationally distinguished keynote speakers:
+Hans Vangheluwe, University of Antwerp, Belgium and McGill University, Canada
+Ulrich Frank, University of Duisburg-Essen, Germany
+Ed Seidewitz, Model Driven Solutions, United States
+
+
+A short list of presented papers will be selected so that revised and extended versions of these papers will be published by Springer.
+ 
+All papers presented at the congress venue will also be available at the SCITEPRESS Digital Library (http://www.scitepress.org/DigitalLibrary/).
+  
+Should you have any question please donâ€™t hesitate contacting me.
+ 
+
+Kind regards,
+MODELSWARD Secretariat
+
+Address: Av. D. Manuel I, 27A, 2Âº esq.
+2910-595 Setubal, Portugal
+Tel: +351 265 520 185
+Fax: +351 265 520 186
+Web: http://www.modelsward.org/
+e-mail: modelsward.secretariat@insticc.org

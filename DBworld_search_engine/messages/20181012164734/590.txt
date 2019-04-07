@@ -1,0 +1,76 @@
+SDM'19: THE NINETEENTH SIAM INTERNATIONAL CONFERENCE ON DATA MINING
+ 
+May 2 - May 4, 2019
+Calgary, Canada
+https://www.siam.org/conferences/CM/Main/sdm19
+
+ 
+------------ CALL FOR WORKSHOPS ------------
+
+
+The SDM19 organizing committee invites proposals for workshops to be held in conjunction with the conference. The purpose of a workshop is to provide participants with the opportunity to present and discuss novel research ideas on active and emerging topics of knowledge discovery and data mining. Ideally a workshop should foster interactions between different communities within the scope of SDM (e.g. statisticians, computer scientists, industry, academia etc.). A workshop can be in the form of either a traditional workshop (call for paper mode) or minisymposium (invited talk mode). It should encourage the presentation of novel ideas, even if they are in an early stage of development, contact between different points of view, and active exchanges between participants. Therefore publishing notes is optional for the SDM workshops.
+
+The responsibilities of the traditional workshop organizers include:
+
+ - preparing the call for papers and publicizing it
+ - maintaining the workshop website
+ - deciding the workshop program content; 
+ - inviting speakers, inviting reviewers, selecting the papers through a peer review process
+ - delivering the notes to the press in time (if the workshop organizers decide to publish notes), and
+ - delivering the final workshop program to the workshop chair in time.
+
+
+The responsibilities of the minisymposium organizers:
+
+
+ - maintaining the workshop website
+ - deciding the workshop program content; 
+ - inviting speakers
+ - delivering the notes to the press in time (if the workshop organizers decide to publish notes), and
+ - delivering the final workshop program to the workshop chair in time.
+
+Proposal Format:
+A workshop proposal should include the following information:
+
+ - Workshop title
+ - Full contact information of the organizers
+ - A description of the workshop including objectives, content, topics of interest.
+ - A description of the format (e.g invited talks, round table, accepted presentations, etc) should be included.
+Please indicate your preference regarding the length of the workshop: half-day or full-day.  If you are only interested in hosting a full day workshop then please indicate so.
+ - A short description of the target audience.
+ - List of potential participants: For workshops this could include potential program committee members, potential authors and invited speakers.
+ - A summary of previous editions of the workshop (if it was run before), with an emphasis on number of attendees and paper submissions.
+ - A short biography of each organizer (Please include your experience on organizing workshops and conferences).
+
+
+A minisymposium proposal should include the following information (more information on minisymposium can be found on: https://www.siam.org/Conferences/About-SIAM-Conferences/Conference-Guidelines/Detail/guidelines-for-preparing-a-minisymposium-proposal):
+
+ - Workshop title
+ - Full contact information of the organizers
+ - A description of the workshop including objectives, content, topics of interest.
+ - A description of your minisymposium in no more than 1,500 characters, including spaces. The summary should be written to attract those who specifically work on your topic as well as those who work in related areas.
+ - A short description of the target audience.
+ - Proposed speakers. Provide the full name, affiliation, and email address of each speaker and the title of his/her presentation. Presentation titles and abstracts should be added to the Conference Management System by the presentation abstract deadline. 
+ - A short biography of each organizer (Please include your experience on organizing workshops and conferences).
+
+Proposals will be judged by a sub-committee of the SDM19 organizing committee based on the above information.
+
+Particular preference will be given to proposals that demonstrate the ability to foster interactions among multiple communities, as noted above. We prefer workshops in which there is participation of diverse people who may not have worked with one another in the past, or which bridge between traditional SDM topics and communities and other fields. We also welcome proposals focusing on application issues or economical and social aspects of data mining. External sources of funding or sponsorship for special events held along with the workshop (e.g. invited talks, poster session) can be optionally included in the proposal submission.
+
+For any question regarding the workshops for SDM19, please contact the workshop co-chairs:
+Fosca Giannotti(fosca.giannotti@isti.cnr.it)
+Yizhou Sun (yzsun@cs.ucla.edu)
+
+Submission Instructions:
+
+Workshop proposals should be prepared as a web page and its URL is sent via e-mail to the SDM19 Workshop Co-Chairs: You will receive an acknowledgment of receipt within 24 hours. Please contact us if you do not receive a receipt within 24 hours.
+
+Please send the URL to Fosca Giannotti(fosca.giannotti@isti.cnr.it) and Yizhou Sun (yzsun@cs.ucla.edu) by October 5, 2018 11:59 PM (US Pacific Time), with the subject line: SDM 2019 Workshop Proposal Submission.
+
+
+Important Dates:
+
+Submission of Workshop Proposals:          October 5, 2018 11:59 PM (PDT)
+Notifications:                      November 5, 2018 11:59 PM (PDT)
+Workshop Websites Linked to SDM19:        November 19, 2018 11:59 PM (PDT)
+Final Workshop Notes to SDM with Program: January 23, 2019 11:59 PM (PDT)

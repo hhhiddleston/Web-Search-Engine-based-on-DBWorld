@@ -1,0 +1,61 @@
+CALL FOR PARTICIPATION
+
+
+******************************************************************************
+13th International Workshop on Data Privacy Management (DPM 2018)
+Barcelona, Spain -- September 6-7, 2018 
+(co-located with ESORICS 2018)
+http://deic.uab.cat/conferences/dpm/dpm2018
+******************************************************************************
+
+== ABOUT THE WORKSHOP
+
+DPM is an annual international workshop covering research in data privacy 
+management. Organizations are increasingly concerned about the privacy of 
+information that they manage (as witnessed, for example, by lawsuits filed 
+against organizations for violating the privacy of customer's data). Thus, 
+the management of privacy-sensitive information is very critical and important 
+for every organization. This poses several challenging problems, such as how 
+to translate the high-level business goals into system-level privacy policies, 
+administration of privacy-sensitive data, privacy preserving data integration 
+and engineering, privacy preserving access control mechanisms, information-oriented 
+security, and query execution on privacy-sensitive data for partial answers. 
+Starting from these observations, the aim of DPM is to discuss and exchange 
+ideas related to data privacy management
+
+DPM 2018 is the thirteenth workshop in this series and will be held
+in Barcelona, Spain, in conjunction with the 23rd European 
+Symposium On Research in Computer Security (ESORICS 2018).
+
+The workshop will be a 1.5-day event, featuring technical presentations of 11 
+full papers and 5 short papers, and one keynote speech from Sarah Meiklejohn 
+(University College London).
+
+
+== REGISTRATION
+
+Registration is to be done through the ESORICS registration system. 
+Information is available at
+https://esorics2018.upc.edu/registration.do
+
+
+== PROGRAM
+
+The workshop program is available at
+http://deic.uab.cat/conferences/dpm/dpm2018/program.html
+
+
+== KEYNOTE
+
+We are glad to announce that DPM will feature a keynote speech (joint with other 
+ESORICS workshops) from Sarah Meiklejohn.
+Keynote Title: "Anonymity in Cryptocurrencies"
+
+More information on the keynote speech is available at
+http://deic.uab.cat/conferences/dpm/dpm2018/keynote.html
+
+
+== MORE INFORMATION
+
+Additional information about the workshop can be found at:
+http://deic.uab.cat/conferences/dpm/dpm2018/

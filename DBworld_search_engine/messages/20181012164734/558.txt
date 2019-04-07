@@ -1,0 +1,100 @@
+-------------------------------------------------------------------
+Due to multiple requests, we are extending the CIDR paper submission deadline to Friday, August 24th.
+-------------------------------------------------------------------
+
+
+
+                            C A L L   F O R   P A P E R S
+
+               9th Biennial Conference on Innovative Data Systems Research
+                                    CIDR 2019
+
+                               January 13-16, 2019
+                               Asilomar, California
+
+
+                           http://cidrdb.org/cidr2019
+
+
+SCOPE
+
+The biennial Conference on Innovative Data Systems Research (CIDR) is a systems-oriented conference, complementary in its mission to the mainstream database conferences like SIGMOD and VLDB, emphasizing the systems architecture perspective. CIDR gathers researchers and practitioners from both academia and industry to discuss the latest innovative and visionary ideas in the field.
+
+We invite contributions on novel approaches to data management systems, architecture, and usage. CIDR encourages contributions about innovative and risky data management system architecture ideas, systems-building experience and insight, resourceful experimental studies, and provocative position statements. CIDR especially values innovation, experience-based insight, and vision.
+
+This year, CIDR invites three kinds of contributions: (a) papers (at most 6 pages). To encourage authors to submit only their best work, each person can be an author or co-author of only a single paper or demo. (b) demos (a video or a description of the demo in at most 6 pages). Authors who feel their work is best captured through a demo should submit a demo proposal. Demos and papers will be interweaved in a single-tracked program. (c) abstracts (at most 1 page). If you have an idea that is too half-baked for a paper or demo proposal, you may submit an abstract. Any author of a paper or demo may additionally submit one abstract. Abstracts are expected to have a single author. Abstracts will be allotted a shorter amount of presentation time than papers and demos, and historically these have been presented in an evening â€œgong showâ€.
+
+TOPICS OF INTEREST
+
+Topics of interest include but are not limited to: database systems, storage management, transaction processing, cloud computing, massive data analysis, software service infrastructure, scalability and dependability, embedded and sensor databases, user interfaces, information integration and data cleaning architectures, information retrieval, declarative systems, data management in networks, benchmarking and experimental methodology, and databases for ML and ML for databases. We also welcome submissions on thought-provoking applications and emerging uses of data management technology.
+
+IMPORTANT DATES
+
+EXTENDED deadline: August 24, 2018: Submission deadline for all contributions
+Original deadline: August 20, 2018: Submission deadline for all contributions
+
+October 22, 2018: author notification for all contributions
+
+December 10, 2018: camera-ready deadline for all contributions
+
+January 13-16, 2019: conference 
+
+
+SUBMISSION GUIDELINES
+
+Submissions must be formatted using the ACM SIG style. (see ACM Template), and must not exceed SIX pages (for papers and demos) and ONE page (for abstracts) in length. Videos can be submitted in HTML or MPEG format. Submissions will be reviewed by the program committee which will make acceptance and rejection decisions. Final versions of accepted submissions will be published in the electronic proceedings of the CIDR conference. The final versions of accepted papers and demos have no page limit and can be significantly expanded from the submitted form. At least one author of an accepted paper or demo will be expected to attend the conference in order to present the paper. For accepted papers and demos with several co-authors, the program committee reserves the right to select the co-author who should present the paper at the conference as a condition of acceptance. 
+
+Submission website: https://cmt.research.microsoft.com/CIDR2019
+
+
+ORGANIZATION
+
+General Chair
+
+   Anastasia Ailamaki, EPFL
+
+Program Committee Chairs:
+
+   Magdalena Balazinska (lead chair), University of Washington
+   Jignesh Patel, University of Wisconsin-Madison
+   Michael Stonebraker, MIT
+
+Gong Show Organizer
+
+   Andy Pavlo, CMU
+
+Website Chair
+
+   Ziawasch Abedjan, TU Berlin
+
+Program Committee
+
+   Daniel Abadi, University of Maryland
+   Ziawasch Abedjan, TU Berlin
+   Sihem Amer-Yahia, CNRS
+   Joy Arulraj, CMU
+   Michael Cafarella, University of Michigan
+   Brian Cooper, Google
+   Sudipto Das, Microsoft Research 
+   AnHai Doan, University of Wisconsin
+   Johannes Gehrke, Microsoft
+   Joseph M. Hellerstein, UC Berkeley
+   Chris Jermaine, Rice University
+   Tim Kraska, MIT
+   David Lomet, Microsoft Research
+   Samuel Madden, MIT
+   Volker Markl, TU Berlin
+   Sergey Melnik, Google
+   Barzan Mozafari, University of Michigan
+   Thomas Neumann, TU Munich
+   Fatma Ozcan, IBM Research
+   Ippokratis Pandis, Amazon
+   Olga Papaemmanouil, Brandeis University
+   Christopher Re, Stanford University
+   Jennie Rogers, Northwestern University
+   Eric Sedlar, Oracle
+   Alkis Simitsis, HP
+   Julia Stoyanovich, Drexel University
+   Nesime Tatbul, Intel Labs and MIT
+   Daisy Zhe Wang, University of Florida
+   Gerhard Weikum, Max-Planck-Institut fur Informatik

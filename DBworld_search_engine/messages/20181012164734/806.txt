@@ -1,0 +1,37 @@
+CALL FOR TUTORIAL Proposals
+
+To be presented at the 23rd International Conference on Intelligent User Interfaces (IUI 2019)
+
+Los Angeles, CA, USA
+March 17 - 20, 2019
+http://iui.acm.org/
+
+=========================================================================
+IUI 2019 is pleased to invite tutorial proposals. Tutorials offer the community an opportunity to learn about the state-of-the-art concepts and techniques and allow the presenters to share their expertise. We invite proposals from active researchers and practitioners, and experienced presenters. Ideally, a tutorial will cover the state-of-the-art research and development in a specific area strongly related to IUI. Tutorials on interdisciplinary areas, novel or fast growing directions, and significant practical applications are also encouraged. Tutorials will be held in auditoriums with a screen, projector, and Internet connection. Presenters are expected to bring their own computer.
+
+=============== PROPOSAL FORMAT ===============
+Each tutorial proposal should provide the following information:
+- Name and title: Your name, the tutorial title and the expected length of your tutorial (preferably half a day, i.e. 2 sessions on 90 minutes each).
+- Description of tutorial topic and goal: Detailed outline of the tutorial, along with descriptions of the objectives, its relevance to IUI, benefits to the attendees, and course materials/handouts (links to online materials encouraged).
+- Organizers: Name, email address, and affiliation of each presenter. Note that each listed presenter must register for the conference and be present at the tutorial.
+- Target audience and prerequisites: Target audience level (introductory, intermediate, advanced) and prerequisite knowledge or skills.
+- Experience: Tutors' short bios and their expertise related to the tutorial, including history of previously given tutorials.
+- Equipment and software requirement: please list any that will be needed.
+- History of prior similar tutorials given by the presenter(s).
+
+Additional guidelines: 
+----------------------
+The proposals should be PDF documents not exceeding 3 pages, submitted by e-mail to the tutorial chairs at: tutorials2019@iui.acm.org
+We encourage prospective presenters to contact the tutorial chairs in advance and discuss their tutorial ideas.
+
+=============== IMPORTANT DATES =============== 
+Discuss your topic with the tutorial chairs: ASAP (tutorials2019@iui.acm.org)
+Proposals due: August 14, 2018
+Decisions Sent: September 14, 2018
+
+Tutorial date: TBA
+
+================== TUTORIAL CO-CHAIRS ==================
+Christoph Trattner, University of Bergen, Norway
+Denis Parra, Pontifical Catholic University, Chile
+Nathalie Riche, Microsoft Research

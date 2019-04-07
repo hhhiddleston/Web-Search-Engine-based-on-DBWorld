@@ -1,0 +1,38 @@
+The 6-th International Workshop on High Dimensional Data Mining (HDM 2018)
+In conjunction with the IEEE International Conference on Data Mining (IEEE ICDM 2018)
+
+http://www.cs.bham.ac.uk/~axk/HDM18.htm
+
+Submission deadline: August 7, 2018
+Notifications to authors: September 4, 2018.
+
+
+Call For Papers
+
+Unprecedented technological advances lead to increasingly high dimensional data sets in all areas of science, engineering and businesses. These include genomics and proteomics, biomedical imaging, signal processing, astrophysics, finance, web and market basket analysis, among many others. The number of features in such data is often of the order of thousands or millions -- that is much larger than the available sample size. Geometric intuition breaks down, statistical estimation becomes problematic. Classical data analysis methods become inadequate, questionable, or inefficient at best, and this calls for new approaches.
+
+This workshop aims to bring together researchers from data mining, machine learning, statistics, and related disciplines, to promote new advances and research directions that address the curse of dimensionality. Topics of interest include theoretical foundations, algorithms and implementation, as well as applications and empirical studies, for example:
+
+o Systematic studies of how the curse of dimensionality affects data mining methods
+
+o Models of low intrinsic dimension: sparse representation, manifold models, latent structure models, large margin, others
+
+o How to exploit intrinsic dimension in optimisation tasks for data mining
+
+o New data mining techniques that scale with the intrinsic dimension, or that exploit some properties of high dimensional data spaces
+
+o Dimensionality reduction
+
+o Methods of random projections, compressed sensing, and random matrix theory applied to high dimensional data mining and high dimensional optimisation
+
+o Theoretical underpinning of mining data whose dimensionality is larger than the sample size
+
+o Classification, regression, clustering, visualisation of high dimensional complex data sets
+
+o Functional data mining
+
+o Data presentation and visualisation methods for very high dimensional data sets
+
+o Data mining applications to real problems in science, engineering or businesses where the data is high dimensional
+
+High quality original submissions are solicited. Papers should not exceed 8 pages, and should follow the IEEE ICDM format requirements of the main conference. All submissions will be peer-reviewed, and the accepted papers will be published in the proceedings by the IEEE Computer Society Press.

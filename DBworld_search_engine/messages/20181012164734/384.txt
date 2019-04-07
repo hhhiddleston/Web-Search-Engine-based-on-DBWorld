@@ -1,0 +1,62 @@
+Postdoctoral Fellow in Data Science
+
+Ref. No. SU FV-2912-18
+
+at the Department of Computer and Systems Sciences. Closing date: 30 September 2018.
+
+The Department of Computer and Systems Sciences (DSV) is one of Swedenâ€™s oldest IT departments and the largest department at Stockholm University. DSV offers a stimulating research environment and a strong research group in the area of data science with well-established national and international connections to leading industrial and academic institutions.
+
+Project description
+The position will be associated with a Huawei funded project on time series prediction for network traffic control, led by Professor Panagiotis Papapetrou. The main objective of the project is to explore various time series prediction techniques for network traffic control and prediction on real and simulated data. The project will be carried out at Stockholm University in close collaboration with Huawei Sweden.
+
+Main responsibilities
+The postdoctoral fellow will be involved in all parts of the research project. This includes contacts with collaborating partners, data representation, data analysis, implementation, testing and development of algorithms, and publishing and reporting of research results. All of the above in collaboration with other members of the research group.
+
+Qualification requirements
+Postdoctoral positions are appointed primarily for purposes of research. Applicants are expected to hold a Swedish doctoral degree or an equivalent degree from another country.
+
+Assessment criteria
+The degree should have been completed no more than three years before the deadline for applications. An older degree may be acceptable under special circumstances, which may involve sick leave, parental leave, clinical attachment, elected positions in trade unions, or similar.
+
+In the appointment process, special attention will be given to scientific skills. The applicant should have good communication skills in English and excellent programming skills. Working knowledge of Matlab or R is considered a merit. The position will require some teaching (20 %) and the applicant should be able to teach in areas of machine learning and data mining. The applicant should have documented research experience in data science. Experience of machine learning and time series analysis, applied to network traffic is a merit. The applicant should be highly motivated, flexible, have good communication skills, be able to work independently as well as collaborate.
+
+Terms of employment
+The position involves full-time employment for a maximum of two years, with the possibility of extension under special circumstances. Start date 2018-11-15  or as per agreement.
+
+Stockholm University strives to be a workplace free from discrimination and with equal opportunities for all.
+
+Contact
+Further information about the position can be obtained from the Head of the Department, Professor Uno Fors, telephone: +46 8 674 74 79, uno@dsv.su.se, or the project leader, Professor Panagiotis Papapetrou, panagiotis@dsv.su.se.].
+
+Union representatives
+Ingrid Lander (Saco-S), telephone: +46 708 16 26 64, saco@saco.su.se, Lisbeth HÃ¤ggberg (FackfÃ¶rbundet ST and LÃ¤rarfÃ¶rbundet), telephone: +46 8 16 20 00 (operator), and seko@seko.su.se (SEKO).
+
+Application
+Apply for the position at Stockholm University's recruitment system. It is the responsibility of the applicant to ensure that the application is complete in accordance with the instructions in the job advertisement, and that it is submitted before the deadline.
+
+Please include the following information with your application
+
+Your contact details and personal data
+Your highest degree
+Your language skills
+Contact details for 2â€“3 references
+and, in addition, please include the following documents
+
+Cover letter
+CV â€“ degrees and other completed courses, work experience and a list of publications
+Research proposal (no more than 3 pages) describing: 
+â€“ why you are interested in the field/project described in the advertisement 
+â€“ why and how you wish to complete the project 
+â€“ what makes you suitable for the project in question
+Copy of PhD diploma
+Letters of recommendation (no more than 3 files)
+Publications in support of your application (no more than 3 files).
+The instructions for applicants are available at: Instructions â€“ Applicants.
+
+You are welcome to apply!
+
+Stockholm University â€“ our education and research produce results.
+
+Closing date: September 30, 2018
+
+URL to the call: https://www.su.se/english/about/working-at-su/jobs?rmpage=job&rmjob=6624&rmlang=UK

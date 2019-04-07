@@ -1,0 +1,26 @@
+Fincons Group is currently looking for NLP Experts to be working at EC Joint Research Centre ( https://ec.europa.eu/info/departments/joint-research-centre_en) site based in Ispra (Italy).
+
+NLP EXPERT
+Candidate will be engaged in a team of international professionals and involved in a project at European Commissionâ€™s Joint Research Centre (JRC) in Ispra.
+We are looking for an Application Architect with experience in NLP technologies related to information extractions, document classifications and/or document clustering.
+He/she will transform PDF/doc into plain text using open source tools, develop new libraries and apply NLP analysis.
+We require a good knowledge of:
+Â·      Java, Tomcat, HTML, CSS, Python
+Â·      Apache Tika, Json, Weka, Scikit, Lucene, Solr, ElasticSearch
+Â·      Modelling tools
+Â·      Stanford Core NLP, NLTK, OpenNLP
+Experience in applying machine learning methods for text analysis is consider a plus.
+We require a fluent English level in understanding, speaking and writing.
+We are looking for people who take care about quality of work, have team working attitude, collaboration, dynamic approach and flexibility to Work within our team and interfacing with our clients business and technical users, and IT management.
+
+Location: ISPRA (VA) â€“ Italy.
+
+About JRC
+As the science and knowledge service of the Commission, the mission of Joint Research Centre is to support EU policies with independent evidence throughout the whole policy cycle. 
+The JRC's Europe Media Monitor (EMM) team carries out research and development in the field of highly multilingual text mining (Language Technology; Computational Linguistics) for the purposes of media monitoring. EMM gathers an average of 300,000 on-line news articles per day in over 70 languages and analyses them to help its large international user community understand and use this enormous amount of media information. The Europe Media Monitor EMM is publicly accessible and widely used. The EMM team has produced over 200 international peer-reviewed publications. The team has also produced and distributes a number of highly multilingual Language Technology resources.
+
+About FINCONS
+With over 30 years of experience in IT Business Consulting, FINCONS GROUP partners with clients to support business growth through innovation. The Group delivers tailored end-to-end software solutions to tier-1 clients in different industries: Media, Financial Services, Energy & Utilities, Manufacturing, Transportation and Public Administration. FINCONS GROUP has built its reputation on foreseeing and interpreting new business models and the rapid evolution of IT systems, building a complete range of services: from research and consulting to design and IT development, from system integration of leading software solutions vendors right up to application management, structuring the digital transformation of any size of businesses. High quality and competitiveness are further guaranteed by the Smart-shore IT Service strategy made available through the Delivery Center in Bari (Italy) which provides advanced application management and system building services along the entire digital supply chain. The Group has ongoing collaborations with businesses, public institutions, research centers and universities through its Innovation Lab. FINCONS GROUP has locations in Italy (Milan, Verona, Rome, Bari, Catania), in Switzerland (Lugano, Bern, Zurich), in the UK (London) and in the USA (Los Angeles, New York).
+
+
+If you are interested please apply via NLP: https://nlppeople.com/job/fincons-ispra-varese-43-nlp-expert/ or drop your CV at cv@finconsgroup.com

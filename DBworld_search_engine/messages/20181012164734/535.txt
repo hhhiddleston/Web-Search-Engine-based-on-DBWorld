@@ -1,0 +1,61 @@
+The 1st IEEE International Workshop on Technology Convergence for Smart Cities (TeC4C 2018, http://tec4c2018.netsons.org/)
+ Co-located with The 4th IEEE International Conference on Collaboration and Internet Computing (CIC 2018, http://www.sis.pitt.edu/lersais/cic/2018/index.html)
+ October 18-20, 2018
+ Philadelphia, Pennsylvania, USA
+ http://tec4c2018.netsons.org/
+
+ Important Dates:
+ Submission of research papers due:           August 30th, 2018 (Extended)
+ Notification of paper acceptance:            September 5th, 2018    
+ Submission of camera-ready papers due:       September 17th, 2018
+ Workshop date:                               October 18th, 2018
+
+
+Best papers presented at the workshop will be selected and the corresponding authors will be invited to submit an extended version of their papers for possible publications in:
+
+ 1) Special Issue "Holistic Technologies for Managing Internet of Things Services" on IEEE Transactions on Services Computing (https://www.computer.org/cms/Computer.org/transactions/cfps/cfp_tscsi_htmits.pdf)
+
+ 2) Sensors — Open Access Journal (http://www.mdpi.com/journal/sensors)
+
+ --------------------------------------------------------------------------------
+
+ Advances in ICT are changing the way we live and work, making our daily activities faster, easier and more reliable. Smart cities are becoming an intriguing stage for several citizens to benefit from pervasive, easy to use, and interactive services and applications. From the technical perspective smart cities are the result of the integration of several technologies, that cooperate to provide seamless solutions to end users. Such technologies enable the collection, storage, and processing of data sensed from the environment and/or produced by citizens themselves; they promote social interactions and improve people's quality of life. For Instance the integration of network infrastructures along with services provided by both big players (e.g., Microsoft, Google, Apple, and Amazon) and small and medium enterprises open new scenarios for the smart city ecosystem and approaches like osmotic computing are necessary to dynamically organize and migrate resources according to the requirements of different infrastructures (e.g., load balancing, reliability, availability) and applications (e.g., sensing/actuation capabilities, context awareness, proximity, Quality of Service (QoS)).
+
+ Topics:
+ Workshop topics include, but are not limited to:
+
+ Deployment and autonomic management of densely interconnected and decentralised cloud infrastructures, including the extension of the fog computing paradigm to the edge of the network
+ Autonomic management of networking in the context of software-defined data centres
+ Re-allocation of resources and services across distributed computing and geographically separated infrastructures
+ Software Defined Infrastructure Architectures, Application Programming
+ Dynamic orchestration of heterogeneous resources for Smart city systems and applications
+ (Device, Data, Service) Discovery in Smart cities
+ Security and privacy preservation in Smart cities
+ IoT Microservices, Networking and CloudLet computing
+ Software-defined networking support for IoT device fleets (M2M applications)
+ Hybrid Sensor/Cloud networking
+ Smart mobility
+ Smart education
+ Smart governance
+ Continuous healthcare
+ Infrastructures, platforms, and software for Smart cities
+ System architectures for convergent technologies
+ Service & Information Orchestration/Chaining and Life Cycle Management
+ Software engineering methodology for the design of Smart Cities
+ Models and methodologies for convergent platforms
+ Data quality and management in convergent platforms for Smart Cities
+ Deployment of convergent technologies in Smart Cities
+
+
+ Submission Guidelines:
+ We invite original research papers that have not been previously published and are not currently under review for publication elsewhere.
+ Submitted papers should be no longer than 8 pages in two-column IEEE proceeding format.
+
+
+ The IEEE LaTeX and Microsoft Word templates for conferences can be found at IEEE Manuscript Templates for Conference Proceedings
+ at http://www.ieee.org/conferences_events/conferences/publishing/templates.html.
+
+ Submissions must be made via EasyChair: https://easychair.org/conferences/?conf=tec4c2018
+
+ Contact
+ All questions about submissions should be emailed to tec4c2018@googlegroups.com

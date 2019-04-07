@@ -1,0 +1,301 @@
+Issue 12 of Volume 11 of the Proceedings of the VLDB Endowment (PVLDB) is now available electronically at the VLDB web site:
+
+   http://www.vldb.org/pvldb/vol11.html
+
+This issue consists of the following papers that have been accepted for the industrial and applications; demonstrations; tutorials; and award talks and panel  tracks of VLDB 2018 in Rio de Janeiro, Brazil in August 2018:
+
+Industrial and Applications
+
+- Challenges and Experiences in Building an Efficient Apache Beam Runner For IBM Streams
+Shen Li, Paul Gerver, John Macmillan, Daniel Debrunner, William Marshall, Kun-Lung Wu
+http://www.vldb.org/pvldb/vol11/p1742-li.pdf
+
+- On Optimizing Operator Fusion Plans for Large-Scale Machine Learning in SystemML
+Matthias Boehm, Berthold Reinwald, Dylan Hutchison, Prithviraj Sen, Alexandre Evfimievski, Niketan Pansare
+http://www.vldb.org/pvldb/vol11/p1755-boehm.pdf
+
+- OLTPShare: The Case for Sharing in OLTP Workloads
+Robin Rehrmann, Carsten Binnig, Alexander Boehm, Kihong Kim, Wolfgang Lehner, Amr Rizk
+http://www.vldb.org/pvldb/vol11/p1769-rehrmann.pdf
+
+- Automating Large-Scale Data Quality Verification
+Sebastian Schelter, Dustin Lange, Philipp Schmidt, Meltem Celikel, Felix Biessmann, Andreas Grafberger
+http://www.vldb.org/pvldb/vol11/p1781-schelter.pdf
+
+- Taking Omid to the Clouds: Fast, Scalable Transactions for Real-Time Cloud Analytics
+Ohad Shacham, Yonatan Gottesman, Aran Bergman, Edward Bortnikov, Eshcar Hillel, Idit Keidar
+http://www.vldb.org/pvldb/vol11/p1795-shacham.pdf
+
+- Providing Streaming Joins as a Service at Facebook
+Gabriela Jacques-Silva, Ran Lei, Luwei Cheng, Guoqiang Jerry Chen, Kuen Ching, Tanji Hu, Yuan Mei, Kevin Wilfong, Rithin Shetty, Serhat Yilmaz, Anirban Banerjee, Benjamin Heintz, Shridar Iyer, Anshul Jaiswal
+http://www.vldb.org/pvldb/vol11/p1809-jacques-silva.pdf
+
+- FusionInsight LibrA: Huawei's Enterprise Cloud Data Analytics Platform
+Le Cai, Jianjun Cheny, Jun Chen, Yu Chen, Kuorong Chiang, Marko Dimitrijevic, Yonghua Ding, Yu Dong, Ahmad Ghazal, Jacques Hebert, Kamini Jagtiani, Suzhen Lin, Ye Liu, Demai Ni, Chunfeng Pei, Jason Sun, Li Zhang, Mingyi Zhang, Cheng Zhu
+http://www.vldb.org/pvldb/vol11/p1822-cai.pdf
+
+- F1 Query: Declarative Querying at Scale
+Bart Samwel, John Cieslewicz, Ben Handy, Jason Govig, Petros Venetis, Chanjun Yang, Keith Peters, Jeff Shute, Daniel Tenedorio, Himani Apte, Felix Weigel, David Wilhite, Jiacheng Yang, Jun Xu, Jiexing Li, Zhan Yuan, Craig Chasseur, Qiang Zeng, Ian Rae, Anurag Biyani, Andrew Harn, Yang Xia, Andrey Gubichev, Amr El-Helw, Orri Erling, Zhepeng Yan, Mohan Yang, Yiqun Wei, Thanh Do, Colin Zheng, Goetz Graefe, Divy Agrawal
+http://www.vldb.org/pvldb/vol11/p1835-samwel.pdf
+
+- PolarFS: An Ultra-low Latency and Failure Resilient Distributed File System for Shared Storage Cloud Database
+Wei Cao, Zhenjun Liu, Peng Wang, Sen Chen, Caifeng Zhu, Song Zheng, Yuhui Wang, Guoqing Ma
+http://www.vldb.org/pvldb/vol11/p1849-cao.pdf
+
+- Accordion: Better Memory Organization for LSM Key-Value Stores
+Edward Bortnikov, Anastasia Braginsky, Eshcar Hillel, Idit Keidar, Gali Sheffi
+http://www.vldb.org/pvldb/vol11/p1863-bortnikov.pdf
+
+- Real-time Constrained Cycle Detection in Large Dynamic Graphs
+Xiafei Qiu, Wubin Cen, Zhengping Qian, You Peng, Ying Zhang, Xuemin Lin, Jingren Zhou
+http://www.vldb.org/pvldb/vol11/p1876-qiu.pdf
+
+- BTrim - Hybrid In-Memory Database Architecture for Extreme Transaction Processing in VLDBs
+Aditya Gurajada, Dheren Gala, Fei Zhou, Amit Pathak, Zhan-Feng Ma
+http://www.vldb.org/pvldb/vol11/p1889-gurajada.pdf
+
+
+Demonstrations
+
+- Sherlock: A System for Interactive Summarization of Large Text Collections
+Avinesh P.v.s., Carsten Binnig, Benjamin H_ttasch, Christian Meyer, Orkan Ozyurt
+http://www.vldb.org/pvldb/vol11/p1902-p.v.s..pdf
+
+- DataStorm-FE: A Data- and Decision-Flow and Coordination Engine for Coupled Simulation Ensembles
+Hans Behrens, K. Selcuk Candan, Xilun Chen, Ashish Gadkari, Yash Garg, Mao-Lin Li
+http://www.vldb.org/pvldb/vol11/p1906-behrens.pdf
+
+- A Demonstration of the OtterTune Automatic Database Management System Tuning Service
+Bohan Zhang, Dana Van Aken, Justin Wang, Tao Dai, Shuli Jiang, Jacky Lao, Siyuan Sheng, Andrew Pavlo, Geoffrey Gordon
+http://www.vldb.org/pvldb/vol11/p1910-zhang.pdf
+
+- OctopusFS in Action: Tiered Storage Management for Data Intensive Computing
+Elena Kakoulli, Nikolaos Karmiris, Herodotos Herodotou
+http://www.vldb.org/pvldb/vol11/p1914-kakoulli.pdf
+
+- TRIPS: A System for Translating Raw Indoor Positioning Data into Visual Mobility Semantics
+Huan Li, Hua Lu, Feichao Shi, Gang Chen, Ke Chen, Lidan Shou
+http://www.vldb.org/pvldb/vol11/p1918-li.pdf
+
+- A Demonstration of PERC: Probabilistic Entity Resolution With Crowd Errors
+Xiangyu Ke, Michelle Teo, Arijit Khan, Vijaya Krishna Yalavarthi
+http://www.vldb.org/pvldb/vol11/p1922-ke.pdf
+
+- CDB: A Crowd-Powered Database System
+Guoliang Li, Chengliang Chai, Ju Fan, Xueping Weng, Jian Li, Yudian Zheng, Yuanbing Li, Xiang Yu, Xiaohang Zhang, Haitao Yuan
+http://www.vldb.org/pvldb/vol11/p1926-li.pdf
+
+- FASTER: An Embedded Concurrent Key-Value Store for State Management
+Badrish Chandramouli, Guna Prasaad, Donald Kossmann, Justin Levandoski, James Hunter, Mike Barnett
+http://www.vldb.org/pvldb/vol11/p1930-chandramouli.pdf
+
+- Maverick: A System for Discovering Exceptional Facts from Knowledge Graphs
+Gensheng Zhang, Chengkai Li
+http://www.vldb.org/pvldb/vol11/p1934-zhang.pdf
+
+- PTRider: A Price-and-Time-Aware Ridesharing System
+Lu Chen, Yunjun Gao, Zixian Liu, Xiaokui Xiao, Christian Jensen, Yifan Zhu
+http://www.vldb.org/pvldb/vol11/p1938-chen.pdf
+
+- CoreKG: a Knowledge Lake Service
+Amin Beheshti, Boualem Benatallah, Reza Nouri, Alireza Tabebordbar
+http://www.vldb.org/pvldb/vol11/p1942-beheshti.pdf
+
+- RuDiK: Rule Discovery in Knowledge Bases
+Stefano Ortona, Venkata Vamsikrishna Meduri, Paolo Papotti
+http://www.vldb.org/pvldb/vol11/p1946-ortona.pdf
+
+- The return of JedAI: End-to-End Entity Resolution for Structured and Semi-Structured Data
+George Papadakis, Leonidas Tsekouras, Emmanouil Thanos, George Giannakopoulos, Themis Palpanas, Manolis Koubarakis
+http://www.vldb.org/pvldb/vol11/p1950-papadakis.pdf
+
+- Provenance Summaries for Answers and Non-Answers
+Seokki Lee, Bertram Ludaescher, Boris Glavic
+http://www.vldb.org/pvldb/vol11/p1954-lee.pdf
+
+- Helix: Accelerating Human-in-the-loop Machine Learning
+Doris Xin, Litian Ma, Jialin Liu, Stephen Macke, Shuchen Song, Aditya Parameswaran
+http://www.vldb.org/pvldb/vol11/p1958-xin.pdf
+
+- ShapeSearch: Flexible Pattern-based Querying of Trend Line Visualizations
+Tarique Siddiqui, Paul Luh, Zesheng Wang, Karrie Karahalios, Aditya Parameswaran
+http://www.vldb.org/pvldb/vol11/p1962-siddiqui.pdf
+
+- PANDA: A System for Partial Topology-based Search on Large Networks
+Miao Xie, Sourav S. Bhowmick, Hao Su, Gao Cong, Wook-Shin Han
+http://www.vldb.org/pvldb/vol11/p1966-xie.pdf
+
+- MSQL+: a Plugin Toolkit for Similarity Search under Metric Spaces in Distributed Relational Database Systems
+Wei Lu, Xinyi Zhang, Zhiyu Shui, Zhe Peng, Xiao Zhang, Xiaoyong Du, Hao Huang, Xiaoyu Wang, Anqun Pan, Haixiang Li
+http://www.vldb.org/pvldb/vol11/p1970-lu.pdf
+
+- HYDRA: A Dynamic Big Data Regenerator
+Anupam Sanghi, Raghav Sood, Dharmendra Singh, Jayant Haritsa, Srikanta Tirthapura
+http://www.vldb.org/pvldb/vol11/p1974-sanghi.pdf
+
+- A Demonstration of MAGiQ: Matrix Algebra Approach for Solving RDF Graph Queries
+Fuad Jamour, Ibrahim Abdelaziz, Panos Kalnis
+http://www.vldb.org/pvldb/vol11/p1978-jamour.pdf
+
+- REGAL+: Reverse Engineering SPJA Queries
+Wei Chit Tan, Meihui Zhang, Hazem Elmeleegy, Divesh Srivastava
+http://www.vldb.org/pvldb/vol11/p1982-tan.pdf
+
+- NLProveNAns: Natural Language Provenance for Non-Answers
+Daniel Deutch, Nave Frost, Amir Gilad, Tomer Haimovich
+http://www.vldb.org/pvldb/vol11/p1986-deutch.pdf
+
+- Fault-Tolerance for Distributed Iterative Dataflows in Action
+Chen Xu, Rudi Poepsel Lemaitre, Juan Soto, Volker Markl
+http://www.vldb.org/pvldb/vol11/p1990-xu.pdf
+
+- QuestPro: Queries in SPARQL Through Provenance
+Efrat Abramovitz, Daniel Deutch, Amir Gilad
+http://www.vldb.org/pvldb/vol11/p1994-abramovitz.pdf
+
+- GOLDRUSH: Rule Sharing System for Fraud Detection
+Ariel Jarovsky, Tova Milo, Slava Novgorodov, Wang-Chiew Tan
+http://www.vldb.org/pvldb/vol11/p1998-jarovsky.pdf
+
+- Discovering Diversified Paths in Knowledge Bases
+Christian Aebeloe, Gabriela Montoya, Vinay Setty, Katja Hose
+http://www.vldb.org/pvldb/vol11/p2002-aebeloe.pdf
+
+- Declarative and distributed graph analytics with GRADOOP
+Martin Junghanns, Max KieBling, Niklas Teichmann, Kevin GÃ³mez, AndrÃ© Petermann, Erhard Rahm
+http://www.vldb.org/pvldb/vol11/p2006-junghanns.pdf
+
+- A collaborative framework for tweaking properties in a synthetic dataset
+Jiangwei Zhang, Yu Wang, Y.c. Tay
+http://www.vldb.org/pvldb/vol11/p2010-zhang.pdf
+
+- Tooling Framework for Instantiating Natural Language Querying System
+Manasa Jammi, Jaydeep Sen, Ashish Mittal, Sagar Verma, Vardaan Pahuja, Rema Ananthanarayanan, Pranay Lohia, Hima Karanam, Diptikalyan Saha, Karthik Sankaranarayanan
+http://www.vldb.org/pvldb/vol11/p2014-jammi.pdf
+
+- Koko: A System for Scalable Semantic Querying of Text
+Xiaolan Wang, Jiyu Komiya, Yoshihiko Suhara, Aaron Feng, Behzad Golshan, Alon Halevy, Wang-Chiew Tan
+http://www.vldb.org/pvldb/vol11/p2018-wang.pdf
+
+- GC: A Graph Caching System for Subgraph/Supergraph Queries
+Jing Wang, Zichen Liu, Shuai Ma, Nikos Ntarmos, Peter Triantafillou
+http://www.vldb.org/pvldb/vol11/p2022-wang.pdf
+
+- X2Q: Your Personal Example-based Graph Explorer
+Matteo Lissandrini, Davide Mottin, Themis Palpanas, Yannis Velegrakis
+http://www.vldb.org/pvldb/vol11/p2026-lissandrini.pdf
+
+- ConnectionLens: Finding Connections Across Heterogeneous Data Sources
+Camille Chanial, R_douane Dziri, Helena Galhardas, Julien Leblay, Minh-Huong Le Nguyen, Ioana Manolescu
+http://www.vldb.org/pvldb/vol11/p2030-chanial.pdf
+
+- ProvSQL:Provenance and Probability Management in PostgreSQL
+Pierre Senellart, Louis Jachiet, Silviu Maniu, Yann Ramusat
+http://www.vldb.org/pvldb/vol11/p2034-senellart.pdf
+
+- CYADB: A Database that Covers Your Ask
+Zechao Shang, Will Brackenbury, Aaron Elmore, Michael Franklin
+http://www.vldb.org/pvldb/vol11/p2038-shang.pdf
+
+- CloudMatcher: A Hands-Off Cloud/Crowd Service for Entity Matching
+Yash Govind, Erik Paulson, Palaniappan Nagarajan, Paul Suganthan G. C., Anhai Doan, Youngchoon Park, Glenn Fung, Devin Conathan, Marshall Carter, Mingju Sun
+http://www.vldb.org/pvldb/vol11/p2042-govind.pdf
+
+- Collaborative Edge and Cloud Neural Networks for Real-Time Video Processing
+Philipp Grulich, Faisal Nawab
+http://www.vldb.org/pvldb/vol11/p2046-grulich.pdf
+
+- Dhalion in Action: Automatic Management of Streaming Applications
+Ashvin Agrawal, Avrilia Floratou
+http://www.vldb.org/pvldb/vol11/p2050-agrawal.pdf
+
+- Ease.ml in Action: Towards Multi-tenant Declarative Learning Services
+Bojan Karlas, Ji Liu, Wentao Wu, Ce Zhang
+http://www.vldb.org/pvldb/vol11/p2054-karlas.pdf
+
+- MustaCHE: A Multiple Clustering Hierarchies Explorer
+Antonio Cavalcante Araujo Neto, Mario Nascimento, Joerg Sander, Ricardo Campello
+http://www.vldb.org/pvldb/vol11/p2058-neto.pdf
+
+- HypDB: A Demonstration of Detecting, Explaining and Resolving  Bias in OLAP queries
+Babak Salimi, Corey Cole, Peter Li, Johannes Gehrke, Dan Suciu
+http://www.vldb.org/pvldb/vol11/p2062-salimi.pdf
+
+- Learning Efficiently Over Heterogeneous Databases
+Jose Picado, Arash Termehchy, Sudhanshu Pathak
+http://www.vldb.org/pvldb/vol11/p2066-picado.pdf
+
+- Scalable and Efficient Data Analytics and Mining with Lemonade
+Walter Santos, Gustavo Avelar, Manoel Horta Ribeiro, Dorgival Guedes, Wagner Meira Jr.
+http://www.vldb.org/pvldb/vol11/p2070-santos.pdf
+
+- SkinnerDB: Regret-Bounded Query Evaluation via Reinforcement Learning
+Immanuel Trummer, Samuel Moseley, Deepak Maram, Saehan Jo, Joseph Antonakakis
+http://www.vldb.org/pvldb/vol11/p2074-trummer.pdf
+
+- iSPEED: a Scalable and Distributed In-Memory Based Spatial Query System for Large and Structurally Complex 3D Data
+Hoang Vo, Yanhui Liang, Jun Kong, Fusheng Wang
+http://www.vldb.org/pvldb/vol11/p2078-vo.pdf
+
+- DfAnalyzer: Runtime Dataflow Analysis of Scientific Applications using Provenance
+VÃ­tor Sousa, Daniel Oliveira, Marta Mattoso, Patrick Valduriez
+http://www.vldb.org/pvldb/vol11/p2082-sousa.pdf
+
+- A Demonstration of Sterling: A Privacy-Preserving Data Marketplace
+Nick Hynes, David Dao, David Yan, Raymond Cheng, Dawn Song
+http://www.vldb.org/pvldb/vol11/p2086-hynes.pdf
+
+- ConTPL: Controlling Temporal Privacy Leakage in Differentially Private Continuous Data Release
+Yang Cao, Li Xiong, Masatoshi Yoshikawa, Yonghui Xiao, Si Zhang
+http://www.vldb.org/pvldb/vol11/p2090-cao.pdf
+
+Tutorials
+
+- Data Integration and Machine Learning: A Natural Synergy
+Luna Dong, Theodoros Rekatsinas
+http://www.vldb.org/pvldb/vol11/p2094-dong.pdf
+
+- Database and Distributed Computing Fundamentals for Scalable, Fault-tolerant, and Consistent Maintenance of Blockchains
+Sujaya Maiyya, Victor Zakhary, Divy Agrawal, Amr El Abbadi
+http://www.vldb.org/pvldb/vol11/p2098-maiyya.pdf
+
+- Forecasting Big Time Series: Old and New
+Christos Faloutsos, Jan Gasthaus, Tim Januschowski, Yuyang Wang
+http://www.vldb.org/pvldb/vol11/p2102-faloutsos.pdf
+
+- Graph Data Models, Query Languages and Programming Paradigms
+Alin Deutsch, Yannis Papakonstantinou
+http://www.vldb.org/pvldb/vol11/p2106-deutsch.pdf
+
+- Computational fact-checking: a content management perspective
+Sylvie Cazalens, Julien Leblay, Ioana Manolescu, Philippe Lamarre, Xavier Tannier
+http://www.vldb.org/pvldb/vol11/p2110-cazalens.pdf
+
+Award Talks and Panel
+
+- Information and Data Management at PUC-Rio and UFMG
+Antonio Furtado, Nivio Ziviani
+http://www.vldb.org/pvldb/vol11/p2114-furtado.pdf
+
+- Open Data Integration
+Ren_e Miller
+http://www.vldb.org/pvldb/vol11/p2130-miller.pdf
+
+- Ten Years of WebTables
+Michael Cafarella, Alon Halevy, Hongrae Lee, Jayant Madhavan, Cong Yu, Daisy Zhe Wang, Eugene Wu
+http://www.vldb.org/pvldb/vol11/p2140-cafarella.pdf
+
+- Northstar: An Interactive Data Science System
+Tim Kraska
+http://www.vldb.org/pvldb/vol11/p2150-kraska.pdf
+
+- Panel: A Debate on Data and Algorithmic Ethics
+Julia Stoyanovich, Bill Howe, H. Jagadish, Gerome Miklau
+http://www.vldb.org/pvldb/vol11/p2165-stoyanovich.pdf
+
+
+Regards,
+
+Sourav Bhowmick, Nanyang Technological University, Singapore 
+Ricardo Torres, University of Campinas, Brazil
+VLDB 2018 Proceedings Chairs

@@ -1,0 +1,63 @@
+=================================================================
+Call for Posters, Demos and Late-Breaking Results
+8th International Conference on the Internet of Things (IoT 2018)
+Deadline: August 13th, 2018 [Extended Deadline]
+http://iot-conference.org
+Santa Barbara, CA, USA
+=================================================================
+ 
+
+The Organising Committee of the 8th International Conference on the Internet of Things cordially invites submissions of Posters and Demos and Late-Breaking Results papers reporting on recent findings or other types of innovative or thought-provoking work.
+
+The International Conference on Internet of Things (IoT) has become the premier gathering place where visionary, ground-breaking research in the IoT field meets leading industry experts. Since its beginnings in the year 2008, IoT has been backed by strong support from leading academic institutions as well as industry and we are happy to announce its eight iteration will take place from October 15-18th 2018 in Santa Barbara, CA, USA.
+
+
+SUBMISSION INFORMATION
+==================
+
+Submissions to the Poster, Demos and Late-Breaking Results track are in the form of a short paper and submitted as a PDF file. Papers have to be submitted via the EasyChair (https://easychair.org/conferences/?conf=iot20180) conference system, must be written in English and contain original material that has not been published or is currently undergoing review elsewhere. The submission length should not exceed 4 pages and follow the ACM SIGCHI 2 column conference format. Papers are peer-reviewed by a committee of experts in the IoT field. Accepted papers will be listed on DBLP and published via the ACM Digital Library. Cases of plagiarism or multiple submissions will be subject to disciplinary action as per ACM rules and regulations, and no-shows at the conference will result in an exclusion from the ACM Digital Library.
+
+Your submission should be close to camera-ready and thoroughly copy-edited due to the short selection cycle. Furthermore, due to the very rapid selection process we cannot offer any extensions to the deadline. Submissions are not anonymous and should therefore include all author names, affiliations and contact information and references to external data, software or videos, if applicable. 
+
+
+What are Late-Breaking Results
+
+A Late-Breaking Results submission is a short report of recent findings or other types of innovative or thought-provoking work relevant to the IoT community. They represent work that has not reached a level of completion or maturity expected in the main track of the conference. Submissions should report on cutting edge or emerging work that has not been fully realized or developed and for which empirical data may not yet be available. Still, submissions should make a contribution to the State-of-the-Art in the field. A significant benefit of a Late-Breaking Results work is derived from the discussion between authors and conference attendees that will be fostered by the face-to-face presentation of the work. Please note that summaries of published work or reduced versions of main track IoT submissions are inappropriate as a Late-Breaking Result submissions and will be rejected.
+
+
+TOPICS OF INTEREST
+==================
+
+Submissions are encouraged but not limited to the following topics:
+
+Architectures for IoT
+- Internet of Things Architecture: Novel information architecture design on field, edge, and cloud devices; object access and networking technology; investigation of technologies that support the mobility of functions and executions across system entities.
+- Web Technologies for the IoT: Web-based discovery, search, and service composition to facilitate interactions between devices on the IoT and with users.
+- Integration of Physical and Virtual Artifacts and Events: Advanced object identification, classification, and localization
+- Description and Discovery of IoT devices, including mobile and moving devices: Ontologies and data models for the description and discovery of mobile systems and applications, including autonomous systems and wearable, urban or sensory computing devices.
+
+Human-Object Interactions (HOI)
+- IoT Interactions: Novel methods and techniques for seamless human-to-object interactions, including Augmented Reality and Virtual Reality interactions, Tangible and Gestural Interfaces.
+- Novel affordances for IoT and Smart Objects: design of novel affordance for IoT-based smart objects
+
+Object-Object Interactions (OOI)
+- Interoperability of IoT Systems: Service discovery and composition, synchronization in distributed systems, overcoming siloization of IoT systems, semantic data description frameworks.
+- Object-objects Interactions: methods and protocols for co-operations and coordination among objects, social internet of things, trust among objects
+
+Privacy/security in IoT
+- Social Acceptance of IoT Systems: Data security, authentication and authorization. Privacy protection, data sharing technologies (incl. blockchain technology), tampering protection and detection in IoT systems.
+- Privacy/Security/Real-Time Fault Correction: Ensure privacy across integrated and wireless IoT systems while also being resilient to attackers.
+
+IoT applications
+- Real World Applications of IoT technology: Evaluation of challenges of real world deployments of Smart Cities, Industry 4.0, Industrial Internet, and GS1 implementations, including planned deployments (e.g., in advanced Manufacturing and Logistics).
+- Physical World Event Processing and Understanding: Novel data collection, deep learning, reality mining, and prediction methods based on physical world observations. This might include real-time decision making, event processing, and extracting information from large datasets.
+- Internet of Things and implications for user modelling: holistic user model based on IoT-enabled data gathering, novel personalized intelligent services and applications based on user model
+
+
+IMPORTANT DATES
+==================
+
+Paper Submission: August 13, 2018 [Extended Deadline]
+Acceptance Notification: August 24, 2018
+Camera-Ready Submission: August 31, 2018
+Early Bird Registration deadline: September 7, 2018

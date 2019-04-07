@@ -1,0 +1,155 @@
+***************************************************************
+
+2nd INTERNATIONAL SUMMER SCHOOL ON DEEP LEARNING
+
+DeepLearn 2018
+
+Genova, Italy
+
+July 23-27, 2018
+
+Organized by:
+University of Genova
+IRDTA – Brussels/London
+
+http://grammars.grlmc.com/DeepLearn2018/
+
+***************************************************************
+
+--- Regular registration deadline: July 20, 2018 ---
+
+***************************************************************
+
+SCOPE:
+
+DeepLearn 2018 will be a research training event with a global scope aiming at updating participants about the most recent advances in the critical and fast developing area of deep learning. This is a branch of artificial intelligence covering a spectrum of current exciting machine learning research and industrial innovation that provides more efficient algorithms to deal with large-scale data in neurosciences, computer vision, speech recognition, language processing, human-computer interaction, drug discovery, biomedical informatics, healthcare, recommender systems, learning theory, robotics, games, etc. Renowned academics and industry pioneers will lecture and share their views with the audience.
+
+Most deep learning subareas will be displayed, and main challenges identified through 2 keynote lectures, 24 six-hour courses, and 1 round table, which will tackle the most active and promising topics. The organizers are convinced that outstanding speakers will attract the brightest and most motivated students. Interaction will be a main component of the event.
+
+An open session will give participants the opportunity to present their own work in progress in 5 minutes. Moreover, there will be two special sessions with industrial and recruitment profiles.
+
+ADDRESSED TO:
+
+Master's students, PhD students, postdocs, and industry practitioners will be typical profiles of participants. However, there are no formal pre-requisites for attendance in terms of academic degrees. Since there will be a variety of levels, specific knowledge background may be assumed for some of the courses. Overall, DeepLearn 2018 is addressed to students, researchers and practitioners who want to keep themselves updated about recent developments and future trends. All will surely find it fruitful to listen and discuss with major researchers, industry leaders and innovators.
+
+STRUCTURE:
+
+3 courses will run in parallel during the whole event. Participants will be able to freely choose the courses they wish to attend as well as to move from one to another.
+
+VENUE:
+
+DeepLearn 2018 will take place in Genova, the capital city of Liguria, inscribed on the UNESCO World Heritage List and with one of the most important ports of the Mediterranean. The venue will be:
+
+Porto Antico di Genova – Centro Congressi
+Magazzini del Cotone – Module 10
+16128 Genova, Italy
+
+KEYNOTE SPEAKERS:
+
+Paolo Frasconi (University of Florence), Bilevel Programming for Hyperparameter Optimization and Meta-Learning
+
+Marco Gori (University of Siena), Motion Supervision in Visual Environments
+
+PROFESSORS AND COURSES:
+
+Tülay Adali (University of Maryland, Baltimore County), [introductory/intermediate] Data Fusion through Matrix and Tensor Decompositions: Linear, Multilinear, and Nonlinear Models and their Applications
+
+Pierre Baldi (University of California, Irvine), [intermediate/advanced] Deep Learning: Theory, Algorithms, and Applications to the Natural Sciences
+
+Thomas Breuel (NVIDIA Corporation), [intermediate] Rational Design of Robust Large Scale Deep Learning Systems
+
+Joachim M. Buhmann (Swiss Federal Institute of Technology Zurich), [introductory/advanced] Model Selection by Algorithm Validation
+
+Sergei V. Gleyzer (University of Florida), [introductory/intermediate] Feature Extraction, End-end Deep Learning and Applications to Very Large Scientific Data: Rare Signal Extraction, Uncertainty Estimation and Realtime Machine Learning Applications in Software and Hardware
+
+Marco Gori (University of Siena), [advanced] Constrained Learning and Reasoning with Constraints
+
+Michael Gschwind (IBM Global Chief Data Office), [introductory/intermediate] Deploying Deep Learning at Enterprise Scale
+
+Namkug Kim (Asan Medical Center), [intermediate] Deep Learning for Computer Aided Detection/Diagnosis in Radiology and Pathology
+
+Sun-Yuan Kung (Princeton University), [introductory] A Methodical and Cost-effective Approach to Optimization/Generalization of  Deep Learning Networks
+
+Li Erran Li (Uber ATG), [intermediate/advanced] Deep Reinforcement Learning: Foundations, Recent Advances and Frontiers
+
+Dimitris N. Metaxas (Rutgers University), [advanced] Adversarial, Discriminative, Recurrent, and Scalable Deep Learning Methods for Human Motion Analytics, Medical Image Analysis, Scene Understanding and Image Generation
+
+Hermann Ney (RWTH Aachen University), [intermediate/advanced] Speech Recognition and Machine Translation: From Statistical Decision Theory to Machine Learning and Deep Neural Networks
+
+Jose C. Principe (University of Florida), [introductory/advanced] Cognitive Architectures for Object Recognition in Video
+
+Douglas A. Reynolds (Massachusetts Institute of Technology) & Najim Dehak (Johns Hopkins University), [introductory/intermediate] More than Words Can Say: Machine and Deep Learning for Speaker, Language, and Emotion Recognition from Speech
+
+Björn Schuller (Imperial College London), [intermediate/advanced] Deep Learning for Signal Analysis
+
+Michèle Sebag (French National Center for Scientific Research, Gif-sur-Yvette), [intermediate] Representation Learning, Domain Adaptation and Generative Models with Deep Learning
+
+Ponnuthurai N Suganthan (Nanyang Technological University), [introductory/intermediate] Learning Algorithms for Classification, Forecasting and Visual Tracking
+
+Johan Suykens (KU Leuven), [introductory/intermediate] Deep Learning and Kernel Machines
+
+Kenji Suzuki (Tokyo Institute of Technology), [introductory/advanced] Deep Learning in Medical Image Processing, Analysis and Diagnosis
+
+René Vidal (Johns Hopkins University), [intermediate/advanced] Mathematics of Deep Learning
+
+Eric P. Xing (Carnegie Mellon University), [intermediate/advanced] A Statistical Machine Learning Perspective of Deep Learning: Algorithm, Theory, Scalable Computing
+
+Ming-Hsuan Yang (University of California, Merced), [intermediate/advanced] Learning to Track Objects
+
+Mohammed J. Zaki (Rensselaer Polytechnic Institute), [introductory] Introductory Tutorial on Regression and Deep Learning
+
+Yudong Zhang (University of Leicester), [introductory/intermediate] Convolutional Neural Network and Its Variants
+
+OPEN SESSION:
+
+An open session will collect 5-minute voluntary presentations of work in progress by participants. They should submit a half-page abstract containing title, authors, and summary of the research to david@irdta.eu by July 15, 2018.
+
+INDUSTRIAL SESSION:
+
+A session will be devoted to 10-minute demonstrations of practical applications of deep learning in industry. Companies interested in contributing are welcome to submit a 1-page abstract containing the program of the demonstration and the logistics needed. At least one of the people participating in the demonstration must register for the event. Expressions of interest have to be submitted to david@irdta.eu by July 15, 2018.
+
+EMPLOYERS SESSION:
+
+Firms searching for personnel well skilled in deep learning will have a space reserved for one-to-one contacts. It is recommended to produce a 1-page .pdf leaflet with a brief description of the company and the profiles looked for, to be circulated among the participants prior to the event. At least one of the people in charge of the search must register for the event. Expressions of interest have to be submitted to david@irdta.eu by July 15, 2018.
+
+ORGANIZING COMMITTEE:
+
+Alberto Cabri (Genova)
+Francesco Masulli (Genova, co-chair)
+Sara Morales (Brussels)
+Manuel J. Parra-Royón (Granada)
+Stefano Rovetta (Genova)
+David Silva (London, co-chair)
+
+REGISTRATION:
+
+It has to be done at
+
+http://grammars.grlmc.com/DeepLearn2018/registration.php 
+
+The selection of up to 8 courses requested in the registration template is only tentative and non-binding. For the sake of organization, it will be helpful to have an estimation of the respective demand for each course. During the event, participants will be free to attend the courses they wish.
+
+Since the capacity of the venue is limited, registration requests will be processed on a first come first served basis. The registration period will be closed and the on-line registration facility disabled when the capacity of the venue is exhausted. It is highly recommended to register prior to the event.
+
+FEES:
+
+Fees comprise access to all courses and lunches. There are several early registration deadlines. Fees depend on the registration deadline.
+
+ACCOMMODATION:
+
+Suggestions for accommodation can be found at
+
+http://www.deeplearn-hotels.promoest.com/hp.aspx?s=0
+
+CERTIFICATE:
+
+A certificate of successful participation in the event will be delivered indicating the number of hours of lectures.
+
+QUESTIONS AND FURTHER INFORMATION:
+
+david@irdta.eu
+
+ACKNOWLEDGMENTS:
+
+Università degli studi di Genova
+Institute for Research Development, Training and Advice (IRDTA) – Brussels/London

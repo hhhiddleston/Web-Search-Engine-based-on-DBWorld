@@ -1,0 +1,22 @@
+I am pleased to announce the latest title in Morgan & Claypool’s series on Information Concepts, Retrieval, and Services:
+
+Framing Privacy in Digital Collections with Ethical Decision Making
+Virginia Dressler, Kent State University
+Paperback ISBN: 9781681734019
+eBook ISBN: 9781681734026
+Hardcover ISBN: 9781681734033
+August 2018, 108 pages
+http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1291
+
+Abstract:
+As digital collections continue to grow, the underlying technologies that serve up content also continue to expand and develop. As such, new challenges are presented that continue to test ethical ideologies in the everyday environs of practitioners. There are currently no solid guidelines or overarching codes of ethics that address such issues. The digitization of modern archival collections, in particular, presents interesting conundrums when factors of privacy are weighed and reviewed in both small- and mass-digitization initiatives. Ethical decision making needs to be present from the outset of planning digital projects of all sizes, and we also need to identify the role and responsibility of the practitioner in making more virtuous decisions on behalf of those without voices or awareness of potential privacy breaches.
+
+In this book, notions of what constitutes private information are discussed, as is the potential presence of such information in both analog and digital collections. This book lays the groundwork for introducing the topic of privacy to digital collections by providing some examples from documented real-world scenarios and making recommendations for future research.
+
+A discussion of the notion of privacy as a concept is included, as well as some historical perspective (referencing perhaps one of the most cited works on this topic, Warren and Brandeis' "Right to Privacy," 1890). Concepts from the Right to Be Forgotten case of 2014 (Google Spain SL, Google Inc. v Agencia Española de Protección de Datos, Mario Costeja González) are discussed in terms of how lessons can be drawn from the response in Europe and also how European data privacy laws have been applied. These European ideologies are contrasted with the Right to Free Speech codified in the First Amendment of the U.S. Constitution, highlighting the complexities of setting guidelines and practices revolving around privacy issues when applied to real-life scenarios. Two ethical theories are explored: Consequentialism and Deontology. Finally, ethical decision-making models are also applied to our framework of digital collections. Three case studies are presented to illustrate how privacy can be defined within digital collections in some real-world examples.
+
+Table of Contents: Preface / Acknowledgments / Introduction / Framing Privacy within Digital Collections / Core Ethical Theories and Decision Making Frameworks / Role of the Practitioner as Active Agent and Notions of Privacy in Digital Collections / Core Values and Considerations for the Practitioner / Appendix / Bibliography / Author Biography
+
+Series: Synthesis Lectures on Information Concepts, Retrieval, and Services
+Editor: Gary Marchioni, University of North Carolina at Chapel Hill
+http://www.morganclaypoolpublishers.com/catalog_Orig/index.php?cPath=22&sort=2d&series=32

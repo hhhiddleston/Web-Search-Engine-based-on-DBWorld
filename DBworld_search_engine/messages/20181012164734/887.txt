@@ -1,0 +1,151 @@
+InfQ 2018 â€“ New Frontiers in Quantitative Methods in Informatics
+---------------------------------------------------
+
+November 22nd, 2018, Politecnico di Milano â€“ Italy
+In conjunction with PASM 2018
+
+Preliminary call for papers
+------------------------
+
+The eighth Workshop of the Italian group on Quantitative Methods in Informatics (InfQ 2018) will be held in Milano, co-located with PASM 2018, after the past successful editions in Pisa (2010), Lipari (2011), Lucca (2012), Sorrento (2013), Torino (2014), Taormina (2016), and Venice (2017).
+
+InfQ is the leading Italian forum on quantitative modelling, evaluation, and verification, of computer, networks, telecommunication systems, and more general classes of man-made, social, or natural systems.
+
+InfQ welcomes both contributions on methodology and application, and gives value to both the theoretical and practical perspectives. Conference topics include, but are not limited to:
+
+- quantitative modelling formalisms, solution techniques, and tools for probabilistic or stochastic systems possibly combining non-determinism, queueing networks, analytical numerical or statistical solution, fluid and hybrid behavior, emergent behavior and collective systems, game theory, hierarchical or multi-formalism composition and model driven engineering, soft computing;
+- applications of quantitative methods in a variety of contexts, notably including Industry 4.0, blockchain, cloud/edge/fog computing, Internet of Things, cyber physical systems, smart cities, smart energy, e-healthcare and Ambient assisted living, social and urban computing, bioinformatics, software defined networks, quantum computing, capacity planning, load characterization, self adaptive systems.
+
+This year, a special track on Machine Learning for Performance Evaluation will be hosted, to solicit and support cross-fertilization of quantitative methods in informatics and artificial intelligence. Papers submitted to this special track will undergo a separate review process, but will be presented and included in the same proceedings as the regular InfQ papers.
+
+Continuing its tradition, the InfQ Workshop welcomes not only mature results but also contributions reporting work in progress and research developed by PhD students, with the aim of making them available to a broad audience and promote the exchange and collaboration among experienced and young researchers from the different Italian Universities and Research Organizations.
+
+
+Venue 
+The workshop will be held at Politecnico di Milano in Aula Alpha, building 24, Via Golgi 42, Milano, Italy.
+
+
+Registration
+All InfQ participants must register using the registration form. Details will follow.
+
+Submission process and types of contributions
+Contributions must be submitted in electronic format (PDF) through Easychair (following this link). Submitted papers must be unpublished and not submitted elsewhere, written in English, and formatted according to the Springer LaTex style.
+
+
+
+Two different types of contributions are welcome: 
+- full conference papers, not exceeding 14 pages, reporting mature results of scientific or industrial research;
+- short papers, not exceeding 6 pages, reporting experience or preliminary results from ongoing research or projects.
+
+Each submitted paper will be reviewed by at least three referees, from a Program Committee combining together leading Italian and international researchers, on the basis of originality, scientific and practical contribution to the state-of-the-art, technical soundness, and quality of presentation. The previous rules also apply to the special track papers.
+
+All accepted papers will be presented at the workshop. We are currently working to include InfQ conference proceedings in the CCIS (Communications in Computer and Information Science) series, published by Springer Verlag (acceptance pending), which is included in Springer e-book packages and covered by all major indexing services, including Scopus. 
+
+http://www.springer.com/series/7899 
+
+Proceedings will be published after the Workshop, and electronic versions of accepted papers will be distributed in electronic format.
+
+The workshop program will also include a PhD Defense Corner were doctoral students who have already achieved a good level of maturity in their research program can present and discuss an early version of their dissertation. Proposals of presentation, not exceeding 4 pages and including title, abstract, contact information, and affiliation must be submitted directly to the PC Chairs.
+
+Contributions should be submitted in electronic format (PDF) through Easychair.
+
+Easychair submission link: https://easychair.org/conferences/?conf=infq2018
+
+
+Important dates
+---------------
+
+Paper submission: 23 September 2018
+Notification of acceptance: 28 October 2018
+Camera ready submission: 8 November 2018
+Workshop: November 22, 2018
+
+
+
+Organization:
+--------------
+
+General Chair
+
+Marco Gribaudo, Politecnico di Milano
+
+
+Program Chairs
+
+Danilo Ardagna, Politecnico di Milano
+Giuseppe Serazzi, Politecnico di Milano
+Gianfranco Balbo, UniversitÃ  di Torino
+
+
+Program Chair for the Special Track on Machine Learning 
+
+Paolo Cremonesi, Politecnico di Milano
+
+
+Publication Chair
+
+Matteo Sottana, University of Venice
+
+
+Publicity Chair
+
+Salvatore Distefano, University of Messina
+Marcello Bersani, Politecnico di Milano
+
+
+Local Chair
+
+Riccardo Pinciroli, Politecnico di Milano
+
+
+Program Committee - to be completed
+
+Michele Amoretti, University of Parma
+Mauro Andreolini, University of Modena and Reggio Emilia
+Ezio Bartocci, TU Wien
+Marco Beccuti, University of Turin
+Enrico Bini, University of Turin
+Andrea Bondavalli, University of Florence
+Luca Bortolussi, UniversitÃ  di Trieste
+Alessio Botta, UniversitÃ  di Napoli â€œFederico IIâ€
+Dario Bruneo, University of Messina
+Maria Carla Calzarossa, University of Pavia
+Massimo Canonico, University of Piemonte Orientale â€œA. Avogadroâ€
+Valeria Cardellini , UniversitÃ  di Roma â€œTor Vergataâ€
+Laura Carnevali, University of Florence
+Giuliano Casale, Imperial College London
+Emiliano Casalicchio, Blekinge Institute of Technology
+Stefano Cereda, Politecnico di Milano
+Daivde Cerotti, University of Piemonte Orientale â€œA. Avogadroâ€
+Lydia Y. Chen, IBM Zurich
+Daniele Codetta Raiteri, University of Piemonte Orientale â€œA. Avogadroâ€
+Vittorio Cortellessa, UniversitÃ  dellâ€™Aquila
+Vittoria De Nitto Persone', UniversitÃ  di Roma Tor Vergata
+Salvatore Di Stefano, University of Messina
+Jean-Michel Fourneau, University de Versailles
+Rossano Gaeta, University of Turin
+Erol Gelenbe, Imperial College London
+Leana Golubchik, USC Viterbi
+Marco Guazzone, University of Piemonte Orientale â€œA. Avogadroâ€
+Jane Hillston, University of Edinburgh
+Andras Horvath, University of Torino
+Mauro Iacono, UniversitÃ  degli Studi della Campania â€œLuigi Vanvitelliâ€
+Stefano Iannucci, Mississippi State University
+Alain Jean-Marie, INRIA
+William Knottenbelt, Imperial College of London
+Diwakar Krishnamurthy, University of Calgary, Canada
+Riccardo Lancellotti, University of Modena and Reggio Emilia
+Francesco Longo, University of Messina
+Francesco Lo Presti, UniversitÃ  di Roma â€œTor Vergataâ€
+Michele Loreti, UniversitÃ  di Camerino
+Fumio Machida, NEC Corp.
+Raffaela Mirandola, Politecnico di Milano
+Marco Paoleri, Univeristy of Southern California
+Simon Pietro Romano, Universitaâ€™ di Napoli Federico II
+Marco Scarpa, University of Messina
+Mark Squillante, IBM Research, USA
+Giovanni Stea, University of Pisa
+Nigel Thomas, University of Newcastle
+Mirco Tribastone, IMT, Lucca
+Kishor Trivedi, Duke University
+Li Zhang, IBM Research, USA

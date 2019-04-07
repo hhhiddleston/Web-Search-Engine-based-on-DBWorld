@@ -1,0 +1,54 @@
+CIMVHR Postdoctoral Fellowship in secure federated databases 
+
+Job Title:  Post-Doctoral Fellow, Canadian Institute for Military and Veterans Health
+                Research (CIMVHR), Queen's University
+Project Title:   Safe Harbour for Military, Veterans, and Family Health Research
+Research Areas:  Federated databases, data integration, data anonymization, health data security 
+                                            and privacy
+Start Date:  September 1, 2018 
+Duration:  2 years
+Application Deadline:  Until hired 
+Application Procedure: Apply by email by sending the application package to martin@cs.queensu.ca.
+
+Background: CIMVHR’s mission is to enhance the health and well-being of Canadian military, veterans and their families 
+by facilitating world-class research resulting in evidence-informed practices, policies and programs. Much of the current 
+research into military, veteran and family health (MVFH), as well as health research for the Canadian population in general, 
+is limited by a lack of comprehensive and complete medical records for any given population due to the access challenges 
+and strict privacy protection practices that are necessarily enforced by the organizations that store and maintain these 
+health databases. The project will lay the groundwork for overcoming this limitation by engaging MVFH researchers and data 
+sources in an effort to integrate and exploit their data based on the concept of a safe harbour environment that supports 
+data extraction and linking components while adhering to the security and privacy policies of the different MVFH data sources. 
+The project will develop a proof of concept implementation of the safe harbour with secure data extraction and linking 
+components to demonstrate the value for enhanced MVFH research.
+
+Qualifications: We seek a candidate with proven expertise in federated databases, data storage for heterogeneous data and 
+data integration. Previous experience dealing with security and privacy issues of health databases is preferred.  A PhD in 
+Computer Science or a comparable qualification is required. The successful candidate must have a good research record with 
+publications in relevant international conferences and journals. The candidate will be expected to have an active role in 
+various collaboration efforts with other universities and industry, both at the national and international level. The candidate 
+will be expected to produce reports and will have opportunities to supervise graduate students, publish papers and give 
+presentations of the research. The candidate will lead the development of the proof of concept safe harbour prototype. 
+Good communication and project management skills and willingness to work in a team are therefore essential. 
+
+The candidate will work in the Centre for Advanced Computing (CAC) at Queen’s University and interact regularly with CAC 
+staff as well as IBM and CIMVHR project members. The project will provide a unique opportunity for the candidate to explore 
+cutting edge tools and techniques in federated data bases, data linking and data security and privacy, and to work with 
+experts from industry, academia and the military on research that will contribute to the improvement of the health of Canada's 
+military, Veterans and their families.
+
+Queen’s University is one of the premier research-intensive universities in Canada. The CAC at Queen’s University is a 
+consortium of Canadian universities that provides high availability, secure, advanced computing resources and support 
+for academic and medical researchers. The CAC operates a high performance data centre serving Canada’s research community. 
+Kingston is Canada's first capital and is centrally located between Toronto, Ottawa, and Montreal. The United Nations rates 
+Canada as one of the best countries in the world in which to live. 
+
+Please send one application package in English to Patrick Martin at martin@cs.queensu.ca containing:
+* A cover letter explaining experiences relevant to the project.   
+* A curriculum vita with detailed information regarding academic degree, research projects and publications. 
+* Names and email addresses of three references. 
+* Sample publications (1-2 recent publications). 
+***Canadian citizens/immigrants/permanent residents will be given priority.
+
+EMPLOYMENT EQUITY: The University invites applications from all qualified candidates. Queen's is committed to employment 
+equity and diversity in the workplace and welcomes applications from women, visible minorities, Aboriginal peoples, persons 
+with disabilities, and persons of any sexual orientation or gender identity.

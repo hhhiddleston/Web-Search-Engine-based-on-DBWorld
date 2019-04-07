@@ -1,0 +1,23 @@
+On behalf of the ER Steering Committee, we are pleased to announce the winner of the 2018 Peter P. Chen Award: Prof. Veda Storey, J. Mack Robinson College of Business, Georgia State University, USA.
+
+Initiated by Elsevier in 2008, the Peter P. Chen Award honors one person each year for his or her outstanding contributions to the field of conceptual modeling.  The winner will receive a plaque and a prize of $2.500 sponsored by Elsevier Publishing Company, and also is invited to give a keynote speech at the ER2018 conference to be held October 22-25, 2018 in Xi’an, China.  See: http://www.nwpu-bioinformatics.com/ER2018/.
+
+The committee reviewed the qualifications of the nominees with regard to their contributions advancing the field of conceptual modeling in (1) research, (2) education, (3) practice and (4) service for the scientific community, as well as with regard to their international reputation. The decision was unanimous in favor of Professor Storey based on her “outstanding scientific contributions and extensive professional services in the areas of conceptual modeling and information systems”.
+ 
+Veda Storey has been actively involved in the conceptual modeling community since completing her Ph.D. dissertation on automating conceptual modeling. Her research addresses conceptual modeling in data semantics, reverse engineering, ontology and big data modeling. She has published many well quoted papers in various journals and conference proceedings in both the information systems and the computer science areas. In particular, 16 of these papers appeared in Data and Knowledge Engineering, which is the premier journal associated with the ER Conference; another 16 appeared in the ER conference proceedings. In addition, her contributions to education and practice are outstanding. 
+
+With respect to the International Conference on Conceptual Modeling, she has served as the co-chair of the ER Conference three times and in many other functions. She received an ER Fellow award in 2013. Since 1999, she has been a member of the ER Steering Committee as well as a member of the editorial board of Data and Knowledge Engineering. 
+
+The 2018 selection committee consisted of Heinrich C. Mayr (Austria), Isabell Comyn-Wattiau (France), Valeria de Antonellis (Italy), Yair Wand (Canada), and Oscar Pastor (Spain). We extend our congratulations and best wishes to Professor Storey and her family.
+
+Previous winners of the Peter P. Chen Award:
+2017 Yair Wand, University of British Columbia, Canada
+2016 Oscar Pastor, Universidad Politécnica de Valencia, Spain
+2015 Il-Yeol Song, Drexel University, USA
+2014 Antonio L. Furtado, Pontificia Univ. Catolica do Rio de Janeiro, Brazil
+2013 Carlo Batini, Universita degli Studi di Milano-Bicocca, Italy
+2012 Stefano Spaccapietra, Ecole Polytechnique Federale de Lausanne,  Switzerland
+2011 Tok Wang Ling, National University of Singapore, Singapore
+2010 John Mylopoulos, University of Trento, Italy
+2009 David Embley, Brigham Young University, USA
+2008 Bernhard Thalheim, University of Kiel, Germany

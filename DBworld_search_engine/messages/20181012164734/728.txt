@@ -1,0 +1,84 @@
+CALL FOR PAPERS (2nd SUBMISSION CYCLE)
+
+22nd INTERNATIONAL CONFERENCE ON DATABASE THEORY (ICDT 2019) 
+Lisbon, Portugal, March 26-28, 2019
+For more info check http://edbticdt2019.inesc-id.pt/
+
+*About ICDT* 
+
+ICDT is a series of international scientific conferences on research of data management theory 
+(https://databasetheory.org/icdt-pages). Since 2009, it is annually 
+and jointly held with EDBT (Extending DB Technology). The 22nd edition of ICDT, in 2019, will take place in Lisbon, Portugal. 
+
+*Broadening Scope*
+
+Continuing with the idea of broadening its scope, ICDT 2019's Reach Out track calls for
+- novel formal frameworks and/or
+- articles that connect principles of data management to other communities.
+Papers submitted to this track should suggest novel and important directions for database theory and provide a theoretical basis for understanding emerging areas in data management. This year we especially encourage articles that introduce novel formal frameworks and/or establish connections between the area of principles of data management and neighboring communities such as Database Systems, Operating Systems, Machine Learning, Artificial Intelligence, Knowledge Representation, Programming Languages, and Distributed Computing.
+
+It is reasonable for articles submitted to the Reach Out track to be be shorter than regular ICDT submissions. Such papers will be judged mainly in terms of their potential to lead to further theoretical developments, and therefore the efforts should be the focused on illustrating the proposed framework via convincing examples, preliminary results, and clearly defined open problems.   
+
+*Topics of Interest* 
+
+Every topic related to the principles of data management is relevant to ICDT. Particularly welcome are contributions that connect data management to theoretical computer science, and those that connect database theory and database practice. Examples of relevant topics are:
+- Data mining, information extraction, information retrieval, and database aspects of machine learning
+- Data models, design, structures, semantics, query languages, and algorithms for data management
+- Distributed and parallel databases, cloud computing
+- Connections between databases and knowledge representation
+- Graph databases, (semantic) Web data, and Web services
+- Data streams and sketching
+- Data-centric (business) process management and workflows
+- Data and knowledge integration and exchange, data provenance, views, and data warehouses
+- Domain-specific databases (multimedia, scientific, spatial, temporal, text)
+- Data privacy and security, concurrency, and recovery
+
+*Important dates* 
+
+Second cycle abstract deadline: September 16, 2018
+Full paper submission deadline: September 23, 2018
+Notification: December 5, 2018
+
+* Program Committee * 
+
+Program Committee Chair:
+Pablo Barcelo (University of Chile)
+
+Program Committee Members:
+Isolde Adler (University of Leeds) 
+Antoine Amarilli (Telecom ParisTech)
+Paul Beame (University of Washington)
+Elena Botoeva (University of Bolzano) 
+Victor Dalmau (Universitat Pompeu Fabra) 
+Diego Figueira (Labri, CNRS) 
+Dominik D. Freydenberger (Loughborough University)
+Paolo Guagliardo (University of Edinburgh) 
+Zengfeng Huang (The University of New South Wales)
+Benny Kimelfeld (Technion, Israel) 
+Paris Koutris (University of Wisconsin)  
+Maurizio Lenzerini (Sapienza University of Rome) 
+Yakov Nekrich (University of Waterloo) 
+Matthias Niewerth (University of Bayreuth)
+Cristian Riveros (PUC, Chile) 
+Sebastian Skritek (TU Vienna) 
+Julia Stoyanovich (Drexel University) 
+Szymon Torunczyk (University of Warsaw)
+Ke Yi (HKUST)  
+Thomas Zeume (University of Dortmund)
+
+*Submission Instructions* 
+
+All submissions will be electronic via EasyChair at https://easychair.org/conferences/?conf=icdt2019.
+
+Papers must be written in English and provide sufficient detail to allow the program committee to assess their merits. The results must be unpublished and not submitted for publication elsewhere, including the proceedings of other symposia or workshops. 
+
+Papers must be submitted as PDF documents, using the LIPIcs style (http://www.dagstuhl.de/en/publications/lipics/instructions-for-authors). Papers must be at most 15 pages, excluding references. Additional details may be included in a clearly marked appendix, which, however, will be read at the discretion of the program committee (online appendices are not allowed). Papers not conforming to these requirements may be rejected without further consideration. 
+
+The proceedings will appear in the Leibniz International Proceedings in Informatics (LIPIcs) series, based at Schloss Dagstuhl. This guarantees that the proceedings will be available online and free of charge, while the authors retain the rights over their work. 
+
+At least one author of each accepted paper is expected to register at the conference and to present the paper.
+
+
+*Awards* 
+
+An award will be given to the Best Paper. Also, an award will be given to the Best Newcomer Paper written by newcomers to the field of database theory. The latter award will preferentially be given to a paper written only by students; in that case the award will be called Best Student-Paper Award. The program committee reserves the following rights: not to give any award; to split an award among several papers; and to define the notion of a newcomer. Papers authored or co-authored by program committee members are not eligible for any award.

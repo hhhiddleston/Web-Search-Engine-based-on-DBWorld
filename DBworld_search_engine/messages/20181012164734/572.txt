@@ -1,0 +1,23 @@
+I am pleased to announce the latest title in Morgan & Claypool’s series on Data Management:
+
+Natural Language Data Management and Interfaces
+Yunyao Li, IBM Research -- Almaden
+Davood Rafiei, University of Alberta
+Paperback ISBN: 9781681734088
+eBook ISBN: 9781681734095
+Hardcover ISBN: 9781681734101
+August 2018, 156 pages
+http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1286
+
+Abstract:
+The volume of natural language text data has been rapidly increasing over the past two decades, due to factors such as the growth of the Web, the low cost associated with publishing, and the progress on the digitization of printed texts. This growth combined with the proliferation of natural language systems for search and retrieving information provides tremendous opportunities for studying some of the areas where database systems and natural language processing systems overlap.
+
+This book explores two interrelated and important areas of overlap: (1) managing natural language data and (2) developing natural language interfaces to databases. It presents relevant concepts and research questions, state-of-the-art methods, related systems, and research opportunities and challenges covering both areas. Relevant topics discussed on natural language data management include data models, data sources, queries, storage and indexing, and transforming natural language text. Under natural language interfaces, it presents the anatomy of these interfaces to databases, the challenges related to query understanding and query translation, and relevant aspects of user interactions. Each of the challenges is covered in a systematic way: first starting with a quick overview of the topics, followed by a comprehensive view of recent techniques that have been proposed to address the challenge along with illustrative examples. It also reviews some notable systems in details in terms of how they address different challenges and their contributions. Finally, it discusses open challenges and opportunities for natural language management and interfaces.
+
+The goal of this book is to provide an introduction to the methods, problems, and solutions that are used in managing natural language data and building natural language interfaces to databases. It serves as a starting point for readers who are interested in pursuing additional work on these exciting topics in both academic and industrial environments.
+
+Table of Contents: Preface / Acknowledgments / Introduction / Background / Natural Language Data Management / Natural Language Interfaces to Databases / Open Challenges and Opportunities / Conclusions / Bibliography / Authors' Biographies / Index
+
+Series: Synthesis Lectures on Data Management
+Editors: H. V. Jagadish, University of Michigan
+http://www.morganclaypoolpublishers.com/catalog_Orig/index.php?cPath=22&sort=2d&series=17

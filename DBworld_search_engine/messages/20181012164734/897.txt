@@ -1,0 +1,201 @@
+[Apologies if you receive multiple copies of this message]
+
+**Submission Deadline extended to July 21st, 2018**
+
+==========================================================================
+CALL FOR PAPERS
+8th International Symposium on Secure Virtual Infrastructures --
+Cloud and Trusted Computing (C&TC 2018)
+October 22-26, 2018 -- Valletta, Malta
+http://www.otmconferences.org
+==========================================================================
+
+
+===========
+Description
+===========
+
+Current and future service-based software needs to remain focused towards the development and deployment of large and complex intelligent and networked information systems, required for internet-based and intranet-based systems in organizations, as well to move to IoT integration and big data analytics. Today, service-based software covers a very wide range of application domains as well as technologies and research issues. This has found realization through Cloud Computing, Big Data, and IoT. Vital element in such networked, virtualized, and sensor-based information systems are the notions of trust, security, privacy and risk management.
+
+Cloud and Trusted Computing (C&TC 2018) is the 8th International Symposium on Cloud Computing, Trusted Computing and Secure Virtual Infrastructures, organized as a component conference of the OnTheMove Federated Conferences & Workshops. C&TC 2018 will be held in Valletta, Malta.
+
+The conference solicits submissions from both academia and industry presenting novel research in the context of Cloud Computing, Big Data, and IoT, presenting theoretical and practical approaches to cloud, big data, and IoT trust, security, privacy and risk management. The conference will provide a special focus on the intersection between cloud paradigm, big data analytics, and IoT integration, bringing together experts from the three communities to discuss on the vital issues of trust, security, privacy and risk management in Cloud Computing, shedding the light on novel issues and requirements in big data and IoT domains. Potential contributions could cover new approaches, methodologies, protocols, tools, or verification and validation techniques. We also welcome review papers that analyze critically the current status of trust, security, privacy and risk management in the cloud, big data, and IoT. Papers from practitioners who encounter trust, security, privacy, and risk management problems, and seek understanding are finally welcome.
+
+
+===========
+Topics
+===========
+
+Topics of interest are classified in four main themes and include, but are not limited to:
+
+TRUST, SECURITY, PRIVACY AND RISK MANAGEMENT 
+- Assurance Techniques
+- Access Control, Authorization, and Authentication
+- Big data security and privacy
+- Blockchain
+- Cloud Computing with Autonomic and Trusted Environment
+- Cooperative systems
+- Cryptographic Algorithms and Protocols
+- Cyber Attack, Crime and Cyber War
+- DRM, Watermarking Technology, IP Protection
+- Emergency and Security Systems
+- End-to-end security over complex cloud supply chain
+- Forensics
+- Human Interaction with Trusted and Autonomic Computing Systems
+- Identity and Trust Management
+- IoT security and privacy
+- Multimedia Security Issues over Mobile and Wireless Clouds
+- Network Security
+- Networks of Trust, Clouds of Trust
+- Privacy, Anonymity
+- Privilege Management Infrastructure
+- Reliable Computing and Trusted Computing
+- Risk evaluation and Management
+- Security, Dependability and Autonomic Issues in Ubiquitous Computing
+- Security Models and Quantifications
+- Self-protection and Intrusion-detection in Security
+- Trust Evaluation and Prediction in Service-Oriented Environments
+- Trust, Security, Privacy and Confidentiality
+- Trust in big data analytics
+- Trust in IoT environments
+- Trusted Computing in virtualized environments
+- Trusted Execution Environments
+- Trusted P2P, Web Service, SoA, SaaS, EaaS, PaaS, XaaS
+- Virus Detections and Anti-virus Techniques/Software
+
+DATA MANAGEMENT
+- Algorithms and Computations on Encrypted Data
+- Big Data, Frameworks and Systems for Parallel and Distributed Computing
+- Big Data Processing and Analytics
+- Big Data Preparation
+- Big Data Representation
+- Big Data Visualization- Database as a Service, Multi-tenancy, Data management and analytics as a service
+- Data Provenance
+- Data Integrity
+- Data Science and Scalable Machine Learning
+- Elasticity and Scalability for Cloud Data Management Systems
+- Encryption Systems for IoT Data
+- High Availability and Reliability
+- Interoperability between Clouds- New Protocols, Interfaces and Data Models for Cloud Databases
+- Resource and Workload Management in Cloud Databases
+- Sensor-Based Data Collection, Management, and Security
+- Service Level Agreements and Contracts
+- Transactional Models for Cloud Databases, Consistency and Replication
+- Threats and countermeasures
+- Virtualization and Cloud databases, Storage Structures and Indexing
+
+INFRASTRUCTURES AND ARCHITECTURES
+- Autonomic Computing Theory, Models, Architectures and Communications
+- Big Data Infrastructures
+- Cloud Resource provisioning with QoS Guarantees
+- Cloud Operation and Resource Management
+- Cloud Performance Modeling and Benchmarks
+- Datacenter Architecture and Management
+- Formal methods and Tools for Cloud computing
+- Infrastructures for Social Computing and Networking
+- IoT Infrastructures
+- NoSQL Databases
+- Software Architectures and Design for Trusted Emerging Systems
+- Virtualized Computing Infrastructures
+
+APPLICATIONS
+- Big Data Applications and Case Studies
+- Cloud Business Applications and Case Studies
+- Clouds and Social Media, Network and Link Analysis
+- Data Intensive Applications
+- IoT Applications and Case Studies
+- Large Scale Cloud Applications, Reality Mining
+- Mobile Cloud Services
+- New Parallel / Concurrent Programming Models for Cloud Computing
+- Pervasive / Ubiquitous Computing in the Cloud
+- Reliability, Fault Tolerance, Quality-of-Service
+- Service Level Agreements and Performance Measurement
+- Service-Oriented Architectures, RESTful Services in Cloud Environments
+
+===============
+Important Dates
+===============
+
+Conference Paper Submission Deadline: July 21, 2018
+
+Acceptance Notification:  Aug 20, 2018
+
+Camera Ready Due:  Aug 30, 2018
+
+Author Registration Due: Aug 30, 2018
+ 
+
+================
+Paper Submission
+================
+
+FULL PAPERS
+Regular paper submissions to Cloud and Trusted Computing 2018 (C&TC 2018) must present original, highly innovative, prospective and forward-looking research in one or more of the themes given above. Full papers must break new ground, present new insight, deliver a significant research contribution and provide validated support for its results and conclusions. Successful submissions typically represent a major advance for the fields of cloud computing, big data, and IoT referencing and relating the contribution to existing research work, giving a comprehensive, detailed and understandable explanation of a system, study, theory or methodology, and support the findings with a compelling evaluation and/or validation. Each paper must be submitted as a single PDF file in Springer Lecture Notes in Computer Science format (no longer than 18 pages in length). Accepted regular papers will be included in the conference main proceedings and presented in the paper sessions. Submissions to C&TC 2018 must not be under review by any other conference or publication at any time during the C&TC review cycle, and must not be previously published or accepted for publication elsewhere.
+
+
+NOTES (SHORT PAPERS)
+Short papers (not longer than 6 pages in length) must report new results and provide support for the results, as a novel and valuable contribution to the field â€“ just like full papers. Short papers are intended for succinct work that is nonetheless in a mature state ready for inclusion in archival proceedings. Short papers will be held to the same standard of scientific quality as full papers, albeit for a shorter presentation, and must still state how they fit with respect to related work, and provide a compelling explanation and validation. Short papers must be submitted as single PDF file in Springer Lecture Notes in Computer Science format. Accepted short papers will be published in the conference main proceedings and will be presented in the paper sessions of the conference.
+
+
+*Best papers will be invited in a special issue on the Future Generation Computer Systems journal (to be confirmed).
+*
+
+Paper submission site: http://submissions.onthemove-conferences.org/2018/ctc
+
+
+PAPER FORMATTING AND PRESENTING
+The paper and notes submission site giving all the relevant submission details is located at: http://www.otmconferences.org/index.php/paper-submission/authors-kit. Failure to comply with the formatting instructions for submitted papers or notes will lead to the outright rejection of the paper without review. Failure to commit to presentation at the conference automatically excludes a paper from the proceedings.
+
+
+===============
+Program Chairs
+===============
+
+- Claudio Agostino Ardagna, Universita' degli Studi di Milano, Italy
+- Adrian Belmonte, ENISA, Greece
+- Mauro Conti, University of Padua, Italy
+
+
+=================
+Program Committee 
+=================
+
+TBC
+
+- Alberto Compagno, CISCO Systems, France
+- Chia-Mu Yu, National Chung Hsing University, Taiwan
+- Christos XENAKIS, University of Piraeus, Greece
+- Claus Pahl, Free University of Bozen, Italy
+- Daniele Sgandurra, Royal Holloway, University of London
+- David Chadwick, University of Kent, UK
+- Ernesto Damiani, Universita' degli Studi di Milano, Italy
+- Eugenia Nikolouzou, ENISA, Greece
+- Francesco Di Cerbo, SAP Labs, France
+- George Karabatis, University of Maryland, USA
+- Julian Schutte, Fraunhofer, Germany
+- Luca Vigano', King's College London, UK
+- Marco Anisetti, Universita' degli Studi di Milano, Italy
+- Marit Hansen, UnabhÃ¤ngiges Landeszentrum fÃ¼r Datenschutz Schleswig-Holstein, Kiel, Germany
+- Meiko Jensen, UnabhÃ¤ngiges Landeszentrum fÃ¼r Datenschutz Schleswig-Holstein, Kiel, Germany
+- Michele Bezzi, SAP, France
+- Miguel Vargas Martin, University of Ontario, Canada
+- Nabil El Ioini, Free University of Bozen, Italy
+- Patrick Hung, University of Ontario, Canada
+- Rasool Asal, British Telecommunications, UK 
+- Scharam Dustdar, Technical University of Vienna, Austria
+- Stefan Schulte, Technical University of Vienna, Austria
+- Stefanos Gritzalis, University of the Aegean, Greece
+- Gwanggil Jeon, Incheon National University, South Korea
+- JÃ¶rg Schwenk, Ruhr-UniversitÃ¤t Bochum, Germany
+- Pierluigi GALLO, UniversitÃ  di Palermo
+- Luis Vega, Technical University of Lisbon
+
+
+===============
+Publicity Chair 
+===============
+
+- Nabil El Ioini, Free University of Bolzano/Bozen, Italy
+
+
+More information available at http://otmconferences.org

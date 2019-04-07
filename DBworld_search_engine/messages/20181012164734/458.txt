@@ -1,0 +1,62 @@
+Digital Ecosystems of the Future: Methods, Techniques and Applications
+----------------------------------------------------------------------
+
+Call for Papers
+***************
+For 40 years, the GI Special Interest Group on Design Methods for Information System (GI-SIG-EMISA) has been a platform for industry experts and academics to exchange and discuss the methodical aspects of planning, modeling, developing and running digital ecosystems. While terminology and buzzwords change, many of the questions raised when EMISA was founded still remain challenging, and many new questions came along over the years.
+
+The EMISA 2019 conference celebrates the 40 years anniversary of the EMISA conference series at the location of its inaugural meeting in 1979, the “Evangelische Akademie” in Tutzing, Germany (near Munich). Located beautifully right next to Lake Starnberg, the “Evangelische Akademie” links modern accommodation with a stunning scenery and features the fantastic “Rotunde” room which provokes lively and intensive discussions.  
+
+The EMISA 2019 Conference Chairs invite original submissions not under review elsewhere: Full papers of a maximum length of 14 pages and short papers of 8 pages. In addition, we invite the research groups involved in GI-SIG-EMISA to present their current research and projects in an innovative exhibition. Short papers (max. 8 pages) of exhibitors will be published as well; a plenary “EMISA 2019 Madness” will allow each group for inviting the audience to its exhibition stand. 
+
+The EMISA 2019 program will also feature keynotes by personalities who have substantially contributed to GI-SIG-EMISA in the past 40 years. 
+
+https://ae-ainf.aau.at/EMISA2019
+
+Topics
+******
+* Digital Ecosystem, Enterprise Architectures & Architectural Patterns
+* Methods and Tools for designing and implementing Digital Ecosystems; Ontologies and Reference Models
+* General Purpose and Domain-Specific Modeling Methods and Languages, Metamodeling; Method and Model Engineering
+* Analysis, Evaluation and Quality of Modeling Methods, Models, Architectures, and Languages
+* Model-Driven Development, Models@run-time, Model Centered Architecture
+* Business Process Management and Enterprise Architecture Management
+* Learning and Teaching Digital Ecosystem Design and Development and underlying Methods
+* Applications and Best Practices
+* Innovative Approaches to Digital Ecosystem Development
+
+
+Important Dates
+***************
+Submission Deadline December 15th, 2018
+Notification  February 15th, 2019
+Final papers  March 17th, 2019
+
+Conference Chairs
+*****************
+Heinrich C. Mayr, Stefanie Rinderle-Ma und Stefan Strecker
+Panels: Jan Mendling und Gottfried Vossen
+Exhibition: Agnes Koschmider und Matthias Weidlich
+
+Author Guidelines
+*****************
+All accepted contributions will be published in a volume of the Lecture Notes in Informatics (LNI) under a Creative Commons 
+BY-SA 4.0 licence, see https://gi.de/service/publikationen/lni/. In addition, the EMISA 2019 Conference Chairs will recom-
+mend excellent submissions for fast-tracking to the open access journal, Enterprise Modelling and Information Systems Ar-
+chitectures - The International Journal of Conceptual Modeling (https://emisa-journal.org). Submissions have to comply with 
+the LNI author guidelines described at https://gi.de/service/publikationen/lni/ and must be submitted via EasyChair: 
+https://easychair.org/conferences/?conf=40yearssigemisa. Submissions exceeding the page limits or not complying with the 
+author guidelines will not be not reviewed and desk rejected.  
+
+Program Committee (tentative)
+*****************************
+
+Wil van der Aalst, Witold Abramowicz, Stephan Aier, Said Assar, Jörg Becker, Artur Caetano, Tony Clark, Jörg Desel, Werner Esswein, Dirk 
+Fahland, Michael Fellmann, Fernand Feltz, Peter Fettke, Hans-Georg Fill, Ulrich Frank, Ulrik Franke, Frederik Gailly, Martin Glinz, Cesar 
+Gonzalez-Perez, Giancarlo Guizzardi, Wilhelm Hasselbring, Birgit Hofreiter, Christian Huemer, Stefan Jablonski, Reinhard Jung, Dimitris 
+Karagiannis, Horst Kremers, John Krogstie, Thomas Kühne, Susanne Leist, Henrik Leopold, Frank Leymann, Stephen W. Liddle, Peter Loos, 
+Hui Ma, Judith Michael, Daniel Moldt, Bernd Müller, Markus Nüttgens, Andreas Oberweis, Erich Ortner, Sven Overhage, Jeffrey Parsons, 
+Oscar Pastor, Hansjürgen Paul, Anne Persson, Geert Poels, Erik Proper, Manfred Reichert, Ulrich Reimer, Iris Reinhartz-Berger, Michael 
+Rosemann, Kristina Rosenthal, Matti Rossi, Kurt E.D. Sandkuhl, Estefanía Serral, Elmar J. Sinz, Monique Snoeck, Günther Specht, Friedrich 
+Steimann, Bernhard Thalheim, Oliver Thomas, Juha-Pekka Tolvanen, Klaus Turowski, Mathias Weske, Robert Winter, Eric Yu, Heinz Zül-
+lighoven and all conference chairs

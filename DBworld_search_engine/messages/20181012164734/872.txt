@@ -1,0 +1,127 @@
+      *************************************************************************** 
+              We apologize if you receive multiple copies of this CFP
+      *************************************************************************** 
+
+
+
+                            C  A  L  L     F O R       P A P E R S
+
+The 20th International Conference on Information Integration and Web-based Applications & Services 
+                                            (iiWAS2018)
+
+                                      19 - 21 November 2018
+                                        Yogyakarta, Indonesia
+
+                         http://www.iiwas.org/conferences/iiwas2018/
+                                email: iiwas2018@iiwas.org
+                 Paper submission: https://www.easychair.org/conferences/?conf=iiwas2018
+
+
+
+**** Important Dates *****
+5 August 2018: Full Papers (10 pages), Short papers, demos and work in progress (4 pages) (FINAL EXTENSION)
+15 September 2018: Acceptance Notification
+10 October 2018: Camera-Ready Papers and Authors Registration
+19-6 November 2018: Conference Dates
+
+***** Publication *****
+ALL accepted iiWAS2018 papers will be published by ACM International Conference Proceedings Series and the supplemental proceedings (ISBN: 978-1-4503-6479-9) which will be archived in the ACM Digital Library, and indexed by DBLP, Ei Compendex, Scopus and submitted to be reviewed by Thomson Reuters Conference Proceedings Citation Index (ISI Web of Science). Selected high-quality papers will be invited to be published, after revision and extension, in special issues of international journals. 
+
+**** Scope *****
+WWW has been driving global information integration. In spite of the many applications in all domains of our societies: e-business, e-commerce, e-learning, e-science, and e-government, for instance, as well as the tremendous advances by engineers and scientists, the seamless integration of information and services remains a major challenge. The current shared vision for the future is one of semantically rich information and service oriented architectures for global information systems. This vision is at the convergence of progress in technologies such as XML, Web services, RDF, OWL, of multimedia, multimodal, and multilingual information retrieval, and of distributed, mobile and ubiquitous computing. iiWAS2018 is the 20th in the series of the highly successful International Conference on Information Integration and Web-based Applications & Systems. 
+Recently, iiWAS has been held in Salzburg (2017), Singapore (2016), Brussels (2015), Hanoi (2014), Vienna (2013), Bali (2012), Ho Chi Minh City (2011), Paris (2010), Kuala Lumpur (2009), and Linz (2008). This year, Yogyakarta, Indonesia, the city of culture, arts and crafts where iiWAS was first conceived 20 years ago, will host iiWAS2018. The iiWAS conference series have provided opportunities to researchers, graduate students, and industry practitioners to address recent research results and current industry practices in the area of information integration and web-based applications.
+
+We invite two types of submissions: Full Technical Papers and Short Position Papers.
+- A Full Paper should provide solid conceptual and theoretical foundation and substantial support for its results and conclusions as a significant contribution to the field. 
+- A Position Paper could be demo or Âœwork in progress, i.e., it reports the latest emerged ideas, approaches, methodologies, systems and application scenarios but have not yet been fully implemented and/or undergone extensive evaluation.
+
+***** Topics *****
+iiWAS2018 conference themes, grouped in four tracks, are the following (but are not limited to):
+
+1. Web Engineering and Web Services Track:
+- Web Data Integration, Monitoring and Management
+- Web Data Models, Metrics, Tools, Languages and Performance
+- Web Agents, Intelligence and Mining
+- Web Security and Trust Management
+- Web Visualisation, Rich Web UI and Deep/Hidden Web
+- Web-based Enterprise Systems and Business Processes
+- Web-based Auction and Negotiation
+- Federated and cross-organisational Web engineering
+- Web Services Architectural styles
+- Web Services performance
+- Dependability, security and privacy of web services (blogs, RSS, wikis, etc.)
+- Orchestration, choreography and composition of web services
+- Tools and technologies for Web Services development, deployment and management
+- The impact of Web Services on enterprise systems
+- Impact of formal methods on Web Services
+
+2. E-applications Track (e-Business, e-Commerce, e-Payment, e-Government, e-Learning, e-science, e-communities):
+- E-application design models and methods
+- E-application development processes, standards and methodologies
+- E-application usability, accessibility, reuse and integration
+- E-application localisation and internalization
+- E-applications case studies and best practices
+- E-applications social and legal issues
+- E-applications service architectures
+- E-applications competition and collaborations
+- E-applications data analytics and visualisation
+- Digital libraries
+- Innovative E-Frameworks & E-Applications
+- Innovative E-applications in Web 2.0, AJAX, E4X and other new developments
+- Model-driven E-application development
+- Workflow and E-services
+
+3. Web Data and Semantic Web Track:
+- XML data and schema integration
+- XML data models, query processing and data management
+- XML data privacy and security
+- Web databases and warehousing
+- Web data mining, exploration, and visualisation
+- Document Engineering and Integration
+- Web Data Markup Languages, tools and methodologies for representing and managing Semantic Web data
+- Web Semantics content creation, annotation, and extraction
+- Web Semantics brokering, integration and interoperability
+- Web Semantics search, query, and visualisation
+- Web Semantics middleware and services
+- Web Semantics provenance, trust & security
+- Ontology creation, searching, extraction, and evolution
+- Ontology mapping, merging, and alignment
+
+4. Information Integration in Ubiquitous Computing Track:
+- Mobile and Ubiquitous Information and Service Integration
+- Tools and techniques for designing, implementing, & evaluating Ubiquitous Computing Systems
+- Grid and P2P architectures for service and information integration
+- Agent-based ubiquitous applications
+- Location and context-aware applications and services
+- Infrastructure support for mobility and pervasive Web
+- Web proxies and content adaptation
+- Service creation and management environments for pervasive web
+- Low-cost web access devices and networking for emerging regions
+- Privacy-enhancing technologies in pervasive web
+- Social search and the use of human computing in web search
+- Experience report on ubiquitous computing implementation
+- Visionary scenario on ubiquitous computing
+
+**** Submission Guidelines ****
+Papers must be submitted electronically in PDF through the conference website. Submitted papers must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal or a conference with proceedings. 
+Submitted papers will subject to stringent peer review by at least three members of the international program committee and carefully evaluated based on originality, significance, technical soundness, and clarity of exposition. Accepted papers will appear in the conference proceedings to be published by ACM. Format requirements for submissions of papers are: 
+- Maximum 10 pages, including the abstract (no more than 150 words), all figures and references for Full Technical papers. 
+- Maximum 4 pages, including the abstract (no more than 150 words), all figures and references for Short Position Papers.
+- All submissions should be formatted according to ACM guidelines (http://www.acm.org/sigs/publications/proceedings-templates)
+- Submissions must be entered into the Submission System (https://www.easychair.org/conferences/?conf=iiwas2018)
+
+**** Awards ****
+iiWAS2018 best paper awards and student paper awards will be conferred on the authors at the conference.
+
+**** Past Conferences ****
+http://www.iiwas.org/conferences.htm
+ACM Digital library: http://dl.acm.org/event.cfm?id=RE544
+DBLP: http://www.informatik.uni-trier.de/~ley/db/conf/iiwas/
+
+**** PC Members *****
+http://www.iiwas.org/conferences/iiwas2018/
+
+*** Contact ***** 
+Maria Indrawan-Santiago, Program Committee Chair, Monash University, Australia
+Eric Pardede, Program Committee CoChair, La Trobe University, Australia
+****************************************************************************

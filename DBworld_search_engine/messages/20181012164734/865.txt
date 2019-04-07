@@ -1,0 +1,78 @@
+The 34th ACM Symposium on Applied Computing- SAC2019
+Track on Cloud Computing
+April 8-12, 2019 Limassol, Cyprus
+https://sites.google.com/nitc.ac.in/acmsac2019cctrack/home
+http://www.sigapp.org/sac/sac2019/
+
+For the past thirty three  years, the ACM Symposium on Applied Computing has been a primary confluence for researchers in applied computer science, computer engineers, software engineers, and application developers from around the world. SAC 2019 is sponsored by the ACM Special Interest Group on Applied Computing (SIGAPP), and is hostedby
+University of Cyprus, Cyprus.
+
+The SRC Program is sponsored by Microsoft Research.
+
+Track on Cloud Computing
+
+The ACM SAC 2019 Track on Cloud Computing welcomes paper submissions on all aspects of cloud computing research and applications with emphasis on those describing research on different forms of virtualization techniques as applied to systems computing. However the main theme of the CC track for this year isCloud Security. The impact of IoT on Cloud Computing research is another  relevant topic to explore.  Hence our secondary theme would be Cloud for IoT applications. 
+
+The following list includes some of the major topics that we plan to focus in this track in this year. 
+. Cloud Security 
+. Cloud computing for IoT Applications
+. Architectural models for cloud computing 
+. Virtualization of the infrastructure 
+. Serverless Computing
+. Elasticity in a cloud 
+. Storage virtualization 
+. Green computing models for clouds 
+. Programming models for clouds 
+. Cloud computing for the mobile world 
+. Threat handling and security issues in clouds 
+. Enterprise applications on the cloud 
+. OS development for applications on the cloud 
+. QoS for applications on the cloud 
+. Optimization and performance issues on the cloud 
+. Communication protocols for the Cloud 
+. Databases for the cloud 
+. Web 2.0 and Cloud 
+This track welcomes theoretical models, algorithms, practical results, description and analysis of experiments and demonstrations of working prototypes of cloud computing applications. 
+Submission Guidelines
+The submissions should be in electronic format (pdf), based on original, unpublished work..The file format should be PDF. The author(s) name(s) and address(es) must not appear in the body of the paper, and self-reference should be in the third person. Only the title should be shown at the first page without the author's information. Peer groups with expertise in the tracks focus areas will blindly review submissions. Accepted papers will be published in the annual proceedings and ACM digital library. Submission guidelines can be found on SAC 2019 Website. Prospective papers should be submitted to the track using the START submission system. Poster papers are limited to 2 pages and no additional pages are permitted. A few key words should be provided. A paper cannot be sent to more than one track. Original manuscripts (regular papers) should be submitted in electronic format through START Conference manager website at https://www.sigapp.org/sac/sac2019/submission.html
+
+Abstracts for the Student Research Competition (SRC) should be submitted in electronic format through the 
+START Conference manager website: https://www.sigapp.org/sac/sac2019/submission_src.html
+IMPORTANT NOTICE FOR THE AUTHORS
+Paper registration is required, allowing the inclusion of the paper/poster in the conference proceedings. An author or a proxy attending SAC MUST present the paper. This is a requirement for the paper/poster to be included in the ACM/IEEE digital library. No-show of scheduled papers and posters will result in excluding them from the ACM/IEEE digital library.
+
+Important Dates
+
+Papers, posters and SRC Research abstracts Submission Deadline: September 10, 2018
+Papers, posters and SRC  Authors Notification: November 10, 2018
+Camera-Ready Copy: November 25, 2018
+Author Registration: December 10, 2018
+
+Track Program Chairs
+Priya Chandran, NIT Calicut,  India (priya@nitc.ac.in)
+Madhu Kumar S.D, NIT Calicut, India(madhu@nitc.ac.in)
+
+
+Programme Committee
+
+Alfredo Goldman, Brazil
+Anitha V S, India 
+Annappa B, India
+AshalathaNayak, India
+BalajiPalanisamy, USA 
+Babu A V, India 
+Chandrasekaran K, India
+Daniel Cordeiro, Brazil
+FarhanaZulkernine, Canada 
+GeethaKumari. G,  India
+Gopakumar G, India
+Jalal Al-Muhtadi, Saudi Arabia
+Joanna Kolodziej, Poland 
+K.A Abdul Nazeer, India 
+Min-Shiang Hwang, Taiwan
+
+Rajeswari Sridhar, India
+Shruti Kunde, India
+Surekha Mariam Varghese, India
+VinodPathari, India
+YogeshMurarka, India

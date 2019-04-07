@@ -1,0 +1,98 @@
+The ACM India Joint International Conference on Data Science and Management of Data (CoDS-COMAD) 2019
+
+6th ACM iKDD CoDS and 24th COMAD
+
+Dates: 3-5 January, 2019
+
+Website: http://www.cods-comad.in/2019/
+
+** Introduction **
+
+We are pleased to announce the ACM India Joint International Conference on Data Science and Management of Data (CoDS-COMAD) 2019 (6th ACM iKDD CoDS and 24th COMAD) to be held in Kolkata, India, on January 3-5, 2019. This conference continues to build on the long history of COMAD and CoDS conferences and will bring together the two related communities closer under a common umbrella for the second time.
+
+Submissions are invited in following tracks:
+
+** Research Track **
+
+We invite papers reporting original research in all aspects of Data Science and Databases. Topics of interest include, but are not limited to:
+
+Databases: Transaction processing, query processing, indexing and storage, distributed data platforms, key-value stores, big data systems, data cleansing, data analytics, data integration, benchmarking, tuning, and testing.
+
+Data Science: Classification and regression, parallel and distributed learning, semi and unsupervised learning, matrix and tensor methods, graph mining, reinforcement learning, feature engineering, deep learning, Bayesian methods, time series analysis, optimization, graphical models, text analytics and NLP, information retrieval, knowledge representation, planning and reasoning.
+
+Applications: Social network analysis, recommender systems, online advertising, bioinformatics, computational neuroscience, systems biology, multimedia processing, crowdsourcing, education, agriculture, healthcare, robotics and autonomous systems, analytics on sensor networks and IoT, computer vision, surveillance/monitoring and anomaly detection in networked systems, urban computing, and technology for emerging markets.
+
+Authors of accepted papers will get an opportunity to showcase their work either as an oral presentation or as a poster.
+
+** Industry Track **
+
+The industry track aims to bring together leading industry and academia practitioners to share their insights, expertise and experiences related to deployments of solutions in industry and government that address real-world challenges and highlight new and important research directions. We invite original papers describing case studies involving applied research in areas such as, but not limited to, education, transportation, infrastructure monitoring, energy, real-estate, manufacturing, finance, retail, healthcare, e-commerce, telecommunications, social media, law, public safety, and computational advertising. Authors of accepted papers will have the opportunity to present their work in an oral session.
+
+** Demo Track **
+
+The demo track provides a forum for researchers, developers, and technologists to present their first-hand experience of software systems, prototypes, conceptual designs, libraries, etc., in an interactive setting. We invite novel submissions that cover any aspect of innovation including Data, Algorithms, and Applications. The submissions should present a demonstrable solution to a problem of interest either in the form of a prototype or an operational system. Authors of accepted papers will have a chance to make a short oral presentation and also give a demo.
+
+** Young Researchersâ€™ Symposium **
+
+The Young Researchers' Symposium (YRS) provides an excellent opportunity for young researchers to present their ongoing research to a wide variety of experts and receive feedback and suggestions from them. Submissions to YRS are invited on all topics of interest to the CODS-COMAD 2019 conference. We welcome various kinds of papers, such as, but not limited to: novel research papers, work-in-progress papers, appraisal papers of existing methods and tools (e.g., lessons learned). The first author should be a full-time undergraduate / postgraduate / PhD student, or a Postdoctoral researcher having completed his / her PhD not earlier than 2016, affiliated with an academic institution. Authors of accepted papers will be given a chance to highlight their work in a short oral presentation followed by a poster.
+
+** Submission Format **
+
+All submissions should be formatted in the standard ACM style available at: https://www.acm.org/publications/proceedings-template. The length of the submission should not exceed the page limit mentioned below. Submissions not adhering to the page limit will be rejected without review.
+
+Research Track: A maximum of 8 pages of content + up to 2 additional pages containing only references.
+
+Industry Track: A maximum of 6 pages of content + up to 1 additional page containing only references.
+
+Demo Track: A maximum of 4 pages of content including references and a link to the demo.
+
+Young Researchersâ€™ Symposium: A maximum of 4 pages of content including references.
+
+** Archival and Non-archival **
+
+The proceedings will be published in the ACM Digital Library.
+
+*Authors from Demo & Young Researchersâ€™ Symposium will have the choice to opt their paper out of the conference proceedings. This will enable the paper presented at CoDS-COMAD to be re-submitted to a different venue in the future.
+
+
+** Dual Submission Policy **
+
+CoDS-COMAD does not allow dual submissions. All papers will be subjected to a plagiarism check before reviewing. Submissions violating this policy will be rejected immediately without review.
+
+** Easy Chair Submission Link **
+
+Link: https://easychair.org/conferences/?conf=codscomad2019
+
+** Conference Webpage **
+
+Please visit our website http://www.cods-comad.in/2019/ for more details about submissions for each of the tracks
+
+** Best Paper **
+
+The best paper in each track will receive a citation and a cash prize (to be announced soon).
+
+** Travel Grants **
+
+Conference will provide travel assistance to a reasonable number of full-time students from degree granting institutions. The travel grant includes free accommodation and monetary travel support partially covering the travel cost. Details of the grant will be made available at the conference website in due course.
+
+** Important Dates **
+
+Research Track:
+Submission: 22nd August, 2018
+Notification: 15th October, 2018
+Camera Ready: 1st November, 2018
+
+Industry Track
+Submission: 22nd August, 2018
+Notification: 15th October, 2018
+Camera Ready: 1st November, 2018
+
+Demo Track
+Submission: 1st October, 2018
+Notification: 1st November, 2018
+Camera Ready: 15th November, 2018
+
+Young Researchersâ€™ Symposium
+Submission: 1st October, 2018
+Notification: 1st November, 2018
+Camera Ready: 15th November, 2018

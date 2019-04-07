@@ -1,0 +1,36 @@
+ï»¿NGDS introduction
+
+One of critical challenges facing the era of data science lies in the significant gap between the increasing data scientist job requirements and the limited availability of qualified data scientists. The Steering Committee of the IEEE International Conference on Data Science and Advanced Analytics (DSAA) decided to launch the prestigious award: Next Generation Data Scientist (NGDS) Awards, to address this gap and encourage young talents to conduct foundational research and applied innovation work in Data Science and Analytics.
+
+The NGDS Award is the only one in the world that supports the production of qualified data scientists. Every year, DSAA will offer a limited number of NGDS Awards to full-time research students and early-career researchers who have just got doctorate degrees within five years to the application (ECR for short). The NGDS awards will be sponsored by some of DSAA sponsors. Each NGDS awardee will receive USD1,000. 
+
+The first NGDS Award was announced at DSAAâ€™2016 in Montreal, Canada. Assistant Professor David Anastasiu at the San JosÃ© State University received the 2016 NGDS Award. The 2018 NGDS Awards will be announced at DSAAâ€™2018 in Turin, Italy. All full-time PhD students and ECRs in data science-related areas are encouraged to apply. Candidates with the acceptance of long-presentation papers at DSAA conferences are particularly encouraged to apply.
+
+Selection criteria of NGDS
+
+DSAA Steering Committee wants the NGDS Awards to be highly prestigious and selective, hence the criteria for NGDS candidate selection are rigorous. This may involve the following aspects:
+ â€¢ A strong track record in terms of theoretical contributions, business impact and/or educational performance, which are quantifiable and outstanding;
+ â€¢ A reachable five-year career plan for significantly contributing to the data science community in terms of research, innovation, applications and/or education;
+ â€¢ Strong referee reports from three recognized data scientists;
+ â€¢ Strong recommendation from the candidateâ€™s department or supervisor.
+
+How to submit a NGDS application?
+
+The NGDS Award is announced in alignment with every year DSAA conference. A NGDS candidate should submit an application to the 2018 NGDS Award Chairs Prof Myra Spiliopoulou and Prof Xintao Wu, which includes: 
+ â€¢ NGDS Award Application Form to address
+ â€¢ Applicant information;
+ â€¢ Response to the above selection criteria;
+ â€¢ Title, authors and track record of DSAA publications and attendance (including pervious DSAAs);
+ â€¢ Resume with affiliation, education background, publications, projects, cases of impact, awards etc.;
+ â€¢ Certificate showing student/ECR staff ID and full time study/working status
+ â€¢ Three referee reports with refereeâ€™s contact details and signatures;
+ â€¢ Registration confirmation received from DSAAâ€™2018 or plan to attend DSAAâ€™2018
+ â€¢ A recommendation letter from head of department or supervisor on organization letterhead.
+
+Submission deadline: August 31, 2018
+
+All application materials should be zipped into a file titled ``2018_NGDS_Applicant Last Name_ First Name.zipâ€ and submitted to NGDSaward@dsaa.co. Successful candidates must register and attend DSAAâ€™2018, otherwise the award will be given to other candidates in the list.  
+
+All documents should be in PDF and attached to the email. Late submissions, or documents in other formats will not be accepted. 
+
+Any enquiries and questions should be addressed to NGDSaward@dsaa.co.

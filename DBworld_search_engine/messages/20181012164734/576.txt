@@ -1,0 +1,147 @@
+***CALL FOR PAPERS: Extended Deadline***
+
+ASWEC 2018 - The 25th Australasian Software Engineering Conference
+November 26 - November 30, Adelaide, Australia
+Website: http://www.aswec2018.org
+
+Further Extended Deadline for Paper Submission (Long): 09 September 2018
+Acceptance Notification (Long): 30 September 2018
+Camera-Ready Submission: 7 October 2018
+
+Conference background
+----------------------------------
+ASWEC was established in 1986 and is a leading forum for the software engineering profession in Australasia to describe important new research results and report valuable project experiences. The 25th ASWEC (ASWEC 2018) will be held in Adelaide, South Australia during the Australasian Software Week from November 26-30. Adelaide has all the hallmarks of a major urban centre with modern and classical architecture, a bustling retail hub and a multi-cultural population. It is home to long summers, stunning beachfronts, award-winning wine, foods, festivals and sporting events. Adelaide is considered one of Australia’s most liveable cities.
+
+Software is everywhere, and the ways it is built, integrated, deployed, and evolved present significant socio-technical challenges. These challenges need to be studied, discussed and addressed. In the past decades, software engineering as a discipline has produced many theoretical and practical results. As software is playing more important roles in ever larger and more complex systems, traditional software engineering is interacting substantially with other fields. For example, the emerging research activities around Secured Software and Continuous Software Engineering are looking at the complex interactions between security and software professionals to support software product development and operations in modern IT infrastructure. The challenges in building highly dependable large-scale systems lie in reconnecting logic-based formal methods with other statistical and machine learning approaches in new ways to better manage the uncertainties of the environment and provide assurances. In addition, industry’s use of dynamic, concurrent and functional programming languages in specific domains is making programming language research more connected to software engineering. Furthermore, cloud computing, service-oriented computing, mobile apps, big data, Internet of Things and software ecosystems are also bringing new contexts to software engineering research.
+
+The scope of software engineering research needs to be expanded, and thus, enhanced interaction with other communities will benefit software engineering research going forward. To this end, quite fittingly, the theme for the ASWEC 2018 is:
+
+"Engineering software services with contemporary technologies and paradigms"
+
+It is our pleasure and honour to have the following keynote speakers:
+
+ASWEC Speakers:
+----------------
+Professor Sam Malek, University of California Irvine, USA
+Professor Martin Robillard, McGill University, Canada
+Professor Abhik Roychoudhury, NUS, Singapore
+
+ASW/Industry Day Speakers:
+---------------------------
+Dr Cristina Cifuentes, Oracle Labs, Australia
+Professor John Grundy, Monash University
+Dr Tony Lindsay, Director, STELaRLab, Lockheed Martin Australia
+
+Research Papers
+-----------------------------------------------------
+We are particularly seeking contributions that help redefine the future scope of software engineering from both the traditional software engineering community and other fields, especially those discussing recent innovations, experiences, challenges and outcomes. Authors are invited to submit papers describing original research in all areas of software engineering. Papers describing theoretical or empirical research, new techniques and tools, and in-depth case studies are all welcome. Submissions should be original and must not have been published previously or currently be under consideration for publication elsewhere. For the relevant topics, please visit the conference website:
+
+http://aswec2018.org
+
+Two tracks of submissions are solicited:
+
+* Full papers should present innovative and mature research in topics related to software engineering. They should clearly describe a novel and significant contribution to the area and support claims of novelty with citations to the relevant literature and validations of the research results. Full papers can be research papers or experience reports. Full papers must use the IEEE CPS format (Link available on the website) and must not exceed 10 pages.
+
+* Short papers should present novel research directions, new ideas, or educational experiences in software engineering. They should clearly describe well-defined ideas that may be at an early stage of investigation and may not be fully validated. Short papers must use the ACM SIG Proceedings format (Link available on the website) and must not exceed 5 pages in length.
+
+All submissions (full and short) will undergo a rigorous peer review process by at least three reviewers and will be evaluated on the basis of their originality, significance, clarity and relevance to the field of software engineering. As in previous years, the accepted papers will be published by IEEE Computer Society Conference Publishing Services (IEEE-DL and EI indexed) as ASWEC proceedings. Short paper proceedings will be published by ACM (ACM-DL and EI indexed). At least one author from each accepted full or short paper is required to register as a full-fee delegate and present the paper at the conference; otherwise their paper will not be included in the proceedings.
+
+All submissions must be written in English. Manuscripts are to be submitted electronically via the conference submission system at https://easychair.org/conferences/?conf=aswec2018 – see the ASWEC 2018 submission page for further instructions.
+
+Paper Submission: 09 September 2018 (extended)
+Acceptance Notification: 30 September 2018
+Camera-Ready Submission: 7 October 2018
+
+Paper Submission (Short):9 September 2018
+Acceptance Notification (Short):30 September 2018
+Camera-Ready Submission (Short):7 October 2018
+
+Hot off the Press Track
+--------------------------
+This track is a forum for presenting novel ideas and ground-breaking results that open up exciting research opportunities for the software engineering community. We particularly encourage students and early career researchers to present inspiring research efforts that push the boundaries of our field. This may include:
+
+Ground-breaking results that open up new research directions in software engineering;
+New perspectives that call into question long held beliefs or conventions;
+Bold visions of new directions in software engineering;
+Novel interdisciplinary synergies; and,
+more in general, “big” ideas that push the boundaries of current practice.
+
+The track is intended to describe a well-defined idea at an early stage of investigation. While a complete evaluation is not expected, papers should include preliminary results that illustrate the feasibility of the approach.
+
+Hot off the Press papers should address the following questions:
+
+Why is the problem worth exploring?
+What is the potential for disruption of current practice?
+What makes the approach original?
+Is the proposed approach sound and feasible?
+Has the relevant literature been covered?
+
+Papers submitted to this track should not exceed 4 pages in length using the IEEE CPS format (Link to be available from the website).
+
+Paper Submission:9 September 2018
+Acceptance notification:30 September 2018
+Camera-Ready Submission:7 October 2018
+
+Industry/Government Submissions
+-------------------------------------------
+ASWEC 2018 seeks experience reports, case studies and research presentations that discuss the application of Software Engineering practices in the real context. This provides opportunities to software engineers and thought leaders to share, network and learn from each other through the presentation of industry success and failure cases. Industry presentations will provide important insights into future research directions and share practices which worked and which did not work. We invite submissions that discuss lessons learned and share experiences about the benefits and limitations of Software Engineering practices. Industry/government submissions should be based on actual practice, and should cover all sides of the story - strengths and weaknesses, successes and challenges relevant to Software Engineering practices.
+
+Prospective presenters are invited to submit an abstract (500-1000 words approximately) which outlines the proposed presentation with some key takeaways; additional material such as proposed slides or more discussion may also be submitted. All industry/government submissions will be reviewed by the program committee. Authors of accepted presentations should then provide content (such as the intended presentation slides, or a paper) that will be published in the conference industry track proceedings that are distributed to participants; a "permission to publish" form will need to be signed by the authors or their organizations. One author from each accepted submission is required to register as a delegate and present at the conference.
+
+Paper Submission:12 August 2018
+Acceptance Notification:2 September 2018
+Camera-Ready Submission:16 September 2018
+
+Tutorials and Workshops
+-------------------------------
+Tutorial and Workshop proposals that have wide appeal to the software engineering community are sought for ASWEC 2018. Tutorials and workshops (half or full day) will run on the first day of the conference. Please submit your proposals detailing the topic, background, intended audience, anticipated number of attendees and justification for this estimate, presenter/s and their affiliations, along with anticipated time requirements following the guidelines on the ASWEC 2018 tutorials and workshops pages.
+
+Proposals due:22 July 2018
+Acceptance notification:29 July 2018
+Confirmation of programme:30 October 2018
+
+For calls and submissions dates of all other tracks, please visit the conference website (http://aswec2018.org)
+Organisers
+-----------------
+General Chair:
+Muhammad Ali Babar, University of Adelaide, Australia
+Program Leadership:
+Jason (He) Zhang, Nanjing University (Program Director)
+Hoa Khanh Dam, University of Wollongong (Program Co-Chair)
+Stuart Marshall, Victoria University of Wellington (Program Co-Chair)
+Short Paper and Poster Chairs
+Matthias Galster, University of Canterbury
+Hongyu Zhang, University of Newcastle
+Industry/Government Program Committee Chairs:
+Seyit camtepe, CSIRO/Data61
+Hung Nguyen, TRC, University of Adelaide
+Organisation Committee Chairs:
+Mingyu Guo, University of Adelaide
+Patanamon Thongtanunam, University of Adelaide
+Chakkrit (Kla) Tantihamthavorn, University of Adelaide
+Premier Work Chair
+Mansooreh Zahedi, IT University of Copenhagen
+Workshop Chair
+Christoph Treude, University of Adelaide
+Tutorial Chairs:
+Asif Gill, University of Technology Sydney
+Zhenchang Xing, Australia National University
+Industry/Government Liaison
+Matthew Thyer, DST Group
+Hot off the Press Track Chairs:
+Aldeida Aleti, Monash University
+Man Avazpour, Deakin University
+Georg Grossmann, University of South Australia
+Posters Chairs
+Muneera Bano, Swinburne University
+Xiwei (Sherry) Xu, CSIRO/Data61
+Tools Demo & Data Chairs
+Qiang (Nathan) He, Swinburne University
+Lina Yao, University of New South Wales
+Publicity Chairs:
+Sherlock Licorish, University of Otago
+Cheng Zhang, Anhui University
+Rui Zhou, Swinburne University
+Electronic Media Chairs:
+Nguyen Tran, University of Adelaide
+Faheem Ullah, University of Adelaide

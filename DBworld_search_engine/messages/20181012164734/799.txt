@@ -1,0 +1,105 @@
+      *************************************************************************** 
+              We apologize if you receive multiple copies of this CFP
+      *************************************************************************** 
+
+
+
+                            C  A  L  L     F O R       P A P E R S
+
+The 16th International Conference on Advances in Mobile Computing and Multimedia
+    (MoMM2018) 
+       19 - 21 November 2018
+           Yogyakarta, Indonesia
+  http://www.iiwas.org/conferences/momm2018/ 
+   email: momm2018@iiwas.org
+ Paper submission: https://www.easychair.org/conferences/?conf=momm2018
+
+
+**** IMPORTANT DATES ***** 
+5 August 2018: Full Papers (10 pages), Short papers, demos and work in progress (4 pages) (FINAL EXTENSION)
+15 September 2018: Acceptance Notification
+10 October 2018: Camera-Ready Papers and Authors Registration
+19 - 21 November 2018: Conference Dates
+
+***** Publication *****
+ALL accepted MoMM2018 papers will be published by ACM International Conference Proceedings Series (ISBN: 978-1-4503-6452-2) and the supplemental proceedings which will be archived in the ACM Digital Library, and indexed by DBLP, Ei Compendex, Scopus and submitted to be reviewed by Thomson Reuters Conference Proceedings Citation Index (ISI Web of Science). Selected high-quality papers will be invited to be published, after revision and extension, in special issues of international journals.
+
+**** Scope *****
+A vast variety of multimedia services like voice, email, instant messaging, social networks, mobile payment and transactions, mobile video conferencing, or video and audio streaming has already shaped the expectations towards current mobile devices, infrastructure, and services. Within the last five years, mobile multimedia has become the accepted standard, driven by developments in end-user devices, radio networks, and backend services. However, many open research questions remain open, from limited battery life to heterogeneous data types, increases in quality of service, context-aware adaptation to the environment, or the ever-present security and privacy issues.
+MoMM2018 is the 16th edition in the series of the highly successful International Conference on Advances in Mobile Computing and Multimedia. 
+Recently, MoMM has been held in Salzburg (2017), Singapore (2016), Brussels (2015), Kaohsiung (2014), Vienna (2013), Bali (2012), Ho Chi Minh City (2011), Paris (2010), Kuala Lumpur (2009), and Linz (2008). This year, Yogyakarta, Indonesia will host MoMM2018. The MoMM conference series has provided opportunities to researchers, graduate students, and industry practitioners to address recent research results and current industry practices in the area of mobile computing and multimedia.
+
+**** Submissions *****
+We invite three types of submissions: Full Technical Papers, Short Position Papers, and Demonstrations. 
+- A Full Paper should provide solid conceptual and theoretical foundation and substantial support for its results and conclusions as a significant contribution to the field. 
+- A Position Paper is not expected to be theoretically or empirically thorough, but represents an earlier stage of work. Examples are demonstration or prototype work, preliminary user studies, or work in progress, i.e. a report on the latest emerging ideas, approaches, methodologies, systems and application scenarios. 
+- A demonstration is intended to showcase novel concepts and innovative technologies which are at advanced stage and have already been implemented in working prototype systems. The informal setting of the demonstration session encourages presenters and participants to engage in discussions about presented work, while the accompanying short paper should describe the scientific aspects, concepts or methods underpinning the hands-on demonstration. 
+Accepted papers and demonstrations from all three categories will be published in the ACM International Conference Proceedings Series.
+
+***** Topics *****
+Specific topics of interest include, but are not limited to:
+1. Mobile Platform Track
+- Mobile software architectures, systems, and platforms
+- Operating system and middleware support for mobile computing
+- Mobile network traffic engineering, performance, and optimization
+- Wireless and mobile network management and service infrastructure
+- Wireless communication technologies (GSM/UMTS, WiMAX, WiFi, Bluetooth, etc.)
+- Mobility and location management
+- Integration and interworking of wired and wireless networks
+- Distributed systems aspects of mobile computing
+- Localization and tracking
+- Transaction processing in mobile environments
+- Security and privacy of mobile/wireless systems
+- Security and privacy of mobile/wireless protocols
+- Security of mobile end-user devices
+- Energy efficiency in mobile systems
+- Approaches, and technologies for dealing with big data in mobile computing
+- Integration of cloud computing and mobile computing
+- Mobile services usage data analysis and pattern recognition
+- Regulatory, societal, legal, and ethical issues of mobile computing
+2. Mobile Interaction Track
+- Mobile applications and services
+- Mobile computing markets and business models
+- Provisioning of mobile services
+- Personalization and context awareness in mobile computing
+- Location based services
+- Security and privacy of social network services
+- Mobile visualization for big data
+- Rapid prototyping of mobile applications
+- Mobile user interfaces and interaction techniques
+- Evaluation and usability of mobile devices and services
+- Mobile services for older adults with diverse capabilities
+3. Mobile Multimedia Track
+- Mobile multimedia streaming and services
+- Mobile multimedia coding and encryption
+- Mobile multimedia for learning
+- Interfaces for multimedia creation
+- Media fusion for communication and presentation
+- Distributed mobile multimedia systems
+- Audio and video analysis, modeling, processing and transformation
+- Image analysis, modeling, and recognition
+- Augmented reality on mobile devices
+- Communication and cooperation through mobile multimedia
+- Enabling infrastructures for mobile multimedia
+- Scalable multimedia big data management
+
+**** Submission Guidelines ****
+Papers and demonstration descriptions must be submitted electronically in PDF through the conference website. Submitted papers must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal, conference, or workshop with proceedings. Submitted demonstrations should convey a scientific result and should not be advertisements for commercial software packages. Submitted papers and demonstrations will be subject to stringent peer review by at least three members of the international program committee and carefully evaluated based on originality, significance, technical soundness, and clarity of exposition. Accepted papers and demonstration descriptions will appear in the conference proceedings to be published by ACM. Format requirements for submissions of papers and demonstrations are:
+- Maximum 10 pages, including the abstract (no more than 150 words), all figures and references for Full Technical papers.
+- Maximum 4 pages, including the abstract (no more than 150 words), all figures and references for Short Position Papers.
+- A video clip (for review purpose only) and a description of maximum 4 pages for the demonstration. The description should outline the underlying novel concepts, methods and/or approaches, and details about implementation, deployment, testing, and evaluation and user uptake.
+- All submissions should be formatted according to ACM guidelines (http://www.acm.org/sigs/publications/proceedings-templates)
+- Submissions must be entered into the Submission System (https://www.easychair.org/conferences/?conf=momm2018)
+
+**** Awards ****
+MoMM2018 best paper awards, best student paper awards, and best demonstrations will be selected based on novelty, significance, and the presentation at the conference. Best student paper awards can only be awarded to papers on which students are first authors.
+
+**** Past Conferences ****
+http://www.iiwas.org/conferences.htm
+ACM Digital library: http://dl.acm.org/event.cfm?id=RE130
+DBLP: http://www.informatik.uni-trier.de/~ley/db/conf/momm/
+
+
+*** Contact *****
+Pari Delir Haghighi, Program Committee Chair, Monash University, Australia
+******************************************************************************

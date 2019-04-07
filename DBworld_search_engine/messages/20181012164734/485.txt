@@ -1,0 +1,17 @@
+The Data Systems and Optimization Lab (DSL) in the School of Computing, College of Computing and Digital Media at DePaul University is looking for talented and motivated postdoctoral fellows to become part of our team working on exciting science research projects. Researchers in computer systems, databases, high performance computing or any relevant data and computational science discipline, and who have received their Ph.D. within the last three years are encouraged to apply. The successful applicant will receive a competitive salary, commensurate with Chicago area, and excellent benefits. The position is for up to two years beginning October 1st, 2018.
+
+This post-doctoral position will be in the broad areas of computational and statistical reproducibility with experience in topics of data provenance/lineage, graph data management, version control systems, file systems, and scientific data management. The objective will be to create new ways of capturing, tracking and making understandable large-scale, distributed scientific experiments. Focus will be on scientific experiments that employ finite-element models, large-scale distributed/high performance computing infrastructure, and are in general challenging to reproduce.
+
+Supervisors 
+===========
+
+Dr. Tanu Malik (College of Computing and Digital Media, School of Computing) 
+
+To apply please email your CV and a Research Statement to dbgroup at cdm depaul edu.
+
+Advisory team 
+===========
+
+A multi-disciplinary advisory team will guide the project, offering advice, facilities, and potential opportunities for travel, training, and dissemination. 
+The DSL Lab performs innovative research in data management and organization, scientific computing, and database forensics. Current research projects are in the areas of cloud computing, provenance data management, data storage visualization, geospatial poly-stores and poly-indexing, performance optimization, and benchmarking and performance modeling. More details on projects can be found under Research. 
+The Chicago metropolitan area provides a diverse and exciting environment. The local economy is vigorous, with international stature in banking, trade, commerce, manufacturing, and transportation, while the cultural scene includes diverse cultures, vibrant theater, world-renowned symphony, opera, jazz and blues. The College of Computing and Digital Media is located in the Loop, in the heart of the city.

@@ -1,0 +1,42 @@
+(deadline extended: 22 July 2018) The First IEEE International Conference on Artificial Intelligence and Knowledge Engineering (AIKE 2018)
+
+October 1-3, 2018
+The Hills Hotel
+Laguna Hills, California, USA
+http://www.ieee-aike.org
+
+CALL FOR PAPERS
+
+Artificial Intelligence (AI) is concerned with computing technologies that allow machines to see, hear, talk, think, learn, and solve problems. The huge potential of applying AI for problem solving represents an exciting future that business objectives can be achieved much more effectively. In addition, business-business, business-customer, and customer-customer may be interconnected in a revolutionary way to stimulate tremendous amount of interesting activities. A core of AI is Knowledge Engineering that addresses the acquistion, understanding, description, storage, integration, processing, control, and use of knowledge, among others.
+
+The First IEEE International Conference on Artificial Intelligence and Knowledge Engineering (AIKE 2018), is an international forum for academia and industries to exchange visions and ideas in the state of the art and practice of Artificial Intelligence and Knowledge Engineering, as well as to identify the emerging topics and define the future of Artificial Intelligence and Knowledge Engineering. Topics of interest include, but are not limited to, the following:
+
+TOPICS OF INTEREST
++ Syntactic and semantic aspects of knowledge
++ Knowledge management
++ Distributed knowledge and processing
++ Real-time knowledge and processing
++ Hardware and software of knowledge systems
++ Knowledge understanding and modelling
++ Knowledge discovery
++ Query and optimization
++ Integrity, security, and fault tolerance
++ Machine and deep learning of knowledge
++ Knowledge integration
++ "Big Knowledge" and reduction
++ Performance evaluation
++ Communicating knowledge and agents
++ Multi-modal interaction
++ AI technologies including Search, planning, reasoning, knowledge representation, natural language processing, robotics and perception
++ Applications
+
+The conference proceedings will be published by the IEEE Computer Society Press. Distinguished quality papers presented at the conference will be selected for the best paper/poster awards and for publication in internationally renowned journals.
+
+IMPORTANT DATES
+Abstract submission deadline: July 15, 2018
+(Regular, Short, Poster, Demo) Paper submission deadline (extended): July 22, 2018
+Notification of acceptance: August 12, 2018
+Camera ready deadline: August 26, 2018
+
+CONTACT
+aike@uci.edu

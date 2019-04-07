@@ -1,0 +1,147 @@
+[Apologies for multiple copies]
+
+**********************************************************************************
+
+  11th International Symposium on Foundations & Practice of Security (FPS 2018)
+
+                       November 13-14-15, 2018 Montreal, Canada
+
+                      Website: http://fps2018.encs.concordia.ca/
+
+**********************************************************************************
+
+
+
+
+Important Dates:
+----------------
+
+- Deadline for Short/Position Papers:  September 3, 2018 (anywhere in the world)
+- Deadline for Full Papers:  September 3, 2018 (anywhere in the world)
+- Acceptance Notification: October 8, 2018
+- Camera Ready: October 22, 2018
+- Conference: November 13-14-15, 2018
+
+
+Scope:
+------
+
+The eleventh edition of FPS will be hosted by Concordia University in
+Montreal, Canada, on November 13, 14 and 15 2018. We invite
+researchers and practitioners from all countries working in security,
+privacy, trustworthy data systems and related areas to participate in
+the event.
+
+Protecting the communication and data infrastructure of an
+increasingly inter-connected world has become vital to the normal
+functioning of all aspects of our world. Security has emerged as an
+important scientific discipline whose many multifaceted complexities
+deserve the attention and synergy of the mathematical, computer
+science and engineering communities.
+
+The aim of FPS is to discuss and exchange theoretical and practical
+ideas that address security issues in inter-connected systems. It aims
+to provide scientific presentations as well as to establish links,
+promote scientific collaboration, joint research programs, and student
+exchanges between institutions involved in this important and fast
+moving research field.
+
+We also invite papers from researchers and practitioners working in
+security, privacy, trustworthy data systems and related areas to
+submit their original papers. The main topics, but not limited to,
+include:
+
+    * Access Control Languages
+    * Code Reverse Engineering and Vulnerability Exploitation
+    * Computer and Network Security
+    * Cryptography & Cryptanalysis
+    * Data mining & watermarking
+    * Distributed security protocols & policies
+    * Formal foundations in information or operational security
+    * Information theoretic security
+    * Malware, botnet and advanced persistent threats
+    * Privacy & sensitive data management
+    * Policy-based distributed information systems
+    * Policy-based security architectures
+    * Security & privacy in digital currencies
+    * Security & privacy in social networks
+    * Security in sensor networks and RFIDs
+    * Security of big-data
+    * Security of cloud computing, grid computing
+    * Security of distributed embedded middleware
+    * Security of P2P systems
+    * Security of service oriented architectures
+    * Security management and security policies
+    * Side channel & physical attacks
+    * Social engineering
+    * Threat analysis and trust management
+
+
+Submissions Guidelines:
+-----------------------
+
+All submissions must be written in English. Full papers should be at
+most 16 pages, including the bibliography and the appendices.
+Committee members are not required to read the appendices, so the
+paper should be intelligible without them. Short and Position papers
+should be up to 8 pages. Authors should indicate whether their paper
+is a 'Position paper' to differentiate them from regular ones
+('Position paper' should be mentioned in the title).
+
+Authors must submit their papers by the deadline indicated below,
+using the EasyChair web site (using the link
+https://easychair.org/conferences/?conf=fps2018) and following the
+requirements stated there. All papers will be refereed. The submitted
+contribution should be formatted according to Springerâ€™s LNCS style
+(TeX, Word). Submissions by PhD students as well as surveys and
+controversial ideas are encouraged. Case studies (successful or not)
+are also encouraged.
+
+Publication:
+------------
+
+As in previous editions, proceedings will be published by
+Springer-Nature in the Lecture Notes in Computer Science (LNCS)
+series. At least one author of each accepted paper must register to
+the symposium, by the date indicated by the organizers, and present
+the paper.
+
+Committees:
+------------
+
+General Chairs:
+
+ - Frederic Cuppens (IMT Atlantique, France)
+
+PC Chairs:
+
+ - Nur Zincir-Heywood (Dalhousie University, Canada)
+ - Guillaume Bonfante (Ecole des Mines de Nancy, France)
+ - Mourad Debbabi (Concordia University, Canada)
+
+Publications & Publicity Chairs:
+
+ - Arash Mohammadi (Concordia University, Canada)
+ - Joaquin Garcia-Alfaro (Telecom SudParis, France)
+
+Organization chair
+
+ - Amr Youssef (Concordia University, Canada)
+
+Local Organization Chairs
+
+ - Paria Shirani (Concordia University, Canada)
+ - Jun Yan (Concordia University, Canada)
+
+Steering Committee:
+
+ - Frederic Cuppens (Telecom Bretagne, France)
+ - Nora Cuppens-Boulahia (Telecom Bretagne, France)
+ - Mourad Debbabi (Concordia University, Canada)
+ - Joaquin Garcia-Alfaro (Telecom SudParis, France)
+ - Evangelos Kranakis (Carleton University, Canada)
+ - Pascal Lafourcade (Universite dâ€™Auvergne, France)
+ - Jean-Yves Marion (Mines de Nancy, France)
+ - Ali Miri (Ryerson University, Canada)
+ - Rei Safavi-Naini (Calgary University, Canada)
+ - Nadia Tawbi (Universite Laval, Canada)

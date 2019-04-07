@@ -1,0 +1,40 @@
+ï»¿ICDM-IWSC'18
+Call for Papers 
+
+Singapore, November 17th, 2018
+http://lisi.io/iwsc2018/
+
+The 2nd International Workshop on Social Computing (IWSC2018) is a main international forum for scientists, engineers, and users to exchange and share their experiences, new ideas, and latest research results on all aspects of social computing. IWSC2018 will be held in Singapore, November 17th, 2018. It will be held in parallel with the 18th International Conference on Data Mining (http://icdm2018.org/) in Singapore, November 17-20, 2018. 
+
+In this workshop, we aim to attract researchers from all over the world working in the field of social computing, with a particular focus on social usersâ€™ behaviours, activities, interactions, news propagations, and social influence learning models in the context of available spatial or location information in urban cities. IWSC2018 also welcomes all researchers in the database, data mining, natural language processing, social data and web mining to utilize their expertise and match up to develop more efficient and practical algorithms or models to obtain smart knowledge from daily generated invaluable social media and web data. Research topics include, but are not limited to:
+
+- location prediction in social media and web
+- social activities and behavioural analytic metrics
+- spatial social influence learning models
+- natural language processing for short text
+- graph processing
+- learning methods for social link prediction
+- information retrieval
+- evaluation of frameworks, metrics and algorithms
+- applications of any of the above methods and technologies
+
+*** Submission Information ***
+Papers should be in English with no more than the required length (*full paper with 4-8 pages*) conforming to the formatting instructions of ICDM 2018 conference. Each paper will be judged on its originality, significance, technical quality, relevance to IWSC2018, and presentation. Submissions of a paper as PDF files should be regarded as an undertaking that, should the paper be accepted, at least one author will attend the conference to present the work. Authors should make the submissions through the following page:
+
+https://wi-lab.com/cyberchair/2018/icdm18/scripts/submit.php?subarea=S06&undisplay_detail=1&wh=/cyberchair/2018/icdm18/scripts/ws_submit.php
+
+*** Contribution Types ***
+- Research and Industry Full Papers (4~8 pages)
+
+*** Important Dates *** 
+â€¢ Abstract Submission Deadline: August 1, 2018 (extended to August 14, 2018)
+â€¢ Workshop paper submissions: August 7, 2018 (extended to August 14, 2018)
+â€¢ Workshop paper notification: September 4, 2018
+â€¢ Camera-ready deadline and copyright forms: September 15, 2018
+
+*** Workshop Co-Chairs ***
+Jiuyong Li, Jiuyong.li@unisa.edu.au
+Chengfei Liu, cliu@swin.edu.au
+Jianxin Li, University of Western Australia,  
+Lisi Chen, University of Wollongong, lisi@uow.edu.au
+Ke Deng, ke.deng@rmit.edu.au

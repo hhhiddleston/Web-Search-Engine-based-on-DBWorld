@@ -1,0 +1,38 @@
+Call for Panel Proposals
+==============
+Panels at WISE 2018 aim to create a forum that draws together the thought leaders and experts in the communities to discuss timely and relevant topics of the day on the Web systems engineering.
+
+A panel proposal should include:
+* a title,
+* full contact information of the panel chair
+* a statement of learning objectives for the panel, 
+* expected audience and expected number of attendees
+* a statement explaining why the topic is relevant to WISE and timely, 
+* a topical outline for the panel (2-3 issues on which panelists are likely to have plausible but differing opinions)
+* a list of panelists (please indicate if confirmed or contacted), typically 4-5 besides the panel chair.
+
+Submission deadline - 27th July 2018
+
+To submit a panel proposal, please contact:
+     Helen Paik (h.paik@unsw.edu.au)
+
+Call for Tutorial Proposals
+=================
+Tutorials at WISE 2018 will provide an interactive space for research and experienced tutors to present the state-of-the-art research, latest development and applications of a specific Web technology. Ideally the topics should provide a direction, stimulate and facilitate future work. 
+
+A tutorial proposal should include:
+* a title,
+* an abstract (up to 150 words),
+* overview of the topic covered, including the reasons that the topic is interesting and important to the Web community at large,
+* content details: a bullet list of organization of the tutorial, in the order of presentation with estimated presentation time for each item (no more than one page)
+* short bios of the presenters including their expertise related to the tutorial (no more than 100 words per presenter)
+* preferred length of the tutorial: short (1.5-3 hours) or long (3-6 hours). If the tutorial can be configured to both a short one and a long one, indicate which part will be exclusively for the long version
+* a list of up to 20 most important references to be covered in the tutorial
+
+(Optional) If the presenters have given similar tutorials before and if the materials for them are available on the web, links to them
+(Optimal) Any specific audio/video/computer requirements for the tutorial
+
+Submission deadline - 27th July 2018
+
+To submit a tutorial proposal, please contact:
+     Helen Paik (h.paik@unsw.edu.au)

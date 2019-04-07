@@ -1,0 +1,35 @@
+ï»¿IEEE Transactions on Industrial Informatics for Special Section on Blockchain for Industrial Internet of Things
+
+Theme: Industrial Internet of Things (IIoT) is reshaping various industrial sectors, such as manufacturing, logistics, transportation, healthcare, energy and utilities. IIoT consists of various smart objects distributed throughout the whole industrial system to collect massive ambient data, which can be used to identify performance bottlenecks, troubleshoot faults and detect malicious behaviours consequently enforcing effective control to the physical world. However, there are several challenges posed on IIoT before the formal adoption of IIoT across various industries. Among them, security and efficiency on IIoT data are the most crucial concerns. On the other hand, the blockchain technology is transforming industries by enabling anonymous and trustful transactions in decentralized and trustless environment. As a result, blockchains help to reduce system risks, mitigate financial fraud and cut down operational cost. The convergence of IIoT and blockchains can potentially overcome the deficiencies of IIoT consequently resulting in the realization of IIoT in industrial sectors. Both industry practitioners and academic researchers aim at realizing general, scalable and deployable blockchain-based IIoT platforms in various application domains while there are a number of challenges like distributed consensus algorithms and data analytics with privacy-preservation in IIoT systems. To fill the gap, this special section solicits high quality and unpublished work on recent advances in Blockchains for IIoT.
+
+Topics include, but are not limited to, the following research topics and technologies:
+ New distributed consensus algorithms for blockchain-enabled IIoT
+ New security mechanisms for blockchain-enabled IIoT
+ New location-based services for blockchain-enabled IIoT
+ New blockchain platforms for IIoT
+ Advances in big data analytics in blockchain-enabled IIoT
+ Advanced contextual computing for blockchain-enabled IIoT
+ Edge/cloud intelligence for blockchain-enabled IIoT
+ Design, development and application of blockchain technology in IIoT
+ Intelligent manufacturing based on blockchain-enabled IIoT
+ Energy/smart grids/utilities based on blockchain-enabled IIoT
+ Smart supply chain based on blockchain-enabled IIoT
+ Intelligent transportation applications based on blockchain-enabled IIoT
+ Applications of big data analytics in blockchain-enabled IIoT
+
+Manuscript Preparation and Submission Follow the guidelines in Â¡Â°Information for Authors in the IEEE- IES website: http://www.ieee-ies.org/pubs/transactions-on-industrial-informatics. Please submit your manuscript in electronic form through Manuscript Central web site:
+https://mc.manuscriptcentral.com/tii. On the submitting page #1 in popup menu of manuscript type, select: SS on Blockchain for Industrial Internet of Things.
+
+Submissions to this Special Section must represent original material that has been neither submitted to, nor published in, any other journal. Regular manuscript length is 8 pages.
+
+Note: The recommended papers for the section are subject to final approval by the Editor-in-Chief. Some papers may be published outside the special section, at the EIC discretion.
+
+Timetable: 
+Deadline for manuscript submissions: August 30, 2018
+Expected publication date (tentative): March 2019
+
+Guest Editors:
+Prof. Yan Zhang, University of Oslo, Norway, yanzhang@ifi.uio.no
+Prof. Zibin Zheng, Sun Yat-Sen University, China, zhzibin@mail.sysu.edu.cn
+Prof. Hong-Ning Dai, Macau University of Science and Technology, Macau, hndai@ieee.org
+Prof. Davor Svetinovic, Khalifa University of Science and Technology, UAE, davor.svetinovic@ku.ac.ae

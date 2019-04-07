@@ -1,0 +1,18 @@
+Eduopen video course on Database modeling and design
+---------------------------------------------------------------------------------
+I announce that starting August 27, 2018, on www.eduopen.org the first edition of the video course on  Database modeling and design by Carlo Batini will be offered. Topics are:
+
+- ER model
+- Relational model
+- Conceptual (database) design
+- Logical design
+ 
+No prerequisite is needed, except basic knowledge on set theory and functions. The access is free, at end participants get a certification. 
+
+In case participants need tutorship, they have to register before August 27, otherwise the course can be attended in self-paced mode. 
+ 
+ The written transcriptions of the lessons can be freely downloaded at
+ 
+http://hdl.handle.net/10281/97114
+
+carlo batini

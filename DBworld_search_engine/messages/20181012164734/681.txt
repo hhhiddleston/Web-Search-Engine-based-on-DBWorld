@@ -1,0 +1,96 @@
+Call for Papers
+
+The Sixth Workshop on Data Mining in Biomedical Informatics and Healthcare (DMBIHÕ18)
+http://facweb.cs.depaul.edu/research/vc/ICDM18/index.html
+Singapore, November 17-20, 2018
+In conjunction with the IEEE ICDM 2018
+
+The Sixth Workshop on Data Mining in Biomedical Informatics and Healthcare aims to 
+provide a forum for data miners, informacists, data scientists, and clinical 
+researchers to share their latest investigations in applying data mining techniques 
+to biomedical and healthcare data. The increasing availability of large and complex 
+data sets to the research community, triggers the need to develop more advanced and 
+sophisticated data analytical techniques to exploit and manage these big data. The 
+broader context of the workshop comprehends artificial intelligence, information 
+retrieval, machine learning, and knowledge extraction methods using biomedical image 
+analysis and natural language processing. Submissions are invited to address the 
+need for developing new methods to mine, summarize and integrate the huge volume and 
+diverse modalities of the structured and unstructured biomedical and healthcare data 
+that can potentially lead to significant advances in the field.  
+
+Topics of interest include but are not limited to:
+* Classifying and clustering big data in electronic health records (EHRs)
+* Classifying and clustering temporal data in EHRs and biomedical data in high 
+  dimensional spaces
+* Application of deep learning methods to clinical data
+* Topic modeling / detection in large amounts of clinical textual data
+* Data preprocessing and cleansing to deal with noise and missing data in large 
+  biomedical or population health data sets
+* Algorithms to speed up the analysis of big biomedical data
+* Novel visualization techniques to facilitate the query and analysis of  clinical 
+  data
+* Statistics and probability in large-scale data mining
+* Evidence-based medicine
+* Medical image data mining
+* HIPAA compliance data mining
+* Pharmacogenomics data mining
+* Biological markers detection
+* Biological and clinical data analysis and integration for translational research
+* Computational genetics, genomics and proteomics
+
+Important Dates
+* Papers Due: August 14, 2018
+* Author Notifications: September 7, 2018
+* Camera-ready deadline and copyright forms: September 15, 2018
+
+Submission and Procedures
+Paper submissions will be done through the IEEE ICDM Workshop CyberChair submission 
+system (https://wi-lab.com/cyberchair/2018/icdm18/scripts/submit.php?subarea=S11&undisplay_detail=1&wh=/cyberchair/2018/icdm18/scripts/ws_submit.php). As per ICDM instructions, papers are limited to a maximum of ten pages, 
+and follow the IEEE ICDM format requirements (https://www.ieee.org/conferences/publishing/templates.html). 
+All accepted workshop papers will be published in a formal proceedings by the IEEE 
+Computer Society Press. One paper will be selected for the best paper award, which will 
+be awarded at the workshop. Submission implies that, if the paper is accepted, at least 
+one of the authors will register and present the paper in order to be published in the 
+Workshop Proceedings. Submitted papers must represent original unpublished research that 
+is not currently under review for any other conference or journal. Papers not following 
+these guidelines will be rejected without review and further action may be taken, 
+including (but not limited to) notifications sent to the heads of the institutions of 
+the authors and sponsors of the conference. Submissions received after the due date, 
+exceeding length limit, or not appropriately structured may also not be considered. 
+Authors may contact the conference General Chairs for more information.
+
+JournalÕs Special Issue 
+Selected papers will be invited for publication in a special issue of the IEEE/ACM 
+Transactions on Computational Biology and Bioinformatics (TCBB); more information can 
+be found at https://www.computer.org/web/tcbb. 
+
+Workshop Chair
+* Daniela Stan Raicu, DePaul University
+
+Workshop Organizers
+* Samah Jamal Fodeh, Yale University
+* JosŽ D. Mart’n-Guerrero, University of Valencia
+* Mohammad-Reza Siadat, Oakland University
+
+Program Committee Members
+* Sameer Antani, NIH National Library of Medicine
+* Carlo Barbieri, Fresenius Medical Care
+* Paul Bradley, MethodCare, Inc.
+* Hamidreza Chitsaz, Colorado State University
+* Rosa Figueroa, University of Utah
+* Jacob Furst, DePaul University
+* Adam Gaweda, University of Louisville
+* Maryellen Giger, University of Chicago
+* Hamid Soltanian-Zadeh, Henry Ford health System
+* Juan G—mez, University of Valencia, Spain
+* Ali Haddad, Yale University
+* Kourosh Jafari-Khouzani, Harvard University
+* Ian H. Jarman, Liverpool John Moores University, UK
+* Paulo J. G. Lisboa, Liverpool John Moores University, UK
+* Flavio Mari, Fresenius Medical Care, Bad Homburg, Germany
+* Theophilus Ogunyemi, Oakland University
+* Doug Redd, University of Utah.
+* Emilio Soria, University of Valencia, Spain
+* Abbas Babajani-Feremi, University of Tennessee Health Science Center
+* Szilard Vajda, NIH National Library of Medicine
+* Joan Vila FrancŽs, University of Valencia, Spain

@@ -1,0 +1,109 @@
+Final Call for papers:
+   
+The 8th IEEE International Conference on Big Data and Cloud Computing ( BDCloud2018), 11-13 Dec. 2018, Melbourne, Australia.
+   
+Website: http://www.swinflow.org/confs/2018/bdcloud/
+   
+Key dates:
+Submission Deadline: August 31, 2018 (11:59pm UTC/GMT, firm)
+Notification: September 30, 2018
+Final Manuscript Due: October 15, 2018
+   
+Submission site: http://www.swinflow.org/confs/2018/bdcloud/submission.htm
+   
+Publication:
+Proceedings will be published by IEEE CS Press.
+   
+Special issues:
+Distinguished papers will be selected for special issues in Information
+Sciences, Future Generation Computer Systems, Journal of Parallel and
+Distributed Computing, Concurrency and Computation: Practice and Experience
+
+===========
+Introduction
+
+Big data is an emerging paradigm applied to datasets whose size is beyond the ability of commonly used software tools to capture, manage, and process the data within a tolerable elapsed time. Such datasets are often from various sources (Variety) yet unstructured such as social media, sensors, scientific applications, surveillance, video and image archives, Internet texts and documents, Internet search indexing, medical records, business transactions and web logs; and are of large size (Volume) with fast data in/out (Velocity). More importantly, big data has to be of high value (Value) and establish trust in it for business decision making (Veracity).
+   
+Cloud computing is positioning itself as an emerging platform for delivering information infrastructures and resources as IT services. Customers (enterprises or individuals) can provision and deploy Cloud services via pay-as-you-go pricing models saving huge capital investments in their own IT infrastructures.
+     
+As estimated by IDC, by 2020, about 40% data globally would be touched with Cloud Computing. Cloud Computing provides strong storage, computation and distributed capability in support of Big Data processing.
+   
+BDCloud (Big Data and Cloud Computing) was created to provide a prime international forum for researchers, industry practitioners and domain experts to exchange the latest advances in Big Data and Cloud Computing as well as their synergy.
+
+Scope and Topics
+
+Topics of particular interest include, but are not limited to:
+¡¤   Fundamentals of cloud computing
+¡¤   Architectural cloud models
+¡¤   Programming cloud models
+¡¤   Provisioning/pricing cloud models 
+¡¤   Data storage and computation in cloud computing
+¡¤   Resource and large-scale job scheduling in cloud computing
+¡¤   Security, privacy, trust, risk in cloud and big data
+¡¤   Fault tolerance and reliability in cloud computing
+¡¤   Access control to cloud computing
+¡¤   Resource virtualisation
+¡¤   Monitoring and auditing in cloud
+¡¤   Scalable and elastic cloud services
+¡¤   Social computing and impacts on the cloud
+¡¤   Innovative HCI and touch-screen models and technologies to cloud
+¡¤   Mobile commerce, handheld commerce and e-markets on cloud
+¡¤   Intelligent/agent-based cloud computing
+¡¤   Migration of business applications to cloud
+¡¤   Energy efficient cloud architecture
+¡¤   Energy aware data storage and computation in cloud computing
+¡¤   Energy aware scheduling, monitoring, auditing in cloud
+¡¤   Green Cloud
+¡¤   Cloud use case studies
+¡¤   Big Data theory, applications and challenges
+¡¤   Big Data mining and analytics on Cloud
+¡¤   Big Data Infrastructure, MapReduce and Cloud Computing
+¡¤   Big Data visualization
+¡¤   Large data stream, incremental datasets on cloud
+¡¤   Distributed and federated datasets
+¡¤   NoSQL data stores and DB scalability
+¡¤   Big Data sharing, security, privacy and trust
+¡¤   Big Data placement, scheduling, and optimization
+¡¤   Distributed file systems for Big Data
+¡¤   Big Data processing, resource scheduling and SLA on Cloud
+¡¤   Performance characterization, evaluation and optimization
+¡¤   Simulation and debugging of Big Data systems
+¡¤   Volume, Velocity, Variety, Value and Veracity of Big Data
+¡¤   Storage and computation management of Big Data
+¡¤   Large-scale workflow management in Big Data
+¡¤   Data management and distributed data systems
+¡¤   Big data applications 
+    
+Submission Guidelines
+Submissions must include an abstract, keywords, the e-mail address of the corresponding author and should not exceed 8 pages for main conference, including tables and figures in IEEE CS format. The template files for LATEX or WORD can be downloaded here. All paper submissions must represent original and unpublished work. Each submission will be peer reviewed by at least three program committee members. Submission of a paper should be regarded as an undertaking that, should the paper be accepted, at least one of the authors will register for the conference and present the work. Submit your paper(s) in PDF file at the submission site: http://www.swinflow.org/confs/2018/bdcloud/submission.htm. 
+    
+Publications
+Accepted and presented papers will be included into the IEEE
+Conference Proceedings published by IEEE CS Press. Authors of accepted
+papers, or at least one of them, are requested to register and present
+their work at the conference, otherwise their papers may be removed from
+the digital libraries of IEEE CS and EI after the conference.
+
+Distinguished papers will be selected for special issues in Information
+Sciences, Future Generation Computer Systems, Journal of Parallel and
+Distributed Computing, Concurrency and Computation: Practice and Experience.
+
+General Chairs
+Xuemin Lin, The University of New South Wales, Australia
+Rajkumar Buyya, The University of Melbourne, Australia
+Laurence Yang, St. Francis Xavier University, Canada    
+     
+Program Chairs
+Zahir Tari, RMIT University, Australia
+Kim-Kwang Raymond Choo, The University of Texas at San Antonio, USA
+Vladimir Vlassov, KTH Royal Institute of Technology, Sweden
+     
+Program Co-Chairs
+Lina Yao, University of New South Wales, Australia
+Hongzhi Yin, The University of Queensland, Australia
+Weiqing Wang, Monash University, Australia
+    
+Workshop Chairs 
+Muhammad Ali Babar, University of Adelaide, Australia
+Jian Cao, Shanghai Jiaotong University, China
+Rafael Tolosana, University of Zaragoza, Spain 

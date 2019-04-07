@@ -1,0 +1,43 @@
+[** Apologies for cross-posting **]
+[** Please forward to anyone who might be interested **]
+
+========================================
+SUMMER CALL FOR PAPERS – APPROACHING DEADLINE – 31st August 2018
+** FREE PUBLICATION **
+-----------------
+Individual papers are reviewed and published online on an ongoing basis. Manuscripts submitted by 31st August will have a chance to be published in the current volume (2018).
+=========================================
+
+OPEN COMPUTER SCIENCE https://www.degruyter.com/view/j/comp is a fully peer-reviewed, open access, electronic only journal publishing works of wide significance, originality and relevance. The journal considers submissions of different types of articles, including research papers as well as review articles, which present the existing literature and achievements on the specific topic from new perspectives. We accept both theoretical and empirical contributions in all subfields of computer science. Journal is indexed in WEB of SCIENCE and SCOPUS.
+
+SCOPE of the journal:
+- algorithms and complexity theory
+- artificial intelligence
+- bioinformatics
+- networking and security systems
+- programming languages
+- system and software engineering
+- theoretical foundations of computer science
+- and other related 
+
+BENEFITS FOR AUTHORS:
+  # fair, comprehensive and transparent peer-review
+  # no space constraints
+  # NO submission and publication FEES 
+  # convenient, web-based paper submission and tracking system – Editorial Manager
+  # free language assistance for authors from non-English speaking regions
+  # fast online publication upon completing the publishing process
+  # better visibility due to Open Access
+  # indexation inter alia by Clarivate Analytics (Emerging Sources Citation Index) and SCOPUS
+  # long-term preservation of the content (articles archived in Portico)
+  # extensive post-publication promotion for selected papers
+
+HOW TO SUBMIT
+Open Computer Science encourages the submission of both substantial full-length bodies of work and shorter manuscripts that report novel findings. There are no specific length restrictions for the overall manuscript or individual sections; however, we urge the authors to present and discuss their findings in a concise and accessible manner.
+
+Before submission authors should carefully read the Instruction for Authors: 
+https://www.degruyter.com/view/supplement/s22991093_Instruction_for_Authors.pdf
+
+All submissions must be made electronically via Editorial Manager, an online submission and peer review system available at http://www.editorialmanager.com/opencs/. First-time users must create an Author account in order to obtain a user ID and password required to enter the system.
+
+In case of any question or difficulties with the manuscript submission website, please contact the Managing Editor of this journal Dr Justyna ¯uk (Justyna.Zuk@degruyteropen.com).

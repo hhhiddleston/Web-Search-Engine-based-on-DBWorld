@@ -1,0 +1,131 @@
+----------------------------------------------------------------------- 
+
+            CALL FOR PAPERS 
+
+  34th Annual ACM Symposium on Applied Computing 
+
+        Track on Digital Life for Human Well-being
+
+             April 8 â€“ 12, 2019 Limassol, Cyprus
+
+            http://atg.deib.polimi.it/sac-2019/
+----------------------------------------------------------------------- 
+
+Aims and rationale 
+================== 
+
+Digital services are an integral part of many aspects of our everyday life, 
+from the workplace to leisure time, to our daily life in our own living 
+environment. It is our desire to have a comfortable and safe life, 
+characterized by social relationships that reinforce our need for 
+belonging and esteem (for example, self-esteem and achievement). 
+Furthermore, our needs include health and quality of life and every 
+other aspect that involves social, economic, cognitive and psychological 
+spheres. Digital Life for Human Well-being is a part of the heart of the 
+ â€œsmart societyâ€ and implies the need to respect the needs identified by 
+Maslowâ€™s pyramid: physiological (for example, food and energy), safety, 
+belonging (for example, friendship and social inclusion), esteem 
+ (for example, recognition) and self-fulfillment (for example, creativity).
+This track is dedicated to methodologies and technologies that can be 
+helpful, guarantee and improve quality of life, and support positive well-being. 
+ It also includes the field of assistive technologies, i.e., systems, products or 
+software programs that increase, maintain, or improve the functional 
+capabilities of people with disabilities, including elderly people, in their 
+daily lives, education, work or leisure.
+We seek original, unpublished contributions that are mainly focused on, but not 
+necessarily limited to: 
+
+- Ageing, disability and technology
+- Ambient assisted living
+- Assistive devices and services
+- Care technologies
+- E-accessibility
+- E-inclusion
+- Independent living
+- Methodological approaches and tools for the assessment of wellbeing
+- Mobile applications for well-being
+- Mobility for fragile people
+- Smart homes/environments
+- Tools to promote social/emotional/physical well-being
+- Wearable devices to improve quality of life
+- Well-being of aging people
+- Well-being in education, employment and leisure activities
+
+Proceedings and Post-Proceedings 
+================================ 
+Papers accepted for the Digital Life for Human Well-Being track 
+will be published by ACM both in the SAC 2019 proceedings and 
+in the ACM Digital Library.
+Paper registration is required, allowing the inclusion of the 
+paper/poster in the conference proceedings.  An author or a proxy 
+attending SAC MUST present the paper: this is a requirement for the 
+paper/poster to be included in the ACM/IEEE digital library. 
+No-show of scheduled papers and posters will result in excluding 
+them from the ACM/IEEE digital library.
+The authors of the best papers presented at the track will be invited 
+to submit an extended version of their work to be published in the 
+journal Technology and Disability, IOS press.
+
+
+Student Research Competition (SRC) Program 
+========================================== 
+Graduate students are invited to submit research abstracts 
+(maximum of 3 pages in ACM camera-ready format,  with an optional 
+extra page at the expense of 80 USD pages) following the 
+instructions published at SAC 2019 website. Submission of the 
+same abstract to multiple tracks is not allowed. 
+
+All research abstract submissions will be reviewed by researchers and 
+practitioners with expertise in the track focus area to which they are 
+submitted. Authors of selected abstracts (up to 20 students) will have 
+the opportunity to give poster and oral presentations of their work 
+and compete for three top-winning places. The SRC committee will 
+evaluate and select First, Second, and Third place winners. 
+The winners will receive medals, cash awards, and SIGAPP recognition 
+certificates during the conference banquet. Invited students receive 
+SRC travel support (US$500) and are eligible to apply to the SIGAPP 
+Student Travel Award Program (STAP) for additional travel support. 
+
+Paper Submission 
+================ 
+Original papers from the above-mentioned or other related areas will be 
+considered. This includes three categories of submissions: 
+
+- Research work (limited to 8 pages in camera-ready format, included 
+in the registration fee. Authors have the option to include up to two (2) 
+extrapages at additional fee of US$80 per page.).
+- Reports of innovative computing applications in the arts, sciences, 
+engineering, government, education, and industry; Reports of successful 
+technology transfer to new problem domains; Reports of industrial 
+experience and demos of new innovative systems (limited to 8 pages in 
+camera-ready format, included in the registration fee. Authors have the
+ option to include up to two (2) extrapages at additional fee of US$80 per 
+page).
+- Poster submission with short papers (limited to 3 pages in camera-ready
+ format, included in the registration fee. Authors have the option to 
+include only one (1) extra page at additional fee of US$80).
+
+Each submitted paper will undergo a blind review process and will be 
+refereed by at least three referees. 
+To ease blind review, *you shall remove author names* from your 
+paper before submitting it. 
+Accepted papers in all categories will be published in the ACM SAC 
+2019 proceedings. 
+
+The camera-ready version of the accepted paper should be prepared using 
+the ACM format (guidelines are given on the SAC 2019 web site). 
+
+
+Relevant Dates 
+============== 
+ - September 10, 2018 (11:59PM Pacific Time): Paper submission deadline 
+ - November 10, 2018: Author notification 
+ - November 25, 2018: Camera-ready copies due 
+
+Track chairs and contacts 
+========================= 
+- Sara Comai, Politecnico di Milano â€“ Milan, Italy  (Main contact chair)
+- Luc De Witte, The University of Sheffield â€“ Sheffield, UK
+- Fabio Salice, Politecnico di Milano â€“ Milan, Italy
+
+E-mail contact: sacwellbeing@polimi.it

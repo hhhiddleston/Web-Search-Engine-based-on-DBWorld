@@ -1,0 +1,85 @@
+The 16th Australasian Data Mining Conference (AusDM 2018)
+Bathurst, Australia,
+28-30 November 2018 
+URL: http://ausdm18.ausdm.org/
+
+The Australasian Data Mining Conference has established itself as the premier Australasian meeting for both practitioners and researchers in data mining. It is devoted to the art and science of intelligent analysis of (usually big) data sets for meaningful (and previously unknown) insights. This conference will enable the sharing and learning of research and progress in the local context and new breakthroughs in data mining algorithms and their applications across all industries.
+
+Specifically, the conference seeks to showcase: Research Prototypes; Industry Case Studies; Practical Analytics Technology; and Research Student Projects. AusDM18 will be a meeting place for pushing forward the frontiers of data mining in academia and industry. AusDM 2018 will offer a variety of keynote speakers and tutorials on important and interesting contemporary topics in data mining.
+
+Since AusDM02 the conference has showcased research in data mining, providing a forum for presenting and discussing the latest research and developments. Built on this tradition, AusDM18 will facilitate the cross-disciplinary exchange of ideas, experience and potential research directions. 
+
+This year AusDM is proud to announce that conference proceedings will be published in Springers Communication in Computer and Information Science.
+
+
+Publication and topics
+
+We are calling for papers, both research and applications, and from both academia and industry, for presentation at the conference. All papers will go through double-blind, peer-review by a panel of international experts. Accepted papers will be published in the AusDM 2018 proceedings by Springer. Some selected papers will be invited for submission with extension in a special edition of a Springer journal. Please note that we require that at least one author for each accepted paper will register for the conference and present their work. One full registration will cover at most two papers.
+
+AusDM invites contributions addressing current research in data mining and knowledge discovery as well as experiences, novel applications and future challenges. Topics of interest include, but are not restricted to:
+
+- Applications of Data Mining and Case Studies - Big Data Analytics
+- Biomedical and Health Data Mining
+- Business Analytics
+- Computational Aspects of Data Mining
+- Data Integration, Matching and Linkage
+- Data Mining Education
+- Data Mining in Security and Surveillance
+- Data Preparation, Cleaning and Preprocessing 
+- Data Stream Mining
+- Implementations of Data Mining in Industry
+- Integrating Domain Knowledge
+- Knowledge Discovery and Presentation
+- Link, Tree, Graph, Network and Process Mining 
+- Multimedia Data Mining
+- Mobile Data Mining
+- New Data Mining Algorithms
+- Privacy-preserving Data Mining
+- Spatial and Temporal Data Mining 
+- Text Mining
+- Web and Social Network Mining
+
+
+Keynote speakers
+
+Professor Junbin Gao, The University of Sydney
+Professor Geoff Webb, Monash University
+
+
+Submission of papers
+
+We invite three types of submissions for AusDM 2018:
+
+- Academic submissions: Regular academic submissions can be made in Research Track reporting on research progress, with a paper length up to 12 pages. For academic submissions we will use a double-blind review process, i.e. paper submissions must NOT include author names or affiliations (and also not acknowledgements referring to funding bodies). Self-citing references should also be removed from the submitted papers (they can be added on after the review) for the double blind reviewing purpose.
+
+- Industry submissions: Submissions can be made in the Application Track to report on specific data mining implementations and experiences in governments and industry projects. Submissions in this category can be up to 12 pages. These submissions do not need to be double-blinded. A special committee made of industry representatives will assess industry submissions.
+
+- Industry Showcase submissions: Submission from industry and government on an analytics solution that has raised profits, reduced costs and/or achieved other important policy and/or business outcomes can be made in this track with a one page Abstract only.
+
+Paper submissions are required to follow the general format specified for papers. LaTeX styles and Word templates will be available while LaTeX will be the recommended typesetting package.
+
+The electronic submissions must be in PDF only, and made through the AusDM'18 Submission Page.
+
+
+Special Tracks
+
+In addition to our regular academic track AusDM 2018 invites papers in the following special categories. Papers accepted from each of these tracks will be presented together in a session. These special tracks are:
+- Image Data Mining
+- Identification Through Data Mining
+- Mobile and Sensor Network Data Mining Track
+- Statistics in Data Science
+
+
+Important Dates
+
+Paper Submission Closed: 3 August 2018
+Authors Notified: Monday 1 October 2018
+Camera Ready Submission: Monday 15 October 2018
+Preliminary Program Available: Wednesday 31 October 2018
+Early Bird Cut-Off Date for Authors: Friday 2 November 2018
+Conference Dates: Wednesday 28 - Friday 30 November 2018
+
+
+Join us on LinkedIn 
+
+https://www.linkedin.com/groups/4907891

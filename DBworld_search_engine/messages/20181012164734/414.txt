@@ -1,0 +1,43 @@
+Call for papers
+
+*************************************************
+
+The 2019 IEEE-RIVF International Conference on Computing and Communication Technologies
+http://rivf2019.udn.vn and http://www.rivf.net
+Danang, Vietnam, March 20-22, 2019
+
+
+***************************************************************************
+Dear Colleagues,
+
+
+We are pleased to invite submissions of original papers to the IEEE-RIVF International Conference on Computing and Communication Technologies which is going to take place in Danang, Vietnam, March 20-22, 2019.
+The conference solicits submission of research papers in major areas of computing and communications, organized into the following five tracks. Relevant topics of each track include, but are not limited to:
+
+==============
+RELATED TOPICS
+
+    AI, Computational Intelligence and Data Analytics: Soft computing, knowledge discovery and data mining,machine learning, computational biology, agent-based systems, semantic web, information extraction and retrieval, text and web mining, health care and public services
+    Communications and Networking: Network architecture, network protocols and security, quantum networks and communications, parallel and distributed computing, grid and cloud computing, fog/edge computing and networking, mobile and ubiquitous computing, big data systems, security & privacy, internet of things, blockchain, wireless/wireline communications systems, smart city solutions/technologies, advanced communications technologies for 5G and beyond.
+    Software Engineering and Information Systems: Software development methods, software system modeling, open source software development, software process, software testing and verification, embedded systems, distributed data management, information integration, domain and metadata modeling, e-commerce and business integration solutions.
+    Image, Language and Speech Processing: Natural language processing, language and speech processing, speech production and perception, language modeling, speech analysis and synthesis, speech enhancement, human-computer interface and interaction, multimedia, image processing, information visualization.
+    Computational Science: Inference engine, modeling, simulation, virtual reality, scheduling, service science, human-computer interface, intelligent agriculture and tourist, optimization, data visualization, bioinformatics, fintech.
+
+
+================
+IMPORTANT DATES
+â€¢        September 30, 2018: Paper submission deadline
+â€¢        December 22, 2018: Acceptance notification
+â€¢        January 10, 2019: Camera-ready paper submission and author registration
+â€¢        March 20-22, 2019: Conference days
+
+=================
+PAPERS PUBLICATION AND SUBMISSION
+
+All accepted and registered papers will be published in the conference proceedings of IEEE RIVF 2019 indexed by Scopus.
+
+Authors are invited to submit papers of up to 6 pages, written in English, in PDF format and compliant with the IEEE
+standard (http://www.ieee.org/conferences_events/conferences/publishing/templates.html). All papers must be original contributions and not previously published, nor currently under consideration, for publication elsewhere.
+Accepted and presented papers will be published in the conference proceedings and submitted to IEEE Xplore as well as other Abstracting and Indexing (A&I) databases. The Chairs of the Program Committee are not allowed to submit papers to the conference for a fair review process. Papers should be submitted through the EasyChair conference submission system at https://easychair.org/conferences/?conf=rivf2019
+
+Contact E-mail:  rivf@ac.udn.vn

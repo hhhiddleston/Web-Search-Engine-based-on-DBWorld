@@ -1,0 +1,218 @@
+ENTER 2019: The 26th Annual eTourism Conference
+
+"eTourism: Towards a Sustainable Digital Society"
+
+Hilton Cyprus, Nicosia, Cyprus, 30 January - 1 February, 2019
+
+https://www.enter2019.org
+
+*** Fifth Call for Research Papers ***
+
+(Proceedings published by Springer - Journal special issue in JITT, Springer)
+
+Every year, hundreds of tourism academics, industry representatives,
+government officials, students and entrepreneurs come together to share,
+discuss and challenge latest developments in information technology in the
+fields of travel, tourism and hospitality. With the theme "eTourism: Towards
+a Sustainable Digital Society" the ENTER 2019 conference will focus on
+exploring the ways in which technology and tourism together can make our
+society more sustainable. We call for latest research and case studies on
+emergent and cutting-edge information and communication technology
+concepts, applications, and business models to be shared in the conference.
+
+Organized by the International Federation for Information Technology and
+Travel & Tourism (IFITT), the ENTER 2019 conference provides a unique
+venue for various tourism stakeholders to understand the application of
+information and communication technologies to travel and tourism, with a
+special focus on how eTourism can contribute to the sustainability of the
+society. The ENTER 2019 research track is divided into three major topics
+that all contribute to our capabilities in building a sustainable digital society:
+Tourism Business and Technology, Governance, Sustainability and Education,
+and Computer Science and Information Systems.
+
+Issues to be covered at the conference include, but are not limited, to the
+following areas in the travel, tourism and hospitality context:
+
+Tourism Business and Technology
+
+¥ ICT and Tourism Experience
+¥ Augmented and Virtual Reality
+¥ Platform Economy
+¥ Website Design and Evaluation
+¥ Digital Marketing and Social Media Strategies
+¥ Digital Distribution and Social Selling
+¥ Social Networking, Social Media and Social Inspiration
+¥ Gaming and Gamification
+¥ ICT Adoption and Value Creation
+¥ E-strategy and eBusiness Models
+¥ ICT for Innovation and Service Design
+¥ Digital Nomads
+¥ Consumer Behaviour in Digital Space
+¥ Robotics and Automation in Travel and Hospitality
+
+Governance, Sustainability and Education
+
+¥ ICT for Regional Development and Sustainability
+¥ Advanced Distribution Systems and Strategies, Dynamic Packaging
+¥ ICT-enabled Partnership and Collaboration
+¥ E-Learning, Life-long Learning and MOOCs
+¥ E-Government and Public Policy in Tourism
+¥ Digital Divide and Socio-economic Development
+¥ Privacy and Internet Security
+¥ Legal, Ethical and Social Aspects of ICT
+
+Computer Science and Information Systems
+
+¥ Big Data and Large-scale Systems
+¥ Artificial Intelligence, Machine Learning and Deep Learning
+¥ Data Mining, Analytics and Measurement
+¥ Text and Concept Mining, Sentiment Analysis
+¥ Recommender Systems and Personalization
+¥ User Modeling and Decision Making
+¥ Human-Computer Interaction
+¥ Emotions and Personality-based Systems
+¥ Social Network Analysis
+¥ Location-based Services and Context-Aware Systems
+¥ Mobile Services and Wearable Technologies
+¥ Semantic Web, Tourism Ontologies and Linked Open Data
+¥ Data Standards and Data Integration
+¥ Travel Information Search and Retrieval
+¥ Internet-of-Things
+¥ Smart Destinations
+¥ Travel Chatbots
+¥ Blockchain and Other Emerging Technologies
+
+
+Welcoming Academics and the Industry
+
+The conference brings together the research community and industry, and
+it is organized in three streams, namely industry track, destinations track,
+and research track. If you are representing tourism industry or destinations,
+please see suitable calls for presentations at https://www.enter2019.org .
+The conference also features six to eight world-class keynote speakers
+discussing the most pressing topics within eTourism.
+
+
+Location
+
+The 26th edition of ENTER will take place in Nicosia, Cyprus. Nicosia is the
+capital of Cyprus; a status it has enjoyed for 1000 years since the 10th
+century, though its beginnings date back 5000 years to the Bronze Age.
+Nicosia is a sophisticated and cosmopolitan city, rich in history and culture
+that combines its historic past with the amenities of a modern city. Cyprus
+is an island drenched in sun and mythology, at the crossroads of ancient
+civilizations. 9,000 years of history gathered on one island. Cyprus packs a
+remarkable array of sights and attractions, museums and archaeological
+parks, throbbing beach resorts, pine covered mountains, medieval fortresses
+and ancient temples. Over the last few years, it has become one of the top
+touristic European destinations breaking in consecutive years the record of
+tourist arrivals. It is expected that in 2018, more than 3.6 million tourists
+will visit Cyprus and plans target a steady intake of 5 million tourists per
+year. More information about Nicosia and Cyprus as well as what the island
+and its capital offer can be found on the conference web site.
+
+
+Call for Research Papers
+
+We invite research papers across the widest spectrum of Information and
+Communication Technologies in Travel and Tourism to be presented at the
+ENTER 2019 conference. All submissions to the research track are rigorously
+evaluated for novelty, significance, and soundness. Papers should clearly
+state the background, introduction, purpose, theory, methodology, results,
+conclusions and managerial/industry/social implications of the study, and
+be fully referenced with appropriate citations. The authors of full papers
+and research notes will have the opportunity to present their research orally
+supported by PowerPoint slides. Full technical details will be provided with
+the acceptance of the paper.
+
+The proceedings of recently held ENTER conferences are listed by ISI's
+Conference Proceedings Citation Index - Science (CPCI-S). ENTER 2019
+proceedings will follow a similar indexing process for ISI and other major
+indices.
+
+A)     Full Papers
+
+Full papers should be innovative, so to advance the knowledge base of
+related fields. These papers present major contributions to the field and
+should be up to 12 pages in length. The conference proceedings
+https://www.springer.com/la/book/9783319729220 (to be published by
+Springer International Publishing) will include all accepted full papers. An
+award for the best full paper will be presented during the conference.
+
+B)     Research Notes
+
+Research notes of up to 5 pages are invited. These papers represent new
+ideas not developed enough at the scale of a full paper, findings that restate
+known research, descriptions of prototypes, or research that is limited in
+scope. All research notes will be published by the e-Review of Tourism
+Research (eRTR) at http://ertr.tamu.edu/ (Editor of eRTR: Cody Morris Paris,
+Middlesex University Dubai, United Arab Emirates).
+
+C)    Organized Sessions
+
+Proposals for organizing technical or other research-oriented sessions are
+invited. Proposals will include details of potential participants, topics, and
+presenters. Session Chairs are expected to attend ENTER 2019, set the order
+of presentations, and chair their session/s. Deadline for session chairs to
+submit their proposals to Research Track Chairs is September 3, 2018
+(please submit proposal by e-mail to the research track chairs found at the
+end of the document).
+
+
+Submission
+
+Please refer to the "Author Advice" (http://www.enter2019.org/wp-content/uploads/2018/06/enter2019authoradvice_2.docx )
+document as a style guide for standards to follow in the preparation of
+manuscripts. Please also see Springer guidelines for conference proceedings:
+https://www.springer.com/gb/authors-editors/conference-proceedings/conference-proceedings-guidelines ,
+especially for Latex submissions.
+
+Papers must be uploaded to the online reviewing platform:
+Easy Chair for ENTER2019 (https://easychair.org/conferences/?conf=enter2019 ). 
+
+All papers will be double-blind peer-reviewed by experienced researchers
+who are members of the scientific review committee. Final acceptance will
+depend on whether the author(s) can adequately address review comments
+to the satisfaction of the reviewers. Authors must submit their revised
+manuscripts by the deadline (October 22, 2018) and must register for the
+conference by November 12, 2018 in order to have their papers included in
+the Conference Proceedings or eRTR.
+
+
+Time Schedule
+
+¥ Submission closes: September 3, 2018
+¥ Notification of acceptance/rejection/revision: October 8, 2018
+¥ Deadline to submit revised version: October 22, 2018
+¥ Final acceptance: October 29, 2018
+¥ End of Early Bird registration: November 2, 2018
+¥ Registration deadline to be published later: November 12, 2018
+¥ Conference: January 30 - February 1, 2018
+
+Conference organizers reserve the right to modify the paper submission 
+schedule.
+
+
+Submission Guideline and Presentation Template
+
+Please download the "Author Advice" document as a style guide for Word
+here:
+http://www.enter2019.org/wp-content/uploads/2018/06/enter2019authoradvice_2.docx
+and for Latex here:
+ftp://ftp.springernature.com/cs-proceeding/svproc/templates/ProcSci_TeX.zip .
+A presentation template for your presentation during ENTER2019
+Conference will be sent to the authors after acceptance.
+
+
+Fast Track Journal of Information Technology and Tourism (JITT)
+
+Best papers' authors will be invited to submit an extended version of their
+article to Journal of Information Technology and Tourism (Springer).
+These articles will be reviewed under a special fast track in order to assure
+a timely publication. JITT website: http://bit.ly/ITTJournal .
+
+
+Research Track Chairs
+
+¥ Juho Pesonen, University of Eastern Finland (juho.pesonen[at]uef.fi)
+¥ Julia Neidhardt, TU Wien, Austria (julia.neidhardt[at]ec.tuwien.ac.at)

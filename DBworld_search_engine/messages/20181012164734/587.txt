@@ -1,0 +1,32 @@
+Wierzbicki, Adam
+Web Content Credibility
+2018, XII, 221p. 15 b/w illustrations, 30 illustrations in colour
+Hardcover, ISBN 978-3-319-77793-1
+e-Book, ISBN 978-3-319-77794-8 
+
+
+This book introduces readers to Web content credibility evaluation and evaluation support. It highlights empirical research and establishes a solid foundation for future research by presenting methods of supporting credibility evaluation of online content, together with publicly available datasets for reproducible experimentation, such as the Web Content Credibility Corpus. 
+
+The book is divided into six chapters. After a general introduction in Chapter 1, including a brief survey of credibility evaluation in the social sciences, Chapter 2 presents definitions of credibility and related concepts of truth and trust. Next, Chapter 3 details methods, algorithms and user interfaces for systems supporting Web content credibility evaluation. In turn, Chapter 4 takes a closer look at the credibility of social media, exemplified in sections on Twitter, Q&A systems, and Wikipedia, as well as fake news detection. In closing, Chapter 5 presents mathematical and simulation models of credibility evaluation, before a final round-up of the book is provided in Chapter 6.
+
+Overall, the book reviews and synthesizes the current state of the art in Web content credibility evaluation support and fake news detection. It provides researchers in academia and industry with both an incentive and a basis for future research and development of Web content credibility evaluation support services.
+
+Features and Benefits:
++ Provides the first comprehensive overview of a new research area of rapidly growing importance
++ Combines empirical research and mathematical models of credibility evaluation
++ Exemplifies results in various social media like Twitter or Wikipedia
+
+Keywords:
+Web searching and information discovery - Web applications - Collaborative and social computing systems and tools - Collaborative and social computing design and evaluation methods - HCI design and evaluation methods - Experimentation  
+
+Read more detailed information: 
+https://www.springer.com/gp/book/9783319777931
+
+Online version available under:
+https://link.springer.com/book/10.1007%2F978-3-319-77794-8
+
+ORDER INFORMATION:
+Springer:  
+https://www.springer.com/gp/book/9783319777931
+Amazon:
+https://www.amazon.com/Web-Content-Credibility-Adam-Wierzbicki/dp/3319777939

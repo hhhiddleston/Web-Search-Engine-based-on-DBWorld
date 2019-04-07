@@ -1,0 +1,98 @@
+-------------------------------------------------------------------------------
+                               CALL FOR PAPERS
+          31st International Workshop on Description Logics, DL 2018
+            October 26th to October 29th, 2018 - Tempe, Arizona, US
+                           http://dl.kr.org/dl2018/
+            --- PAPER REGISTRATION/SUBMISSION DEADLINE EXTENDED ---
+-------------------------------------------------------------------------------
+
+The DL workshop is the major annual event of the description logic research
+community. It is the forum at which those interested in description logics,
+both from academia and industry, meet to discuss ideas, share information and
+compare experiences. The 31st edition will be held in Tempe, Arizona, US from
+October 26th to October 29th, 2018, collocated with the 16th International
+Conference on Principles of Knowledge Representation and Reasoning (KR 2018).
+
+Important Dates (Extended Deadlines)
+===============
+
+Paper registration deadline:
+ July 21, 2018
+Paper submission deadline:
+ July 28, 2018
+Notification of acceptance:
+ September 18, 2018
+Camera-ready copies:
+ October 4, 2018
+Workshop:
+ October 26-29, 2018
+
+Invited Speakers
+================
+Lidia Tendera (University of Opole, Poland)
+Denny Vrandecic (Google LLC, USA)
+Renata Wassermann (University of Sao Paulo, Brazil), jointly with NMR 2018
+
+Workshop Scope
+==============
+We invite contributions on all aspects of description logics, including but
+not limited to:
+* Foundations of description logics: decidability and complexity of reasoning,
+  expressive power, novel inference problems, inconsistency management,
+  reasoning techniques, and modularity aspects
+* Extensions of description logics: closed-world and nonmonotonic reasoning,
+  epistemic reasoning, temporal and spatial reasoning, procedural knowledge,
+  query answering, reasoning over dynamic information
+* Integration of description logics with other formalisms: object-oriented
+  representation languages, database query languages, constraint-based
+  programming, logic programming, and rule-based systems
+* Applications and use areas of description logics: ontology engineering,
+  ontology languages, databases, ontology-based data access, semi-structured
+  data, graph structured data, linked data, document management, natural
+  language, learning, planning, Semantic Web, cloud computing, conceptual
+  modelling, web services, business processes
+* Systems and tools around description logics: reasoners, software tools for
+  and using description logic reasoning (e.g. ontology editors, database
+  schema design, query optimisation, and data integration tools),
+  implementation and optimisation techniques, benchmarking, evaluation,
+  modelling
+
+Submissions
+===========
+Submissions may be of two types:
+
+(1) Regular submissions consist of 11 pages LNCS plus references. If the authors prefer the paper to not appear in the proceedings, an additional 2-page abstract has to be submitted.
+
+(2) Papers accepted at some conference can be submitted as accepted elsewhere together with a 2-page abstract that also specifies where the paper has been accepted.
+
+* For both types, there is no page limit on the list of references.
+* For submissions with an additional 2-page abstract, only the abstract is
+  published in the proceedings. The abstracts might not be indexed in dblp.
+  This option is designed for authors who wish to announce results that have
+  been published elsewhere, or which the authors intend to submit or have
+  already submitted to a venue with an incompatible prior / concurrent
+  publication policy.
+* All submissions may optionally include a clearly marked appendix (e.g.,
+  with additional proofs or evaluation data). The appendix will be read at
+  the discretion of the reviewers and not included in the proceedings. The
+  appendix does not need to be in LNCS format.
+* Accepted papers and 2-page abstracts will be made available electronically
+  in the CEUR Workshop Proceedings series (http://www.CEUR-ws.org/).
+* Accepted submissions, be they full papers or 2-page abstracts, will be
+  selected for either oral or poster presentation at the workshop. Submissions
+  will be judged solely based upon their content, and the type of submission
+  will have no bearing on the decision between oral and poster presentation.
+
+Submission page: https://easychair.org/conferences/?conf=dl2018
+
+Organization
+============
+* Magdalena Ortiz, TU Wien, Austria (program co-chair)
+* Thomas Schneider, University of Bremen, Germany (program co-chair)
+* Michael Zakharyaschev, Birkbeck, University of London, UK (general chair)
+
+Resources
+=========
+* Information about submission, registration, travel information, etc., is
+  available on the DL 2018 homepage: http://dl.kr.org/dl2018/
+* The official description logic homepage is at http://dl.kr.org/

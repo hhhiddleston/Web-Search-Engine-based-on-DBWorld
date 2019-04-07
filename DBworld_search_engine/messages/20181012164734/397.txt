@@ -1,0 +1,78 @@
+Call for Poster and Demo:
+
+The 8th IEEE International Conference on Big Data and Cloud Computing ( BDCloud2018), 11-13 Dec. 2018, Melbourne, Australia.
+         
+Website: http://www.swinflow.org/confs/2018/bdcloud/poster.htm
+
+
+Important Dates:
+Deadline for proceedings published posters/demos with display at conference: 1 October 2018
+
+Notification of Acceptance: 7 October 2018
+
+Final versions of proceeding published posters/demos: 15 October 2018
+
+Deadline for web published posters/demos with display at conference: 30 October 2018
+
+
+Submissions:
+Please email your posters/demos to confs.aus@gmail.com with the email subject as "BDCloud 2018 demo poster submission".
+
+ 
+Two types of posters and demos are welcome. Both of them will be displayed during the conference.
+
+1. Proceedings published posters and demos: Submission is a 2-page short paper describing the post/demo content, research, relevance and importance to the conference community. If accepted, the 2-page short paper will be published in the main conference proceedings.
+
+
+2. Web published posters and demos: Submission is a 1-page extended abstract. Such posters/demos will not be included in the conference proceedings, but will be published on the conference website.
+
+---------------
+Participants are invited to submit posters and research demos to BDCloud 2018. BDCloud 2018 is created to provide a prime international forum for both researchers, industry practitioners and environment experts to exchange the latest fundamental advances in the state of the art and practice of Big Data and Cloud Computing as well as joint-venture and synergic research and development across various related areas. Topics of interest for posters and demos include, but not limited to:
+
+Scope and Topics
+Topics of particular interest include, but are not limited to:
+¡¤   Fundamentals of cloud computing
+¡¤   Architectural cloud models
+¡¤   Programming cloud models
+¡¤   Provisioning/pricing cloud models 
+¡¤   Data storage and computation in cloud computing
+¡¤   Resource and large-scale job scheduling in cloud computing
+¡¤   Security, privacy, trust, risk in cloud and big data
+¡¤   Fault tolerance and reliability in cloud computing
+¡¤   Access control to cloud computing
+¡¤   Resource virtualisation
+¡¤   Monitoring and auditing in cloud
+¡¤   Scalable and elastic cloud services
+¡¤   Social computing and impacts on the cloud
+¡¤   Innovative HCI and touch-screen models and technologies to cloud
+¡¤   Mobile commerce, handheld commerce and e-markets on cloud
+¡¤   Intelligent/agent-based cloud computing
+¡¤   Migration of business applications to cloud
+¡¤   Energy efficient cloud architecture
+¡¤   Energy aware data storage and computation in cloud computing
+¡¤   Energy aware scheduling, monitoring, auditing in cloud
+¡¤   Green Cloud
+¡¤   Cloud use case studies
+¡¤   Big Data theory, applications and challenges
+¡¤   Big Data mining and analytics on Cloud
+¡¤   Big Data Infrastructure, MapReduce and Cloud Computing
+¡¤   Big Data visualization
+¡¤   Large data stream, incremental datasets on cloud
+¡¤   Distributed and federated datasets
+¡¤   NoSQL data stores and DB scalability
+¡¤   Big Data sharing, security, privacy and trust
+¡¤   Big Data placement, scheduling, and optimization
+¡¤   Distributed file systems for Big Data
+¡¤   Big Data processing, resource scheduling and SLA on Cloud
+¡¤   Performance characterization, evaluation and optimization
+¡¤   Simulation and debugging of Big Data systems
+¡¤   Volume, Velocity, Variety, Value and Veracity of Big Data
+¡¤   Storage and computation management of Big Data
+¡¤   Large-scale workflow management in Big Data
+¡¤   Data management and distributed data systems
+¡¤   Big data applications 
+
+
+Chairs:
+Muneeb Hassan, Swinburne University of Technology, Australia
+Muhammad Ali Babar, University of Adelaide, Australia

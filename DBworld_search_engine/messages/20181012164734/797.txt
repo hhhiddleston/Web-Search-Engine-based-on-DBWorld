@@ -1,0 +1,36 @@
+International Conference on Innovation and Intelligence for Informatics, Computing, and Technologies (3ICT 2018) provides a forum for the researchers and industry practitioners to exchange the latest fundamental advances in the state of the art and practice of Computing, Advanced Technologies, and Innovative Research. 3ICT 2018 is Technically sponsored by the institution of engineering and technology (IET, UK), AND IEEE Bahrain Section and is hosted by University of Bahrain. The 3ICT special session on Intelligent Resource Management in Cloud based Data Centers  welcomes paper submissions on all aspects of cloud computing research and applications with emphasis on those describing research on different forms of resource management techniques in cloud data centers.
+
+The list of possible topics includes but is not restricted to the following areas:
+ New Architectural models for cloud computing for efficient Resource management 
+ Security aware resource management
+ Virtualization
+ Different Cloud Services 
+ Elasticity in a cloud 
+ Storage virtualization and storage models 
+ Resource management supporting Green computing models for clouds 
+ QoS for applications on the cloud 
+ Network Virtualization 
+ Software Defined Networks(SDNs)
+ Billing and Pricing
+ Access Control in Cloud Computing
+ Big Data Cloud Services
+ Resource management for supporting Big Data applications
+
+This track welcomes theoretical models, algorithms, practical results, description and analysis of experiments and demonstrations of working prototypes 
+
+INSTRUCTIONS FOR AUTHORS 
+Authors are invited to submit original and unpublished research works on above and other topics related to IRMCDC 2018. Submitted papers must not have been published or simultaneously submitted elsewhere. Please, indicate clearly the corresponding author and include upto 6 keywords and an abstract of no more than 400 words. Papers must be formatted according to CPS format; see formatting instructions and style sheets. Submitted research papers should  not overlap with papers that have already been published or that are simultaneously submitted to a journal or a conference with proceedings. Each paper will receive a minimum of three reviews. Papers will be selected based on their originality, relevance, contributions, technical clarity and presentation. Submission implies the willingness of at least one of the authors to register and present the paper, if accepted. Authors of accepted papers must guarantee that their papers will be registered and presented at the conference. Conference proceedings would be published in IEEE Computer Society's Conference Publishing Services. 
+
+PAPER SUBMISSION
+Authors are requested to submit their papers electronically using the Online EDAS conference management system in PDF format before the deadline (see Important Dates). The submission processes will be managed by EDAS. If you have used this system before, you can use the same username and password. If this is your first time using EDAS, you will need to register for an account by clicking "create a new account" button. Upon completion of registration, you will get a notification email from the system and you are ready for submitting your paper. You can upload and re-upload the paper to the system by the submission due date. You can submit your paper  by clicking here. https://edas.info/newPaper.php?c=24985&track=92761
+
+Important Dates
+Submission Deadline:  15 August, 2018 
+Authors Notification: 15 September, 2018. 
+Final Manuscript Due : 30 September, 2018. 
+Track Program Chairs
+Madhu Kumar S.D, NIT Calicut, India(madhu@nitc.ac.in)
+Shabeera T P,  GPTC Thirurangadi, India (shabeera@gmail.com)
+
+Programme Committee
+TBA

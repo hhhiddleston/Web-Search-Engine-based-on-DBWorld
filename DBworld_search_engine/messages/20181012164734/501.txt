@@ -1,0 +1,87 @@
+2nd ACM SIGSPATIAL Workshop on Recommendations for Location-based Services and Social Networks (LocalRec)
+=========================================================================================================
+Held in conjunction with the 26th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2018)
+
+Topic: Location-aware recommendations
+Venue: Seattle, Washington, USA
+Date: November 6, 2018 (morning)
+URL: http://www.ec.tuwien.ac.at/LocalRec2018/
+
+Driven by technological advances in hardware (positioning systems, environmental sensors), software (standards, tools, network services), and aided by various open movements (open, linked, government data) and the ever-growing mentality of sharing for the greater good (crowdsourcing, crowdfunding, collaborative and volunteered geographic information), the amount of available geo-referenced data has seen dramatic explosion over the past few years. Human activities generate data and traces that are now often transparently annotated with location and contextual information. At the same time, it has become easier than ever to collect and combine rich and diverse information about locations. Exploiting this torrent of geo-referenced data provides a tremendous potential to materially improve existing and offer novel types of recommendation services, with clear benefits in many domains, including social networks, marketing, and tourism.
+
+Fully exploiting this potential requires addressing many core challenges and combining ideas and techniques from various research communities, such as recommender systems, data management, geographic information systems, social network analytics, text mining. Bringing together researchers and practitioners from these communities, the aim of this workshop is to provide a unique forum for discussing in depth and collecting feedback about challenges, opportunities, novel techniques and applications. LocalRec is about making recommendations in which location plays a key role, either as part of the recommended object, or as part of the recommendation process.
+
+We solicit original contributions of both long and short research or survey papers and short vision or demonstration papers addressing the following non-comprehensive list of topics:
+
+Location-aware recommender systems
+  * location as context
+  * collaborative filtering vs. content-based recommendations
+  * case and empirical studies
+  * evaluation methods and metrics; datasets and benchmarks
+
+Location-based social networks
+  * recommendations for locations, events, venues, travel
+  * friend and community suggestions
+  * extracting preferences, tips, ratings, patterns, habits
+  * modeling geo-social influence of users and locations
+
+Location-based advertising
+  * location-aware viral campaigns
+  * proximity marketing; beacons and IoT
+
+Tourism
+  * trip planning and recommendations
+  * recommending travel destinations, hotels
+  * recommending tourist routes and points of interest
+  * automatic guide and tour generation
+  * exhibition arrangement
+
+Security and privacy in location-aware applications
+  * attack and threat scenarios
+  * spatial anonymization and cloaking
+
+Workshop proceedings will be indexed by DBLP and will appear on ACM Digital Library.
+
+Submitted papers must be uploaded in PDF format and formatted according to the standard double-column ACM SIG proceedings guidelines that also apply to the ACM SIGSPATIAL conference submissions, through the EasyChair submission site:
+http://easychair.org/conferences/?conf=localrec2018
+Long paper submissions can be up to 10 pages and short papers up to 4 pages.
+
+
+Important Dates
+===========================
+  Abstract Deadline: August 24, 2018 (11:59pm PST)
+  Paper Deadline: August 31, 2018 (11:59pm PST)
+  Notification: September 27, 2018 (11:59pm PST)
+  Camera-Ready: October 3, 2018 (11:59pm PST)
+
+
+Organization Committee
+======================
+  Panagiotis Bouros, Johannes Gutenberg University Mainz, Germany
+  Christian-Albrechts-Universitaet zu Kiel, Germany
+  Dimitris Sacharidis, Technische UniversitÃ¤t Wien, Austria
+
+
+Program Committee
+==============================
+  Michela Bertolotto, University College Dublin, Ireland
+  Nikos Bikakis, Research Center "Athena", Greece
+  Theodoros Chondrogiannis, University of Konstanz, Germany
+  Ahmed Eldawy, University of California, Riverside, CA, USA
+  Huiji Gao, Arizona State University, AZ, USA
+  Mouzhi Ge, Masaryk University, Czech Republic
+  Gabriel Ghinita, University of Massachusetts, Boston, MA, USA
+  Ulrike Gretzel, University of Southern California, CA, USA
+  Haosheng Huang, University of Zurich, Switzerland
+  Vana Kalogeraki, Athens University of Economics and Business, Greece
+  Bernd Ludwig, Universitaet Regensburg, Germany
+  Michael Mathioudakis, University of Helsinki, Finland
+  Irene Ntoutsi, Leibniz University Hannover - L3S Research Center, Germany
+  Vishwakarma Singh, Apple, USA
+  Dimitrios Skoutas, Research Center "Athena", Greece
+  Kostas Stefanidis, University of Tampere, Finland
+  Gang Wang, Virginia Tech, VA, USA
+  Wolfgang Woerndl, Technical University of Munich, Germany
+  Man Lung Yiu, Hong Kong Polytechnic University, Hong Kong, PR China
+  Moustafa Youssef, Egypt-Japan University of Science and Technology
+  Xiaofang Zhou, University of Queensland, Australia

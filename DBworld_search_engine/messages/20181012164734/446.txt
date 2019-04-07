@@ -1,0 +1,237 @@
+*************************************************
+We apologize in advance if you receive multiple copies of this DependSys 2018 CFP
+We appreciate your help if you forward this CFP to your email lists.
+*************************************************
+
+                   DependSys 2018|| CALL FOR PAPERS
+             =============================================
+The 4th International Symposium on Dependability in Sensor, Cloud, and Big Data Systems and Applications (DependSys 2018)
+December 11-13, 2018, Melbourne, Australia [Springer LNCS, EI-Indexed]  
+http://www.spaccs.org/dependsys2018/
+
+In conjunction with SpaCCS 2018 [http://trust.gzhu.edu.cn/conference/SpaCCS2018/]
+
+                         Hosted by:
+                   Fordham University, USA 
+                  Guangzhou University, China
+
+                     Technical Co-Sponsorship: 
+            Springer Lecture Notes in Computer Science (LNCS)
+
+                        Venue & Dates:
+             Melbourne, Australia, December 11-13, 2018
+
+--------------------------------------------------
+Proceedings & Special Issues:
+The symposium proceedings will be published by Springer Lecture Notes in Computer Science (LNCS) series (EI indexed). Distinguished papers, after further revisions, will be published in several SCI & EI indexed special issues.
+
+Special Issues:
+Authors of selected, high-quality papers of the symposium would be invited to submit their improved versions to one of the high-impact SCI, SCI-E, & EI indexed Journals' Special Issues (confirmed): 
+
+(1) IEEE Internet of Things Journal (SCI & EI Indexed, Impact Factor: 7.596)
+http://ieee-iotj.org/
+
+(2) Journal of Network and Computer Applications - Elsevier (SCI & EI Indexed, Impact Factor: 3.991)
+Special Issue: on Smart World Systems, Applications, and Technologies
+https://www.journals.elsevier.com/journal-of-network-and-computer-applications/
+
+(3) Information Sciences - Elsevier (SCI & EI Indexed, Impact Factor: 4.305)
+Special Issues: https://www.journals.elsevier.com/information-sciences/call-for-papers/special-issue-safety-security-ubiquitous-computing
+
+(4) Future Generation Computer Systems - Elsevier (SCI&EI Indexed, Impact Factor: 4.639)
+Special Issues: https://www.journals.elsevier.com/future-generation-computer-systems/call-for-papers/special-issue-smart-data-internet-of-things
+
+(5) IEEE Access (SCI & EI Indexed, Impact Factor: 3.244)
+Special Issues: http://ieeeaccess.ieee.org/special-sections/proximity-service-prose-challenges-and-applications/
+
+(6) Journal of Parallel and Distributed Computing, 
+ Special Issues: Security & Privacy in Social Big Data
+https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/call-for-papers/security-privacy-in-social-big-data
+
+(7) Sensor Journal (SCI & EI Indexed, Impact Factor: 2.475)
+Special Issue: Fog Computing for Sensor and Cloud System
+http://www.mdpi.com/journal/sensors/special_issues/FCSCS
+
+(8) Information Systems Frontiers (SCI & EI Indexed, Impact Factor: 3.232)
+Special Issue: Mitigating Cyber Threats and Defense in Data Intensive Smart Cities
+http://organ-assoc.business.utsa.edu/isfrontiers/forthcoming1/CFP%20SI_Cybersecurity_ISF%20v3.4.pdf 
+
+(9) Computers & Electrical Engineering (Elsevier)  (SCI & EI Indexed, Impact Factor: 1.747)
+Special Issue: Advanced Techniques and Emerging Trends in Cyber-Social Computing
+Computers & Electrical Engineering (Elsevier), Topic: "Advanced Techniques and Emerging Trends in Cyber-Social Computing"
+
+(10) World Wide Web Journal (Springer) (SCI & EI Indexed, Impact Factor: 1.15)
+Special Issue: Smart Computing and Cyber Technology for Cyberization, http://static.springer.com/sgw/documents/1631732/application/pdf/CFP
+
+(11) International Journal of Computational Science and Engineering (IJCSE) - INDERSCIENCE (ESCI & EI Indexed)
+http://www.inderscience.com/jhome.php?jcode=IJCSE
+---------------------------------------------------
+
+INTRODUCTION
+==============
+Welcome to participate in DependSys 2018, Melbourne, Australia, December 11-13, 2018! The DependSys 2018 symposium in the 4th event, which is a timely event bringing together new ideas, techniques, and solutions for dependability and its issues in sensor, cloud, and big data systems and applications. The first event (DependSys 2015) was held in Zhangjiajie, China, which was of a great success. As we are deep into the Information Age, we witness the explosive growth of data available on the Internet. Human beings are producing quintillion bytes of data every day, which come from sensors, individual archives, social networks, Internet of Things, enterprise and Internet in all scales and formats. One of the most challenging issues we face in achieving designed system performance to an expected level, i.e., how to effectively provide dependability in sensor, cloud, and big data systems. These systems need to typically run continuously, which often tend to become inert, brittle, and vulnerable after a while. We can observe that this trend is further stimulated by an ever-increasing cost pressure. 
+
+The focus of DependSys 2018 is to create a forum for individuals, academics, practitioners, and organizations, who are developing or procuring sophisticated computer systems on whose dependability of services they need to place great confidence. Future systems need to close the dependability gap in face of challenges in different circumstances. The emphasis will be on differing properties of such services, e.g., continuity, effective performance, real-time responsiveness, ability to overcome data fault/corruption/anomaly, ability to avoid catastrophic failures, prevention of deliberate privacy intrusions, reliability, availability, sustainability, adaptability, heterogeneity, security, safety, and so on.
+
+
+SCOPE AND INTERESTS
+===================
+DependSys 2018 will focus on emerging ideas and trends, algorithms and applications, systems design techniques, platforms and tools, as well as measurement assessment tools in all aspects of Dependability, which include but are not limited to the following list:
+
+(1) Dependability and Security Fundamentals and Technologies
+ •  Theory, standardization and modelling, and methodologies for dependability
+ •  Security and privacy
+ •  Anomaly detection and protection
+ •  Dependability of sensor, wireless, and Ad-hoc networks 
+ •  Dependability in mobile computing
+ •  Dependability of software defined networks (SDN)
+ •  Dependability issues in clouds (e.g., cloud storage, computing)
+ •  Dependability by virtualization
+ •  Dependability in distributed scheduling and resource management
+ •  Dependability issues in parallel and distributed databases 
+ •  Dependability issues in autonomic computing
+ •  Dependable Biocomputing, Quantum computing, etc.
+ •  Dependable big data foundation and management
+ •  Reliability and fault-tolerant computing
+ •  Big data privacy and security
+ •  Dependable IoT supporting technologies
+ •  Social networks and crowdsensing
+ •  Software and hardware dependability
+
+(2) Systems
+ •  Dependable sensor systems
+ •  Dependability and availability issues in distributed systems
+ •  Cyber-physical systems (e.g. networked embedded systems, automotive,
+     aerospace, healthcare, smart grid systems, and so on)
+ •  Dependability issues in socio-technical systems
+ •  Dependability issues in database and transaction processing systems 
+ •  Safety and security in distributed computing systems
+ •  Self-healing, self-protecting, and fault-tolerant systems
+ •  IoT smart sensors and systems
+ •  RFID Systems
+ •  Reliability issues in long-distance telemetry of distributed sensor systems
+ •  Dependability in automotive systems
+ •  Dependable computing clouds for cyber-physical systems
+ •  Dependable integration between sensor systems and the cloud
+ •  Dependability in big data systems
+ •  Safety-critical systems and software
+ •  Software system security
+
+(3) Applications
+ •  Sensor and robot applications, sensor network applications
+ •  Big data applications
+ •  Cloud computing applications
+ •  Datacenter monitoring
+ •  Safety care, medical care and services, IoT-based  healthcare 
+ •  Aerospace, industrial, and transportation applications
+ •  IoT Energy, smart grid, and utility applications
+ •  Scientific applications
+ •  e-commerce and e-government
+ •  Activity monitoring
+ •  Mobile sensing applications, detection and tracking
+
+(4) Measures and Assessments
+ •  Dependability metrics and measures for safety and trust
+ •  Dependability levels and relations, assessment criteria and authority
+ •  Dependability assessment standards
+ •  Dependability measurement, modeling, evaluation, and tools 
+ •  Dependability evaluation of parallel, distributed systems
+ •  Software and hardware reliability, testing, verification and validation
+ •  Evaluation of fault-tolerant systems
+ •  Evaluations and tools of anomaly detection and protection in sensor, cloud, big data systems
+ •  Experimental performance of parallel & distributed systems
+ •  Practical experiences and prototypes
+
+SUBMISSION AND PUBLICATION INFORMATION
+======================================
+All papers in PDF format need to be submitted electronically through the symposium website (https://easychair.org/conferences/?conf=dependsys2018). 
+Submitted papers must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal or a conference with proceedings. Papers must be clearly presented in English, must not exceed 12 pages (or 18 pages with the over length charge), including tables, figures, references and appendixes, in Springer LNCS Format with PDF. The majority of papers that finally appear in the symposium will likely be the result of the symposium solicitation. Papers will be evaluated based on their originality, significance, relevance, and clarity of presentation assessed by at least three reviewers from respective research areas.
+** All accepted papers will be published by Springer LNCS and All accepted papers will be published in proceedings by Springer LNCS, and Indexed by EI Compendex, Scopus, CrossRef, Google Scholar, and DBLP. 
+** Distinguished papers, after further revision, will have the chance to publish in certain SCI&EI-indexed journals’ Special Issues.
+
+
+IMPORTANT DATES
+===============
+• Paper Submission Deadline:  September 15, 2018
+• Author Notification: October 05, 2018
+• Camera-Ready Paper:  October 15, 2018
+• Conference Dates:   December 11-13, 2018
+
+
+ORGANIZING COMMITTEE
+=============
+
+HONORARY CHAIRS
+============
+Rajkumar Buyya, University of Melbourne, Australia
+Frank Hsu, Fordham University, USA
+
+
+GENERAL CHAIRS     
+==============
+Lei Shu, Nanjing Agricultural University, China/University of Lincoln, UK
+Md Zakirul Alam Bhuiyan, Fordham University, USA
+ 
+
+PROGRAM CHAIRS
+===========     
+Jiankun Hu, University of New South Wales, Australia
+Kim-Kwang Raymond Choo, University of Texas at San Antonio, USA
+Mamoun Alazab, Charles Darwin University, Australia
+
+
+PROGRAM TRACK CHAIRS
+=============
+Track 1: Dependability Fundamentals and Technologies
+Mahmuda Naznin, BUET, Bangladesh 
+Thaier Hayajneh, Fordham University, USA 
+
+Track 2: Dependable and Secure Systems
+Akramul Azim, University of Ontario, Canada 
+Mohammad Mehedi Hassan, King Saud Univerisity, KSA 
+
+Track 3: Dependable and Secure Applications
+Xuyun Zhang, The University of Auckland   
+A. Taufiq Asyhari, Cranfield University, UK  
+
+Track 4: Dependability and Security Measures and Assessments
+Wenjia Li, NYIT, USA  
+Md. Arafatur Rahman, University Malaysia Pahang, Malaysia  
+
+PUBLICITY CHAIRS
+===========
+Joarder Kamruzzaman, Federation University Australia
+Mohammad Shahriar, ULAB, Bangladesh
+Fang Qi, Central South University, China
+Sancheng Peng, Guangdong University of Foreign Studies, China
+Yuan-Fang Chen, University of Paris VI, France
+
+PROGRAM COMMITTEE MEMBERS
+==================================
+(Please refer to the DependSys 2018 website: 
+http://www.spaccs.org/dependsys2018/
+
+
+STEERING COMMITTEE
+=====================
+Jie Wu, Temple University, USA (Chair)
+Guojun Wang, Guangzhou University, China (Chair)
+A. B. M Shawkat Ali, The University of Fiji, Fiji
+Al-Sakib Khan Pathan, Southeast University, Bangladesh
+Jiannong Cao, Hong Kong Polytechnic University, Hong Kong
+Kamruzzaman Joarder, Federation University and Monash University, Australia
+Kenli Li, Hunan University, China
+Laurence T. Yang, St. Francis Xavier University, Canada 
+Mohammed Atiquzzaman, University of Oklahoma, USA
+Shui Yu, Deakin University, Australia
+Sy-Yen Kuo, National Taiwan University, Taiwan
+Yang Xiang, Deakin University, Australia
+WenZhan Song, Georgia State University, USA 
+Kim-Kwang Raymond Choo, The University of Texas at San Antonio, USA
+
+ 
+Contact
+=======
+Please email inquiries concerning DependSys 2018 to: 
+Dr. Md Zakirul Alam Bhuiyan: zakirulalam AT gmail DOT com and the conference organizers (dependsys AT yahoo DOT com).
+Homepage: http://dependsys.org/dr-alam/ 

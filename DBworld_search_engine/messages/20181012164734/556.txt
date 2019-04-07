@@ -1,0 +1,65 @@
+- Submission deadline for regular and Special Session papers has been extended to August 19, 2018! (firm deadline)
+- Deadline for Recent Results papers is August 26, 2018!
+
+
+HIGHLIGHTS
+- Extended versions of selected papers will be invited for possible inclusion in a Special Issue of Wiley Internet Technology Letters and MDPI Telecommunications!
+- Exciting Keynote Speeches will be given by Ana Garcia Armada (University Carlos III of Madrid, Spain), Petar Popovski (Aalborg University, Denmark) and Hossam S. Hassanein (Queen's University, Canada)! 
+- Authors of selected accepted papers in GIIS 2018 will be invited to give a talk to the IEEE 5G/IoT Summit!
+  
+===============
+CALL FOR PAPERS
+===============
+
+Global Information Infrastructure and Networking Symposium (GIIS 2018)
+
+23-25 October, 2018, Thessaloniki, Greece || Technically sponsored by IEEE
+
+http://www.giis-conf.org
+
+After the successful organization of the IEEE 5G Summit in 2017 and the ICT conference in 2016, beautiful Thessaloniki is hosting the Global Information Infrastructure and Networking Symposium (GIIS) this Fall. GIIS 2018 aims at providing a forum for the participants to broaden professional contacts and for technical discussions and interactions on specific information infrastructure and networking topics.
+
+GIIS 2018 is technically sponsored by IEEE. Accepted and presented papers will be published in the conference proceedings and will be submitted for inclusion in IEEEXplore.
+
+Information Infrastructure and Networking (IIN) brings together information processing applications, communications networks and services, physical and software elements in networks and end systems. The technical program is split into the following four conference regular Tracks:
+- Track 1: Next Generation Networking and Communications
+- Track 2: Internet of Things
+- Track 3: Emerging Topics in Communications and Networks
+- Track 4: Communication Services, Standardization & Telecom Policies
+
+The GIIS 2018 conference also includes the following Special Sessions:
+- SS1: IoT and Cultural Heritage Protection
+- SS2: Vehicular Networks – from Theory to Practice
+- SS3: Security, Privacy and Trust in the Internet of Things 
+
+The program of GIIS 2018 consists of (a) Keynote Speeches, paper presentations, Panels and Tutorials (October 23-24) and (b) the IEEE 5G/IoT Summit (October 25).
+
+
+===============
+Important Dates
+===============
+Paper submission (regular Tracks): August 19, 2018 (extended, firm deadline)
+Paper submission (Special Sessions):  August 19, 2018 (extended, firm deadline)
+Paper submission (Recent Results):  August 26, 2018
+Notification of paper acceptance: September 5, 2018
+Camera ready papers: September 15, 2018
+
+
+===================
+Organizing Committee
+===================
+General Chairs
+Periklis Chatzimisios, ATEITHE, Greece & Bournemouth University, UK
+Kostas Katsalis, Huawei Technologies, Germany
+Toktam Mahmoodi, King's College London, UK
+
+TPC Chairs
+Kan Zheng, Beijing University of Posts & Telecom., China
+Walid Saad, Virginia Tech, USA
+Chuan Heng Foh, University of Surrey, UK
+Athanasios D. Panagopoulos, NTUA, Greece
+
+All Organizing Committee members can be found in:
+http://www.giis-conf.org/#committees
+
+For any information please contact: info@giis-2018.org

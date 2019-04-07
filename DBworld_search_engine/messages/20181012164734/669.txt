@@ -1,0 +1,155 @@
+*** Call for Papers: JIST 2018 Regular Technical Papers ***
+
+JIST2018: The 8th Joint International Semantic Technology Conference
+   Nov. 26-28, 2018, Awaji City, Hyogo, Japan.
+   http://jist2018.knowledge-graph.jp
+
+  * Abstract submission due: 10 August, 2018 
+  * Paper submission due:    17 August, 2018 
+--------------------------------------------------------------------
+
+The mission of the Joint International Semantic Technology Conference (JIST) 
+is to bring together researchers in the Semantic Technology research 
+community and other areas of semantic-related technologies to present their 
+innovative research results or novel applications of semantic technologies.
+
+There are two tracks in JIST 2018 for Regular Technical Papers.
+
+
+*** Research Track ***
+
+JIST 2018 research track solicits submissions of original research work on 
+semantic technologies. Topics of interest include, but are not limited to:
+
+ -Ontology and reasoning
+ -Knowledge graph
+ -Linked Data
+ -Big Data and semantics, exchange and integration
+ -Data streams and the Internet of Things
+ -Machine learning and information extraction on the Semantic Web
+ -Semantic Web services and processes
+ -Trust, privacy, and security on the Semantic Web
+ -Social Semantic Web
+ -Natural language processing and semantics
+ -Semantic multimedia
+ -Novel applications of semantic technologies
+
+*** Special Session Track ***
+
+JIST 2018 special session track to discover and implement special topics 
+that researchers in Semantic Technology are particularly interested in. 
+We also intend to facilitate participation of potentially-related researchers 
+in the JIST conference. 
+
+Topics of special sessions are as follows:
+
+ - Special Session on Government Open Data
+     http://jist2018.knowledge-graph.jp/pages/calls/government_open_data.html
+
+ - Special Session on Question Answering and ChatBots
+     http://jist2018.knowledge-graph.jp/pages/calls/qa_chatbots.html
+
+ - Special Session on Resource-aware Semantic Technologies
+     http://jist2018.knowledge-graph.jp/pages/calls/resource-aware_semantic_technologies.html
+
+ - Special Session on Semantic Web for Life Sciences
+     http://jist2018.knowledge-graph.jp/pages/calls/sw_for_life_sciences.html
+
+
+
+*** Important Dates ***
+
+ -Abstract submission:   23:59 (Hawaii Time), 10 August, 2018 
+ -Full paper submission: 23:59 (Hawaii Time), 17 August, 2018 
+ -Notification of Acceptance: 14 September, 2018
+ -Camera-ready Deadline: 24 September, 2018
+ -Conference: 26-28 November, 2018
+
+
+*** Submission ***
+
+Submissions to JIST 2018 should describe original, significant research on 
+semantic technologies. JIST 2018 will not accept submissions that are under 
+review for or have already been published in or accepted for publication in 
+a journal or another conference (*). 
+* Non peer-reviewed documents such as theses, tech reports, publications on 
+preprint server (e.g. arXiv.org) are not considered prior publications. Thus 
+ JIST2018 authors are not precluded to submit papers on the same topic by the 
+same authors.
+
+Submissions to JIST 2018 are expected to present their claimed contribution, 
+with clear evidence to support their claims. 
+
+All submissions will be critically reviewed by at least three members of the 
+program committee of either research track or special session track. 
+To assess submissions, reviewers will judge their relevance to semantic 
+technologies, their originality, the technical soundness of their proposed 
+approach and the readability of the submission.
+
+JIST 2018 submissions are not anonymous.
+
+Submissions must be in PDF format, using the style of the Springer Publications 
+format for Lecture Notes in Computer Science (LNCS). 
+Regular paper submissions must be no longer than 16 pages, and short paper 
+submissions must be no longer than 8 pages. 
+Submissions that exceed this limit may be rejected without review.
+
+Accepted papers of both research track and special session track will be published 
+in an LNCS proceedings. At least one author of each accepted paper must register 
+for the conference and present the paper there.
+
+Papers can be submitted electronically via EasyChair. 
+https://easychair.org/conferences/?conf=jist2018
+
+ * Please select the corresponding track(s) when you submit your paper(s).
+
+
+*** Recommendation to Journal ***
+
+A number of best papers accepted at JIST 2018 will be invited to present at the Meet 
+the Editor session of SCI indexed journals, including International Journal on 
+Semantic Web and Information Systems (IJSWIS), for fast-track publication in a special 
+issue in these journals. Up to five papers will be selected and published. 
+
+
+*** Organizing Committee ***
+
+ -General Chairs
+    Stephen Muggleton, Imperial College London, UK
+    Kouji Kozaki, Osaka University, Japan
+
+ -Program Chairs
+    Ryutaro Ichise, National Institute of Informatics, Japan
+    Freddy Lecue, Accenture Labs, Dublin, Ireland / INRIA, Sophia Antipolis, France
+
+ -Special Session Track Chairs
+    Dongyan Zhao, Peking University, China
+    Takahiro Kawamura, Japan Science and Technology Agency, Japan
+
+ -Local Organizing Chair
+    Atsuko Yamaguchi, Database Center for Life Science, Japan
+
+ -Poster and Demo Chairs
+    Hanmin Jung, KISTI, Korea
+    Shinichi Nagano, TOSHIBA corp., Japan
+
+ -Workshop Chairs
+    Marut Buranarach, NECTEC, Thailand
+    Ikki Omukai, National Institute of Informatics, Japan
+
+ -Tutorial Chairs
+    Naoki Fukuta, Shizuoka University, Japan
+
+ -Sponsorship Chair
+   Takanori Ugai, Fujitsu Laboratories, Japan
+
+ -Publicity Chairs
+   Takeshi Morita, Keio University, Japan
+   Guohui Xiao, Free University of Bozen-Bolzano, Italy
+
+
+--------------------------------------------------------------------
+JIST 2018 Organize Committee
+  Website: http://jist2018.knowledge-graph.jp/
+  Twitter: @jist2018
+  Contact: JIST2018knowledge-graph.jp

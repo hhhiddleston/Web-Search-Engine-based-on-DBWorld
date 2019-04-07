@@ -1,0 +1,73 @@
+Apologies for cross-posting
+
+******************************************************
+CALL FOR PAPERS: 1st Data Value Workshop co-located at the Semantics 2018 Conference in Vienna, Austria
+
+Governing Value: The Practice of Exploiting Data Value
+DataValue 2018
+
+Web: http://2018.datavalue.adaptcentre.ie
+
+
+Extended Deadline
+
+Important Dates:
+    29th July 2018 (23:59 Hawaii Time) - Submission Deadline EXTENDED
+    13th August 2018 (23:59 Hawaii Time) - Notification of Acceptance
+    27th August 2018 (23:59 Hawaii Time) - Camera Ready
+
+
+Keynotes by Stan Christiaens and Douglas Laney
+
+https://www.gartner.com/analyst/40872/Douglas-Laney
+
+https://citizens.collibra.com/speakers/stan-christiaens/
+
+
+
+******************************************************
+
+The Program Committee of DataValue 2018 invites submissions in the broad areas of Data Value and Data Governance. 
+
+Data is increasingly being utilised and exploited by enterprises as a means to gain competitive advantage. Data provides the capabilities such as delivering services, making informed decisions,  and improve financial performance. 
+
+Yet, enterprisesâ€™ attention is usually focused on accumulating data as opposed to the value of the information or knowledge contained within this data. Moreover, even though information consumes immense resources and money in terms of data capture, storage, processing, and maintenance, ironically it typically receives no recognition on the financial balance sheet.
+
+Due to itâ€™s role and characteristics in enterprises and/or businesses, data can be considered as an asset. Additionally, information has a cost and a value, like most business assets, and theoretically it can be valued in the same way an asset is. Despite this, information has as yet resisted quantitative measurement. 
+
+Based on existing literature, we particularly identify the following open challenges:
+
+- How can we represent and model data value?
+- Can data value be quantified, and to what extent?
+- Can data value be predicted?
+- How does data governance affect data exploitation?
+
+      
+Areas of interest include, but are not restricted to:
+
+- Data Exploitation
+- Data Value Chains/Networks
+- Data Value Models
+- Standards
+- Metrics
+- Use Cases
+- Best Practices
+- Data Value Quantification
+- Impacts
+- Data Governance Platforms
+
+We envision three types of submissions in order to cover the entire spectrum from mature research papers to novel ideas/datasets and industry technical talks:
+
+- Research Papers (max 10 pages), presenting novel scientific research addressing the topics of the workshop;
+
+- Position Papers, Demo papers and System and Dataset descriptions (max 5 pages), encouraging papers describing significant work in progress, late breaking results or ideas of the domain, as well as functional systems or datasets relevant to the community;
+
+- Industry and Use Case Presentations (max 5 pages), in which industry experts can present and discuss practical solutions, use case prototypes, best practices, etc., in any stage of implementation.
+
+******************************************************
+Workshop Co-Chairs:
+
+Dr. Judie Attard (Trinity College Dublin)  
+Dr. Rob Brennan (Trinity College Dublin) 
+Prof. Markus Helfert (Dublin City University)  
+Dr. Pieter De Leenheer (Collibra, USA) 

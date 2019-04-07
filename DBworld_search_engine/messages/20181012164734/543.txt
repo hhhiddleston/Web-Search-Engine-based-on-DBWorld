@@ -1,0 +1,29 @@
+Applications from databases are most welcome.
+
+---
+
+Lecturer vacancies in the Department of Computer Science, University of Liverpool, UK.
+
+Grade: Lecturer (grade 8)
+Tenure: Permanent
+Salary range: Â£39,992 - Â£50,618
+Closing date: 10 September, 2018
+Job ref: 009765
+
+The Department of Computer Science at the University of Liverpool invites applications for lecturer positions. The Department is renowned internationally for high quality research in the areas of Algorithms and Artificial Intelligence. Within these two areas the Department has seven, more specialised, research groups on topics directly related to or spanning Algorithms and Artificial Intelligence:
+- Algorithms, Complexity Theory and Optimisation
+- Argumentation and Knowledge Representation
+- Data Mining and Machine Learning
+- Economics and Computation
+- Networks and Distributed Computing
+- Robotics and Autonomous Systems
+- Verification
+
+For this post, we are seeking candidates to further strengthen the Department's research in any of the above topics and to contribute to teaching on the Departmentâ€™s computer science degree programmes. 
+
+The School of Electrical Engineering, Electronics and Computer Science is an Athena SWAN Bronze Award holder. We are working to create an inclusive environment which values a diverse workforce and we strongly encourage applications from groups under-represented within our workforce, in particular, women.
+
+Full details of the posts and application instructions are available:
+https://recruit.liverpool.ac.uk/pls/corehrrecruit/erq_jobspec_version_4.display_form?p_company=1&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=009765
+
+Informal enquiries to Professor Boris Konev: konev@liverpool.ac.uk

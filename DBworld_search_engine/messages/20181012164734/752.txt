@@ -1,0 +1,59 @@
+Subject: Call-for-Participation - Data Released: MediaEval 2018 Recommending Movies using Content: Which Content is Key? Task
+
+[Apologies for cross-postings]
+
+
+
+*******************************************************
+2nd CALL FOR PARTICIPATION - DATA RELEASED
+Recommending Movies using Content: Which Content is Key? Task
+2018 MediaEval Benchmarking Initiative for Multimedia Evaluation
+Website: http://www.multimediaeval.org/mediaeval2018/content4recsys/
+*******************************************************
+Register here: https://docs.google.com/forms/d/e/1FAIpQLSfw11pDSAJb92K6lLH0DU3r85NMOj1Ww2A5R01iqQE985fqdg/viewform
+*******************************************************
+
+The task addresses the question of which kinds of content are most helpful for predicting the reception that a movie will receive by its audience, as reflected in its ratings. There are two aspects to this question: (1) which part of the movie or trailer are most important (e.g., type of scene, beginning middle end) and (2) which aspects of the content are important (e.g., what is depicted, how it is edited). Because trailers and movie clips are different, we expect that it will be most productive to take their differences into account in this task. For example, movie clips are made usually with a few long shots focusing on a particular scene, while trailers use many short-length shots summarizing the entire movie.
+
+An important challenge of the task is addressing the fact that user ratings on movies are atomic (i.e., users assign them to the movie as a whole), and it is not clear in how far we can assume that different parts of the movie or trailer contribute compositionally to the rating. This task explores the idea that it is productive to look for short segments that are predictive of the rating, and that it is not necessary to process the full-length movie for successful rating prediction. The advantages of a system that uses short segments are twofold: first of all, short segments allow for a dramatic reduction in computational time, and, second, short segments are more readily available than full movies.
+
+The overall goal of the task is to use content-based features to predict how a movie is received by its viewers. Task participants must create an automatic system that can predict the average ratings that users assign to movies (representing the global appreciation of the movie by the audience) and also the rating variance (representing the agreement/disagreements between user ratings). The input to the system is a set of audio, visual and text features derived from trailers and selected movie scenes (movie clips).
+
+
+***********************
+Target communities
+***********************
+Researchers will find this task interesting if they work in the research areas of multimedia processing, personalization and recommender system, machine learning and information retrieval.
+
+
+***********************
+Data
+***********************
+Participants are supplied with audio, visual and text features computed from trailers and clips corresponding to about 800 unique movies in the well-known MovieLens 20M dataset. This allows to make use of the user ratings and tags (keywords). Each movie is accompanied by a set of links (mainly on YouTube) to different samples of movie clips, each focusing on a particular scene and semantic.
+
+
+******************************
+Workshop
+******************************
+Participants to the task are invited to present their results during the annual MediaEval Workshop, which will be held 29-31 October 2018 at EURECOM, Sophia Antipolis, France. Working notes proceedings are to appear with CEUR Workshop Proceedings (ceur-ws.org).
+
+
+******************************
+Important dates (tentative)
+******************************
+Development data release: 20 July
+Test data release: 15 August (tentative)
+Runs due: 25 September
+Working notes papers due: 17 October
+MediaEval Workshop, Sophia Antipolis, France: 29-31 October
+
+
+***********************
+Task coordination
+***********************
+Yashar Deldjoo, Politecnico di Milano, Italy
+Thanasis Dritsas, TU Delft, Netherlands
+Mihai Gabriel Constantin, University Politehnica of Bucharest, Romania
+Anuva Agarwal, Carnegie Mellon University, USA
+Bogdan Ionescu, University Politehnica of Bucharest, Romania
+Markus Schedl, Johannes Kepler University Linz, Austria

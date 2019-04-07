@@ -1,0 +1,63 @@
+=========================================
+ ADC 2019 Call for Papers
+=========================================
+
+The Australasian Database Conference (ADC) is an annual forum for sharing the latest research progresses and novel applications of database systems, data management, data mining and data analytics for researchers and practitioners in these areas from Australia, New Zealand and in the world. In 2019, the conference will be co-located with the Australasian Computer Science Week, and be held at Macquarie University in Sydney, during January 29 â€“ February 1, 2019.
+
+The ADC 2019 welcomes contributions related to all aspects of database theory, techniques, and applications. Topics include, but are not limited to:
+
+- Artificial intelligence in big data
+- Cloud, distributed, and parallel databases
+- Data cleaning
+- Data mining and data analytics
+- Data platform internals
+- Data warehousing
+- Database integration
+- Database performance and tuning
+- High-dimensional and temporal data
+- Knowledge discovery
+- Machine learning methods for management of data
+- Mobile databases
+- Multimedia databases
+- Novel data management applications
+- Privacy and security in databases
+- Query processing and optimization
+- Recommendation Systems
+- Semi-structured data and XML
+- Social data management
+- Spatial data processing and management
+- Stream and sensor data management
+- Uncertain and probabilistic databases
+- Web databases
+
+== Contribution Types ==
+
+- Research and Industry Full Papers (12 pages)
+- Demonstration Papers (4 pages)
+
+== Instructions ==
+
+- Submitted papers must be original contributions and cannot be under review for any other forums. The accepted papers will be published in the conference proceedings, which will form a volume in the Springer's Lecture Notes in Computer Science series.
+
+- All submitted papers must be in English and conform to the formatting instructions for the Lecture Notes in Computer Science (LNCS) including references and figures.
+
+- Submitted files must be in PDF, where the following page limits apply:
+
+ o Research and industry papers: 12 pages
+ o Demo papers: 4 pages
+
+- Each paper will be judged on its originality, significance, technical quality, relevance to ADC, and presentation.
+
+- ADC follows single blind review which means that authors' information must be included in the submission.
+
+- The submissions of a paper should be regarded as an undertaking that, should the paper be accepted, at least one author will attend the conference to present the work.
+
+== Submission Site == 
+ https://easychair.org/conferences/?conf=adc2019
+
+== Important Dates ==
+
+Paper Submission: August 17, 2018
+Author Notification: October 15, 2018
+Camera-Ready Deadline: November 9, 2018
+Conference Date: Jan 29 â€“ Feb 1, 2019

@@ -1,0 +1,55 @@
+==== Assistant Professor Position ==== 
+
+The University of Trento, Department of Information Engineering and Computer Science invites expressions of interest in view of the opening of two positions at the level of Tenure Track Assistant Professor. These positions are to be considered in the context of Department of Excellence project financed by the Italian Ministry of Education. 
+
+We seek candidates with significant accomplishments who are committed to reach further promising achievements in the areas of Digital Vehicles and Data Science. 
+
+Specifically one position will cover the aspects related to Computer Science and Computer Engineering with the following subtopics of interest: 
+
+AREA DIGITAL VEHICLES
+- sensing, protocols, and middleware (for IoT and vehicular systems)
+- embedded and distributed systems design and control
+- AI and intelligent systems
+- software, safety and security engineering
+
+AREA DATA SCIENCE
+- data analytics and visualization
+- cloud, edge, and fog computing
+- data privacy
+- human computer interaction
+
+while the other position will cover the aspects related to Communication and Information Engineering
+
+AREA DIGITAL VEHICLES
+- wireless, satellite, ad hoc and vehicular networks
+- software-defined and cognitive communications/networks
+- next-generation networks, cellular networks and 5G
+- Sensor/data fusion and recognition for autonomous vehicles
+
+AREA DATA SCIENCE
+- signal/data processing, representation and visualization
+- analysis, detection and recognition
+- information theory, statistics and coding
+
+Successful candidates for the positions will be expected to have a strong publication record and the ability to work both independently and collaboratively. The candidates should have a proven record of participation and possibly leadership in research projects and experience in teaching in English in graduate institutions. Knowledge of Italian is appreciated but not required. 
+
+The University of Trento particularly welcomes applications from women candidates.
+
+==== The University of Trento ======== 
+The University of Trento has systematically ranked in the top tier positions in Italy in the past 10 years in both national Research Assessment Evaluations (RAE) and University Surveys. In the latest RAE the University of Trento as a whole ranks 1st among medium universities; the Department of Information Engineering and Computer Science ranks 2nd nationwide in its field. The Department is a vibrant environment with 44 faculties (average age is 46 years), several of its members have held previous positions outside Italy in universities or multi-national corporations.
+
+The Department expects the successful candidates to contribute significantly to the research outcomes in one or multiple research programs of the department (http://www.disi.unitn.it/research_programs). Opening of new areas of research is also encouraged.
+
+====== Further Information ======= 
+Further particulars on the position are available at the url: http://www.disi.unitn.it/EoI-CS-CIE 
+
+Informal inquiries for further information regarding the position can be addressed to prof. Nicu Sebe at niculae.sebe@unitn.it 
+
+Expressions of interest should be addressed to: 
+Prof. Niculae Sebe
+Head of Department of Information Engineering and Computer Science 
+via Sommarive 9, 38123 Trento Italy 
+
+Email applications are welcomed and should be sent to positions@list.disi.unitn.it, writing POSITIONS-2018 in the subject field. 
+
+Deadline for the receipt of the expression of interest: September 15th, 2018. 

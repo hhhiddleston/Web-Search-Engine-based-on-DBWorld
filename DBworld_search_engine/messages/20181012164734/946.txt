@@ -1,0 +1,302 @@
+Dear Colleagues,
+
+we are very happy to welcome new contributions for the next
+GEOProcessing events, coming to ATHENS, GREECE, in 2019!
+
+Thank you so much for the excellent contributions so far and for the
+support from all participants, speakers, panelists, committees,
+peer reviewers, and all the other contributors
+and volunteers! Your contributions and support have made the
+GEOProcessing conferences very successful and most lively events
+over more than ten years!
+
+Please consider to contribute to The Eleventh International Conference on
+Advanced Geographic Information Systems, Applications, and Services
+(GEOProcessing 2019) and events and/or forward to your colleagues
+and to the appropriate groups.
+
+GEOProcessing 2019 continues a successful series of events
+dedicated to advanced geographic information systems, applications,
+and services, covering academic and industrial achievements and visions
+in the geoscientific disciplines.
+
+Geographical sensors and satellites provide a huge volume of spatial data which
+is available on the Web. Making use of Web Services, the users are able for
+provisioning and using these services instead of only for document searching.
+These services are published in a directory and may be automatically discovered
+in a given context by software agents.
+Accessing large digital geographical libraries with geo-spatial information
+raises some challenges with respect to data semantics, interfaces, data accuracy
+and updates, distributed processing, as well as with discovery, indexing and
+integration of geographical information systems; this raise the issue of
+distributed catalogs forming a federation of
+spatial databases. Some spatial data infrastructures use service-oriented
+architecture for accessing these large databases via Web Services.
+
+Tracks feature application scenarios, state of the art, and outreach
+developments and span from geo-spatial fundamentals to visualusation,
+modeling and simulation, digital cartography data,
+earth geo-observation and sensing as well as geo-data processing
+and advanced application as from seismic data processing,
+planetology, geophysics, exploration to near surface method
+and archaeology application, data and knowledge management scenarios.
+
+The conference brings together world's leading international experts, researchers,
+computational scientists, developers, system managers, users, students, and
+industry and business affiliates for sharing experiences, publishing and presenting
+new research results and discussing recent developments, challenges, and future
+advancements and collaboration in exciting expert panels, workshops, symposia, and tutorials.
+
+In this context, in addition to the Call for Submissions
+please also note the chance for proposals on
+tutorials, panels, workshops, and symposia.
+
+  http://www.user.uni-hannover.de/cpr/x/rwerkr/en/#2019GEOProcessing
+
+Wish you all the best with your research and beyond!
+
+Looking forward to your contributions and hopefully seeing you in Athens!
+
+Kind regards,
+Dr. Claus-Peter Rueckemann
+General Chair and Chair of the GEOProcessing Steering Committee
+
+
+
+========== GEOProcessing 2019 | Call for Papers ============
+
+             Call for Papers, Tutorials, Panels
+
+                     GEOProcessing 2019
+
+          THE ELEVENTH INTERNATIONAL CONFERENCE ON
+          ADVANCED GEOGRAPHIC INFORMATION SYSTEMS,
+                APPLICATIONS, AND SERVICES
+
+            February 24 - 28, 2019 - Athens, Greece
+
+============================================================
+
+Please consider to contribute to and/or forward to the appropriate
+groups the following opportunity to submit and publish original
+scientific results to GEOProcessing 2019.
+
+The paper submission deadline is October 13, 2018.
+
+ISSN: 2308-393X
+ISBN: 978-1-61208-687-3
+ISBN: 978-1-61208-088-8 (e-Proceedings)
+
+Call for Papers and Submission:
+-------------------------------
+
+see links at:
+
+http://www.user.uni-hannover.de/cpr/x/rwerkr/en/#2019GEOProcessing
+
+Paper submission deadline: October 13, 2018
+
+         
+Print proceedings will be available via Curran Associates, Inc.:
+http://www.proceedings.com/9769.html
+
+Articles and full proceedings will also be archived in the
+free access ThinkMind Digital Library ("Golden Open Access"):
+http://www.thinkmind.org
+
+Authors of selected and presented papers will also be invited
+to submit extended article versions to one of the
+associated Journals without additional costs.
+
+
+Contribution types:
+-------------------
+
+- Regular papers [in proceedings and digital library]
+- Short papers (work in progress) [in proceedings and digital library]
+- Ideas: Two pages [in the proceedings, digital library]
+- Extended abstracts: Two pages [in proceedings and digital library]
+- Posters: Two pages [in proceedings and digital library]
+- Posters:  Slide only [slide-decks will be posted]
+- Presentations: Slide only [slide-decks will be posted]
+- Demos: Two pages [will be posted]
+- Doctoral forum submissions: [in proceedings and digital library]
+
+
+In this context, in addition to the Call for Submissions
+please also note the chance for proposals on
+tutorials, panels, workshops, and mini-symposia.
+
+
+The topics suggested by the conference can be discussed in term of
+concepts, state of the art, research, standards, implementations,
+running experiments, applications, and industrial case studies.
+Authors are invited to submit complete unpublished papers, which are
+not under review in any other conference or journal in the
+following, but not limited to, topic areas.
+All tracks are open to both research and industry contributions, in
+terms of Regular papers, Posters, Work in progress,
+Technical/marketing/business presentations, Demos, Tutorials, and
+Panels.
+
+
+GEOProcessing 2019 Topics
+-------------------------
+(topics and submission details: see CfP on the site)
+
+
+Geo-spatial fundamentals
+........................
+
+Fundamentals of geo-information; New trends in GIS technologies and research;
+Techniques for geographical representation; Integrated architectures for
+geo-spatial information; Geo-spatial data in net-centric environment;
+Geo-spatial technology; Discovery, indexing and integration of geographical
+information systems; Geo-processing of distributed data; Geo-information
+processing; Use of computational geometry for GIS problems; Virtual globes
+and their application to scientific research; Spatial decision support
+systems
+
+
+Trends in Geo-cognition
+.......................
+
+Cognitive geo-spatal images; Real 3D and Pseudo -3D cartographic visualization;
+Geographic cognitive models for cyberspace; Spatial pattern cognition; Tactile
+maps and graphics; Spatio-textual similarity; Toponym disambiguation;
+Geo-spatial intelligence and open source data; Distributed convoy pattern
+mining; Activity recognition of passengers (bus, airlines, railway, taxi,
+etc.); Fusing data from smart phones; Collaborative navigation; Visual
+perception in landscapes; Pedestrian mobility behavior patterns; Business news
+spatio-temporal data; Geo-social co-location mining; Spatial drift analysis;
+Processing cascading information; Web 2.0 Geo-search; Long-term sustainability
+of spatial data; Spatial knowledge discovery
+
+
+Trends on Big Geo-Data
+......................
+
+Public Geospatial information; Visualizations of movement data; Storage and
+Indexing spatial big data; Geospatial Big Data analytics; MapReduce for spatial
+data; Geographical hotspots; Large-scale geospatial data;  Global-scale Earth
+data in Cloud; Detecting geo-anomalies;  Geosocial data;  Historical maps and
+big data; Big data and satellite imagery; Graph-based tractography; Web-based
+mapping; Geotagged Twitter data; Twitter hashtag discovery; Geo-sensor
+networks; Geospatial data semantic catalogue; Processing large spatial queries
+
+Trends of Urban-Geo
+...................
+
+Interactive maps; Cartographic rules and geographic features; Audio enhanced
+map animation; Map legibility and automated cartography; Spatial decisions and
+urban planners; Maps and demographic uncertainty  for demographic; Emotional
+maps and Smart Cities decisions; End-User centered flood evacuation maps;
+Noise maps; Avalanche hazard maps; Location data and privacy; Scientific
+terrain visualization; Vehicular spatio-temporal computing; Urban spatial
+crowdsourcing; Personal driving preferences map; Street networks semantics;
+Self-similarity in urban traffic systems; Optimizing public and private
+transportation maps; Traffic and road sensor data; Interactive facility maps
+(gas stations, electric vehicular points, banks, etc.); Time-depended routing
+maps (emergency, ambulance, fire-stations, etc.); CO2 emissions maps; Visible
+landmarks; Connected cell towers maps; Public transport assistance
+
+Geo-spatial Web Services
+........................
+
+Geo-spatial Web Services and applications; Geo-spatial Web Services and
+simulation and modeling; Geo-spatial Web Services and sensors; Geo-spatial
+Web Services and interoperability; Geo-spatial Web Services and processing;
+Geo-spatial Web Servcies and spatial analysis; Geo-spatial Web Services and
+society; Geo-spatial Web Services and information retrieval; Geo-spatial Web
+Services and human computer interaction; Geo-spatial Web Services and
+mobility
+
+GIS
+...
+
+Wireless and mobile GIS; Integration of remote sensing, GIS and GPS;
+Statistics and application models of spatial data; GIS for the environment
+and health; Satellite positioning technology and LBS; Urban GIS and its
+applications; Theories and algorithms in GIS; Government and public GIS
+
+Geo-spatial simulation and visualization
+........................................
+
+2D and 3D information visualization; Distributed simulations and sensor webs;
+Simulation modeling dynamic geo processes; Exploratory spatial data analysis;
+Fine-grained, terrestrial monitoring platforms; Geo-visualization and
+geo-visual analytics; Visualization of geospatial uncertainty; Representation
+and visualization of geospatial data
+
+Geo-modeling
+............
+
+Standards and geo-spatial metadata; Novel geo-spatial data processing and
+management mechanisms; Spatio-temporal data modeling and reasoning; 3D
+modeling and GIS; Modeling and analysis of terrains; Modeling uncertainty in
+geo-spatial information; Spatial and spatio-temporal statistics; Geo-spatial
+and spatio-temporal data mining; Virtual modeling of large geographic areas;
+Time-geography modeling
+
+Digital cartography data
+........................
+
+Digital geographical libraries; Exploratory cartography and interfaces;
+Digital cartography; Automated mapping and map generalization; Cartographic
+theory and applications; Data models in cartography; Geographical search
+engines
+
+Earth Geo-observation
+.....................
+
+Climate change and the global environment; Data systems for the future Earth
+observation satellites; Calibration and validation of remotely sensed data;
+Earth observation sensor networks and applications; Earth observation
+technology and systems
+
+Geo-sensing
+...........
+
+Acquisition and processing of remotely sensed data; Information extraction
+from remotely sensed data; Data mining across sensor; Intelligent
+sensors/sensor fusion; Co-operative sensing and organization; Sensor
+information management systems; Spatio-temporal sensor data mining; Sensor
+networks and interaction with actuators; Geo-sensor specialized networks
+(e.g. disaster management, early warning systems, environmental monitoring)
+
+Specific geo-data processing
+............................
+
+Seismic data processing (stacking, migration, post-processing,
+interpretation); Tomography (algorithms, methods); Electromagnetic sounding;
+Near surface methods (archaeology, urban and environmental planning);
+Combined geophysical methods (gravimetry, magnetics, borehole methods);
+Seismology and planetology; Geo-natural data on phenomena (hurricane, winds,
+flooding, etc.); Underground geo-reserves, natural resources, exploration
+(gas, oil, metals, etc.); Natural geo-evolution and morphology (glaciers,
+oceanic streams, etc.); Geo-marine life; Geology and earth system simulation
+and modelling
+
+Geo-spatial domain applications
+...............................
+
+Geospatial Technologies for Disaster Management;Geology and hydrogeology
+geographical data; Standardization of geodata and geoservices; Environment
+and land surveying; Oceanographic geo-information; Natural resource
+information systems; Remote sensing geospatial data collection; Geo-spatial
+data and vehicular technologies; Geology and Hydrology applications;
+Location-based services; Environmental monitoring; Special applications: 3D
+cadastre, traffic management, etc.
+
+Managing geo-spatial data
+.........................
+
+Managing uncertainty in spatial information; Automatic mapping (possibly
+web-based ...); Digital elevation/shape modeling; Web-based visualization of
+statistical data within a geographic framework; Tools and links between GIS
+and statistical software packages; Business mapping (spatial analysis for
+business processes as customer segmentation, churn analysis, etc.); Wireless
+sensor networks for spatial applications; Errors and their measurement in
+spatial data
+
+================================================

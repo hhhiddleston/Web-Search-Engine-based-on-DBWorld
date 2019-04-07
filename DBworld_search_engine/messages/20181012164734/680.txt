@@ -1,0 +1,123 @@
+(Apologies for cross-posting)
+-----------------------------------------------------------------------
+ 
+            CALL FOR PAPERS
+
+            34rd Annual ACM Symposium on Applied Computing
+
+                      Track on Web Technologies
+
+                 8-12 April 2019, Limassol, Cyprus
+
+                   http://www.cs.unibo.it/sacwt19/
+
+-----------------------------------------------------------------------
+
+Special issue confirmed!
+Information Processing and Management (Elsevier) https://www.journals.elsevier.com/information-processing-and-management
+--> Impact factor 2017: 3.444
+--> Scimago journal rank: Q1 (Computer Science Applications/Information Systems)
+
+Aims and rationale
+==================
+
+The World Wide Web is relentlessly evolving. Once a single interconnection of static, physically distributed content passively accessed by human users through personal computers, during the explosion of Web-based social networks the Web evolved into an environment allowing users worldwide to interact and collaborate in the creation of user-generated content within many virtual communities. In this line, Web 2.0 is the umbrella term used to encompass several developments which followed, namely social networking sites and social media sites (e.g., Facebook), blogs, wikis, folksonomies (e.g. Flickr), video sharing sites (e.g., YouTube), Web applications ("apps"), collaborative platforms, and mashup applications. Many technologies such as HTML 5, CSS3, AJAX and client-side scripting helped to bring these ideas into practice. 
+
+Moreover, the current Web can be seen as an evolutionary step from the Web 2.0 in that access to content is nowadays ubiquitous, content itself is far more heterogeneous, and "users" come in mixed and different flavors. First, ubiquitous access has been mainly pushed by the inception of mobile computing and mobile devices; in fact reports show that by 2020 the number of mobile device users will be about 70% of the global population. Second, served and published Web content is not only those following traditional interchange formats (text, images, video) but also executable code or Web APIs (e.g. Mashape.com, ProgrammableWeb.com), from which new applications can be built and in turn published back to the Web. The recent notion of "Web of objects", which find its root in Web-accesible IoT applications, promotes the interconnection of hardware elements capable of producing huge amounts of sensor data. Finally, the role of Web application end users and Web developer/designers is somewhat blurry, due to modern Web technologies that greatly simplify the creation/deployment of rich Web sites that might consume Web-accesible services. In addition, the advent of Semantic Web technologies pave the way to the creation of intelligent applications, and thus the tandem human user-browser is no longer the only way to take advantage of Web content.
+
+In this context, novel approaches and techniques, new tools and frameworks are needed to address the increasing complexity of the Web that is coming and the applications therein.
+
+This track aims at bringing together researchers and practitioners from industry and academia working on both foundational and practical aspects of Web technologies, as well as other technologies that in the Web ecosystem have found new and unexpected application fields. We seek original, unpublished contributions that are mainly focused on, but not necessarily limited to, the following aspects of Web technologies:
+
+ - Hypertext, hypermedia, markup languages, and XML-related technologies
+ - Collaboration on the Web: Wikis, Social Software, and Web 2.0
+ - Electronic Publishing on the Web
+ - Expanding the reach of Social Software: Enterprise, Business Process 
+   Management, ...
+ - Federated Social Web software and protocols
+ - Performance, Scalability and Quality of Service on the Web
+ - (Process-aware) Web Information Systems
+ - Web Searching
+ - Web Metrics, Monitoring and Analysis
+ - Web Browsers and Web Interfaces
+ - Web Accessibility
+ - Web Engineering
+ - Rich User Experiences and Human Computer Interaction in Web 
+   applications
+ - Semantic-enhanced Web applications
+ - Mobile Web and Cross-device Content Delivery
+ - Webapps (for mobile devices)
+ - Web application integration: micro/Rest services and data interchange/API description formats
+ - Scripting and other applications of Web technology for Mobile Computing
+ - Web Technologies in other fields, e.g. in IoT devices
+ - Emerging Web Technologies
+
+Proceedings and Post-Proceedings
+================================
+Papers/poster accepted for the Web Technologies track will be published by 
+ACM both in the SAC 2019 proceedings and in the ACM Digital Library, which ensures excellent visibility.
+
+Paper/poster registration is required, allowing the inclusion of the 
+paper/poster in the conference proceedings. An author or a proxy 
+attending SAC MUST present the work: This is a requirement for the 
+paper/poster to be included in the ACM/IEEE digital library. No-show 
+of scheduled papers and posters will result in excluding them from the 
+ACM/IEEE digital library.
+
+Authors of selected works will be invited to submit extended 
+versions for possible publication in a special issue of the Information Processing and Management journal (Elsevier).
+
+Student Research Competition (SRC) Program
+==========================================
+Graduate students are invited to submit research abstracts 
+(maximum of 3 pages in ACM camera-ready format, with an optional extra page at the expense of 80 USD) following the 
+instructions published at SAC 2019 website. Submission of the 
+same abstract to multiple tracks is not allowed.
+
+All research abstract submissions will be reviewed by researchers and 
+practitioners with expertise in the track focus area to which they are 
+submitted. Authors of selected abstracts (up to 20 students) will have 
+the opportunity to give poster and oral presentations of their work 
+and compete for three top-winning places. The SRC committee will 
+evaluate and select First, Second, and Third place winners. 
+The winners will receive medals, cash awards, and SIGAPP recognition 
+certificates during the conference banquet. Invited students receive 
+SRC travel support (US$500) and are eligible to apply to the SIGAPP 
+Student Travel Award Program (STAP) for additional travel support. 
+
+Paper Submission
+================
+Original papers from the above-mentioned or other related areas will be
+considered. This includes three categories of submissions:
+
+1. original and unpublished research,
+2. reports of innovative computing applications in the arts, sciences,
+   engineering, business, government, education and industry;
+3. reports of successful technology transfer to new problem domains.
+
+Each submitted paper will undergo a blind review process and will be
+refereed by at least three referees.  
+To ease blind review, *you shall remove author names* and any information 
+that might discourage authors' identity from your paper before submitting it.
+Accepted papers in all categories will be published in the ACM SAC 2019 proceedings.
+
+The camera-ready version of the accepted paper should be prepared using
+the ACM format (guidelines are given on the SAC 2019 web site).
+Accepted full papers should not exceed 8 pages in a double column
+format (with the option, at additional expense of USD 80 per page, to
+add 2 more pages).
+
+Relevant Dates
+==============
+ - September 10, 2018: Paper submission deadline
+ - November 10, 2018: Author notification
+ - November 25, 2018: Camera-ready copies due
+ - December 10, 2018: Authors registration due
+
+Track chairs and contacts
+=========================
+- Cristian Mateos, ISISTAN-CONICET, UNICEN University - Tandil, Argentina
+- Tim Majchrzak, University of Agder - Kristiansand, Norway
+- Francesco Poggi, University of Bologna - Bologna, Italy
+
+E-mail contact: sacwebtech@cs.unibo.it

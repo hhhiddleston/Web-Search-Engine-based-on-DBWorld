@@ -1,0 +1,37 @@
+Dear Colleagues,
+
+The MDPI Sensors solicits paper submissions and aim to bring together researchers and application developers working on the intersection of IoT with next-generation sensor development, distributed, cloud, internet, mobile, ambient, semantic, real-time, secure and privacy-preserving computing. We also aim to explore the application of novel IoT computing results and describe and assess their impact.
+
+Topics of Interest
+
+Research topics of interest track include (but not necessary limited to these):
+
+•Development of smart IoT devices and robots that provide information from and perform actions in the IoT cyber-physical ecosystem
+•Discovery and integration of IoT devices and their data permitting the use of billions of IoT devices that have been deployed, owned, and controlled by others – one of the major benefits of IoT
+•Real-time IoT data analysis on the cloud, at the edge, and on the move, including localisation, personalisation, and contextualisation of IoT data
+•IoT Security and privacy for IoT devices with limited computing resource and connectivity
+•IoT Actuation via IoT devices, robots and process-based automation
+•Lower-power and longer-range IoT networking for IoT devices
+•Wearable IoT devices and systems
+•Human performance monitoring, human/IoT integration, and IoT information visualisation
+
+Application topics of interest include all aspects of, but not limited to:
+
+•Smart city services, including transportation, utilities, pollution management, and disaster management
+•Smart grids, including hybrid power stations and demand side management
+•Smart farming, including crop irrigation, fertilisation, and crop assessment and recommendation
+•Smart manufacturing including Industry 4.0 and the Industrial Internet
+•Smart retail chains, including supply chain management and probability marketing
+
+The deadline for manuscript submissions is 28 February 2019. 
+
+This special issue will be published on MDPI Sensors (ISSN 1424-8220), section "Internet of Things". More information about this special issue, including the manuscript submission information, can be found at: 
+http://www.mdpi.com/journal/sensors/special_issues/sIoTs
+
+Best Regards, 
+
+Prof. Dimitrios Georgakopoulos
+Prof. Rajiv Ranjan
+Prof. Michael Sheng
+Dr. Prem Prakash Jayaraman
+Guest Editors

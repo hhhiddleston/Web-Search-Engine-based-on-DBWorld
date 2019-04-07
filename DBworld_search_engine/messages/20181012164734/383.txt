@@ -1,0 +1,98 @@
+= PRELIMINARY Call for Papers =
+
+16th European Conference on Logics in Artificial Intelligence (JELIA 2019)
+May 8-10, 2019, Rende, Italy 
+
+
+== Aim and Scope ==
+
+The aim of JELIA 2019 is to bring together active researchers interested in all aspects concerning the use of logics in Artificial Intelligence to discuss current research, results, problems, and applications of both theoretical and practical nature. JELIA strives to foster links and facilitate cross-fertilization of ideas among researchers from various disciplines, among researchers from academia and industry, and between theoreticians and practitioners.
+
+Authors are invited to submit papers presenting original and unpublished research in all areas related to the use of logics in Artificial Intelligence. Conference topics include, but are not limited to: 
+
+Abductive and inductive reasoning
+Answer set programming
+Applications of logic-based AI systems
+Argumentation systems
+Automated reasoning including satisfiability checking and its extensions
+Computational complexity and expressiveness
+Deep learning for rules and ontologies
+Deontic logic and normative systems
+Description logics and other logical approaches to Semantic Web and ontologies
+Explanation finding
+Knowledge representation, reasoning, and compilation
+Logic programming, answer set programming, constraint logic programming
+Logic-based data access and integration
+Logical interpretation of machine learning models
+Logics for uncertain and probabilistic reasoning
+Logics in machine learning
+Logics in multi-agent systems, games, and social choice
+Neural networks and logic rules
+Non-classical logics, such as modal, temporal, epistemic, dynamic, spatial, paraconsistent, and hybrid logics
+Nonmonotonic logics, default logics, conditional logics
+Ontology formalisms and models
+Ontology-based query answering
+Ontology-based reasoning
+Planning and diagnosis based on logic
+Preferences
+Reasoning about actions and causality
+Updates, belief revision and nonmonotonic reasoning
+
+
+== Submissions ==
+
+JELIA 2019 welcomes submissions of long or short papers in the following categories: 
+
+A. Regular papers: Submissions should contain original research, and sufficient detail to assess the merits and relevance of the contribution. Submissions must not have been previously published or be simultaneously submitted for publication elsewhere.
+
+B. System/Application descriptions: Submissions should describe an implemented system/application and its application area(s). A demonstration should accompany a system/application presentation. Papers describing systems or applications that have already been presented in JELIA before will be accepted only if significant and clear enhancements have been implemented and are properly reported.
+
+All submissions should not exceed 13 (resp., 6) pages for long (resp., short) papers, including figures etc., but excluding references, and should be written in English. Submissions must be formatted according to the standard Springer LNCS style, and are not anonymous. The conference proceedings of JELIA 2019 will be published by Springer-Verlag in the Lecture Notes in Artificial Intelligence, a sub-series of Lecture Notes in Computer Science (Important note: Springer will require all the LaTeX source files of all accepted submissions).
+
+Policy on Multiple Submission: JELIA 2019 will not accept any paper which, at the time of submission, is under review or has already been published or accepted for publication in a journal or another conference. Authors are also required not to submit their papers elsewhere during JELIA's review period. However, these restrictions do not apply to previous workshops with a limited audience and without archival proceedings.
+
+JELIA 2019 (abstract and paper) submissions are handled through the EasyChair conference management system:  https://easychair.org/conferences/?conf=jelia2019.
+
+
+== Important Dates ==
+
+(tentative)
+November 26th, 2018, 23:59 UTC-12: Abstract submission 
+December 3rd, 2018, 23:59 UTC-12: Paper submission 
+January 16th, 2019: Notification of acceptance
+February 28th, 2019: Camera-ready due
+March 1st, 2019: Online registration opens
+
+
+== Venue ==
+
+University of Calabria, Rende, Italy
+
+
+== Further Information ==
+
+WWW: https://jelia2019.mat.unical.it/ 
+Email: jelia2019@mat.unical.it
+
+
+== Committees ==
+
+=== General Chair ===
+Nicola Leone â€“ University of Calabria, Italy
+
+=== Program Chairs ===
+Francesco Calimeri â€“ University of Calabria, Italy
+Marco Manna â€“ University of Calabria, Italy
+
+=== Organization Chairs ===
+Carmine Dodaro â€“ University of Genova, Italy
+Valeria Fionda â€“ University of Calabria, Italy
+
+=== Publicity Chair ===
+Simona Perri - University of Calabria, Italy
+
+=== Finance Chair ===
+TBA
+
+=== Program Committee ===
+TBA

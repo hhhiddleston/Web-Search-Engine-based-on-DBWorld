@@ -1,0 +1,29 @@
+The 4th International Conference on Advanced Machine Learning Technologies and Applications – AMLTA2019 
+28-30 March 2019 - Cairo, Egypt
+
+http://egyptscience.net/AMLTA19
+
+We welcome your participation and contribution to the 4th International Conference on Advanced Machine Learning Technologies and Applications AMLTA2019 which will be held in Cairo, Egypt, March 28-30, 2019. The 4th edition of AMLTA is organized by the Scientific Research Group in Egypt (SRGE). AMLTA is organized to provide an international forum that brings together those who are actively involved in the areas of interest and to report on up-to-the-minute innovations and developments, to summarize the state-of-the-art, and to exchange ideas and advances in all aspects of ML, technologies and applications. All accepted papers will be published in the conference proceeding which will be published by Springer in the series of “Advances in Intelligent Systems and Computing” and abstracted/indexed in DBLP, Google Scholar, EI-Compendex, Mathematical Reviews, SCImago, Scopus. 
+Topics: Advanced Machine Learning Technologies in Natural Language Processing,  multimedia processing, Network Security, Bio-Science and Bio-technology, Education Systems, Wireless, Mobile Technologies, Ambient Intelligence, Web Mining, Cloud Computing, Intelligent Environment, Assistive technology, Advanced Machine Learning Technologies for control and automation systems, Robotic systems, Biomedical applications, animal behavior studies, big data processing, sports, Internet of things, Deep Learning Techniques, Deep Learning Techniques for Healthcare Applications, Self-driving cars, and smart agriculture, Advanced Machine Learning Applications in Basic Sciences, and Geospatial Sciences
+
+Submission details and deadlines:
+-       Paper submission deadline  30 September 2018
+-       Acceptance notification  30 October 2018
+-       Submission of camera-ready  15 November 2018
+-       Registration deadline  15 November 2018  
+
+Workshops/tutorials and others: Proposals for Mini-symposia, workshops, tutorials, special session are welcome.  Email Professor Abo via aboitcairo@gmail.com
+Student Best Paper Award: As evaluated by TPC Chairs and Members, Two (2) papers will be given best paper awards for AMLTA-2019 in the general and student categories respectively. The best paper awards are technically sponsored by IEEE CIS Egypt chapter. The committee will expect the presentation of the selected best papers during the conference before finalizing the list. The winners will be declared during the conference.
+
+Authors of selected papers may be invited to submit extended versions of their papers for publication as full journal papers. For example
+1. International Journal of System Dynamics Applications (IJSDA), IGI-Global, USA 
+2. International Journal of Service Science, Management, Engineering, and Technology (IJSSMET), IGI-Global, USA 
+3. International Journal of Intelligent Engineering Informatics, Inderscience, UK
+4. International Journal of Biomedical Engineering and Technology, Inderscience, UK
+5. International Journal of Computational Systems Engineering, Inderscience, UK
+6. International Journal of Signal and Imaging Systems Engineering, Inderscience, UK
+7. The International Journal of Grid and Utility Computing  (IJGUC), 
+8. Internet of Things:  Engineering Cyber-Physical Human Systems (Elsevier)
+
+Web Submission:
+https://ocs.springer.com/misc/home/AMLTA2019 

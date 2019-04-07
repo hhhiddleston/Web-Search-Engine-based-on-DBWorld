@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/w3.css') }}">
+<style>
+  .mySlides {display:none}
+
+  .logo{
+      display: block;
+      height: 200px;
+      width: auto;
+  }
+
+</style>
+
+<title>DBWorld Demo</title>
+</head>
+<body>
+  <br />
+  <br />
+  <center>
+    <img class="logo" src="{{ url_for('static', filename='dbworld-logo.png') }}">
+  </center>
+  <br></br>
+
+  <form method="POST">
+    <center>
+    <select style="font-size:25px" name="field">
+      <option value="0"> keyword </option>
+      <option value="1"> author </option>
+      <option value="2"> conference </option>
+      <option value="0"> location </option>
+      <option value="0"> subject </option>
+      <option value="3"> sent date</option>
+      <option value="4"> deadline </option>
+    </select>
+    <input style="font-size:25px" type="text" name="query" size="25" value="">
+    <input style="font-size:25px" type="submit" value="Search">
+    </center>
+  </form>
+
+<br />
+<br />
+<div class="w3-content w3-section" style="max-width:1000px" >
+  <center>
+  <img class="mySlides w3-opacity-min" src="{{ url_for('static', filename='slider/vldb.png') }}" style="width:100%">
+  <img class="mySlides w3-opacity-min" src="{{ url_for('static', filename='slider/sigmod.png') }}" style="width:100%">
+  <img class="mySlides w3-opacity-min" src="{{ url_for('static', filename='slider/icde.png') }}" style="width:100%">
+</center>
+</div>
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel(){
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for(i=0; i<x.length; i++){
+    x[i].style.display = "none";
+  }
+  myIndex ++;
+  if(myIndex > x.length){
+    myIndex = 1;
+  }
+  x[myIndex-1].style.display = "block";
+  setTimeout(carousel, 2000);
+
+}
+</script>
+
+</body>
+</html>

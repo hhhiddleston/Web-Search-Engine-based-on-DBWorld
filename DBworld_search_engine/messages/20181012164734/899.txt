@@ -1,0 +1,38 @@
+Workshop on Data-Driven Intelligent Transportation (in Conjunction with ICDM'18)
+
+November 17, 2018
+Singapore
+http://dm.ist.psu.edu/dit2018/
+
+-------------------------------------------
+
+Traffic is the pulse of the city. Intelligent transportation enables city to function in a more efficient and effective way. At the same time, city data are growing at an unprecedented speed. A wide range of city data become increasingly available, such as taxi trips, surveillance camera data, human mobility data from mobile phones or location-based services, events from social media, car accident report, bike sharing information, Points-Of-Interest, traffic sensors, public transportation data, and many more.
+
+How to utilize such large-scale city data towards a more intelligent transportation system? This workshop calls for interesting papers with techniques to utilize city data and data mining techniques to improve our transportation system. 
+Topics of interest include but not limited to:
+-Traffic forecasting
+-Route planning
+-Travel time estimation
+-Traffic signal control
+-Shared transportation
+-Autonomous driving vehicles
+-City-wide traffic estimation
+-Semantic mobility data understanding
+-Large-scale city data analysis and modeling
+-Large-scale traffic data visualization and interactive design
+-Sustainable transportation system
+-City data sensing and collecting
+-City data fusion and mining
+-Anomaly detection
+
+In particular, this workshop would like to call for research papers sharing the experiences from the real data and real-world practice. We do not require technical innovations (using existing data mining techniques is totally acceptable). 
+
+-------------------------------------------
+
+Organizers:
+
+Zhenhui (Jessie) Li, Penn State University
+Yan Liu, University of Southern California
+
+
+ 

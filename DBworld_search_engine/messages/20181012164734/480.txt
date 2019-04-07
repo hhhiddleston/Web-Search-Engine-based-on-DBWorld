@@ -1,0 +1,54 @@
+Call for Papers Software Quality Journal, Springer
+
+Special Issue on Software Quality of Advanced Software Applications
+
+Overview
+The Special Issue on Software Quality of Advanced Software  
+Applications aims to collect highâ€quality, original research works  
+related to the quality of software in various advanced applications in  
+business, industry and everyday life. We are particularly interested  
+in latest innovations, trends and experiences regarding the critical  
+role of quality software in software-intensive systems.
+The topics relevant to this special issue include but not restricted  
+to the following areas of applications:
+* Cloud-Based Systems and MicroServices
+* Embedded Systems and the Internet of Things
+* Cyber-Physical Systems
+* Business Processes
+* Product Improvement
+* Big Data Analytics
+Furthermore, theories and methodologies related to software quality  
+engineering include:
+* Domain-Specific Languages and Model-Based Development
+* Software Management
+* Consistency in the View-based Development of Cyber-Physical Systems
+* Evidence-Based and Experiment-Driven Engineering
+* Estimation and Prediction in Software and Systems Engineering
+* Monitoring Large-scale Software systems
+* Software Analytics
+* Technical Debt
+* Systematic literature reviews and Mapping studies
+
+The call for this special issue will be open for all research  
+community. A number of selected papers that will be awarded as "Best  
+Papers" in related tracks and special sessions of the 44th Euromicro  
+Conference on Software Engineering and Advanced Applications (SEAA  
+2018, Prague, Czech Republic, Aug. 29-31, 2018) will be invited to  
+submit extended versions.
+
+Guest Editor(s)
+Tomas Bures, Charles University in Prague, Czech Republic  
+(bures@d3s.mff.cuni.cz)
+Lefteris Angelis, Aristotle University of Thessaloniki, Greece  
+(lef@csd.auth.gr)
+
+
+Requirements for Submission:
+The conference papers that will be invited should be extended by at  
+least 30% new material under the usual conditions. The call for papers  
+will specifically mention this requirement along with the typical  
+journal requirements. All papers, either invited or submitted  
+independently by other researchers, will undergo the same review  
+process according to the regulations of SQJ.
+
+Deadline for submissions: November 1, 2018

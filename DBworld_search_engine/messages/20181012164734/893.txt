@@ -1,0 +1,79 @@
+***********************************************************************
+Call for Submissions
+Third ACM SIGSPATIAL Student Research Completion 
+http://sigspatial2018.sigspatial.org/competition/ 
+***********************************************************************
+Following the successful events in 2016 and 2017, SIGPATIAL 2018 will host 
+the third ACM SIGSPATIAL Student Research Competition (SRC, 
+http://src.acm.org/) this year too. SRC enables undergraduate and graduate 
+students to share their research results and exchange ideas with other 
+students, judges, and conference attendees; understand the practical 
+applications of their research; perfect their communication skills; receive 
+prizes and gain recognition from ACM and the greater computing community.
+
+Guidelines
+
+The Student Research Competition is open to graduate (only one author) and 
+undergraduate (up to two authors per contribution) student members whose 
+submissions are accepted by the SRC committee. SRC submissions should 
+describe recent research conducted primarily by students or a recent 
+development that involves a substantial amount of work achieved primarily by 
+students. To be considered, complete a submission of an extended abstract of 
+a topic of interest to the ACM SIGSPATIAL conference (please check the main 
+conference CFP for relevant topics: http://sigspatial2018.sigspatial.org/cfp/) 
+and indicate the level of  the participation (undergraduate or graduate). 
+Valid ACM student membership and student status enrolment as of the 
+submission deadline are required for the lead student. 
+
+Selection Process
+
+Submission will be judged based on novelty, impact, approach, results, and 
+contributions to the field of spatial systems and algorithms. Selected 
+competitors must attend the SRC session during the conference and should 
+prepare a poster for demonstrating their work during the conference. If 
+selected for further competition at the next level, they should be prepared 
+to give a short talk of 10 minutes about their research projects in front of 
+the judging committee and conference attendees. Winners of the SIGSPTIAL 2018 
+SRC will be announced at the conference. 
+
+Awards
+
+Selected competitors by the SRC committee will receive up to $500 USD for 
+their conference travel, depending on need. Winners from each category will 
+advance to the SRC Grand Finals, where winners from various ACM SIGs are 
+evaluated to nominate the ACM-wide SRC winners. The winners of the Grand 
+Finals will be recognized at the Annual ACM Awards Banquet, the same banquet 
+that also recognizes the Turing Award winners.
+
+Sponsors
+
+The SRC competition is fully sponsored by a generous donation from Microsoft 
+Research.
+
+Submission Instructions
+
+Each submission should include the author(s)' name(s), affiliations, email 
+address(es), research advisors' names, ACM student member number, SRC 
+category (undergraduate or graduate), and an extended abstract of no more 
+than two pages in the conference template. The SRC submission should not have 
+been published before or be concurrently under submission to another 
+venue/SIGSPATIAL track. Submissions should be made through the EasyChair 
+system at:
+https://easychair.org/conferences/?conf=acmsigspatial18src
+
+Important Dates
+
+Submission Deadline: August 20, 2018 
+Notification of Acceptance: September 17, 2018
+Event: November 6-9, 2018
+
+Organization Chairs
+
+Kyriakos Mouratidis, Singapore Management University
+Fusheng Wang, Stony Brook University
+
+Contact
+
+For more information about the SRC competition, please contact
+Kyriakos Mouratidis at kyriakos AT smu . edu . sg 
+Fusheng Wang at fusheng . wang AT stonybrook . edu

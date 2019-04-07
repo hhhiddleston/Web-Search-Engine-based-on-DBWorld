@@ -1,0 +1,46 @@
+Please accept our apology if you receive multiple copies of this CfP.
+****************************************************************
+
+ICAI WORKSHOP ON DATA ENGINEERING AND ANALYTICS 
+1st to 3rd November 2018
+Bogota, Colombia
+
+http://icai.itiud.org
+https://sites.google.com/utadeo.edu.co/icai-workshop-data/
+
+****************************************************************
+
+
+CALL FOR PAPERS
+
+The workshop aims to bring together researchers and practitioners interested in topics related to Data Science. Submitted papers should be related with one or more of two areas. The first one, data Engineering, which is defined as the process of designing, building, managing, and evaluating advanced data systems and applications. The second one, data analytics, which is defined as the process of deriving higher-level information from (usually large) sets of raw data.
+
+Examples of articles could include discussing new methods or algorithms, or applications including Machine Learning, Databases, optimization or any type of algorithms which consider managing or obtaining value from data.
+
+The workshop will be hosted during the 1st International Conference on Applied Informatics (ICAI), which aims to bring together researchers and practitioners working in different domains in the field of informatics in order to exchange their expertise and to discuss the perspectives of development and collaboration.
+
+
+IMPORTANT DATES 
+  - Paper submission: August 10th 2018
+  - Paper acceptance notifications: September 7th 2018
+  - Camera-ready papers due: September 21st 2018
+
+
+SUBMISSION GUIDELINES
+
+Please follow the paper guidelines using at most 6 pages. Submissions must adhere to the IEEE Conference Proceedings Format Guidelines (https://www.ieee.org/conferences/publishing/templates.html)
+
+
+REVIEW PROCESS 
+
+All submissions will be reviewed by 2 experts. Authors must remove personal details, the acknowledgments section and any other information related to the author's identity.
+
+
+SUBMISSION PROCESS 
+
+To submit or upload a paper please go tohttps://easychair.org/conferences/?conf=wicaid2018
+
+
+PROCEEDINGS 
+
+Workshop papers will be published by IEEE and will be accessible through IEEE Xplore

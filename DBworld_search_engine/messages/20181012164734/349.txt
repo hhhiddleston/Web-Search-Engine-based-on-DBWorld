@@ -1,0 +1,112 @@
+We are looking for course developers for 4 online graduate courses: Algorithm Design, Data Analysis, Machine Learning, Android Programming (see the detail below). You will be paid a stipend to develop the course and will have the opportunity to teach the course also.
+ If you are interested, please contact me at: choang@wlu.ca. 
+*********************************************
+Chinh T. Hoang, PhD, Professor and Chair
+Department of Physics and Computer Science
+Wilfrid Laurier University
+Waterloo, Ontario, Canada N2L 3C5 
+phone: 519-884-0710 ext 2613
+_______________________________________________________
+
+Posting ID :
+TDB
+Position Title :
+Subject Matter Expert 
+Faculty/Academic Area :
+Faculty of Science
+Department :
+Physics and Computer Science
+Campus :
+Waterloo
+Position Summary :
+The Faculty of Science at Wilfrid Laurier University invites applications to develop an online course beginning on or before October 1, 2018 and concluding by no later than March 31, 2019. An opportunity to teach the course once it is developed will be available. The online course CP640-Machine Learning is intended for the Master of Computer Science program. This course introduces students to machine learning, data mining, and statistical pattern recognition. Topics include supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks) and unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). Students learn a variety of learning algorithms and determine which are most likely to be successful.
+The Subject Matter Expert (SME) will work collaboratively with Faculty advisors and the Online Learning Department to develop the online course curriculum. The course will be developed and delivered online, therefore the SME will serve as part of an online course design team comprising instructional designers, educational technologists, accessibility experts, librarians and other support staff as required. Learning outcomes, the grading scheme and other aspects related to learning activities within the course have already been determined. The SME will prepare a course syllabus, academic student support materials, activities for the web, multimedia materials, and learning and study strategies. The SME will be required to submit all work to the academic advisors for review and final approval.   
+Applicants should have an MSc, or preferred PhD, in the field of computer science or data science, and extensive experience in the subject matter. Success in teaching online courses, preferably at the graduate level, experience in developing and/or teaching in an online environment, and a receptivity to pedagogical approaches that specifically embrace online learners are preferred. Knowledge of learning management systems (particularly Brightspace from Desire2Learn) would be an asset. 
+
+Applicants should send a curriculum vitae and contact information for at least three referees to Dr. Chinh T. Hoang, chair, department of Physics and Computer Science, Wilfrid Laurier University (email: choang@wlu.ca). Electronic submission of applications is preferred. Applications will be accepted until September 15, 2018.   
+
+
+Please Note:
+Wilfrid Laurier University is committed to employment equity and values diversity. We welcome applications from qualified individuals of all genders and sexual orientations, persons with disabilities, Aboriginal persons, and persons of a visible minority.  To obtain a copy of this job posting in an accessible format, please contact Jeanette Haas at 519-884-0710, ext. 2427 or via email at jhaas@wlu.ca.
+ 
+Although Canadians and permanent residents will be given priority, all qualified candidates, including international candidates, are encouraged to apply. In accordance with the requirements of Employment and Social Development Canada (ESDC) and Citizenship and Immigration Canada the successful applicant will be required to prove they are legally able to work in Canada.
+ 
+Applicants are encouraged to address any career interruptions or special circumstances that may have affected their record of research and teaching, in accordance with SSHRC and NSERC definitions and guidelines. Members of the designated groups must self-identify to be considered for employment equity. Candidates may self-identify, in confidence, to the Acting Dean, Dr. Kenneth Maly (kmaly@wlu.ca).
+Further information on the equity policy can be found at https://www.wlu.ca/page.php?grp_id=2465&p=10545
+
+
+Posting ID :
+TDB
+Position Title :
+Subject Matter Expert 
+Faculty/Academic Area :
+Faculty of Science
+Department :
+Physics and Computer Science
+Campus :
+Waterloo
+Position Summary :
+The Faculty of Science at Wilfrid Laurier University invites applications to develop an online course beginning on or before October 1, 2018 and concluding by no later than March 31, 2019. An opportunity to teach the course once it is developed will be available. The online course CP600-Practical Algorithm Design is intended for the Master of Computer Science program. This course introduces students to advanced techniques for designing and analyzing algorithms, and explores their use in a variety of application areas. Topics include: sorting and search algorithms, graph traversal algorithms, combinatorial search, heuristics methods, and dynamic programming, intractable problems. Students learn the skill of understanding the computational complexities of computing problems and designing solutions for them.
+The Subject Matter Expert (SME) will work collaboratively with Faculty advisors and the Online Learning Department to develop the online course curriculum. The course will be developed and delivered online, therefore the SME will serve as part of an online course design team comprising instructional designers, educational technologists, accessibility experts, librarians and other support staff as required. Learning outcomes, the grading scheme and other aspects related to learning activities within the course have already been determined. The SME will prepare a course syllabus, academic student support materials, activities for the web, multimedia materials, and learning and study strategies. The SME will be required to submit all work to the academic advisors for review and final approval.   
+Applicants should have an MSc, or preferred PhD, in the field of computer science or data science, and extensive experience in the subject matter. Success in teaching online courses, preferably at the graduate level, experience in developing and/or teaching in an online environment, and a receptivity to pedagogical approaches that specifically embrace online learners are preferred. Knowledge of learning management systems (particularly Brightspace from Desire2Learn) would be an asset. 
+
+Applicants should send a curriculum vitae and contact information for at least three referees to Dr. Chinh T. Hoang, chair, department of Physics and Computer Science, Wilfrid Laurier University (email: choang@wlu.ca). Electronic submission of applications is preferred. Applications will be accepted until September 15, 2018.   
+
+
+Please Note:
+Wilfrid Laurier University is committed to employment equity and values diversity. We welcome applications from qualified individuals of all genders and sexual orientations, persons with disabilities, Aboriginal persons, and persons of a visible minority.  To obtain a copy of this job posting in an accessible format, please contact Jeanette Haas at 519-884-0710, ext. 2427 or via email at jhaas@wlu.ca.
+ 
+Although Canadians and permanent residents will be given priority, all qualified candidates, including international candidates, are encouraged to apply. In accordance with the requirements of Employment and Social Development Canada (ESDC) and Citizenship and Immigration Canada the successful applicant will be required to prove they are legally able to work in Canada.
+ 
+Applicants are encouraged to address any career interruptions or special circumstances that may have affected their record of research and teaching, in accordance with SSHRC and NSERC definitions and guidelines. Members of the designated groups must self-identify to be considered for employment equity. Candidates may self-identify, in confidence, to the Acting Dean, Dr. Kenneth Maly (kmaly@wlu.ca).
+Further information on the equity policy can be found at https://www.wlu.ca/page.php?grp_id=2465&p=10545
+Posting ID :
+TDB
+Position Title :
+Subject Matter Expert 
+Faculty/Academic Area :
+Faculty of Science
+Department :
+Physics and Computer Science
+Campus :
+Waterloo
+Position Summary :
+The Faculty of Science at Wilfrid Laurier University invites applications to develop an online course beginning on or before October 1, 2018 and concluding by no later than March 31, 2019. An opportunity to teach the course once it is developed will be available. The online course CP610-Data Analysis is intended for the Master of Computer Science program. This course provides students with the foundations of data analysis – a burgeoning field that allows organizations to discover patterns in data to help explain current behaviors or predict future outcomes. Students learn the underlying theories, techniques and practices involved in modern data analysis in order to effectively collect, process, interpret and use data in decision making. More specifically, the course utilizes case studies from fields such as finance and statistics to expose students to topics including data collection, storage, processing, representation, and reporting, and also further develop their decision-making skills using decision trees and artificial intelligence.
+The Subject Matter Expert (SME) will work collaboratively with Faculty advisors and the Online Learning Department to develop the online course curriculum. The course will be developed and delivered online, therefore the SME will serve as part of an online course design team comprising instructional designers, educational technologists, accessibility experts, librarians and other support staff as required. Learning outcomes, the grading scheme and other aspects related to learning activities within the course have already been determined. The SME will prepare a course syllabus, academic student support materials, activities for the web, multimedia materials, and learning and study strategies. The SME will be required to submit all work to the academic advisors for review and final approval.   
+Applicants should have an MSc, or preferred PhD, in the field of computer science or data science, and extensive experience in the subject matter. Success in teaching online courses, preferably at the graduate level, experience in developing and/or teaching in an online environment, and a receptivity to pedagogical approaches that specifically embrace online learners are preferred. Knowledge of learning management systems (particularly Brightspace from Desire2Learn) would be an asset. 
+
+Applicants should send a curriculum vitae and contact information for at least three referees to Dr. Chinh T. Hoang, chair, department of Physics and Computer Science, Wilfrid Laurier University (email: choang@wlu.ca). Electronic submission of applications is preferred. Applications will be accepted until September 15, 2018.   
+
+
+Please Note:
+Wilfrid Laurier University is committed to employment equity and values diversity. We welcome applications from qualified individuals of all genders and sexual orientations, persons with disabilities, Aboriginal persons, and persons of a visible minority.  To obtain a copy of this job posting in an accessible format, please contact Jeanette Haas at 519-884-0710, ext. 2427 or via email at jhaas@wlu.ca.
+ 
+Although Canadians and permanent residents will be given priority, all qualified candidates, including international candidates, are encouraged to apply. In accordance with the requirements of Employment and Social Development Canada (ESDC) and Citizenship and Immigration Canada the successful applicant will be required to prove they are legally able to work in Canada.
+ 
+Applicants are encouraged to address any career interruptions or special circumstances that may have affected their record of research and teaching, in accordance with SSHRC and NSERC definitions and guidelines. Members of the designated groups must self-identify to be considered for employment equity. Candidates may self-identify, in confidence, to the Acting Dean, Dr. Kenneth Maly (kmaly@wlu.ca).
+Further information on the equity policy can be found at https://www.wlu.ca/page.php?grp_id=2465&p=10545
+Posting ID :
+TDB
+Position Title :
+Subject Matter Expert 
+Faculty/Academic Area :
+Faculty of Science
+Department :
+Physics and Computer Science
+Campus :
+Waterloo
+Position Summary :
+The Faculty of Science at Wilfrid Laurier University invites applications to develop an online course beginning on or before October 1, 2018 and concluding by no later than March 31, 2019. An opportunity to teach the course once it is developed will be available. The online course CP670-Android Programming is intended for the Master of Computer Science program. This course provides students with the skills for creating and deploying applications for mobile devices using Android, the most widely used operating system. With an emphasis on the Model-View-Controller paradigm this course provides students with the foundational knowledge that underlies many popular programming languages. The course cumulates with the development of an original Android application. Knowledge of Java is required.
+The Subject Matter Expert (SME) will work collaboratively with Faculty advisors and the Online Learning Department to develop the online course curriculum. The course will be developed and delivered online, therefore the SME will serve as part of an online course design team comprising instructional designers, educational technologists, accessibility experts, librarians and other support staff as required. Learning outcomes, the grading scheme and other aspects related to learning activities within the course have already been determined. The SME will prepare a course syllabus, academic student support materials, activities for the web, multimedia materials, and learning and study strategies. The SME will be required to submit all work to the academic advisors for review and final approval.   
+Applicants should have an MSc, or preferred PhD, in the field of computer science or data science, and extensive experience in the subject matter. Success in teaching online courses, preferably at the graduate level, experience in developing and/or teaching in an online environment, and a receptivity to pedagogical approaches that specifically embrace online learners are preferred. Knowledge of learning management systems (particularly Brightspace from Desire2Learn) would be an asset. 
+
+Applicants should send a curriculum vitae and contact information for at least three referees to Dr. Chinh T. Hoang, chair, department of Physics and Computer Science, Wilfrid Laurier University (email: choang@wlu.ca). Electronic submission of applications is preferred. Applications will be accepted until September 15, 2018.   
+
+
+Please Note:
+Wilfrid Laurier University is committed to employment equity and values diversity. We welcome applications from qualified individuals of all genders and sexual orientations, persons with disabilities, Aboriginal persons, and persons of a visible minority.  To obtain a copy of this job posting in an accessible format, please contact Jeanette Haas at 519-884-0710, ext. 2427 or via email at jhaas@wlu.ca.
+ 
+Although Canadians and permanent residents will be given priority, all qualified candidates, including international candidates, are encouraged to apply. In accordance with the requirements of Employment and Social Development Canada (ESDC) and Citizenship and Immigration Canada the successful applicant will be required to prove they are legally able to work in Canada.
+ 
+Applicants are encouraged to address any career interruptions or special circumstances that may have affected their record of research and teaching, in accordance with SSHRC and NSERC definitions and guidelines. Members of the designated groups must self-identify to be considered for employment equity. Candidates may self-identify, in confidence, to the Acting Dean, Dr. Kenneth Maly (kmaly@wlu.ca).
+Further information on the equity policy can be found at https://www.wlu.ca/page.php?grp_id=2465&p=10545

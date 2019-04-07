@@ -1,0 +1,13 @@
+New book announcement:
+
+Lifelong Machine Learning, Second Edition, 2018
+
+By Zhiyuan Chen and Bing Liu,
+Synthesis Lectures on Aritificial Intelligence and Machine Learning, 
+Morgan & Claypool’s series 
+
+Read more detailed information: 
+https://www.cs.uic.edu/~liub/lifelong-machine-learning.html
+
+Thanks
+Bing Liu

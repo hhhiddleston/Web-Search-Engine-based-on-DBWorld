@@ -1,0 +1,136 @@
+Issue 11 of Volume 11 of the Proceedings of the VLDB Endowment (PVLDB) is now available electronically at the VLDB web site:
+
+   http://www.vldb.org/pvldb/vol11.html
+
+This issue consists of the following papers that have been accepted for the research track of VLDB 2018 in Rio de Janeiro, Brazil in July 2018:
+
+- In-RDBMS Hardware Acceleration of Advanced Analytics
+Divya Mahajan, Joon Kyung Kim, Jacob Sacks, Adel Ardalan, Arun Kumar, Hadi Esmaeilzadeh
+http://www.vldb.org/pvldb/vol11/p1317-mahajan.pdf
+
+- Join Query Optimization Techniques for Complex Event Processing Applications
+Ilya Kolchinsky, Assaf Schuster
+http://www.vldb.org/pvldb/vol11/p1332-kolchinsky.pdf
+
+- Efficient Adaptive Detection of Complex Event Patterns
+Ilya Kolchinsky, Assaf Schuster
+http://www.vldb.org/pvldb/vol11/p1346-kolchinsky.pdf
+
+- Robustness Metrics for Relational Query Execution Plans
+Florian Wolf, Michael Brendle, Norman May, Paul Willems, Kai-Uwe Sattler, Michael Grossniklaus
+http://www.vldb.org/pvldb/vol11/p1360-wolf.pdf
+
+- Question Answering Over Knowledge Graphs: Question Understanding Via Template Decomposition
+Weiguo Zheng, Jeffrey Xu Yu, Lei Zou, Hong Cheng
+http://www.vldb.org/pvldb/vol11/p1373-zheng.pdf
+
+- Explaining Repaired Data with CFDs
+Joeri Rammelaere, Floris Geerts
+http://www.vldb.org/pvldb/vol11/p1387-rammelaere.pdf
+
+- AIDA - Abstraction for Advanced In-Database Analytics
+Joseph D'silva, Florestan De Moor, Bettina Kemme
+http://www.vldb.org/pvldb/vol11/p1400-dsilva.pdf
+
+- RHEEM: Enabling Cross-Platform Data Processing - May The Big Data Be With You! -
+Divy Agrawal, Sanjay Chawla, Bertty Contreras-Rojas, Ahmed Elmagarmid, Yasser Idris, Zoi Kaoudi, Sebastian Kruse, Ji Lucas, Essam Mansour, Mourad Ouzzani, Paolo Papotti, Jorge-Arnulfo Quiane-Ruiz, Nan Tang, Saravanan Thirumuruganathan, Anis Troudi
+http://www.vldb.org/pvldb/vol11/p1414-agrawal.pdf
+
+- An Experimental Evaluation of Task Assignment in Spatial Crowdsourcing
+Peng Cheng, Xun Jian, Lei Chen
+http://www.vldb.org/pvldb/vol11/p1428-cheng.pdf
+
+- 2SCENT: An Efficient Algorithm to Enumerate All Simple Temporal Cycles
+Rohit Kumar, Toon Calders
+http://www.vldb.org/pvldb/vol11/p1441-kumar.pdf
+
+- Distributed Representations of Tuples for Entity Resolution
+Muhammad Ebraheem, Saravanan Thirumuruganathan, Shafiq Joty, Mourad Ouzzani, Nan Tang
+http://www.vldb.org/pvldb/vol11/p1454-ebraheem.pdf
+
+- Efficient Construction of Approximate Ad-Hoc ML models Through Materialization and Reuse
+Sona Hasani, Saravanan Thirumuruganathan, Abolfazl Asudeh, Nick Koudas, Gautam Das
+http://www.vldb.org/pvldb/vol11/p1468-hasani.pdf
+
+- Axiomatic Foundations and Algorithms for Deciding Semantic Equivalences of SQL Queries
+Shumo Chu, Brendan Murphy, Jared Roesch, Alvin Cheung, Dan Suciu
+http://www.vldb.org/pvldb/vol11/p1482-chu.pdf
+
+- HomeRun: Scalable Sparse-Spectrum Reconstruction of Aggregated Historical Data
+Faisal Almutairi, Fan Yang, Hyun Ah Song, Christos Faloutsos, Nicholas Sidiropoulos, Vladimir Zadorozhny
+http://www.vldb.org/pvldb/vol11/p1496-almutairi.pdf
+
+- Differentially Private Hierarchical Count-of-Counts Histograms
+Yu-Hsuan Kuo, Cho-Chun Chiu, Daniel Kifer, Michael Hay, Ashwin Machanavajjhala
+http://www.vldb.org/pvldb/vol11/p1509-kuo.pdf
+
+- Efficient Document Analytics on Compressed Data: Method, Challenges, Algorithms, Insights
+Feng Zhang, Jidong Zhai, Xipeng Shen, Onur Mutlu, Wenguang Chen
+http://www.vldb.org/pvldb/vol11/p1522-zhang.pdf
+
+- You Say 'What', I Hear 'Where' and 'Why' ? (Mis-)Interpreting SQL to Derive Fine-Grained Provenance
+Tobias Muller, Benjamin Dietrich, Torsten Grust
+http://www.vldb.org/pvldb/vol11/p1536-muller.pdf
+
+- An Eight-Dimensional Systematic Evaluation of Optimized Search Algorithms on Modern Processors
+Lars-Christian Schulz, David Broneske, Gunter Saake
+http://www.vldb.org/pvldb/vol11/p1550-schulz.pdf
+
+- Vocalizing Large Time Series Efficiently
+Immanuel Trummer, Mark Bryan, Ramya Narasimha
+http://www.vldb.org/pvldb/vol11/p1563-trummer.pdf
+
+- Filter Before You Parse: Faster Analytics on Raw Data with Sparser
+Shoumik Palkar, Firas Abuzaid, Peter Bailis, Matei Zaharia
+http://www.vldb.org/pvldb/vol11/p1576-palkar.pdf
+
+- Streaming Graph Partitioning: An Experimental Study
+Zainab Abbas, Vasiliki Kalavri, Paris Carbone, Vladimir Vlassov
+http://www.vldb.org/pvldb/vol11/p1590-abbas.pdf
+
+- Efficient Distributed Memory Management with RDMA and Caching
+Qingchao Cai, Wentian Guo, Hao Zhang, Divyakant Agrawal, Gang Chen, Beng Chin Ooi, Kian-Lee Tan, Yong Meng Teo, Sheng Wang
+http://www.vldb.org/pvldb/vol11/p1604-cai.pdf
+
+- Causal Consistency and Latency Optimality: Friend or Foe?
+Diego Didona, Rachid Guerraoui, Jingjing Wang, Willy Zwaenepoel
+http://www.vldb.org/pvldb/vol11/p1618-didona.pdf
+
+- A Unified Approach to Route Planning for Shared Mobility
+Yongxin Tong, Yuxiang Zeng, Zimu Zhou, Lei Chen, Jieping Ye, Ke Xu
+http://www.vldb.org/pvldb/vol11/p1633-tong.pdf
+
+- Moment-Based Quantile Sketches for Efficient High Cardinality Aggregation Queries
+Edward Gan, Jialin Ding, Kai Sheng Tai, Vatsal Sharan, Peter Bailis
+http://www.vldb.org/pvldb/vol11/p1647-gan.pdf
+
+- How Good Are Modern Spatial Analytics Systems?
+Varun Pandey, Andreas Kipf, Thomas Neumann, Alfons Kemper
+http://www.vldb.org/pvldb/vol11/p1661-pandey.pdf
+
+- Locality-Sensitive Hashing for Earthquake Detection: A Case Study Scaling Data-Driven Science
+Kexin Rong, Clara E. Yoon, Karianne J. Bergen, Hashem Elezabi, Peter Bailis, Philip Levis, Gregory C. Beroza
+http://www.vldb.org/pvldb/vol11/p1674-rong.pdf
+
+- ModelarDB: Modular Model-Based Time Series Management with Spark and Cassandra
+Soren Jensen, Torben Pedersen, Christian Thomsen
+http://www.vldb.org/pvldb/vol11/p1688-jensen.pdf
+
+- Exploiting Coroutines to Attack the "Killer Nanoseconds"
+Christopher Jonathan, Umar Farooq Minhas, James Hunter, Justin Levandoski, Gor Nishanov
+http://www.vldb.org/pvldb/vol11/p1702-jonathan.pdf
+
+- The Tao of Inference in Privacy-Protected Databases
+Vincent Bindschaedler, Paul Grubbs, David Cash, Thomas Ristenpart, Vitaly Shmatikov
+http://www.vldb.org/pvldb/vol11/p1715-bindschaedler.pdf
+
+- Efficient Searchable Encryption Through Compression
+Ioannis Demertzis, Charalampos Papamanthou, Rajdeep Talapatra
+http://www.vldb.org/pvldb/vol11/p1729-demertzis.pdf
+
+
+Regards,
+
+Sourav Bhowmick, Nanyang Technological University, Singapore 
+Ricardo Torres, University of Campinas, Brazil
+VLDB 2018 Proceedings Chairs

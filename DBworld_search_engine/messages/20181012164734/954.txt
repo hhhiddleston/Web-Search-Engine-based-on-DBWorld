@@ -1,0 +1,51 @@
+  17th Workshop on Adaptive and Reflexive Middleware (ARM 2018)
+    Rennes, France, December 10-14, 2018.
+      in conjunction with
+    The ACM/IFIP/USENIX Middleware conference
+      ARM 2018 CFP
+http://cedric.cnam.fr/arm
+
+The 17th Workshop on Adaptive and Reflective Middleware (ARM 2017) will follow on the success of the previous editions exploring how reflective approaches and associated techniques can accommodate changes in the middleware environment. Specifically, a middleware should adapt itself based upon reasoning about its run-time behaviour and current surrounding conditions (e.g. network dynamics, available resources, changes in the context). Adaptive and reflective middleware must deal with the new wave of applications (e.g. smart cities and communities, IoT, agricultural, first respond and industrial applications) that are supported by a steadily growing set of either rich devices and resource-constrained with a portion being mobile. These new applications benefit from the cloud to gain an on-demand access to a shared pool of configurable computing resources (e.g. networks, servers, storage and services), often based on cheap commodity hardware.
+ 
+Applying reflective techniques to open-up the implementation of middleware and related software platforms for interoperability, (a)synchronous, one-to-many deployment, and adaptability have particularly proved successful and influential in the past. However, there are still open challenges, such as scalability and decentralized management as well as resilient real-time operations, that require further investigation to address new use cases in large deployment contexts, especially in diverse domains as urban and rural services and environmental challenges that the society face (e.g. transportation, smart water systems and grids). ARM 2017 will aim at providing researchers with a leading edge view on the state-of-the-art in reflective and adaptive middleware, and on the challenging problems that remain unsolved. This edition follows the path initiated in recent editions, by bringing together experts involved in designing and reusing adaptive systems at different system layers, including architectural, OS, virtualization technology, and network layers, as well as in using techniques that are complementary to reflection.
+ 
+
+Researchers are encouraged to submit original research contributions in all major areas, which include, but not limited to:
+ 
+- Design and performance of adaptive and/or reflective middleware platforms
+
+- Experiences with adaptive and reflective technologies in specific domains (e.g., sensor networks, ubiquitous/pervasive computing, mobile computing, smart and connected communities
+
+- Internet of Things, cloud/grid computing, P2P, Systems-of-Systems)
+
+- Cross-layer interactions and adaptation mechanisms, including network, OS, VM & device level techniques
+
+- Application of adaptive and reflective middleware techniques to achieve: reconfigurability and/or adaptability and/or separation of concerns; reuse; and reification of adaptation techniques and strategies
+      
+- Incorporating non-functional properties into middleware, including real-time, fault-tolerance, immutability, persistence, security, trust, privacy and so on
+    
+- Evaluation methodologies for adaptive and reflective middleware; guidelines, testbeds and benchmarks
+        
+- Tool support for adaptive and reflective middleware
+
+- Design and programming abstractions to manage the complexity of adaptive and reflective mechanisms, , using for example model-driven-engineering (MDE) and models@run.time
+        
+- Software engineering methodologies for the design and development of adaptive middleware 
+       
+- Methods for reasoning, storing and dynamically updating knowledge about the services provided by adaptive/reflective middleware
+         
+- The role of techniques such as learning in the design of long-lived adaptive middleware
+         
+- Metrics on properties such as cost-of-adaptation, quality-of-adaptation, consistency-of-adaptation, yields
+ 
+To highlight the importance of applying technology in areas of grand challenge, the theme for the 2018 edition of the workshop is "Smart and Connected Communities for Environmental Challenges". Therefore, we welcome and encourage submissions about techniques and applications in research areas related to this relevant theme for the current society. We are planning to have dedicated sessions on the application of such techniques and their applications on smart cities, smart transportation, connected rural areas, smart water systems and grids).
+Submissions Guidelines and Proceedings
+
+Submissions must not be published or submitted to a journal and/or conference/workshop with proceedings. Each submission should be at most 6 pages in the ACM standard format. Authors of accepted papers must present their papers at the workshop. At least one author of each accepted paper is required to register and present the paper. Submissions are to be made to the submission web site: https://easychair.org/conferences/?conf=arm2018.
+Important Dates
+
+Abstract submission: August 10, 2018
+Paper submission: August 20, 2018
+Notification of Acceptance: September 10, 2018
+Camera Ready Submission: October 12, 2018
+ 

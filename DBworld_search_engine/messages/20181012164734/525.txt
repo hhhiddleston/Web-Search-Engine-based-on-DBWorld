@@ -1,0 +1,15 @@
+Researcher in Accountable Systems (Security and Privacy)
+Dept. Computer Science & Technology (Computer Laboratory)
+University of Cambridge
+
+* Application deadline - Aug 23, 23:59 UK time *
+
+We have a vacancy for a researcher to work on issues of transparency and accountability in networked intelligent environments. 
+
+This role is to consider the technical aspects for improving accountability, in particular, means for systems and data audit, management and control. We seek candidates with some technical background in one or more related areas, such as security, privacy, provenance & audit, policy-enforcement, trusted computing platforms, distributed systems, IoT/pervasive computing, and so forth. Experience with machine learning is a plus.
+
+Candidates should have a strong publication record, demonstrate solid programming/engineering skills and be self-motivated. An interest in the legal, policy, ethical and social/user impacts of emerging technology is desirable.
+
+The position is with the Compliant and Accountable Systems group that explores the technical-legal aspects of emerging technologies. The group's focus is on better aligning technology with legal concerns, through technical mechanisms for improving transparency, trust and control, and vice-versa.
+
+For more information and to apply please see: http://www.jobs.cam.ac.uk/job/18103/

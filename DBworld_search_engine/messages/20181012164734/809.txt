@@ -1,0 +1,101 @@
+Third International Conference on Real-Time Intelligence Systems (RTIS 2018)
+Taipei, Taiwan
+November 13-15, 2018
+http://www.socio.org.uk/rtis
+Springer Series in Lecture Notes in Real-Time Intelligent Systems
+(http://www.springer.com/series/11156)
+
+Real-Time Computing covers a broad spectrum of the intensively developing area of low-latency priority-driven system responsiveness under certain time constrains to essential and decisive human-computer interactions with constantly incoming data stream. Research on real-time intelligent systems is of a multi-disciplinary nature, exploiting concepts from the areas as diverse as signal processing technologies, computational intelligence, location systems, data processing, digital document processing and embedded system design. To accomplish its real-time performance, systematic analysis is carried out when the systems are working.
+
+Therefore, over the last few years real-time intelligent computing has radically transformed human life style. In the today’s competitive and highly dynamic environment, analyzing data in real time is a must to understand in detail how the systems are processing the data and to reason the outputs and anticipate the trends in intelligent computing, has become critical.
+To leverage the full potential of the opportunity build complex real time systems, intense research is required and this conference will serve as one such platform to manifest the ongoing research in the real time intelligence system.
+The conference welcomes theoretically grounded, methodologically sound research papers from academia and industry that address variety of aspects and innovations related to real-time computing systems.
+
+The scope of the conference includes, but is not limited to the following areas:
+
+Streaming data, streaming engines
+Big Data systems and applications for high-velocity data
+Analysis in advanced domains such as energy, sensors, etc
+Artificial Intelligence
+Broadband Intelligence
+Cloud Computing and Intelligence
+Collaborative Intelligence
+Crowdsourcing and crowd intelligence
+Data capture in real-time
+Intelligent Database Systems
+Data mining
+Intelligent Data Analysis
+OLAP for real-time decision support
+Data quality and cleansing
+Intelligent Fuzzy Systems
+Event-driven analytics
+Visualizing real-time data and information
+Intelligent Soft Computing
+Privacy and security in Intelligence
+Architectures for Intelligence
+Internet of Things
+Intelligent Robotic Systems
+Smart Services and Platforms
+Intelligent Transportation Systems
+Mobile Smart Systems
+Trace-based intelligent real-time services (eye-tracking, image tracking)
+Real-time intelligent alert systems
+Machine translation in real time
+Multilingual information access
+Multiagent Intelligent Systems
+Intelligent Information Systems
+Adaptive vision algorithms
+Real-time Intelligent Network solutions
+Real-time distributed coding
+Real-time modelling user’s information needs
+Real-time noise removal systems
+Real-time intelligent communication
+Real-time remote access systems
+Decision support systems in real time
+Real-time multiprocessor systems
+
+RTIS 2018 has workshops, tutorials, Doctoral Consortium, Mentorship Programme and Proofread and Translation Program.
+
+Modified versions of the RTIS will appear in many indexed journals.
+
+1. Future Internet
+2. Journal of Medical Internet Research
+3. Machine Learning
+4. Virtual Reality
+5. The Journal of Intelligent Systems
+
+BEST PAPER AWARD
+The best paper presented in the RTIS will be given a cash award of 500 Swiss Francs by the MDPI Publishers, Switzerland. Besides a gold certification will be given.
+
+RTIS 2018 has Doctoral Consortium, Mentorship Programme, Ph.D. Dissertation Competition and Proofread translation program
+
+Committee
+
+Honorary General Chair
+Jolanta Mizera-Pietraszko, Opole University, Poland
+
+General Chair
+Yao-Liang Chung, National Taiwan Ocean University, Taiwan
+
+Program Chairs
+Pit Pichappan, Digital Information Research Lab., India
+Simon Fong, University of Macau, Macau
+
+The Proceedings will be published by Springer in the  Proceedings of the 3rd International Conference on Real-Time Intelligent Systems, Volume 3 RTIS 2018.  (http://www.springer.com/series/11156 )
+
+For the series information please see-
+
+http://www.springer.com/gp/book/9783319607436
+
+Important Dates
+
+Paper Submission:  August 30,  2018
+Paper Notification: September 20, 2018
+Camera ready: October 10, 2018
+Early registration: November 01, 2018
+Full-rate registration: November 10, 2018
+Conference Dates: November 13-15, 2018
+
+Contact: rtis@socio.org.uk
+
+ 

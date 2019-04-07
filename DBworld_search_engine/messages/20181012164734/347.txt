@@ -1,0 +1,57 @@
+The 2018 IEEE International Conference on Artificial Intelligence and Knowledge Engineering (AIKE 2018)
+
+September 26-28, 2018
+The Hills Hotel
+Laguna Hills, California, USA
+http://www.ieee-aike.org/2018
+
+
+CALL FOR PARTICIPATION
+
+You are invited to attend the First IEEE International Conference on Artificial Intelligence and Knowledge Engineering (AIKE 2018).
+
+Artificial Intelligence (AI) is concerned with computing technologies that allow machines to see, hear, talk, think, learn, and solve problems. The huge potential of applying AI for problem solving represents an exciting future that business objectives can be achieved much more effectively. In addition, business-business, business-customer, and customer-customer may be interconnected in a revolutionary way to stimulate tremendous amount of interesting activities. A core of AI is Knowledge Engineering that addresses the acquistion, understanding, description, storage, integration, processing, control, and use of knowledge, among others.
+
+The First IEEE International Conference on Artificial Intelligence and Knowledge Engineering (AIKE 2018), is an international forum for academia and industries to exchange visions and ideas in the state of the art and practice of Artificial Intelligence and Knowledge Engineering, as well as to identify the emerging topics and define the future of Artificial Intelligence and Knowledge Engineering. 
+
+The conference program consists of author talks on the the papers selected by the PC (14 full papers, 13 short papers plus a number posters/demos). IEEE AIKE 2018 will also feature a rich program of keynote talks and a distinguished tutorial by renowned Professors and experts in the field of Artificial Intelligence and Knowledge Enginering, including:
+
+- Declarative Programming of Knowledge-based Applications on BigData
+Carlo Zaniolo, University of California, Los Angeles, USA
+
+- Secure Data Science: Integrating Data Science and Cyber Security
+Bhavani Thuraisingham, University of Texas, Dallas, USA
+
+- Bringing AI into Fashion
+Sang-goo Lee, Seoul National University (SNU), South Korea
+
+- Distinguished AIKE Tutorial
+Oscar N. Garcia, University of North Texas, USA
+
+- Computing Medicine
+Ophir Frieder, Georgetown University, USA
+
+- Synergies of AI and Knowledge Engineering for Healthcare and Biomedicine
+Nikolaos Bourbakis, Wright State University, USA
+
+- Being Transdisciplinary: The Art of Making Meaningful Connections
+Reymond Yeh, University of Maryland (ret.), College Park, USA
+
+More details on the IEEE AIKE 2018 conference program are available online at:
+http://www.ieee-aike.org/2018
+
+
+* General Co-Chairs
+Farokh Bastani, University of Texas, Dallas, USA
+Giovanni Pilato, Italian National Research Council, Italy
+Phillip Sheu, University of California, Irvine, USA
+Jeffrey Tsai, Asia University, Taiwan
+Benjamin Wah, Chinese University of Hongkong, China
+
+* Program Co-Chairs
+Maurizio Atzori, University of Cagliari, Italy
+Adina M. Panchea, Ã‰cole Polytechnique, France
+Lubomir Stanchev, Cal Poly San Luis Obispo, USA
+
+* AIKE 2018 PC Members 
+http://www.ieee-aike.org/2018/pc

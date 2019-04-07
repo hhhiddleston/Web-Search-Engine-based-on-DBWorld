@@ -1,0 +1,49 @@
+*** EDBT/ICDT 2019 Call for Workshop Proposals ***
+
+The EDBT/ICDT series of conferences is an established and prestigious forum for exchanging the latest research 
+results in data management. EDBT and ICDT are held jointly since 2009. The annual venue is located in an attractive 
+European location and provides unique opportunities for database researchers, practitioners, developers, and users 
+to explore new ideas, techniques and tools, and to exchange experiences.
+
+We invite you to submit a proposal for a workshop to be co-located with the main joint EDBT/ICDT 2019 conference. 
+
+The proposal should focus on a specific research topic within database and information systems. Workshops will run 
+on March 26, 2019, and can last for half a day or a full day.
+
+** Submission Requirements **
+
+Submit your workshop proposal by email to the Workshop Chair Paolo Papotti (@eurecom.fr).
+
+Your proposal should consist of a single PDF file and cover the following points:
+* workshop title
+* preferred length (1 day, 1/2 day)
+* name, affiliation, email, and short bio (including previous experience in organizing workshops or conferences) of 
+workshop PC chairs, with one of them indicated as the primary contact
+* tentative PC
+* main goal of the workshop and list of the workshop topics
+* preliminary call for papers
+* policy for handling conflicts of interest with reviewers or PC chairs
+* statistics for previous editions of the workshop (past three years, as applicable) and the expected statistics for 
+2010 regarding number of submissions, number of accepted papers, and number of registered delegates
+* publicity plans
+
+The organizers of accepted workshops are expected to assemble a program committee, announce and publicize the 
+workshop and its call for papers, solicit submissions, conduct the reviewing process, and prepare the final workshop 
+program.
+
+Workshops will benefit from the EDBT/ICDT 2019 organizational infrastructure and receive support regarding 
+registration, badges, lunches, coffee breaks, and online publication of the workshop proceedings.
+
+All workshop papers will be published online at CEUR (http://ceur-ws.org/). The papers should follow the formatting 
+guidelines of regular EDBT/ICDT 2019 research papers (2017 ACM Proceedings Format, double-column, A4) except 
+for the page limit. 
+
+** Important Dates **
+
+The following dates concern the workshop proposals:
+* Workshop proposal submission: September 3, 2018
+* Workshop proposal notification: September 17, 2018
+
+
+EDBT/ICDT 2019 Workshop Chair
+Paolo Papotti, EURECOM (France)

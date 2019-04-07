@@ -1,0 +1,54 @@
+ï»¿Call for Papers
+
+********************************************************************************
+
+14th International Conference on Information Systems Security ICISS'18
+Bengaluru, India 
+December 16-20
+Organized by IISc Bangalore
+Submission Deadline Aug 14 ,2018
+
+**********************************************************************************8
+
+ICISS'18 solicits research paper submissions from academia, industry and government, addressing theoretical and practical problems in information and systems security and related areas. Topics of interest include but are not limited to:
+  Access and Usage Control
+  Authentication and Audit
+  Cloud Security
+  Cyber-physical Systems Security
+  Digital Forensics
+  Distributed Systems Security
+  Identity Management
+  Intrusion Tolerance and Recovery
+  Language-based Security
+  Network Security
+  Privacy and Anonymity
+  Security and Usability
+  Sensor and Ad Hoc Network Security
+  Software Security
+  Vulnerability Detection and Mitigation
+  Application Security
+  Biometric Security
+  Cryptographic Protocols
+  Data Security and Privacy
+  Digital Rights Management
+  Formal Models in Security
+  Intrusion Detection and Prevention
+  Key Management
+  Malware Analysis and Mitigation
+  Operating Systems Security
+  Secure Data Streams
+  Security Testing
+  Smartphone Security
+  Usable Security
+  Web Security
+
+Paper Submission
+
+Papers should be formatted as they would appear in the final LNCS proceedings. Papers should be at most 20 pages in length, including the bibliography. One of the authors of an accepted paper must attend the conference to present the paper. ICISS accepts only electronic submissions in PDF format.
+
+Important Dates
+
+Manuscript Submission: 14th August 
+Notification to Authors: 18th September
+
+More details can be found at the conference web site: https://events.csa.iisc.ac.in/

@@ -1,0 +1,69 @@
+=================================================================================
+IEEE International Conference on Fog Computing (ICFC 2019)
+June 24-26, 2019
+Prague, Czech Republic
+http://conferences.computer.org/ICFC/2019/
+Colocated with the IEEE International Conference on Cloud Engineering (IC2E 2019)
+==================================================================================
+
+Important Dates
+---------------
+Paper registration and abstract: Nov 1st, 2018
+Full paper submission due: Nov 8th, 2018
+Notification of paper acceptance: Jan. 20th, 2019
+Workshop and tutorial proposals due: Nov 11, 2018
+Notification of proposal acceptance: Nov 18, 2018
+
+Call for Contributions
+----------------------
+Fog computing is the extension of cloud computing into its edge and the physical world to meet the data volume and decision velocity requirements in many emerging applications, such as augmented and virtual realities (AR/VR), cyber-physical systems (CPS), intelligent and autonomous systems, and mission-critical systems. The boundary between centralized, powerful computing cloud and massively distributed, Internet connected sensors, actuators, and things is blurred in this new computing paradigm.
+
+The ICFC 2019 technical program will feature tutorials, workshops, and research paper sessions. We solicit high-quality contributions in the above categories. Details of submission is available on the conference Web site. Topics of interest include but are not limited to:
+
+* System architecture for fog computing
+* Coordination between cloud, fog, and sensing/actuation endpoints
+* Connectivity, storage, and computation in the edge
+* Data processing and management for fog computing
+* Efficient and embedded AI in the fog
+* System and network manageability
+* Middleware and coordination platforms
+* Power, energy, and resource management
+* Device and hardware support for fog computing
+* Programming models, abstractions, and software engineering for fog computing
+* Security, privacy, and ethics issues related to fog computing
+* Theoretical foundations and formal methods for fog computing systems
+* Applications and experiences
+
+Organizing Committee
+--------------------
+General Chairs: 
+Hui Lei, IBM
+Albert Zomaya, The University of Sydney
+
+PC Co-chairs:
+Erol Gelenbe, Imperial College London
+Jie Liu, Microsoft Research
+
+Tutorials and Workshops Chair:
+David Bermbach, TU Berlin
+ 
+Publicity Co-chairs:
+Flavia Delicato,Federal University of Rio de Janeiro   
+Mathias Fischer, University Hamburg
+
+Publication Chair
+Javid Taheri, Karlstad University 
+
+Webmaster
+Wei Li, The University of Sydney
+
+Steering Committee
+------------------
+Mung Chiang, Purdue University
+Erol Gelenbe, Imperial College London
+Christos Kozarakis, Stanford University
+Hui Lei, IBM
+Chenyang Lu, Washington University in St Louis
+Beng Chin Ooi, National University of Singapore
+Neeraj Suri, TU Darmstadt
+Albert Zomaya, The University of Sydney

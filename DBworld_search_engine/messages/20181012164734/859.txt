@@ -1,0 +1,34 @@
+Graduate Programme IGNITE Research Engineer (Germany)
+
+For our 24 months long European graduate programme IGNITE starting in October 2018, we are looking for a Research Engineer (m/f) for our office in Eching near Munich.
+
+/ Scope of Duty / 
+DENSO is aiming to expand in the domain of service enablers for Internet-of-Things by investing on R&D activities on Cloud/Fog infrastructure. We aim to work closely with Cloud/Fog scientists and practitioners to understand how to build Cloud/Fog computing infrastructure, develop and integrate innovative solutions on top of this infrastructure, and support their practical use.  
+
+Our work includes on-going development of DENSO IoT cloud platform, enabling many cloud-computing services across a range of products. The Connected Services team consists of scientists, developers, and students and provides a friendly, challenge-oriented environment. 
+
+ / What we are looking for /
+We work with innovative technologies, which requires our team to keep track of new approaches and quickly master new technologies. We are learners: self-motivated, eager to try new things, but with a strong appreciation of quality development and spirit of teamwork. 
+
+We are looking for a new team member with these characteristics: 
+* Master's degree in computer science or related field
+* Wants to work on important, cutting edge problems in R&D and see their work make a positive change to the world by contributing to the advancement of technology
+* Loves working with system code and is good at it 
+* 2+ years of programming experience as a full stack developer (development, debugging, and maintenance) in Java or Python during internships and university projects as well as active contribution to open source code 
+* Good Knowledge of operating systems, communication and networking technologies as well as databases (e.g., SQL, NoSql) and their querying languages
+* Good Knowledge of Unix/Linux, terminal and bash scripts, IaaS cloud systems (OpenStack, AWS), virtualization technologies/containers, and other relevant technologies
+* Ideally, knowledge of Microservice software design principles and experience with system administration and DevOps tools, such as Chef and Puppet 
+* Enjoys working independently, taking on new challenges, and creating new initiatives that will shape the direction of our existing and future projects
+* Will thrive as part of a creative team, where your contributions are valued and your initiatives are welcomed
+* Excellent verbal and written communication skills, especially in the English language
+* Ability to prioritize, work both independently and in a team environment, and a keen sense of humor
+
+ / What we offer /
+
+DENSO is one of the largest global automotive suppliers of advanced technology, systems and components in the areas of thermal, powertrain control, electronics and information and safety. From automated driving to hybrid and electric vehicle components, we are crafting the core technologies of modern mobility. We draw on the strengths of individual inventors, our employees, who are joining to become an unstoppable force for global good.
+
+We offer our employees a competitive compensation and comprehensive benefits as well as a great team-oriented working environment with the newest technology. As being part of an international team, you will have several chances to travel to DENSO offices in Japan, USA and Europe and getting involved in their ongoing activities.
+
+Are you interested? Please apply online on https://denso-ignite.loop.jobs/ 
+
+For more information please contact our recruiting partner by mail DENSO@Kornferry.com.

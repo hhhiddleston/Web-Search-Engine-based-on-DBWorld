@@ -1,0 +1,53 @@
+ICDE 2019 Call for Workshops
+==============================
+http://conferences.cis.umac.mo/icde2019/?page_id=233
+
+
+# Important Dates
+
+All deadlines are 11:59PM US PDT.
+
+Workshop submission due: August 10, 2018  
+Notification of acceptance: September 3, 2018  
+Workshops: April 8, 2019  
+Conference: April 8-12, 2019  
+
+
+# Submission Guidelines for Workshop Proposals
+
+Workshop proposals should be submitted by email to the workshop co-chairs as a PDF attachment. The proposals must meet the above given due date. Please include â€œICDE 2019 Workshopâ€ in the subject line. Each workshop proposal must contain all pertinent information, including the following:
+
+- Workshop title
+- Short description of the topic and format of the workshop
+- Explanation of why the proposed workshop is a good match with ICDE 2019
+- Names and contact information of the workshop organizer(s)
+- Names of members of the program committee (at least 50% must be known and confirmed at the time of the proposal)
+- Special considerations regarding proceedings, if any
+- Important dates (paper submission deadline, notification deadline, etc.)
+- Expected number of participants
+- In case of previous instances of the workshop, the historical numbers of participants
+- In case of previous instances of the workshop, the historical submission and acceptance counts
+- Preferred workshop duration
+
+Evaluation criteria include overall quality and the fit with respect to the expected ICDE 2019 program. Note that proposals are especially encouraged on emerging topics that are relevant to data engineering and are not already covered by the main conference. The decision about acceptance/rejection of workshop proposals will be made by the Workshop Chairs in consultation with the General and Research Program Chairs, taking into account several factors including venue capacity.
+
+
+# Organizational Details
+
+The organizers of successful workshops will be responsible for their own review process and publicity (e.g., website). They are required to cooperate closely with the Workshop Chairs and the ICDE 2019 local organizers to finalize all details mentioned above, provide input for publicity to the ICDE 2019 organizers, etc. In particular, local organizers may require that all workshops adhere to a specific general timetable to facilitate catering.
+
+Workshops will benefit from the registration process of ICDE 2019. If the organizers of a workshop choose to charge additional fees to cover meals, etc., they must inform the General Chairs of their intent and must manage the process on their own.
+
+Workshop organizers must inform the Workshop Chairs of the numbers of submissions and acceptances as these numbers become available. Workshops with fewer than 15 expected registrants may be canceled at the discretion of the conference organizers. Only accepted workshops are official ICDE workshops and enjoy the support mentioned above. Workshop timeline (deadlines for submissions and review process): to be proposed by the workshop organizers in agreement with the ICDE 2019 Workshop Chairs. The deadline for the camera ready copy is February 22, 2019, for all workshops. 
+
+
+# Publication
+
+The proceedings of the workshops will be published jointly with the conference proceedings. All papers should have the same format as conference research papers.
+
+
+# Workshop Chairs
+
+Nikolaus Augsten, University of Salzburg  
+Helen (Zi) Huang, University of Queensland  
+Mohamed F. Mokbel, University of Minnesota  

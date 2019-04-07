@@ -1,0 +1,130 @@
+HOPE 18: Call for Papers
+
+The First International Workshop on Health Informatics: Patient-Centred Solutions and Educational Approaches in the Digital Health Era (HOPE 18)
+http://www.aiccsa.net/AICCSA2018/2-uncategorised/48-hope18
+https://easychair.org/cfp/HOPE18
+
+In conjunction with 15th ACS/IEEE AICCSA 2018  (http://www.aiccsa.net/AICCSA2018/), Aqaba, Jordan, Oct 28 - Nov 01, 2018
+
+**Submission deadline Extended until 15 July 2018
+
+**Important**
+In addition to publication in the IEEE Computer Society Press, accepted papers for presentation will be published in a special issue in one of the following well-indexed Journals (confirmed):
+ - Health & Technology (Springer) (https://link.springer.com/journal/12553)
+ - International Journal of E-Health and Medical Communications  
+
+
+SCOPE
+The quality and expenditure control of the health sector have become, in Europe as elsewhere in the world in both developed and developing countries alike, the main objectives pursued by public authorities. The digital transformation of this sector appears as a major lever to answer these objectives and to face health systems challenges, particularly those linked to the ageing of the population, the increase in chronic diseases and the personalisation of medicine. Indeed, the rapid spread of mobile devices and of the Internet of Things, the presence of the network anywhere and anytime, allow to conceive, often in the short term, services which reduce patient visits, reduce the number and duration of hospital stays, promote monitoring and improve home comfort.
+This digital transformation, which is already underway, is defined as a process that consists, for an organisation, of fully integrating digital technologies into all of its activities in order to improve its performance. It characterises not only a technical development, but also a new way of working, an attitude, and a commitment for networked, global thinking, to improve health care by using ICT. Hence, it deeply transforms, at a rattling pace, the organisation and management rules of the health system. 
+As the digital transformation of the health sector brings significant progress to the care system; it leads to major changes in the behaviour of health system actors. Like any major change in customs and practices, this transition faces the reluctance and fears it can generate. As such, it imposes on hospital organisations a real problem in driving the change of their staff. Many employees feel disoriented and overwhelmed. They consider digital transformation as a risk and not an opportunity. In order for them to become actors of this process, instead of being subjected to it, it is essential that the health institutions accompany its collaborators and give them the means to master this change. 
+To that purpose, Education and training on digital health appear as a fundamental prerequisite to wide-scale adoption of e-health solutions and a major key to the success of digital transformation in the health sector. These digital health education and training which the underlying body of knowledge is health informatics, should be addressed to all kind of stakeholders involved in the health ecosystem and should be based on innovative educational methods and adapted to the profiles of these stakeholders
+Itâ€™s within this scope that this workshop has been conceived to bring together researchers and practitioners to share research results, advancements and practical related experiences in this field.
+
+TOPICS OF INTEREST 
+Topics of interest include, but are not limited to : 
+- eHealth patient-centred solutions 
+- eHealth educational engineering
+- Innovative multidisciplinary learning design in eHealth 
+- Digital transformation teaching 
+- Cases studies and practical evaluations of teaching experiences 
+- Application of Health Informatics in Clinical Cases
+- Analysis of eHealth trends, issues and development constraints
+- Emergent concepts, models and technologies to promote the effectiveness and efficiency of Healthcare services
+- Open Source technologies to leverage the sustainability and quality of healthcare 
+- Semantic Intelligence and Big data for healthcare uses vis-Ã -vis health 4.0
+- Geocoding health data
+- Practice-based Research Methods for Healthcare IT
+- Design and Development of Methodologies for Healthcare IT
+- Software Engineering in health care
+- Data Management and Analytics for healthcare/eHealth
+- Privacy and Ethical issues in health care/eHealth
+- Model-Based Design of Trustworthy Health Information Systems
+- Privacy preserving or enhancing techniques for secondary uses and sharing of clinical data 
+- Research methods and techniques for electronic clinical records and data
+- Studies of privacy and security in healthcare/eHealth.
+
+PAPER SUBMISSION DETAILS
+Authors are invited to submit original, unpublished research and application papers that are not being considered in other forums. Manuscripts will be limited to a maximum of 6 two-column pages (IEEE Proceeding style) including figures and references. Please follow the IEEE Conference Publishing Service (CPS) guidelines to prepare your papers.
+
+Please submit your papers using the Submission system
+https://easychair.org/conferences/?conf=aiccsa2018
+
+Manuscripts should be prepared in 10-point font using the IEEE 8.5" x 11" two-column format. All papers should be in PDF format, and submitted electronically at Paper Submission Link. A full paper must not exceed the stated length (including all figures, tables and references). Submitted papers must present original unpublished research that is not currently under review for any other conference or journal. Papers not following these guidelines may be rejected without review. Also submissions received after the due date, exceeding length limit, or not appropriately structured may also not be considered. Authors may contact the workshop Chair for further information or clarification. 
+
+All submissions are blind peer-reviewed by at least three reviewers. Accepted papers will appear in the Conference Proceedings, and be published by the IEEE Computer Society Conference Publishing Services and be submitted to IEEE Xplore for inclusion.
+Submitted papers must include original work, and must not be under consideration for another conference or journal. Submission of regular papers must not exceed 6 pages and must follow the IEEE paper format. Please include up to 7 keywords, complete postal and e-mail address, and fax and phone numbers of the corresponding author. Authors of accepted papers are expected to present their work at the conference. Submitted papers that are deemed of good quality but that could not be accepted as regular papers will be accepted as short papers.
+
+Authors of accepted papers are requested to sign the IEEE copyright form. The guidelines for authors which can be found at IEEE Conference Publishing Services - Proceedings Author Forms.
+
+Electronic submission of manuscripts (in PDF, postscript, or word format) is required. For any questions please contact adel.taweel AT kcl.ac.uk or yskhader AT just.edu.jo . At least one author of each accepted paper is required to register and attend the workshop and present the paper.
+
+PUBLICATION
+Papers accepted for presentation will be published by IEEE Computer Society Press as proceedings of the AICCSA Conference Publishing Services and be submitted to IEEE Xplore for inclusion. In addition, organisers have received confirmation that accepted papers for presentation will also be published in a special issue in one of the following well-indexed Journals (confirmed):
+ - Health & Technology (Springer) (https://link.springer.com/journal/12553)
+ - International Journal of E-Health and Medical Communications 
+
+
+IMPORTANT DATES
+- Submission deadline (extended): July, 15th 2018,
+- Notification of acceptance: July, 25th 2018,
+- Camera ready deadline: August, 5th 2018.
+
+ORGANISERS
+- Dr. Adel Taweel, Birzeit University, Palestine/ Kings College London, UK
+- Prof. Yousef Kader, Jordan University of Science and Technology, Jordan
+- Prof. Thomas Lux, Hochschule Niederrhein, Germany
+- Dr. Elyes Lamine, CGI, IMT Mines Albi - ISIS, INU Champollion, Castres, France
+
+WORKSHOP CHAIRS
+- Dr. Adel Taweel, Birzeit University, Palestine/ Kings College London, UK
+- Prof. Yousef Khader, Jordan University of Science and Technology, Jordan
+
+WORKSHOP LOCAL ORGANISERS 
+- Prof. Yousef Khader, Jordan University of Science and Technology, Jordan
+- Dr Sukaina Zyoud, Hashemite University, Jordan
+
+WORKSHOP PROGRAM COMMITTEE:
+
+- Abdel-Rahman H. Tawil, Birmingham City University, Birmingham, UK;
+- Adel Taweel, Birzeit University, Palestine/ Kings College London, UK
+- Amine Boufaied, University of Sousse, Sousse, Tunisie
+- Alok Mishra, Atilim University, Turkey
+- Bernard ArchimeÌ€de, ENI de Tarbes, INPT, University of Toulouse, Tarbes, France
+- Bernhard Briel, Hochschule Niederrhein, Germany
+- Bruno Vallespir, IMS, University of Bordeaux, Bordeaux, France
+- Constantinos S. Pattichis, Department of Computer Science, University of Cyprus, Cyprus
+- Dominik Bork, Research Group Knowledge Engineering,University of Vienna,Vienna, Austria
+- Elyes Lamine, CGI, IMT Mines Albi - ISIS, INU Champollion, Castres, France
+- Franck Fontanili, CGI, IMT Mines Albi, Albi, France
+- Gerard Dray, LGI2P, IMT Mines AleÌ€s, University of Montpellier, Montpellier, France
+- Giulia Bruno, Politecnico di Torino, Turin, Italy
+- HerveÌ Pingaud, LGC CNRS, ISIS, INU Champollion, Castres, France
+- Hussein Jabareen, Hebron University, Palestine
+- Imen Megdich, IRIT- ISIS, INU Champollion, Castres, France
+- Latifa Dekhici, UniversiteÌ des Sciences et de la Technologie d'Oran Mohamed Boudiaf, Oran, AlgeÌrie
+- Lina Adwan, Birzeit University, Palestine
+- Radi Jarrar, Birzeit University, Palestine
+- Maria Di Mascolo,G-SCOP,CNRS, University of Grenoble Alpes, Grenoble, France
+- Mario Macedo, Atlantica University, Portugal
+- Matt-Mouley Bouamrane, CIS, University of Strathclyde, Glasgow
+- Mohamed Jmaiel, Department of Computer Science and Applied Mathematics, ENIS, Tunisie
+- Mohammad Karabsheh, Hashemite University, Jordan
+- Mohanad Jabari, Hebron University Palestine
+- Naoufel Cheikhrouhou, University of Applied Sciences Western Switzerland (HES-SO), Switzerland
+- Nehaya Shayeb, Jordan University of Science and Technology, Jordan
+- Nergiz Cagiltay, Atilim University, Turkey
+- Nuno Garcia, University of Beira Interior, Portugal
+- Nuria Castell, Universitat PoliteÌ€cnica de Catalunya (UPC), Barcelona, Spain
+- ReÌmi Bastide, IRIT- ISIS, INU Champollion, Castres, France
+- Richard Picking, ARCLAb, Wrexham Glyndwr University,Wrexham,UK
+- Rym Ben Bachouch, PRISME, universiteÌ d'OrleÌans, Bourges, France
+- Salma Chahed, University of Westminster, London, UK
+- SelmaArbaoui, PRISME, universiteÌ d'OrleÌans, Bourges, France
+- Sondes Chaabane, LAMIH - UniversiteÌ de Valenciennes, Valenciennes, France
+- Sukaina Zyoud, Hashemite University, Jordan
+- Thomas Lux, Hochschule Niederrhein, Germany
+- Yolanda GonzaÌlez Cid, Universitat de les Illes Balears (UIB),Palma de Mallorca, Spain
+- Yousef Kader, Jordan University of Science and Technology, Jordan
+- Vincent Augusto, Mines Saint-Etienne, UMR CNRS LIMOS, Saint-Etienne, France
+- Wided Guedira, Luxembourg Institute of Science and Technology, Esch/Alzette, Luxembourg

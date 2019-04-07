@@ -1,0 +1,66 @@
+Call for Poster and Demo:
+
+The 11th IEEE International Conference on Social Computing and Networking ( SocialCom 2018), 11-13 Dec. 2018, Melbourne, Australia.
+         
+Website: http://www.swinflow.org/confs/2018/socialcom/poster.htm
+
+
+Important Dates:
+Deadline for proceedings published posters/demos with display at conference: 1 October 2018
+
+Notification of Acceptance: 7 October 2018
+
+Final versions of proceeding published posters/demos: 15 October 2018
+
+Deadline for web published posters/demos with display at conference: 30 October 2018
+
+
+Submissions:
+Please email your posters/demos to confs.aus@gmail.com with the email subject as "SocialCom 2018 demo poster submission".
+
+ 
+Two types of posters and demos are welcome. Both of them will be displayed during the conference.
+
+1. Proceedings published posters and demos: Submission is a 2-page short paper describing the post/demo content, research, relevance and importance to the conference community. If accepted, the 2-page short paper will be published in the main conference proceedings.
+
+
+2. Web published posters and demos: Submission is a 1-page extended abstract. Such posters/demos will not be included in the conference proceedings, but will be published on the conference website.
+
+---------------
+Participants are invited to submit posters and research demos to SocialCom 2018. SocialCom 2018 is created to provide a prime international forum for both researchers, industry practitioners and environment experts to exchange the latest fundamental advances in the state of the art and practice of Social Computing and Networking as well as joint-venture and synergic research and development across various related areas. Topics of interest for posters and demos include, but not limited to:
+
+Scope and Topics
+Topics of particular interest include, but are not limited to:
+¡¤   Fundamentals of social computing
+¡¤   Modelling of social behaviour
+¡¤   Social network analysis and mining
+¡¤   Big social media data
+¡¤   Social media infrastructure and cloud computing
+¡¤   Computational models of social simulation
+¡¤   Web 2.0 and semantic web
+¡¤   Innovative HCI and touch-screen models
+¡¤   Modelling of social conventions and social contexts
+¡¤   Social cognition and social intelligence
+¡¤   Social media analytics and intelligence
+¡¤   Group formation and evolution
+¡¤   Security, privacy, trust, risk and cryptography in social contexts
+¡¤   Social system design and architectures
+¡¤   Information retrieval, data mining, artificial intelligence and agent-based technology
+¡¤   Group interaction, collaboration, representation and profiling
+¡¤   Handheld/mobile social computing
+¡¤   Service science and service oriented interaction design
+¡¤   Cultural patterns and representation
+¡¤   Emotional intelligence, opinion representation, influence process
+¡¤   Mobile commerce, handheld commerce and e-markets
+¡¤   Connected e-health in social networks
+¡¤   Social policy and government management
+¡¤   Social blog, micro-blog, public blog, internet forum
+¡¤   Business social software systems
+¡¤   Impact on peoples activities in complex and dynamic environments
+¡¤   Collaborative filtering, mining and prediction
+¡¤   Social computing applications and case studies
+
+
+Chairs:
+Du Phan, Swinburne University of Technology, Australia
+Lei Li, Hefei University of Technology, China

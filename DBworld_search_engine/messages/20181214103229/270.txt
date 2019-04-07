@@ -1,0 +1,15 @@
+Call for Technical Papers ICAC 2019
+Â 
+The 16th IEEE International Conference on Autonomic Computing (ICAC) is held in UmeÃ¥, Sweden, on June 16 â€“ 20, 2019, as part of the Foundations and Applications of Self* Systems (FAS* 2019).Â 
+ICAC is the leading conference on autonomic computing techniques, foundations, and applications.
+Â 
+ImportantÂ dates
+Workshop proposal deadline: Dec 14, 2018Â 
+Abstract and paper submission: Feb 01, 2019Â Â 
+Paper submission deadline: Feb 08, 2019Â Â 
+Author notification: April 08, 2019Â Â 
+Camera ready: April 20, 2019
+Â 
+Further information also onÂ http://icac2019.cs.umu.se/
+Â 
+ICAC 2019 is co-located and has some shared activities with The 13th IEEE International Conference on Self-Adaptive and Self-Organizing Systems (SASO 2019).

@@ -1,0 +1,187 @@
+Dear colleagues,
+
+BTW 2019 is the upcoming 18th edition of the biennial database
+technology conference organized by the German-speaking database
+research community.  If you typically write one page per day,
+now is the time to start assembling your BTW paper: the
+deadline for submissions is on September 30, 2018.
+
+English submissions and contributions are more than welcome!  Please
+approach us with any questions you might have in this regard.
+
+We are looking forward to your submissions and hope to see you in
+the scenic city of Rostock at the shores of the Baltic Sea in
+March 2019.
+
+  Felix Naumann & Torsten Grust
+  (Chairs Scientific PC BTW 2019)
+
+  Alexander Boehm & Wolfgang Lehner
+  (Chairs Industrial PC BTW 2019)
+
+
+CfP (in German) attached below.
+
+=======================================================================
+
+
+                           www.btw2019.de
+
+ 18. Fachtagung fuer Datenbanksysteme fuer Business, Technologie und Web
+
+                 4. bis 8. Maerz 2019, Universitaet Rostock
+
+
+=== THIRD CALL FOR PAPERS ===
+
+Die BTW-Tagung dient seit mehr als drei Jahrzehnten zur Vernetzung
+sowohl von Wissenschaftlerinnen und Wissenschaftlern der
+deutschsprachigen Datenbankgemeinde als auch von Praktikern aus der
+Industrie. Durch den gegenseitigen Austausch zu den Kernthemen der
+Datenbank- und Informationssystemtechnologie, wie z.B. der effizienten
+Verarbeitung grosser Datenmengen, Informationsintegration,
+Wissensverarbeitung und Text Mining, aber auch neueren Themen wie
+Datenschutz, Data Science und Datenstrommanagement auf verteilten
+Infrastrukturen wird die Datenbankforschung stetig vorangetrieben.
+
+Auf der BTW-Tagung werden aus dem Datenbankbereich sowohl klassische als
+auch neu aufkommende Fragestellungen und deren Loesungsansaetze
+diskutiert. Zu den aktuell relevanten Themenbereichen gehoeren unter
+anderem:
+
+- Anfrageverarbeitung und Indexstrukturen
+- Implementierung und Architektur von Datenbanksystemen
+- Parallele und verteilte Datenverarbeitung in Datenbanksystemen
+- Datenmanagement fuer wissenschaftliche Anwendungen
+- Leistungsanalysen und Benchmarks
+- Datenbanksysteme und Programmiersprachen
+- Wissensmanagement und Data Mining
+- Text Mining und Textanalyse
+- Workflowsysteme
+- Datenreinigung und Datenintegration
+- Hauptspeicherdatenbanken
+- Datenschutz und Datensicherheit
+- Datenbanksysteme fuer Datenstroeme, Web- und Graphdaten
+- Big Data und NoSQL-Datenbanken
+- Interaktive Datenanalyse und -visualisierung
+- Datenmanagement in der Cloud
+- Provenance-Management
+- Machine Learning fuer und mit Datenbanken
+
+Fuer das wissenschaftliche Programm der BTW 2019 werden sowohl
+theoretische als auch anwendungsorientierte wissenschaftliche Beitraege
+zur Weiterentwicklung von Datenbank- und Informationssystemen
+angenommen. Beitraege ueber die kommerzielle Nutzung von Datenbank- und
+Informationssystemtechnologien, Erfahrungen und aktuelle Trends in der
+Industrie werden im Industrieprogramm angenommen.
+
+Wie bereits auf der BTW 2017 in Stuttgart findet ein themenbezogener
+Programmierwettbewerb statt, der die Ansaetze von Studierenden und
+Doktoranden fuer die cloud-basierte Datenanalyse miteinander vergleicht.
+Das Studierendenprogramm bietet Gelegenheit fuer die Praesentation von
+Diplom- und Masterarbeiten und die dabei erzielten Erkenntnisse. Es
+werden die besten Dissertationen der letzten zwei Jahre zu
+datenbank-relevanten Themen auf der Tagung ausgezeichnet. Empfehlungen
+fuer diese Auszeichnungen sind erwuenscht. Zudem werden ausgewaehlte
+Forschungsgruppen und Lehrstuehle ihre Arbeit vorstellen.
+
+
+=== FORMAT DER EINREICHUNGEN ===
+
+Es koennen sowohl Vollbeitraege (Originalarbeiten oder Uebersichtsartikel)
+als auch Kurzbeitraege (zu aktuellen Projekten und laufender Forschung)
+in Deutsch oder Englisch eingereicht werden. Die Beitraege muessen den
+Layoutvorgaben des Tagungsbandes entsprechen, die hier im Detail zu
+finden sind:
+
+  https://gi.de/service/publikationen/lni/
+
+Das Seitenlimit betraegt 20 Seiten fuer Vollbeitraege und 10 Seiten fuer
+Kurzbeitraege. Beitraege ueber der Seitengrenze werden ohne Gutachten
+abgelehnt. Anschliessend erfolgt eine zweite Phase zur
+Qualitaetssicherung, in der Anregungen der Gutachter beruecksichtigt
+werden. Die angenommenen Beitraege werden in den "Lecture Notes in
+Informatics" (LNI) der GI veroeffentlicht.
+
+
+=== EINREICHUNGEN ===
+
+Beitraege zu allen Tracks der BTW 2019 koennen ueber EasyChair unter
+der URL
+
+  https://easychair.org/conferences/?conf=btw2019
+
+eingereicht werden.
+
+
+=== WICHTIGE TERMINE ===
+
+Wissenschaftliches Programm und Industrie-Programm:
+
+- Beitragseinreichung:            30. September 2018
+- Benachrichtigung der Autoren:   21. November 2018
+- Abgabe druckfertiger Beitraege: 14. Dezember 2018
+
+- BTW 2019 in Rostock:            4. bis 8. Maerz 2019
+
+
+=== PROGRAMMKOMMITEES ===
+
+Wissenschaftliches Programm:
+
+- Ziawasch Abedjan, TU Berlin
+- Carsten Binnig, TU Darmstadt
+- Stefan Brass, University of Halle-Wittenberg
+- Stefan Conrad, Heinrich-Heine University Duesseldorf
+- Stefan Dessloch, TU Kaiserslautern
+- Jens Dittrich, Saarland University
+- Markus Endres, University of Augsburg
+- Peter M. Fischer, University of Augsburg
+- Rainer Gemulla, University of Mannheim
+- Michael Gertz, Heidelberg University
+- Goetz Graefe, Google
+- Michael Grossniklaus, University of Konstanz
+- Katja Hose, Aalborg University
+- Zbigniew Jerzak, SAP SE
+- Alfons Kemper, Technical University of Munich
+- Georg Lausen, University of Freiburg
+- Alexander Loeser, Beuth Hochschule fuer Technik Berlin
+- Stefan Manegold, CWI Amsterdam
+- Sebastian Maneth, University of Bremen
+- Norman May, SAP SE
+- Sebastian Michel, University of Kaiserslautern
+- Bernhard Mitschang, University of Stuttgart
+- Emmanuel Mueller, Hasso-Plattner-Institute
+- Wolfgang Nejdl, L3S and University of Hannover
+- Thomas Neumann, Technical University of Munich
+- Daniela Nicklas, University of Bamberg
+- Tilmann Rabl, TU Berlin
+- Erhard Rahm, University of Leipzig
+- Stefanie Rinderle-Ma, University of Vienna
+- Norbert Ritter, University of Hamburg
+- Gunter Saake, University of Magdeburg
+- Kai-Uwe Sattler, TU Ilmenau
+- Stefanie Scherzinger, OTH Regensburg
+- Ingo Schmitt, BTU Cottbus-Senftenberg
+- Marc H. Scholl, University of Konstanz
+- Felix Martin Schuhknecht, Saarland University
+- Holger Schwarz, University of Stuttgart
+- Bernhard Seeger, University of Marburg
+- Thomas Seidl, LMU Munich
+- Guenther Specht, University of Innsbruck
+- Uta Stoerl, Hochschule Darmstadt
+- Martin Theobald, Universite du Luxembourg
+- Gottfried Vossen, ERCIS Muenster
+- Lena Wiese, University of Goettingen
+
+
+Industrie-Programm:
+
+- Roman Demetiev, Intel
+- Pit Fender, Oracle
+- Isabelle Hang, Huawei
+- Fisnik Kastrati, Exasol
+- Evelina Koycheva, BASF
+- Kim-Thomas Rehmann, SAP SE
+- Thomas Ruf, Kynetec
+- Harald Schoening, Software AG

@@ -1,0 +1,41 @@
+Call for Participation
+
+Workshop on Big Data Open Source Systems (BOSS) 2018
+(to be held in conjunction with VLDB 2018)
+
+https://boss.comp.nus.edu.sg/
+
+Workshop Date: 27 August 2018
+
+Following the great success of the first, second, and third Workshop on Big Data Open Source Systems (BOSS'15, BOSS’16, BOSS’17) collocated with VLDB 2015, VLDB 2016, and VLDB 2017, the fourth Workshop on Big Data Open Source Systems (BOSS'18) will again give a deep-dive introduction into several active, publicly available, open-source systems. The systems will be presented in tutorials by experts in the presented systems. The tutorials will give details on installation and non-trivial examples usage of the presented system. 
+
+This year, we are pleased to announce that Angel, Couchbase, PaddlePaddle, and TiDB will be presented at the wrokshop:
+
+Angel: Angel is a flexible and powerful parameter server for large-scale machine learning. 
+
+Couchbase: Couchbase data platform is a database infrastructure that combines the flexibility of JSON, the power of SQL and deployments at scale. 
+
+PaddlePaddle: PaddlePaddle Elastic Deep Learning (EDL) is a fault-tolerant distributed training architecture that optimizes the global utilization of the cluster and the waiting time of job submitters. 
+
+TiDB: TiDB is a distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database, that has been designed to provide extremely large horizontal scalability, strong consistency, and high availability.
+
+
+
+We will publish the tutorial materials on the website at a nearer date.  For more details, please visit the workshop web site https://boss.comp.nus.edu.sg/   and the VLDB web site http://vldb2018.lncc.br/ for registration.
+
+
+------------------------------------------------------------------------
+
+
+Workshop Organization
+
+Workshop Chair: 
+* Beng Chin Ooi, National University of Singapore, ooibc@comp.nus.edu.sg
+* Meihui Zhang
+
+Selection Committee: 
+* Guoliang Li, Tsinghua University
+* Tilmann Rabl, TU Berlin
+* Dimitris Tsirogiannis, Cloudera Inc.
+* Till Westmann, Couchbase
+* Reynold Xin, DataBricks

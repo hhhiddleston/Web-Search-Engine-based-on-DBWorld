@@ -1,0 +1,84 @@
+Apologies for cross postings
+
+1st Workshop on Geospatial Simulation (GeoSim'18)
+at ACM SIGSPATIAL 2018
+6th November 2018, Seattle, Washington, USA.
+
+Call for Papers
+----------------------------------------------------------------
+http://www.geosim.org
+----------------------------------------------------------------
+
+This is a call for papers for the 1st Workshop on Geospatial Simulation (GeoSim'18), to be held on the 6th November 2018 in Seattle, Washington, USA. The purpose of the workshop is to connect the SIGSPATIAL community with members of the computational social science community, which traditionally employs simulation techniques to analyze and predict movement.
+
+
+The subject and format of the workshop
+-----------------------------------------------------
+
+The GeoSim'18 workshop focuses on all aspects of simulation as a general paradigm to model and predict spatial
+systems and generate spatial data. New simulation methodologies and frameworks, not necessarily coming
+from the SIGSPATIAL community, are encouraged to participate. Also, this workshop is of interest to everyone
+who works with spatial data. The simulation methods that will be presented and discussed in the workshop
+should find a wide application across the community by producing benchmark datasets that can be
+parameterized and scaled. Simulated data sets will be made available to the community via the website.
+The workshop seeks high-quality full (8 pages) and short (4 pages) papers that will be peer-reviewed. Once
+accepted, at least one author is required to register for the workshop and the ACM SIGSPATIAL conference, as
+well as attend the workshop to present the accepted work which will then appear in the ACM Digital Library.
+
+Example topics include, but not limited to:
+
+*  Applications for Spatial Simulation;
+
+*  Agent Based Models for Spatial Simulation;
+
+*  Behavioral Simulation;
+
+*  Big Spatial Data Simulation;
+
+*  Environmental Simulation;
+
+*  Geoinformation Systems using Spatial Simulation;
+
+*  Geo-Social Simulation and Data Generators;
+
+*  Interactive Spatial Simulation;
+
+*  Multi-Agent based Spatial Simulation;
+
+*  Road Traffic Simulation;
+
+*  Spatial Analysis based on Simulation;
+
+*  Spatial Simulation Parallelization and Distribution;
+
+*  Social Unrest and Riot Prediction using Simulation;
+
+*  Spatial Data/Trajectory Generators;
+
+*  Urban Simulation;
+
+*  Verifying, and Validating Spatial Simulations.
+
+
+Submission procedure
+------------------------------
+You should prepare your paper in accordance with the ACM camera-ready
+instructions (http://www.acm.org/sigs/publications/proceedings-templates)
+and submit it using the EasyChair system
+(http://www.easychair.org/conferences/?conf=geosim18).
+
+The deadline for submission is 20th August 2018.
+
+Decisions on acceptance will be announced by 20th September 2018.
+
+At least one author of accepted papers will be required to register for the workshop before the paper is published, and to present the paper at the workshop.
+
+Further details of the workshop can be found at
+
+http://www.geosim.org
+
+Please forward this message to anyone you think may have an interest in the workshop.
+
+With best wishes,
+
+Andrew Crooks (acrooks2@gmu.edu), Paul Torrens (torrens@geosimulation.com) and Andreas Zuefle (azufle@gmu.edu) Co-chairs

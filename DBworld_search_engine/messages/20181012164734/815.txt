@@ -1,0 +1,66 @@
+***********************************************************************
+Submission deadline has been extended to August 1, 2018
+***********************************************************************
+
+Workshop on Social Interaction-based Recommendation (SIR 2018)
+In conjunction with the 27th ACM International Conference on Information and Knowledge Management (CIKM 2018)
+Turin, Italy - October 28, 2018
+
+
+CALL FOR PAPERS
+Social recommender systems aim at performing suggestions in social media platforms, by exploiting the information collected during the interaction of the users, both with the platform (e.g., tags, likes, and comments) and among themselves (i.e., the social network).
+
+However, the social interactions of the users can also be employed in richer ways, both inside a social media platform and in classic recommender systems that do not operate in the social media domain (e.g., in collaborative and content-based approaches). With the term social interaction-based recommendation we identify a novel class of systems that exploits social interactions, in order to provide recommendations to the users (individuals or groups), either inside a social media platform or in classic recommender systems, both online and offline.
+
+Therefore, while social recommender systems remain an important part of this workshop, the social interactions of the users can also be exploited in other domains. Indeed, a new wave of research is trying to learn ratings from textual comments (e.g., reviews). Moreover, the analysis of the interactions of two or more users in chats or private messages, leads to novel forms of knowledge on the shared preferences between these users, which can be exploited in any kind of recommender system.
+
+Social interaction information can also be used offline, e.g., to recommend social events that an individual could attend, or to perform group recommendations of activities/items that a group of users could do/consume together.
+
+The aim of this workshop is to collect novel ideas for approaches that use any form of social interaction to improve existing recommendation technologies. Indeed, we solicit contributions in all topics related to employing social interaction information to perform recommendations, focused (but not limited) to the following list:
+
+- Chat-based recommender systems;
+- Social recommender systems;
+- Group recommender systems;
+- Semantic technologies to exploit social media comments in recommender systems;
+- Integrating information collected in social media in other types of recommender systems;
+- Integrating information collected outside social media (e.g., ratings) in social recommender systems;
+- Modeling user's social behavior for recommendation;
+- Hybrid systems that combine a social component with classic recommendation strategies.
+
+
+IMPORTANT DATES
+- Paper submission: August 1, 2018
+- Notification of acceptance: August 13, 2018
+- Camera-ready version: August 27, 2018
+- Workshop date: October 22, 2018
+
+TYPES OF CONTRIBUTIONS
+We will consider three different submission types, all in the ACM template format: regular (8 pages), short (4 pages), and extended abstracts (2 pages).
+
+- Research and position papers (regular or short) should be clearly placed with respect to the state of the art and state the contribution of the proposal in the domain of application, even if presenting preliminary results.
+- Insights and results papers (short) should provide a presentation of ideas and insights, along with the results that validate these ideas, to have quick and inspiring exchanges among the workshop attendants. The â€œinsights and resultsâ€ papers will be presented in a novel and dedicated â€œDedicated Sessionâ€ (inspired by the location of the workshop), aimed at stimulating these exchanges.
+- Practice and experience reports (short) should present in detail the real-world scenarios in which social information is employed to perform recommendations.
+- Demo proposals (extended abstract) should present the details of a prototype or complete system, to be demonstrated to the workshop attendees. 
+
+The reviewing process will be coordinated by the organizers. Each paper will receive three reviews: two externals to the organizing committee and one internal. The external reviewers will be contacted according to their expertise in the paper topic.
+
+PROCEEDINGS
+All accepted papers will be made available on the workshop website together with the material generated during the meeting. 
+The SoAPS 2018 Workshop proceedings will also be available in a CEUR workshop series volume, and indexed on DBLP and Scopus.
+Authors of selected papers will be invited to submit an extended version in a journal special issue.
+
+SUBMISSION GUIDELINES
+Papers should be submitted in PDF format, electronically, using the EasyChair submission system, available at https://easychair.org/conferences/?conf=sir2018
+
+INVITED SPEAKER
+TBA
+
+CONTACTS
+Website: http://sir.di.uniroma1.it/
+For general enquires regarding the workshop, send an email to sir@di.uniroma1.it 
+
+ORGANIZERS
+Ludovico Boratto (EURECAT, Spain)
+Giovanni Stilo (Sapienza University of Rome, Italy)
+Stefano Faralli (University of Rome Unitelma Sapienza, Italy)
+Christian Morbidoni (Politecnica delle Marche University, Italy)
